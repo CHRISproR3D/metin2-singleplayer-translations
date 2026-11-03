@@ -1,0 +1,56 @@
+name: Validate translations
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # template/, tools/ and the workflow are the project's; a translation
+      # pull request changes language folders only.
+      - name: Files a translation may change
+        if: github.event_name == 'pull_request'
+        env:
+          BASE: ${{ github.base_ref }}
+          ASSOCIATION: ${{ github.event.pull_request.author_association }}
+        run: |
+          if [ "$ASSOCIATION" = OWNER ] || [ "$ASSOCIATION" = MEMBER ] || [ "$ASSOCIATION" = COLLABORATOR ]; then
+            echo "Maintainer: every file may change."
+            exit 0
+          fi
+          bad=$(git diff --name-only "origin/$BASE...HEAD" | grep -E '^(template/|tools/|\.github/|LICENSE)' || true)
+          if [ -n "$bad" ]; then
+            for f in $bad; do echo "::error file=$f::This file is maintained by the project; change only a language folder (e.g. de/, hu/)."; done
+            exit 1
+          fi
+
+      - name: Check translations
+        env:
+          EVENT: ${{ github.event_name }}
+          BASE: ${{ github.base_ref }}
+          BEFORE: ${{ github.event.before }}
+        run: |
+          if [ "$EVENT" = pull_request ]; then
+            python tools/validate.py --base "origin/$BASE"
+          elif [ "$EVENT" = push ] && [ -n "$BEFORE" ] && git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            python tools/validate.py --base "$BEFORE"
+          else
+            # A full report of every problem in the files, the old ones too;
+            # it lists them for the maintainers and blocks nothing.
+            python tools/validate.py || echo "::warning::The files hold the problems listed above (a report, not a failure)."
+          fi

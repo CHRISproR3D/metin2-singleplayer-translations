@@ -1,0 +1,701 @@
+id,english,polski,translation,notes,status
+c:locale_game:SKILL_DISPEL_DESC,Removes all of an opponent's support skills.,Usuwa wszystkie umiejętności wspomagające przeciwnika.,Remove todas as habilidades de apoio de um adversário.,client: game texts (localeInfo),done
+c:locale_game:SKILL_DRAGON_HELP_DESC,Raises the chance of a critical hit. Can be given to another player. Bonus when used on yourself.,Zwiększa szanse na krytyczne uderzenie. Możliwość zbuffowania innego gracza. Bonus użycia na samym sobie.,Aumenta a probabilidade de golpe crítico. Pode ser dada a outro jogador. Bónus se usada em ti mesmo.,client: game texts (localeInfo),done
+c:locale_game:SKILL_DRAGON_ROAR_DESC,Area attack. Using it activates Dragon's Wrath.,Atak obszarowy. Użycie aktywuje Smoczy Gniew.,Ataque de área. Ao usá-lo ativa a Ira do Dragão.,client: game texts (localeInfo),done
+c:locale_game:SKILL_DRAGON_SWIRL_DESC,Attacks every opponent around you.,Atakuje wszystkich przeciwników wokół siebie.,Ataca todos os adversários à tua volta.,client: game texts (localeInfo),done
+c:locale_game:SKILL_ENCHANTED_ARMOR_DESC,Raises defence and has a chance to reflect a physical blow.,Zwiększa obronę oraz posiada szansę na odbicie ciosu fizycznego.,Aumenta a defesa e pode refletir um golpe físico.,client: game texts (localeInfo),done
+c:locale_game:SKILL_ENCHANTED_BLADE_DESC,Raises physical damage dealt and steals HP from the opponent. ,Zwiększa zadawane obrażenia fizyczne oraz kradnie PŻ od przeciwnika. ,Aumenta o dano físico causado e rouba PV ao adversário. ,client: game texts (localeInfo),done
+c:locale_game:SKILL_FAST_ATTACK_DESC,A fast area attack that teleports you. ,Szybki atak obszarowy i teleportujący. ,Ataque de área rápido que te teletransporta. ,client: game texts (localeInfo),done
+c:locale_game:SKILL_FEATHER_WALK_DESC,Raises movement speed. Raises stamina regeneration in combat. Weaker monsters do not hear your steps.,Zwiększa szybkość poruszania się. Zwiększa regenerację staminy w walce. Słabsze potwory nie słyszą twoich kroków.,Aumenta a velocidade de movimento e a regeneração de resistência em combate. Os monstros mais fracos não ouvem os teus passos.,client: game texts (localeInfo),done
+c:locale_game:SKILL_FINGER_STRIKE_DESC,An attack that bypasses the opponent's defence.,Atak umożliwiający ominięcie obrony przeciwnika.,Ataque que ignora a defesa do adversário.,client: game texts (localeInfo),done
+c:locale_game:SKILL_FIRE_ARROW_DESC,Area attack with a chance to set on fire.,"Atak obszarowy, szansa na podpalenie.",Ataque de área com hipótese de incendiar.,client: game texts (localeInfo),done
+c:locale_game:SKILL_FLAME_SPIRIT_DESC,Fireballs attack the marked target; the damage can splash onto monsters beside it.,"Atak ognistych kul na zaznaczony cel, obrażenia mogą rozprysnąć na potwory stojące obok.",Bolas de fogo atacam o alvo marcado; o dano pode atingir os monstros ao lado.,client: game texts (localeInfo),done
+c:locale_game:SKILL_FLAME_STRIKE_DESC,Area attack on every opponent around the character. ,Atak obszarowy we wszystkich przeciwników wokół postaci. ,Ataque de área a todos os adversários à volta da personagem. ,client: game texts (localeInfo),done
+c:locale_game:SKILL_FLYING_TALISMAN_DESC,"A long-range attack that can splash onto opponents beside it, with a chance to slow.","Atak długodystansowy, może rozprysnąć się na przeciwników obok, szansa na spowolnienie.","Ataque de longo alcance que pode atingir os adversários ao lado, com hipótese de abrandar.",client: game texts (localeInfo),done
+c:locale_game:SKILL_LIGHTNING_CLAW_DESC,Sets off a chain reaction. Attacks several targets.,Wywołuje reakcję łańcuchową. Atakuje wiele celów.,Desencadeia uma reação em cadeia. Ataca vários alvos.,client: game texts (localeInfo),done
+c:locale_game:SKILL_LIGHTNING_THROW_DESC,A long-range attack that hits one opponent or several standing together.,"Atak z dystansu o dużym zasięgu, atakuje jednego przeciwnika, lub kilku stojących obok siebie.",Ataque de longo alcance que atinge um adversário ou vários juntos.,client: game texts (localeInfo),done
+c:locale_game:SKILL_MANASHIELD_DESC,Redirects damage from HP to SP.,Przekierowuje obrażenia z PŻ na PE.,Desvia o dano dos PV para os PM.,client: game texts (localeInfo),done
+c:locale_game:SKILL_POISON_ARROW_DESC,Has a chance to poison the opponent and stuns it.,Posiada szansę na otrucie przeciwnika oraz zawiera w sobie omdlenie.,Pode envenenar o adversário e atordoa-o.,client: game texts (localeInfo),done
+c:locale_game:SKILL_POISON_CLOUD_DESC,Has a chance to poison the opponent.,Posiada szanse na otrucie przeciwnika.,Pode envenenar o adversário.,client: game texts (localeInfo),done
+c:locale_game:SKILL_REFLECT_DESC,Reflects physical attacks. Can be given to another player. Bonus when used on yourself.,Odbija ataki fizyczne. Możliwość zbuffowania innego gracza. Bonus użycia na samym sobie.,Reflete ataques físicos. Pode ser dada a outro jogador. Bónus se usada em ti mesmo.,client: game texts (localeInfo),done
+c:locale_game:SKILL_REPETITIVE_SHOT_DESC,Shoots several arrows in a row. Chance of a piercing shot.,Wystrzał kilku strzał pod rząd. Szansa na przeszywający strzał.,Dispara várias flechas seguidas. Hipótese de tiro perfurante.,client: game texts (localeInfo),done
+c:locale_game:SKILL_ROLLING_DAGGER_DESC,A spinning attack with three chances to hit and a chance to poison the opponent. ,Atak obrotowy posiadający trzy szanse na trafienie oraz szansę na otrucie przeciwnika. ,Ataque giratório com três hipóteses de acertar e hipótese de envenenar o adversário. ,client: game texts (localeInfo),done
+c:locale_game:SKILL_SHAMAN_FIRE_RAGE,Dragon's Wrath,Smoczy Gniew,Ira do Dragão,client: game texts (localeInfo),done
+c:locale_game:SKILL_SHAMAN_FIRE_RAGE_DESC,Activates with Dragon's Roar. Raises physical attack power.,Aktywuje się razem z użyciem um. Smoczy Skowyt. Zwiększa siłę ataku fizycznego.,Ativa-se com Rugido do Dragão. Aumenta o poder de ataque físico.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SHAMAN_HEAVEN_PROTECTION,Heavenly Shield,Niebiańska Tarcza,Escudo celestial,client: game texts (localeInfo),done
+c:locale_game:SKILL_SHAMAN_HEAVEN_PROTECTION_DESC,Activates with Cure. Absorbs damage dealt by monsters.,Aktywuje się razem z użyciem um. Leczenie. Absorbuje obrażenia zadane od potworów.,Ativa-se com Cura. Absorve o dano causado por monstros.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SHOOTING_DRAGON_DESC,A ranged area attack. Has a chance to set the target on fire. ,Atak dystansowo-obszarowy. Posiada szansę na podpalenie celu. ,Ataque de área à distância. Pode incendiar o alvo. ,client: game texts (localeInfo),done
+c:locale_game:SKILL_SPIRIT_ORB_DESC,A long-range attack on several targets. Has a chance to slow the opponent.,"Atak długodystansowy, atakuje wiele celów. Posiada szansę na spowolnienie przeciwika.",Ataque de longo alcance a vários alvos. Pode abrandar o adversário.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SPIRIT_STRIKE_DESC,A strong frontal area blow.,Silne frontowe uderzenie obszarowe.,Golpe de área frontal poderoso.,client: game texts (localeInfo),done
+c:locale_game:SKILL_STEALTH_DESC,Hides the character; attack from an Ambush.,"Powoduje ukrycie się postaci, atak z Zasadzki.",Esconde a personagem; ataca a partir de uma Emboscada.,client: game texts (localeInfo),done
+c:locale_game:SKILL_STRONG_BODY_DESC,Raises defence and lowers movement speed. From grade G the character does not fall and gains Piercing Strike resistance.,"Zwiększa obronę, zmniejsza szybkość poruszania się. Od poziomu G postać nie upada oraz zwiększa Odporność na Przeszywające Uderzenie.",Aumenta a defesa e reduz a velocidade de movimento. A partir do grau G a personagem não cai e ganha resistência a golpe perfurante.,client: game texts (localeInfo),done
+c:locale_game:SKILL_STUMP_DESC,"Attacks the opponents around you, with a chance to stun them.","Atakuje przeciwników wokół siebie, posiada szansę na omdlenie przeciwnika.","Ataca os adversários à tua volta, com hipótese de os atordoar.",client: game texts (localeInfo),done
+c:locale_game:SKILL_SUMMON_LIGHTNING_DESC,Area attack. Has a chance to stun the opponent.,Atak obszarowy. Posiada szansę na omdlenie przeciwinika.,Ataque de área. Pode atordoar o adversário.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SWIFTNESS_DESC,Raises movement speed and speeds up skill cooldowns. Can be given to another player. Bonus when used on yourself.,Zwiększa prędkość poruszania się oraz przyspiesza tempo odnowienia umiejętności. Możliwość zbuffowania innego gracza. Bonus użycia na samym sobie.,Aumenta a velocidade de movimento e acelera a recarga das habilidades. Pode ser dada a outro jogador. Bónus se usada em ti mesmo.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SWORD_AURA_DESC,Raises attack power.,Zwiększa siłę ataku.,Aumenta o poder de ataque.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SWORD_STRIKE_DESC,A long-range attack that stuns the opponent.,"Atak długodystansowy, omdlewa przeciwnika.",Ataque de longo alcance que atordoa o adversário.,client: game texts (localeInfo),done
+c:locale_game:SKILL_TERROR_DESC,Lowers the physical damage opponents deal.,Zmniejsza obrażenia fizyczne zadawane przez przeciwników.,Reduz o dano físico causado pelos adversários.,client: game texts (localeInfo),done
+c:locale_game:SKILL_THREEWAY_CUT_DESC,An attack of three blows in a row.,Atak trzema ciosami pod rząd.,Um ataque de três golpes seguidos.,client: game texts (localeInfo),done
+c:locale_game:SKILL_WHIRLWIND_DESC,Attacks every opponent around you.,Atakuje wszystkich przeciwników wokół siebie.,Ataca todos os adversários à tua volta.,client: game texts (localeInfo),done
+c:locale_game:SOCKET_EXTRACT_QUESTION,Do you want to take this stone out of the item?,Czy chcesz wyjąć ten Kamień z Przedmiotu?,Queres retirar esta pedra do item?,client: game texts (localeInfo),done
+c:locale_game:SPECIAL_SHOP_ACCOUNT_LIMIT,Purchase limit per account: %d,Limit zakupów na konto: %d,Limite de compra por conta: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:SPECIAL_SHOP_LIMIT_LEVEL,Level required to buy: %d,Wymagany poziom do zakupu: %d,Nível necessário para comprar: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:SPECIAL_SHOP_LIMIT_REPUTATION,Reputation required: %s,Wymagana reputacja: %s,Reputação necessária: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SPECIAL_SHOP_LIMIT_TIME,One purchase every %s,Zakup raz na %s,Uma compra a cada %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SPECIAL_SHOP_REQ_ITEMS,Items required:,Wymagane przedmioty:,Itens necessários:,client: game texts (localeInfo),done
+c:locale_game:SPECIAL_SHOP_UPDATE_POPUP,The shop's offer has changed.,Oferta sklepu zmieniła się.,A oferta da loja mudou.,client: game texts (localeInfo),done
+c:locale_game:STATUS_PLUS_LABEL,|cffbc893aavailable [|r%d|cffbc893a]|r,|cffbc893adostępne [|r%d|cffbc893a]|r,|cffbc893adisponível [|r%d|cffbc893a]|r,client: game texts (localeInfo) | keep: %d; |c...|r colour codes,done
+c:locale_game:SUBSCRIPTION_BENEFIT_CHANNEL,Access to the Premium channel[ENTER]Your spouse can be teleported to the Premium channel.,Dostęp do kanału Premium[ENTER]Możliwe jest teleportowanie małżonka na kanał Premium.,Acesso ao canal Premium[ENTER]O teu cônjuge pode ser teletransportado para o canal Premium.,client: game texts (localeInfo) | keep: [ENTER] = new line,done
+c:locale_game:SUBSCRIPTION_BENEFIT_DEPOSIT,45 more storeroom slots.,Dodatkowe 45 slotów w magazynie.,Mais 45 espaços no armazém.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_DROP,Double item drop chance,Podwojona szansa na drop przedmiotów,Probabilidade de queda de itens duplicada,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_EMOTION,Use of Emotions,Możliwość korzystania z Emocji,Uso de emoções,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_EXP,50% more experience,50% więcej doświadczenia,50% mais experiência,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_FISH,A better chance to catch a fish.,Dodatkowa szansa na pomyślne wyłowienie ryby.,Maior probabilidade de apanhar um peixe.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_GOLD,Double Yang drop chance.,Podwojona szansa na drop Yang.,Probabilidade de queda de Yang duplicada.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_ITEM_VIEW,Item previews in the chat.,Możliwość wysyłania podglądu przedmiotów na czacie.,Pré-visualização de itens no chat.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_LOVE,Double love point regeneration.,Podwojona regeneracja punktów miłości.,Regeneração de pontos de amor duplicada.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_ONLY_SUB,Premium only,Dostępne tylko dla Premium,Só Premium,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_PASSAGE,Free entry to Spider Dungeon V2.,Darmowy dostęp do Lochu Pająków V2.,Entrada grátis na Masmorra das Aranhas V2.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_PICKUP,Yang is picked up automatically.,Automatyczne podnoszenie Yang.,O Yang é apanhado automaticamente.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_SHOP,20 more shop slots[ENTER]Shops open for up to 48h[ENTER]Rename an open shop[ENTER]Skips the free shop limit per channel.,Dodatkowe 20 slotów w sklepie[ENTER]Możliwość wystawienia sklepu do 48h[ENTER]Edycja nazwy otwartego sklepu[ENTER]Omija darmowy limit sklepów na kanale.,Mais 20 espaços na loja[ENTER]Lojas abertas até 48 h[ENTER]Mudar o nome de uma loja aberta[ENTER]Ignora o limite de lojas grátis por canal.,client: game texts (localeInfo) | keep: [ENTER] = new line,done
+c:locale_game:SUBSCRIPTION_BUTTON,Buy!,Kup!,Comprar!,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_PRES_DESC1,"It is a way to support the project regularly and the best package for a player,[ENTER]with the best price for the value you get when you join the Premium players.","Jest to sposób na regularne wspieranie projektu, a także najlepszy pakiet dla gracza,[ENTER]z najlepszą ceną do wartości jakie otrzymasz, po dołączeniu do graczy premium.","É uma forma de apoiar o projeto regularmente e o melhor pacote para um jogador,[ENTER]com a melhor relação preço-valor ao juntares-te aos jogadores Premium.",client: game texts (localeInfo) | keep: [ENTER] = new line,done
+c:locale_game:SUBSCRIPTION_PRES_DESC2,The main bonuses are:,Najważniejsze bonusy to:,Os principais bónus são:,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_PRES_DESC3,You also get %d other benefits.[ENTER](Hover over an icon to see its description),"Dodatkowo otrzymasz %d innych benefitów.[ENTER](Najedź myszką na ikonę, aby zobaczyć opis)",Recebes também %d outras vantagens.[ENTER](Passa o rato por cima de um ícone para ver a descrição),client: game texts (localeInfo) | keep: %d; [ENTER] = new line,done
+c:locale_game:SUBSCRIPTION_PRES_DESC4,All of it for 50 PLN a month!,Wszystko to za 50 zł na miesiąc!,Tudo isto por 50 PLN por mês!,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_PRES_TITLE1,What is a Premium Account?,Czym jest Konto Premium?,O que é uma conta Premium?,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_PRES_TITLE2,What benefits do I get?,Jakie otrzymam benefity?,Que vantagens vou ter?,client: game texts (localeInfo),done
+c:locale_game:SUMMER_RING_LEFT,Extensions left: %d,Pozostałe możliwe przedłużenia: %d,Prolongamentos restantes: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ABSORB,Absorbs %d damage,Absorpcja %d obr.,Absorve %d de dano,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_AFFECT_NO_FRIENDLY_KILL_PENALTY,You do not lose rank if you kill a friendly player.,Nie stracisz rangi jeżeli zabijesz przyjaznego gracza.,Não perdes posto se matares um jogador amigo.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ANTIFLAG_GIVE,Cannot be given to other players.,Niezdatny do przekazania innym graczom.,Não pode ser dado a outros jogadores.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ANTIFLAG_MYSHOP,Cannot be sold in a shop.,Niezdatny do handlu w sklepie.,Não pode ser vendido numa loja.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ANTIFLAG_NO_TRADE,Cannot be traded with players.,Niezdatny do handlu z graczami.,Não pode ser trocado com jogadores.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_ACCEDRAIN_RATE,Absorption rate: %d%%,Stopień absorpcji: %d%%,Taxa de absorção: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_BLEEDING_PCT,Bleeding attack + %d%%,Atak krwawienia + %d%%,Ataque de hemorragia + %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_BLEEDING_REDUCE,Bleeding attack resistance + %d%%,Odporność na Atak Krwawienia + %d%%,Resistência a hemorragia + %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ARROW_DAMAGE_REDUCTION,Max. damage reduction: %d%% (monsters %d%%),Maks. redukcja obrażeń: %d%% (potwory %d%%),Redução de dano máx.: %d%% (monstros %d%%),client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_ARROW_MAX_RADIUS,Poor shot quality: from %.1fm,Słaba jakość strzału: od %.1fm,Má qualidade de tiro: a partir de %.1fm,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_ARROW_MIN_RADIUS,Best shooting distance: up to %.1fm,Optymalny dystans strzału: do %.1fm,Melhor distância de tiro: até %.1fm,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_BUYPRICE_CURRENCY,Price: %s %s,Cena: %s %s,Preço: %s %s,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:TOOLTIP_BUYPRICE_REPUTATION,Price: %s reputation,Cena: %s reputacji,Preço: %s de reputação,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_BUYPRICE_STACK,Price per piece: %s,Cena za 1 szt.: %s,Preço por unidade: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_DEF_GRADE_CHARACTER_WINDOW,Base defence: %d (+%d%% boost),Bazowa obrona: %d (+%d%% wzmocnienie),Defesa base: %d (+%d%% de reforço),client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_FAST_STAT_ADD,|Eshortcut/ctrl|e + |Eshortcut/mleft|e - quick stat allocation,|Eshortcut/ctrl|e + |Eshortcut/mleft|e - szybkie rozdanie statystyk,|Eshortcut/ctrl|e + |Eshortcut/mleft|e - distribuição rápida de estados,client: game texts (localeInfo) | keep: |c...|r colour codes,done
+c:locale_game:TOOLTIP_HERB_KNIFE_UPGRADE1,Give it to Yu-Hwan,Daj to Yu-Hwan'owi,Entrega ao Yu-Hwan,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_HERB_KNIFE_UPGRADE2,to get an,aby dostać,para obteres uma,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_HERB_KNIFE_UPGRADE3,improved Knife.,ulepszony Nóż.,faca melhorada.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_QUALITY,Quality +%d%%,Jakość +%d%%,Qualidade +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_BONUS_SP,Bonus SP: %d ,Bonusowe PE: %d ,PM de bónus: %d ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_DAMAGE_BONUS,Magic damage against monsters +%d%% ,Magiczne Obrażenia w potwory +%d%% ,Dano mágico contra monstros +%d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_DAMAGE_BONUS_PC,Magic damage bonus +%d%% ,Bonus Magicznych obrażeń +%d%% ,Bónus de dano mágico +%d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_OPEN_SHOP_REQ_LEVEL,Level 15 required.,Wymagany 15 poziom.,É necessário o nível 15.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_OPEN_SHOP_REQ_MONSTER,800 monsters killed required.,Wymagane 800 zabitych potworów.,São necessários 800 monstros mortos.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PARTY_NEXT_SKILL_LEVEL,Next level,Następny poziom,Nível seguinte,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POINT_DEATH_PENALTY,Charges: %d,Ilość Ładunków: %d,Cargas: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_POTION_ATTBONUS_HUMAN,Slayer's Potion,Mikstura Pogromcy,Poção do Matador,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_ATT_GRADE,Potion of Attack,Mikstura Ataku,Poção de ataque,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_CAST_SPEED,Potion of Casting Speed,Mikstura Szybkości Zaklęcia,Poção de velocidade de conjuração,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_CRIT,Potion of Critical Hit,Mikstura Krytycznego Ciosu,Poção de golpe crítico,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_DEF_GRADE,Potion of Defence,Mikstura Obrony,Poção de defesa,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_DX,Potion of Dexterity,Mikstura Zręczności,Poção de destreza,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_HP_REGEN,Potion of Life Regeneration,Mikstura Regeneracji Życia,Poção de regeneração de vida,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_HT,Potion of Vitality,Mikstura Witalności,Poção de vitalidade,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_IQ,Potion of Intelligence,Mikstura Inteligencji,Poção de inteligência,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_MAGIC_ATT_MOB,Potion of Magic Power,Mikstura Siły Magii,Poção de poder mágico,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_MAX_HP,Potion of Life,Mikstura Życia,Poção da vida,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_NORMAL_HIT_DEFEND,Potion of Invulnerability,Mikstura Nietykalności,Poção de invulnerabilidade,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_PENET,Potion of Piercing Strike,Mikstura Przeszywającego Ciosu,Poção de golpe perfurante,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_RESIST_HUMAN,Potion of the Dragon's Scale,Mikstura Łuski Smoka,Poção da Escama de Dragão,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_RESIST_MAGIC,Potion of Magic Defence,Mikstura Magicznej Obrony,Poção de defesa mágica,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_RESIST_NORMAL_DAMAGE,Potion of Physical Resistance,Mikstura Odporności Fizycznej,Poção de resistência física,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_SKILL_DAMAGE_BONUS,Potion of Might,Mikstura Potęgi,Poção de poderio,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_SKILL_DEFEND,Potion of Insensitivity,Mikstura Niewrażliwości,Poção de insensibilidade,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_SKILL_DURATION,Potion of Endurance,Mikstura Trwałości,Poção de resistência,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_SP_REGEN,Potion of Energy Regeneration,Mikstura Regeneracji Energii,Poção de regeneração de energia,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_ST,Potion of Strength,Mikstura Siły,Poção de força,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_ST_REGEN,Potion of Stamina Regeneration,Mikstura Regeneracji Staminy,Poção de regeneração de vigor,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_REAL_CAST_SPEED,Skill cast time shortened by %d%% ,Skrócenie ładowania um. o %d%% ,Tempo de conjuração reduzido em %d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_REFINE_BONUS_ITEM_TYPE,Item type: %s,Typ przedmiotu: %s,Tipo de item: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:UI_DEFAULT_FONT_NAME,Tahoma,Tahoma,Tahoma,client: game texts (localeInfo),check
+c:locale_game:UI_FONT_SIZE_DEFAULT,12,12,12,client: game texts (localeInfo),done
+c:locale_game:USE_VOUCHER_ALREADY_USED,The code has already been used.,Kod został już wykorzystany.,O código já foi usado.,client: game texts (localeInfo),done
+c:locale_game:USE_VOUCHER_NO_CODE,Invalid code.,Niepoprawny kod.,Código inválido.,client: game texts (localeInfo),done
+c:locale_game:USE_VOUCHER_SUCCESS,The voucher was redeemed!,Pomyślnie wykorzystano kupon!,O vale foi resgatado!,client: game texts (localeInfo),done
+c:locale_game:USE_VOUCHER_TRY_AGAIN_LATER,Try again later.,Spróbuj później.,Tenta mais tarde.,client: game texts (localeInfo),done
+c:locale_game:WHAT_ACTION_WITH_ITEM1,What do you want to do with %s?,Co chcesz zrobić z %s?,O que queres fazer com %s?,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:WHAT_ACTION_WITH_ITEM2,What do you want to do with %dx %s?,Co chcesz zrobić z %dx %s?,O que queres fazer com %dx %s?,client: game texts (localeInfo) | keep: %d %s,done
+c:locale_game:WHISPER_ANOTHER_EMPIRE_WARNING,This player is from another kingdom - without knowing their language you will not understand each other.,"Gracz jest z innego królestwa, bez znajomości drugiego języka nie porozumiecie się.","Este jogador é de outro reino: sem conhecer a língua dele, não se vão entender.",client: game texts (localeInfo),done
+c:locale_game:WHISPER_UNBAN,Unblock,Odblokuj,Desbloquear,client: game texts (localeInfo),done
+c:locale_game:SECONDS_LESS_THAN_MINUTE,Less than 1 min.,,Menos de 1 min.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CLASS,Class:,,Classe:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STR,STR:,,FOR:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_VIT,VIT:,,VIT:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_DEX,DEX:,,DES:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_INT,INT:,,INT:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_STAT_POINTS,Status points:,,Pontos de estado:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SKILL_POINTS,Skill points:,,Pontos de habilidade:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SUPPORT_SKILL_POINTS,Support skill points:,,Pontos de habilidade de apoio:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MAP_INDEX,Map (index):,,Mapa (índice):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_LAST_ONLINE,Last online:,,Última vez online:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_HORSE_LEVEL,Horse level:,,Nível do cavalo:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_HORSE_POINTS,Horse points:,,Pontos do cavalo:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ACCOUNT,Account:,,Conta:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PLAYTIME,Play time (min):,,Tempo de jogo (min):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RANK_POINTS,Rank points:,,Pontos de posto:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_WARRIOR_M,Warrior (M),,Guerreiro (M),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_WARRIOR_F,Warrior (F),,Guerreira (F),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_NINJA_F,Ninja (F),,Ninja (F),client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_JOB_SURA_F,Sura (F),,Sura (F),client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_JOB_SHAMAN_M,Shaman (M),,Xamã (M),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_SHAMAN_F,Shaman (F),,Xamã (F),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_MAIN,Main Panel,,Painel principal,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ADD_GM,Add GM,,Adicionar GM,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_LOOKUP,Check Player,,Verificar jogador,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_CREATE_ITEM,Create Item,,Criar item,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_BAN,Account Ban,,Banimento de conta,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_SPAWN_BOTS,Spawn Bots,,Fazer aparecer bots,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_SPAWN_MOBS,Spawn Mobs,,Fazer aparecer monstros,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_SERVER,Server Control,,Controlo do servidor,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RATE_EXP,Experience:,,Experiência:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RATE_DROP,Item drop:,,Drop de itens:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RATE_YANG,Yang drop:,,Drop de Yang:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_CHAT,Bots talk over their heads,,Os bots falam por cima da cabeça,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_CHAT_HELP,"The line over a bot's head (hunting, off to the blacksmith, fishing). Switch it off for players who mind it. The shout on the world chat about a +7/+8/+9 upgrade stays either way.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_BOOKS,Skill books without the day's wait,,Livros de habilidade sem a espera do dia,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_BOOKS_HELP,"The game makes a character wait about a day between two reads of the same skill, so a bot needs a month to read a skill from M1 to G1, and the books pile up in its bag meanwhile. On: a bot reads a book the moment it has one - the game itself is the only brake. Off: the game's daily wait, unchanged.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_NIGHT,Night/snow after 22:00,,Noite/neve depois das 22:00,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_SCRAP,Scrap keepers,,Guardam sucata,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_SCRAP_HELP,"The share of stall keepers that put their weak upgrades (+0 to +3) on the counter for pennies instead of selling them to an NPC - scrap for burning at the blacksmith, as on hard servers. Off by default.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_REST,Resting in town,,Descanso na cidade,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_REST_HELP,"The share of bots that stay by the stalls for a while after an errand in town instead of going straight back to hunting. At 100 percent the town is lively, at 0 everyone is out in the field.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_CHEST,Moonlight Chest - from a killed monster,,Baú do Luar - de um monstro morto,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_CHEST_HELP,"How often a chest drops: from a killed monster and from a broken Metin. The game default is 1 and 30 percent; more chests mean more bonus scrolls, speed potions and Blessing Scrolls for the bots. Applies within five seconds, to bots and players alike.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_CHEST_STONE,Moonlight Chest - from a broken Metin,,Baú do Luar - de um Metin destruído,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_CHEST_STONE_HELP,"The second half of the setting above - its own chance, rolled when a Metin stone breaks instead of when a common monster dies.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_RESTOCK,Buying potions,,Compra de poções,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_RESTOCK_HELP,Back to town as soon as the red potions run out.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_REFINE,The blacksmith,,O ferreiro,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_REFINE_HELP,Upgrading weapons and armour instead of hunting.,,Melhorar armas e armaduras em vez de caçar.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_SKILL,Skill books,,Livros de habilidade,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_SKILL_HELP,Reading books to push a skill from M towards G.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_HORSE,The horse,,O cavalo,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_HORSE_HELP,The stable and hunting medals in the Monkey Dungeon.,,O estábulo e a caça de medalhas na Masmorra dos Macacos.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_BIOLOG,The Biologist,,O Biólogo,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_BIOLOG_HELP,Collecting for the Biologist instead of levelling.,,Recolher para o Biólogo em vez de subir de nível.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_METIN,Metin stones,,Pedras Metin,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_METIN_HELP,Hunting Metins instead of common monsters.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_PARTY,Parties,,Grupos,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_PARTY_HELP,"Fighting together, not every bot on its own.",,"Lutar juntos, não cada bot sozinho.",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_HUNTING,Hunting missions,,Missões de caça,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_HUNTING_HELP,Hunting for the level-up on the map the mission names.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_LEVEL,Plain grinding,,Farm simples,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_LEVEL_HELP,What a bot does when nothing else asks for it. Raise it and the errands lose.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_FISHING,Fishing,,Pesca,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_FISHING_HELP,"How many bots fish at all. Decided once per bot, so a change reaches the next generation of anglers.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_TRADE,Market stalls,,Bancas do mercado,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_TRADE_HELP,"How many bots keep a stall open. Merchants always do, whatever this slider says.",,,client: game texts (localeInfo),new
+c:locale_game:GM_COMMAND_ITEM,/item - adds an item,,/item - adiciona um item,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_ITEM_2,/item - adds several pieces of an item,,/item - adiciona várias unidades de um item,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_M,/m - summons a monster or an NPC,,/m - invoca um monstro ou um NPC,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_P,/p - turns you into a monster or an NPC,,/p - transforma-te num monstro ou NPC,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_ALIGN_200000,/set align 200000 - Chivalric rank,,/set align 200000 - posto Cavaleiresco,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_WEAK,"/weak - right-click a monster first, then type the command and the monster has 1 HP",,"/weak - clica primeiro com o botão direito num monstro, depois escreve o comando e o monstro fica com 1 PV",client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SKI_121,/ski 121 - Leadership,,/ski 121 - Liderança,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SKI_131,/ski 131 - Call Horse,,/ski 131 - Chamar cavalo,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SKI_124,/ski 124 - Mining,,/ski 124 - Mineração,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SKI_125,/ski 125 - Item Creation,,/ski 125 - Criação de itens,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_INV,/inv - invisibility,,/inv - invisibilidade,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_DC,/dc - kicks someone from the server,,/dc - expulsa alguém do servidor,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_WARP,/warp - moves the GM to a player,,/warp - leva o GM até um jogador,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_TRANSFER,/transfer - moves a player to the GM,,/transfer - leva um jogador até ao GM,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_X_Y,/go x y - moves to the coordinates x y,,/go x y - vai para as coordenadas x y,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_S,/go s - teleport to Mount Sohan,,/go s - teletransporte para o Monte Sohan,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_T,/go t - teleport to Orc Valley,,/go t - teletransporte para o Vale dos Orcs,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_M,/go m - teleport to Hwang Temple,,/go m - teletransporte para o Templo de Hwang,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_F,/go f - teleport to Doyyumhwan,,/go f - teletransporte para Doyyumhwan,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_TR,/go tr - teleport to Ghost Wood,,/go tr - teletransporte para o Bosque dos Fantasmas,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_TRENT2,/go trent2 - teleport to Red Forest,,/go trent2 - teletransporte para a Floresta Vermelha,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_MAX_HP,/set max_hp - raises HP,,/set max_hp - aumenta os PV,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_MAX_SP,/set max_sp - raises SP,,/set max_sp - aumenta os PM,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_N,/n - a message at the top of the screen,,/n - uma mensagem no topo do ecrã,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_BLOCK_CHAT,/block_chat - blocks the chat for a while,,/block_chat - bloqueia o chat durante algum tempo,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_BLOCK_CHAT_LIST,/block_chat_list - players blocked from chatting,,/block_chat_list - jogadores bloqueados no chat,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_KILL,/kill - kills a player,,/kill - mata um jogador,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_STUN,/stun - stuns a player,,/stun - atordoa um jogador,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SLOW,/slow - slows a player,,/slow - abranda um jogador,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_HORSE_LEVEL,/horse_level - raises the horse level,,/horse_level - aumenta o nível do cavalo,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_RESET,/reset - restores HP and SP,,/reset - restaura PV e PM,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_D,/go d - teleport to the desert,,/go d - teletransporte para o deserto,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PURGE,"/purge - removes monsters, NPCs etc. around you",,"/purge - remove monstros, NPC, etc. à tua volta",client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_LEVEL,/level - changes the character's level,,/level - muda o nível da personagem,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_O,/go o - teleport to the OX arena,,/go o - teletransporte para a arena OX,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_WARP_400_600,/warp 400 600 - teleport to the GM arena,,/warp 400 600 - teletransporte para a arena GM,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_WARP_200_100,/warp 200 100 - snow island (the GMs' home),,/warp 200 100 - ilha da neve (a casa dos GM),client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_WARP_7032_5225,/warp 7032 5225 - teleport to V2,,/warp 7032 5225 - teletransporte para o V2,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_RESP_ALL,/resp all - when /purge has removed an NPC,,/resp all - quando o /purge removeu um NPC,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_REPEAT,/ - repeats the last command,,/ - repete o último comando,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GWLIST,/gwlist - shows the guild wars,,/gwlist - mostra as guerras de guildas,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GWCANCEL,/gwcancel - ends the war between the given guilds,,/gwcancel - termina a guerra entre as guildas indicadas,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_HORSE_RIDE,/horse_ride - calls the horse,,/horse_ride - chama o cavalo,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_121_59,/setsk 121 59 - Leadership P,,/setsk 121 59 - Liderança P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_124_59,/setsk 124 59 - Mining P,,/setsk 124 59 - Mineração P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_125_59,/setsk 125 59 - Item Creation P,,/setsk 125 59 - Criação de itens P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_126_59,/setsk 126 59 - Shinsoo Language P,,/setsk 126 59 - Língua de Shinsoo P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_127_59,/setsk 127 59 - Chunjo Language P,,/setsk 127 59 - Língua de Chunjo P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_128_59,/setsk 128 59 - Jinno Language P,,/setsk 128 59 - Língua de Jinno P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_129_59,/setsk 129 59 - Polymorph P,,/setsk 129 59 - Metamorfose P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_130_30,/setsk 130 30 - horse level 30,,/setsk 130 30 - nível do cavalo 30,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_131_10,/setsk 131 10 - Call Horse 100%,,/setsk 131 10 - Chamar cavalo 100%,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_B,/b - an announcement in a frame,,/b - um anúncio numa moldura,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_X,/x - day,,/x - dia,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_H,/h - horse information,,/h - informações do cavalo,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_O,/o - observer mode,,/o - modo espetador,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_F,/f - ...unknown...,,/f - ...desconhecido...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_U,/u - number of players online,,/u - número de jogadores online,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_W,/w - number of players online,,/w - número de jogadores online,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_137_59,/setsk 137 59 - Horseback Slash P,,/setsk 137 59 - Golpe a cavalo P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_138_59,/setsk 138 59 - Horse Stump P,,/setsk 138 59 - Pisão a cavalo P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_139_59,/setsk 139 59 - Power Wave P,,/setsk 139 59 - Onda de poder P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_140_59,/setsk 140 59 - 4th military horse skill,,/setsk 140 59 - 4.ª habilidade do cavalo militar,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_POLY_0_3,/poly 0-3 - your character,,/poly 0-3 - a tua personagem,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_POLY_4,/poly 4 - Warrior,,/poly 4 - Guerreiro,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_POLY_6,/poly 6 - Sura (female),,/poly 6 - Sura (mulher),client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_POLY_7,/poly 7 - Shaman,,/poly 7 - Xamã,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PRIV_EMPIRE_0_1_ITEM_DROP,/priv_empire 0 1:item_drop - raises the item drop by a percentage for a while,,/priv_empire 0 1:item_drop - aumenta o drop de itens numa percentagem durante algum tempo,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PRIV_EMPIRE_0_2_GOLD_DROP,/priv_empire 0 2:gold_drop - raises the Yang drop by a percentage for a while,,/priv_empire 0 2:gold_drop - aumenta o drop de Yang numa percentagem durante algum tempo,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PRIV_EMPIRE_0_3_GOLD10_DROP,"/priv_empire 0 3:gold10_drop - raises the Yang drop by a percentage for a while, times 10",,"/priv_empire 0 3:gold10_drop - aumenta o drop de Yang numa percentagem durante algum tempo, vezes 10",client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PRIV_EMPIRE_0_4EXP,/priv_empire 0:4exp - raises exp by a percentage for a while,,/priv_empire 0:4exp - aumenta a EXP numa percentagem durante algum tempo,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_SURA_BM,-- Sura BM - P skills --,,-- Sura MN - habilidades P --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_SURA_WP,-- Sura WP - P skills --,,-- Sura Armas - habilidades P --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_WOJOWNIK_BODY,-- Warrior Body - P skills --,,-- Guerreiro Corpo - habilidades P --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_WOJOWNIK_MENTAL,-- Warrior Mental - P skills --,,-- Guerreiro Mental - habilidades P --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_SZAMAN_SMOK,-- Shaman Dragon - P skills --,,-- Xamã Dragão - habilidades P --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_SZAMAN_HEALER,-- Shaman Healer - P skills --,,-- Xamã Cura - habilidades P --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_NINJA_DAGGER,-- Ninja Dagger - P skills --,,-- Ninja Punhal - habilidades P --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_NINJA_ARCHER,-- Ninja Archer - P skills --,,-- Ninja Arqueiro - habilidades P --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_EXP,/set exp - gives the given amount of exp,,/set exp - dá a quantidade de EXP indicada,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_GOLD,/set gold - gives the given amount of Yang,,/set gold - dá a quantidade de Yang indicada,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PKMODE_0,/pkmode 0 - PvP mode Peaceful,,/pkmode 0 - modo JxJ Pacífico,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PKMODE_1,/pkmode 1 - PvP mode Aggressive,,/pkmode 1 - modo JxJ Agressivo,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PKMODE_2,/pkmode 2 - PvP mode Free,,/pkmode 2 - modo JxJ Livre,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_SKILL,/set skill - adds the given number of skill points,,/set skill - adiciona o número de pontos de habilidade indicado,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSKILLOTHER_59,/setskillother 59 - gives someone the given skill at P,,/setskillother 59 - dá a alguém a habilidade indicada em P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_R,/r - restores all SP and HP,,/r - restaura todos os PM e PV,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_A,/a - gives someone the given level,,/a - dá a alguém o nível indicado,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_OPEN,/open - starts the OX event,,/open - inicia o evento OX,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_MSPD_0,/mspd 0 - 1000 - walking speed,,/mspd 0 - 1000 - velocidade de marcha,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_MAXHP,/set_maxhp - refills HP,,/set_maxhp - enche os PV,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_MAXSP,/set_maxsp - refills SP,,/set_maxsp - enche os PM,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_A_LEVEL,/a level - changes a player's level,,/a level - muda o nível de um jogador,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_POLYITEM,/polyitem - adds a polymorph marble of the given monster,,/polyitem - adiciona um berlinde de metamorfose do monstro indicado,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_151_7,/setsk 151 7 - Blood of Dragon God,,/setsk 151 7 - Sangue do Deus Dragão,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_152_7,/setsk 152 7 - Benediction of Dragon God,,/setsk 152 7 - Bênção do Deus Dragão,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_153_7,/setsk 153 7 - Holy Armour,,/setsk 153 7 - Armadura sagrada,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_154_7,/setsk 154 7 - Acceleration,,/setsk 154 7 - Aceleração,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_155_7,/setsk 155 7 - Rage of Dragon God,,/setsk 155 7 - Fúria do Deus Dragão,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_156_7,/setsk 156 7 - Dragon's Wish,,/setsk 156 7 - Desejo do Dragão,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_157_7,/setsk 157 7 - ...unknown...,,/setsk 157 7 - ...desconhecido...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_STATE_RUN,/set_state run - ...unknown...,,/set_state run - ...desconhecido...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_STATE_START,/set_state start - ...unknown...,,/set_state start - ...desconhecido...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_STATE_INFORMATION,/set_state information - ...unknown...,,/set_state information - ...desconhecido...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_E_LOTTO_ROUND,/e lotto_round - ...unknown...,,/e lotto_round - ...desconhecido...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_E_LOTTO_DROP,/e lotto-drop - ...unknown...,,/e lotto-drop - ...desconhecido...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GETE,/gete - ...unknown...,,/gete - ...desconhecido...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GETQ,/getq - ...unknown...,,/getq - ...desconhecido...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_RELOAD_Q,/reload q - ...unknown...,,/reload q - ...desconhecido...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_WEAPON,Weapon,,Arma,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_ARMOUR,Armour,,Armadura,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_EARRINGS,Earrings,,Brincos,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_BRACELETS,Bracelets,,Braceletes,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_NECKLACES,Necklaces,,Colares,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_SHOES,Shoes,,Sapatos,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_HELMET,Helmet,,Elmo,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_SHIELD,Shield,,Escudo,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_MATERIAL,Upgrade items,,Itens de melhoria,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_OTHER,Other items,,Outros itens,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PLACE_INVENTORY,Inventory,,Inventário,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PLACE_STOREROOM,Storeroom,,Armazém,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_DESERT,Yongbi Desert,,Deserto de Yongbi,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_ORC_VALLEY,Orc Valley,,Vale dos Orcs,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_SOHAN,Mount Sohan,,Monte Sohan,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_FIRE_LAND,Doyyumhwan,,Doyyumhwan,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_TELEPORT_SPIDER_V1,Spider Dungeon V1,,Masmorra das Aranhas V1,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_SPIDER_V2,Spider Dungeon V2,,Masmorra das Aranhas V2,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_MONKEY_EASY,Easy Monkey Dungeon,,Masmorra dos Macacos fácil,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_MONKEY_NORMAL,Normal Monkey Dungeon,,Masmorra dos Macacos normal,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_MONKEY_HARD,Hard Monkey Dungeon,,Masmorra dos Macacos difícil,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_HWANG,Hwang Temple,,Templo de Hwang,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_GHOST_WOOD,Ghost Wood,,Bosque dos Fantasmas,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_RED_FOREST,Red Forest,,Floresta Vermelha,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NONE,(none),,(nenhum),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_ANSWER_RETRY,"No answer from the server, try again.",,"Sem resposta do servidor, tenta novamente.",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_ANSWER_REOPEN,No answer from the server - open the tab again.,,Sem resposta do servidor - abre de novo o separador.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_EMPTY,(empty),,(vazio),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ADMIN_TITLE,GM Administration Panel,,Painel de administração GM,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MAIN_LINE1,Choose a tab above. Every action is,,Escolhe um separador acima. Cada ação é,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MAIN_LINE2,checked again on the server.,,verificada de novo no servidor.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MAIN_LINE3,"The panel is a BETA. If you notice bugs,",,"O painel está em BETA. Se notares erros,",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MAIN_LINE4,write to OskarPWA on Discord.,,escreve ao OskarPWA no Discord.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_COMING_SOON,Coming soon.,,Brevemente.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CHECK,Check,,Ver,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SKILLS,Skills:,,Habilidades:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GIVE_YANG,Give Yang,,Dar Yang,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GIVE_DC,Give Dragon Coins,,Dar Moedas do Dragão,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SET_HORSE_LEVEL,Change horse level,,Mudar nível do cavalo,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SET_RANK,Change rank,,Mudar posto,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ADD_STATS,Add stats,,Adicionar estados,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SET_SKILLS,Change skills,,Mudar habilidades,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CHOOSE,(choose),,(escolher),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BACK,Back,,Voltar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEXT,Next,,Seguinte,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OWNER,Owner:,,Dono:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY,Category:,,Categoria:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ITEM,Item:,,Item:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_COUNT,Amount:,,Quantidade:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_DESTINATION,Put into:,,Colocar em:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STONES,Spirit Stones (0 = empty):,,Pedras espirituais (0 = vazio):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BONUSES,Bonuses (type 0 = empty):,,Bónus (tipo 0 = vazio):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_VALUE,Value:,,Valor:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CREATE,Create,,Criar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_POLY_MARBLE,Poly Marble:,,Berlinde de metamorfose:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CHOOSE_CREATURE,(choose a creature),,(escolhe uma criatura),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEED_OWNER_ITEM,Enter the owner and choose an item.,,Introduz o dono e escolhe um item.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_CHAR_FIELD,A forbidden character in a field.,,Carácter proibido num campo.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CREATING,Creating...,,A criar...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ITEM_CREATED,Item created.,,Item criado.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PLAYER_OFFLINE,The player is not online.,,O jogador não está online.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_VNUM,Wrong item vnum.,,Vnum de item errado.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_ROOM_TARGET,No room at the destination.,,Sem espaço no destino.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAFEBOX_CLOSED,The player has not opened the Storeroom this session.,,O jogador não abriu o armazém nesta sessão.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MALL_CLOSED,The player has not opened the Item Shop Storage this session.,,O jogador não abriu o armazém do ItemShop nesta sessão.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_DATA,Data error.,,Erro de dados.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ERROR,Error: %s,,Erro: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_NEED_CREATURE,Choose a creature.,,Escolhe uma criatura.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MARBLE_ADDED,Marble added to the inventory.,,Berlinde adicionado ao inventário.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_UNKNOWN_CREATURE,Unknown creature.,,Criatura desconhecida.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_ROOM_INVENTORY,No room in the inventory.,,Sem espaço no inventário.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MARBLE_FAILED,Error: the marble could not be created.,,Erro: não foi possível criar o berlinde.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ACTION,Action:,,Ação:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_CHECK,Check status,,Verificar estado,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_TEMP,Temporary ban,,Banimento temporário,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_PERM,Permanent ban,,Banimento permanente,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_UNBAN,Unban,,Desbanir,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_DAYS,Days (temporary ban only):,,Dias (só banimento temporário):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_EXECUTE,Execute,,Executar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_KICK,Kick from server,,Expulsar do servidor,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_NOTE1,A ban takes effect at the NEXT login to the account - it does,,Um banimento entra em vigor no PRÓXIMO início de sessão da conta - não,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_NOTE2,not end a session already logged in. Kick from server works,,termina uma sessão já iniciada. A expulsão do servidor só funciona,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_NOTE3,only while the player is online RIGHT NOW.,,enquanto o jogador estiver online NESTE MOMENTO.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEED_NICK,Enter a nick.,,Introduz uma alcunha.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_KICKING,Kicking...,,A expulsar...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SENDING,Sending...,,A enviar...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_SAVED,Saved. Refreshing GM ranks...,,Guardado. A atualizar postos GM...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_PERMISSION,Only an IMPLEMENTOR can change other characters' GM ranks.,,Só um IMPLEMENTOR pode alterar os postos GM de outras personagens.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_SELF_NOTE,A GM can remove their own rank.,,Um GM pode retirar o próprio posto.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_EMPTY,GM removed. Check the next server start!,,GM retirado. Verifica no próximo arranque do servidor!,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_EMPTY_NOTE1,The GM list is empty: the next start may grant,,A lista de GM está vazia: o próximo arranque pode dar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_EMPTY_NOTE2,IMPLEMENTOR to the admin account's oldest character.,,IMPLEMENTOR à personagem mais antiga da conta admin.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_RESTART_UNKNOWN,GM removed. Rank recovery on restart was not checked.,,GM retirado. A recuperação do posto no reinício não foi verificada.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_NO_ANSWER,No reply. Check the rank in the web panel.,,Sem resposta. Verifica o posto no painel web.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_TESTSERVER,test_server mode grants GM to everyone.,,O modo test_server dá GM a todos.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ACCOUNT_STATUS,"Account status: %s, access: %s",,"Estado da conta: %s, acesso: %s",client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GM_PANEL_BAD_ANSWER,Bad answer from the server.,,Resposta errada do servidor.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_DONE,Done.,,Feito.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_SUCH_PLAYER,The player does not exist.,,O jogador não existe.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_CHAR_ACCOUNT,A forbidden character in the account name.,,Carácter proibido no nome da conta.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_DB_ERROR,Database query error.,,Erro na consulta à base de dados.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_KICK_SELF,You cannot kick yourself.,,Não te podes expulsar a ti mesmo.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_RANK,Rank:,,Posto:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RANK_IMPLEMENTOR,Implementor (Owner),,Implementor (dono),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_REMOVE_GM,Remove GM,,Retirar GM,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ADD_GM_NOTE1,Works at once (no server restart) - refreshes the GM list,,Funciona de imediato (sem reiniciar) - atualiza a lista de GM,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ADD_GM_NOTE2,on every character already logged in.,,em todas as personagens já ligadas.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_CHAR_NICK,A forbidden character in the nick.,,Carácter proibido na alcunha.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_RANK,Invalid rank.,,Posto inválido.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BOT_ID,Bot ID:,,ID do bot:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_EMPIRE,Kingdom:,,Reino:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_REFRESH_LIST,Refresh list,,Atualizar lista,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BOTS_TO_SPAWN,Bots to spawn,,Bots a fazer aparecer,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVED_PLACES,Saved places,,Locais guardados,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVE,Save,,Guardar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_LOAD,Load,,Carregar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_UNKNOWN_PLACE,Unknown,,Desconhecido,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVING_PLACE,Saving place %d...,,A guardar o local %d...,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GM_PANEL_LOADING_PLACE,Loading place %d...,,A carregar o local %d...,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GM_PANEL_TELEPORTING,Teleporting to: %s,,A teletransportar para: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_NEED_PID_COUNT,Enter a PID and an amount.,,Introduz um PID e uma quantidade.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SPAWN_DONE,Done %s/%s. Active in total: %s,,Feito %s/%s. Ativos no total: %s,client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:GM_PANEL_BAD_PID_COUNT,Data error - check the PID and the amount.,,Erro de dados - verifica o PID e a quantidade.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_EMPIRE,Invalid kingdom.,,Reino inválido.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SEARCHING,Searching...,,A procurar...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PLAYER_NOT_FOUND,Player not found.,,Jogador não encontrado.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SKILLS_OFFLINE,(character offline - no skill preview),,(personagem offline - sem pré-visualização das habilidades),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MOBS,Mobs:,,Monstros:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CHOOSE_FROM_LIST,(choose from the list),,(escolhe da lista),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_METINS_LABEL,Metins:,,Metins:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_GM_COMMANDS,GM commands,,Comandos GM,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PURGE,Remove mobs,,Remover monstros,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_WEAKEN,Mobs 1 hit,,Monstros com 1 golpe,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BOSSES,Bosses,,Chefes,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_METINS,Metins,,Metins,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_SPAWNING,Spawning...,,A gerar...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BOSSES_SPAWNED,Bosses spawned: %s/%s.,,Chefes gerados: %s/%s.,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GM_PANEL_METINS_SPAWNED,Metins spawned: %s/%s.,,Metins gerados: %s/%s.,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GM_PANEL_NEED_ID_COUNT,Enter an ID and an amount.,,Introduz um ID e uma quantidade.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SPAWNED,Spawned %s/%s.,,%s/%s gerados.,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GM_PANEL_BAD_ID_COUNT,Data error - check the ID and the amount.,,Erro de dados - verifica o ID e a quantidade.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_SUCH_MOB,No mob or Metin with that ID.,,Nenhum monstro ou Metin com esse ID.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RATES_NOTE,(The changes take effect after a server restart (nothing is deleted)),,(As alterações aplicam-se após reiniciar o servidor (nada é apagado)),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_FETCH_RATES,Fetch the current rates,,Obter as taxas atuais,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RESTART,Restart the server,,Reiniciar o servidor,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BOT_BEHAVIOUR,Bot behaviour,,Comportamento dos bots,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_WEIGHT_CAPTION,%d - rarely      100 - as in the game      %d - often,,%d - raramente      100 - como no jogo      %d - frequentemente,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:GM_PANEL_SCRAP_CAPTION,%d - off      %d - every stall keeper,,%d - desligado      %d - cada vendedor,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:GM_PANEL_NEED_NUMBER,Enter a number 1-10000.,,Introduz um número de 1 a 10000.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVING,Saving...,,A guardar...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVED_PCT,Saved (%s%%).,,Guardado (%s%%).,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_VALUE_REFUSED,The server refused the value (1-10000).,,O servidor recusou o valor (1-10000).,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_LOADING,Loading...,,A carregar...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_REQUESTING_RESTART,Requesting a restart...,,A pedir reinício...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RESTART_REQUESTED,Requested - the server restarts its cores itself within several seconds.,,Pedido - o servidor reinicia os núcleos sozinho em poucos segundos.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RESTART_FAILED,Error: the restart request could not be saved.,,Erro: não foi possível guardar o pedido de reinício.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_LOADED,Loaded.,,Carregado.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_COMMANDS_TITLE,GM commands:,,Comandos GM:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AMOUNT,Amount:,,Quantidade:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GIVE,Give,,Dar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CANCEL,Cancel,,Cancelar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AMOUNT_YANG,Yang amount:,,Quantia de Yang:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AMOUNT_DC,DC amount:,,Quantia de MD:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEED_AMOUNT,Enter an amount.,,Introduz uma quantia.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OK_OFFLINE,"OK (player offline, saved in the database).",,"OK (jogador offline, guardado na base de dados).",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OK_NEW_YANG,OK. New Yang balance: %s,,OK. Novo saldo de Yang: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_BAD_AMOUNT,Data error - check the amount.,,Erro de dados - verifica a quantia.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OK_DC_ADDED,OK. Dragon Coins added.,,OK. Moedas do Dragão adicionadas.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEW_VALUE,New value:,,Novo valor:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEW_HORSE_LEVEL,New horse level (0-30):,,Novo nível do cavalo (0-30):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEW_RANK_POINTS,New rank points:,,Novos pontos de posto:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEED_VALUE,Enter a value.,,Introduz um valor.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OK_HORSE_LEVEL,OK. Horse level: %s,,OK. Nível do cavalo: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_BAD_VALUE,Data error - check the value.,,Erro de dados - verifica o valor.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OK_RANK_POINTS,OK. Rank points: %s,,OK. Pontos de posto: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_STAT,Stat:,,Estado:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STAT_STR,Strength,,Força,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STAT_VIT,Vitality,,Vitalidade,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STAT_DEX,Dexterity,,Destreza,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STAT_INT,Intelligence,,Inteligência,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_UNKNOWN_STAT,Unknown stat.,,Estado desconhecido.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RETURN,Back,,Voltar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SKILL_ROW,%s (now %s/%s):,,%s (agora %s/%s):,client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:GM_PANEL_NEED_LEVEL,Enter a level.,,Introduz um nível.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_FORMAT,"Wrong format (e.g. 18, M5, G1, P).",,"Formato errado (ex.: 18, M5, G1, P).",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVED,Saved.,,Guardado.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MUST_BE_ONLINE,The player must be online.,,O jogador tem de estar online.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_UNKNOWN_SKILL,Unknown skill.,,Habilidade desconhecida.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_LOAD_FAILED,The GM panel did not load in this client - see syserr.txt,,O painel GM não carregou neste cliente - vê o syserr.txt,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_FIRST_30,First to level 30,,Primeiro ao nível 30,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_FIRST_60,First to level 60,,Primeiro ao nível 60,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_FIRST_90,First to level 90,,Primeiro ao nível 90,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_TITLE,Bot Management [GM],,Gestão de bots [GM],client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_TAB_GENERAL,General,,Geral,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_TAB_LIVE,Bot actions,,Ações dos bots,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_TAB_MANAGE,Management,,Gestão,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_TAB_ACHIEVEMENTS,Achievements,,Conquistas,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_ACTIVE_BOTS,Active bots,,Bots ativos,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_ACTIVE_BOTS_NONE,Active bots: -,,Bots ativos: -,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_IN_PARTY_NONE,In a party: -,,Em grupo: -,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_STALLS_NONE,Keeping a stall: -,,Com banca: -,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_REFRESH,Refresh,,Atualizar,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_CHOOSE_BOT,Choose a bot from the list on the left,,Escolhe um bot da lista à esquerda,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_REFRESH_LOG,Refresh log,,Atualizar registo,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_KICK,Kick the bot,,Expulsar o bot,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_RESPAWN,Respawn,,Reaparecimento,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_GIVE_ITEM,Give an item (vnum / amount):,,Dar item (vnum / quantidade):,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_SEND,Send,,Enviar,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_ACTIVE_BOTS_COUNT,Active bots: %s,,Bots ativos: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:BOT_ADMIN_IN_PARTY,In a party: %s,,Em grupo: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:BOT_ADMIN_STALLS,Keeping a stall: %s,,Com banca: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:BOT_ADMIN_BOT_DETAILS,"%s (Lv %d) - pid %d, pos (%d, %d), kingdom %d",,"%s (Nv %d) - pid %d, pos (%d, %d), reino %d",client: game texts (localeInfo) | keep: %s %d %d %d %d %d,done
+c:locale_game:BOT_ADMIN_NOTHING_SAID,(this bot has not said anything yet),,(este bot ainda não disse nada),client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_ACHIEVEMENT_N,Achievement #%d,,Conquista n.º %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:BOT_ADMIN_WON_BY,Won by: %s,,Ganho por: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:BOT_ADMIN_NOBODY_YET,Nobody yet,,Ninguém ainda,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_LOAD_FAILED,The bot admin window did not load in this client - see syserr.txt,,A janela de administração dos bots não carregou neste cliente - vê o syserr.txt,client: game texts (localeInfo),done
+c:locale_game:GM_BAN_NEED_REASON,Enter a reason (min. 3 characters),,Introduz um motivo (mín. 3 caracteres),client: game texts (localeInfo),done
+c:locale_game:GM_BAN_NEED_DAYS,Enter the length of the ban in days.,,Introduz a duração do banimento em dias.,client: game texts (localeInfo),done
+c:locale_game:GM_CAPTCHA_CODE,Code: |cffffa826%s|r,,Código: |cffffa826%s|r,client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:GM_CAPTCHA_TIME_LEFT,Time left: %ds,,Tempo restante: %ds,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GM_CAPTCHA_SOLVED,The code was right. It took %d seconds.,,O código estava certo. Demorou %d segundos.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GM_CAPTCHA_NO_ATTEMPTS,Every attempt to enter the code was used. (|cffffa826%s|r),,Todas as tentativas de introduzir o código foram usadas. (|cffffa826%s|r),client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:GM_CAPTCHA_WRONG_CODE,Wrong code (|cffffa826%s|r),,Código errado (|cffffa826%s|r),client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:GM_CAPTCHA_TIMEOUT,Time is up.,,O tempo acabou.,client: game texts (localeInfo),done
+c:locale_game:GM_CAPTCHA_CODE_CHANGED,Code changed (|cffffa826%s|r),,Código alterado (|cffffa826%s|r),client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:GM_CAPTCHA_LOGGED_OUT,The player logged out.,,O jogador terminou a sessão.,client: game texts (localeInfo),done
+c:locale_game:GM_CAPTCHA_STARTED,Started with the code |cffffa826%s|r,,Iniciado com o código |cffffa826%s|r,client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:GM_CAPTCHA_CHECKING,"Checking player %s (pid %s), code: %s",,"A verificar o jogador %s (pid %s), código: %s",client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:TARGET_BUTTON_GM_CHECK,Check,,Ver,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_NAME_30_DAYS,$ITEM_NAME (30 days),,$ITEM_NAME (30 dias),client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_NAME_PACK_25,$ITEM_NAME (Pack of 25),,$ITEM_NAME (pacote de 25),client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_NAME_30_HOURS,$ITEM_NAME (30 hours),,$ITEM_NAME (30 horas),client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_NAME_7_DAYS,$ITEM_NAME (7 days),,$ITEM_NAME (7 dias),client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_PIECES,Pieces: %d,,Unidades: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:ITEMSHOP_CURRENCY_DC,DC,,MD,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CURRENCY_DM,DM,,MaD,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_STARTS_IN,Starts in %s  ,,Começa dentro de %s  ,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:ITEMSHOP_ENDS_IN,Ends in %s  ,,Termina dentro de %s  ,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:ITEMSHOP_PIECES_BAR,Pieces: %d | ,,Unidades: %d | ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:ITEMSHOP_PRICE_LABEL,Price: ,,Preço: ,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_PROMOTION_ENDS,Promotion ends in %s | ,,A promoção termina dentro de %s | ,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:MYSHOP_WHISPER_NAME,[Shop],,[Loja],client: game texts (localeInfo),done
+c:locale_game:BUSY_ACTION_GATHERING,Gathering,,Recolha,client: game texts (localeInfo),done
+c:locale_game:BUSY_ACTION_IN_PROGRESS,In progress,,Em curso,client: game texts (localeInfo),done
+c:locale_game:BUSY_ACTION_INTERRUPTED,Interrupted,,Interrompido,client: game texts (localeInfo),done
+c:locale_game:BUSY_ACTION_FAILED,Failed,,Falhado,client: game texts (localeInfo),done
+c:locale_game:BUSY_ACTION_SUCCESS,Success,,Sucesso,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_UNTRADEABLE,Untradeable,,Não trocável,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_TRADEABLE,Tradeable,,Trocável,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_WEAPONS,Weapons,,Armas,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_ARMOUR,Armour,,Armadura,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_OTHER,Other,,Outro,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_SCROLLS_MARBLES,Scrolls and Marbles,,Pergaminhos e berlindes,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_EXCHANGES,Exchanges,,Trocas,client: game texts (localeInfo),done
+c:locale_game:REPORT_PLAYER_CHOOSE,Choose,,Escolher,client: game texts (localeInfo),done
+c:locale_game:CONFIG_RESOLUTION_CUSTOM,Custom,,Personalizado,client: game texts (localeInfo),done
+c:locale_game:CONFIG_SCALE_VALUE,Scale (%s),,Escala (%s),client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_TITLE,GM Panel by Kiciamol,,Painel GM por Kiciamol,client: game texts (localeInfo),done
+c:locale_game:GMP_WINDOW_SIZE,Window size:,,Tamanho da janela:,client: game texts (localeInfo),done
+c:locale_game:GMP_READY,Ready,,Pronto,client: game texts (localeInfo),done
+c:locale_game:GMP_WAITING,Waiting for the server...,,À espera do servidor...,client: game texts (localeInfo),done
+c:locale_game:GMP_NO_ANSWER,No answer from the server,,Sem resposta do servidor,client: game texts (localeInfo),done
+c:locale_game:GMP_SENT,Sent: %s,,Enviado: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_SAVED,Saved,,Guardado,client: game texts (localeInfo),done
+c:locale_game:GMP_SAVED_OFFLINE,Saved (player offline),,Guardado (jogador offline),client: game texts (localeInfo),done
+c:locale_game:GMP_ERR,Error: %s,,Erro: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_ON,ON,,LIG,client: game texts (localeInfo),done
+c:locale_game:GMP_OFF,OFF,,DESL.,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_PLAYER,Player,,Jogador,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_SELF,Me (GM),,Eu (GM),client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_WORLD,World & events,,Mundo e eventos,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_ITEMS,Items,,Itens,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_ACCOUNTS,Accounts,,Contas,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_SPAWN,Spawn,,Spawn,client: game texts (localeInfo),check
+c:locale_game:GMP_MENU_TELEPORT,Teleport,,Teletransporte,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_SERVER,Server,,Servidor,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_CMDS,GM commands,,Comandos GM,client: game texts (localeInfo),done
+c:locale_game:GMP_NICK,Name:,,Nome:,client: game texts (localeInfo),done
+c:locale_game:GMP_SEARCH,Search,,Procurar,client: game texts (localeInfo),done
+c:locale_game:GMP_SEARCH_LABEL,Search:,,Procurar:,client: game texts (localeInfo),done
+c:locale_game:GMP_SEARCH_BONUS,Search bonus:,,Procurar bónus:,client: game texts (localeInfo),done
+c:locale_game:GMP_SEARCH_STONE,Search stone:,,Procurar pedra:,client: game texts (localeInfo),done
+c:locale_game:GMP_BACK,Back,,Voltar,client: game texts (localeInfo),done
+c:locale_game:GMP_MY_TARGET,My target,,O meu alvo,client: game texts (localeInfo),done
+c:locale_game:GMP_SEARCHING,Searching...,,A procurar...,client: game texts (localeInfo),done
+c:locale_game:GMP_FOUND,Found: %s,,Encontrado: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_NOT_FOUND,No such character,,Personagem inexistente,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_BAD_NICK,Invalid name,,Nome inválido,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NO_NICK,Enter a player name,,Introduz o nome de um jogador,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NO_TARGET,Select a player in the game first,,Seleciona primeiro um jogador no jogo,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NUMBER,Enter a valid number,,Introduz um número válido,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_OFFLINE,The player is offline,,O jogador está offline,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NOT_ONLINE,The player is not online,,O jogador não está online,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_EQ_TARGET,Equipment: click the player in the game and choose EQ,,Equipamento: clica no jogador no jogo e escolhe EQ,client: game texts (localeInfo),done
+c:locale_game:GMP_ONLINE,Online,,Online,client: game texts (localeInfo),check
+c:locale_game:GMP_OFFLINE_SINCE,Offline since %s,,Offline desde %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_MAP,Map: %s,,Mapa: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_HPMP,HP/SP: %s / %s,,PV/PM: %s / %s,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GMP_INFO_YANG,Yang: %s,,Yang: %s,client: game texts (localeInfo) | keep: %s,check
+c:locale_game:GMP_INFO_ACCOUNT,Account: %s,,Conta: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_STATS,STR %s  VIT %s  DEX %s  INT %s,,FOR %s  VIT %s  DES %s  INT %s,client: game texts (localeInfo) | keep: %s %s %s %s,done
+c:locale_game:GMP_INFO_POINTS,"Stat points %s, skill %s",,"Pontos de estado %s, habilidades %s",client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GMP_INFO_IP,IP: %s,,IP: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_HORSE,Horse: level %s,,Cavalo: nível %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_RANK,Rank: %s,,Posto: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_EXP,Exp: %s,,EXP: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_JOB_WARRIOR,Warrior,,Guerreiro,client: game texts (localeInfo),done
+c:locale_game:GMP_JOB_NINJA,Ninja,,Ninja,client: game texts (localeInfo),check
+c:locale_game:GMP_JOB_SURA,Sura,,Sura,client: game texts (localeInfo),check
+c:locale_game:GMP_JOB_SHAMAN,Shaman,,Xamã,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_MOVE,Movement,,Movimento,client: game texts (localeInfo),done
+c:locale_game:GMP_GOTO_PLAYER,Go to,,Ir até,client: game texts (localeInfo),done
+c:locale_game:GMP_SUMMON,Summon,,Invocar,client: game texts (localeInfo),done
+c:locale_game:GMP_STATE,State (chat),,Estado (chat),client: game texts (localeInfo),done
+c:locale_game:GMP_AFFECTS,Effects (chat),,Efeitos (chat),client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_CHAR,Character,,Personagem,client: game texts (localeInfo),done
+c:locale_game:GMP_VIEW_EQ,View EQ,,Ver EQ,client: game texts (localeInfo),done
+c:locale_game:GMP_GIVE_ITEM,Give item,,Dar item,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_M,All to M1,,Tudo para M1,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_G,All to G1,,Tudo para G1,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_P,All to P,,Tudo para P,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_YANG,Yang,,Yang,client: game texts (localeInfo),check
+c:locale_game:GMP_VAL_CASH,Dragon Coins,,Moedas do Dragão,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_LEVEL,Level,,Nível,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_RANK,Rank,,Posto,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_HORSE,Horse level,,Nível do cavalo,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_SKILLPT,+ Skill points,,+ Pontos de habilidade,client: game texts (localeInfo),done
+c:locale_game:GMP_STAT_STR,Strength,,Força,client: game texts (localeInfo),done
+c:locale_game:GMP_STAT_VIT,Vitality,,Vitalidade,client: game texts (localeInfo),done
+c:locale_game:GMP_STAT_DEX,Dexterity,,Destreza,client: game texts (localeInfo),done
+c:locale_game:GMP_STAT_INT,Intelligence,,Inteligência,client: game texts (localeInfo),done
+c:locale_game:GMP_GIVE,Give,,Dar,client: game texts (localeInfo),done
+c:locale_game:GMP_SET,Set,,Definir,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_SKILLS,Skills,,Habilidades,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_HINT,Search an online player to see the skills,,Procura um jogador online para ver as habilidades,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_EDIT,"Level: 1-19, M1-M10, G1-G10 or P",,"Nível: 1-19, M1-M10, G1-G10 ou P",client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_NONE,No skills learned,,Nenhuma habilidade aprendida,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_OFFLINE,Skills are shown only for online players,,As habilidades só aparecem para jogadores online,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_SKILL_LEVEL,"Level: 1-19, M1-M10, G1-G10 or P",,"Nível: 1-19, M1-M10, G1-G10 ou P",client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_PUNISH,Punishments,,Castigos,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE_FOR,Mute for:,,Silenciar durante:,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE,Mute,,Silenciar,client: game texts (localeInfo),done
+c:locale_game:GMP_UNMUTE,Unmute,,Remover silêncio,client: game texts (localeInfo),done
+c:locale_game:GMP_STUN,Stun,,Atordoar,client: game texts (localeInfo),done
+c:locale_game:GMP_SLOW,Slow,,Lentidão,client: game texts (localeInfo),done
+c:locale_game:GMP_KILL,Kill...,,Matar...,client: game texts (localeInfo),done
+c:locale_game:GMP_KICK,Kick...,,Expulsar...,client: game texts (localeInfo),done
+c:locale_game:GMP_BAN_DOTS,Ban...,,Banir...,client: game texts (localeInfo),done
+c:locale_game:GMP_Q_KILL,Kill %s?,,Matar %s?,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_Q_KICK,Kick %s from the game?,,Expulsar %s do jogo?,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_HDR_ME,My character,,A minha personagem,client: game texts (localeInfo),done
+c:locale_game:GMP_INVISIBLE,Invisibility,,Invisibilidade,client: game texts (localeInfo),done
+c:locale_game:GMP_SPY,Spy mode,,Modo espião,client: game texts (localeInfo),done
+c:locale_game:GMP_NO_COOLDOWN,No cooldowns,,Sem tempos de recarga,client: game texts (localeInfo),done
+c:locale_game:GMP_IMMORTAL_ON,Immortal ON,,Imortal LIG,client: game texts (localeInfo),done
+c:locale_game:GMP_IMMORTAL_OFF,Immortal OFF,,Imortal DESL,client: game texts (localeInfo),done
+c:locale_game:GMP_FULL_HPMP,Full HP/SP,,PV/PM cheios,client: game texts (localeInfo),done
+c:locale_game:GMP_FULL_SET,Full set,,Conjunto completo,client: game texts (localeInfo),done
+c:locale_game:GMP_MAX_BONUS,Max bonuses,,Bónus no máximo,client: game texts (localeInfo),done
+c:locale_game:GMP_ALL_SKILLS,All skills P,,Todas as habilidades P,client: game texts (localeInfo),done
+c:locale_game:GMP_CLEAR_MY_AFFECT,Clear effects,,Remover efeitos,client: game texts (localeInfo),done
+c:locale_game:GMP_HORSE_MAX,Max horse,,Cavalo no máximo,client: game texts (localeInfo),done
+c:locale_game:GMP_REWARP,Rewarp,,Recarregar posição,client: game texts (localeInfo),done
+c:locale_game:GMP_POLY,Polymorph (vnum):,,Metamorfose (vnum):,client: game texts (localeInfo),done
+c:locale_game:GMP_POLY_ON,Transform,,Transformar,client: game texts (localeInfo),done
+c:locale_game:GMP_POLY_OFF,Revert,,Reverter,client: game texts (localeInfo),done
+c:locale_game:GMP_POLY_MARBLE,Give marble,,Dar berlinde,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_AROUND,Around me,,À minha volta,client: game texts (localeInfo),done
+c:locale_game:GMP_PURGE,Purge mobs,,Remover monstros,client: game texts (localeInfo),done
+c:locale_game:GMP_PURGE_ALL,Purge all,,Remover tudo,client: game texts (localeInfo),done
+c:locale_game:GMP_WEAKEN,Weaken mobs,,Enfraquecer monstros,client: game texts (localeInfo),done
+c:locale_game:GMP_PULL,Pull mobs,,Puxar monstros,client: game texts (localeInfo),done
+c:locale_game:GMP_MOB_COUNT,Count mobs,,Contar monstros,client: game texts (localeInfo),done
+c:locale_game:GMP_RESPAWN,Respawn,,Reaparecimento,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_NOTICE,Notice,,Anúncio,client: game texts (localeInfo),done
+c:locale_game:GMP_NOTICE_CHAT,In chat,,No chat,client: game texts (localeInfo),done
+c:locale_game:GMP_NOTICE_GM,As GM,,Como GM,client: game texts (localeInfo),done
+c:locale_game:GMP_NOTICE_BIG,Big,,Grande,client: game texts (localeInfo),done
+c:locale_game:GMP_NOTICE_MAP,This map only,,Só este mapa,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NO_TEXT,Enter the notice text,,Introduz o texto do anúncio,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_EVENTS,Events (empire bonus),,Eventos (bónus de reino),client: game texts (localeInfo),done
+c:locale_game:GMP_EV_EXP,Exp %,,EXP %,client: game texts (localeInfo),done
+c:locale_game:GMP_EV_DROP,Drop %,,Drop %,client: game texts (localeInfo),check
+c:locale_game:GMP_EV_YANG,Yang %,,Yang %,client: game texts (localeInfo),check
+c:locale_game:GMP_EV_HOURS,Hours,,Horas,client: game texts (localeInfo),done
+c:locale_game:GMP_EMPIRE_ALL,All,,Tudo,client: game texts (localeInfo),done
+c:locale_game:GMP_EMPIRE_SHINSOO,Shinsoo,,Shinsoo,client: game texts (localeInfo),check
+c:locale_game:GMP_EMPIRE_CHUNJO,Chunjo,,Chunjo,client: game texts (localeInfo),check
+c:locale_game:GMP_EMPIRE_JINNO,Jinno,,Jinno,client: game texts (localeInfo),check
+c:locale_game:GMP_EV_START,Start event,,Iniciar evento,client: game texts (localeInfo),done
+c:locale_game:GMP_EV_STOP,Stop events,,Parar eventos,client: game texts (localeInfo),done
+c:locale_game:GMP_EV_HINT,"Extra percent, e.g. 100 = double. Empty/0 = unchanged.",,"Percentagem extra, ex.: 100 = dobro. Vazio/0 = sem alteração.",client: game texts (localeInfo),done
+c:locale_game:GMP_EV_STARTED,Event started,,Evento iniciado,client: game texts (localeInfo),done
+c:locale_game:GMP_EV_STOPPED,Events stopped,,Eventos parados,client: game texts (localeInfo),done

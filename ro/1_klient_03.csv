@@ -1,0 +1,701 @@
+id,english,polski,translation,notes,status
+c:locale_game:SKILL_DISPEL_DESC,Removes all of an opponent's support skills.,Usuwa wszystkie umiejętności wspomagające przeciwnika.,Elimina toate abilitatile de sprijin ale unui adversar.,client: game texts (localeInfo),done
+c:locale_game:SKILL_DRAGON_HELP_DESC,Raises the chance of a critical hit. Can be given to another player. Bonus when used on yourself.,Zwiększa szanse na krytyczne uderzenie. Możliwość zbuffowania innego gracza. Bonus użycia na samym sobie.,Mareste sansa de lovitura critica. Poate fi data altui jucator. Bonus cand o folositi asupra dvs.,client: game texts (localeInfo),done
+c:locale_game:SKILL_DRAGON_ROAR_DESC,Area attack. Using it activates Dragon's Wrath.,Atak obszarowy. Użycie aktywuje Smoczy Gniew.,Atac pe zona. Folosirea lui activeaza Furia Dragonului.,client: game texts (localeInfo),done
+c:locale_game:SKILL_DRAGON_SWIRL_DESC,Attacks every opponent around you.,Atakuje wszystkich przeciwników wokół siebie.,Ataca toti adversarii din jurul dvs.,client: game texts (localeInfo),done
+c:locale_game:SKILL_ENCHANTED_ARMOR_DESC,Raises defence and has a chance to reflect a physical blow.,Zwiększa obronę oraz posiada szansę na odbicie ciosu fizycznego.,Mareste apararea si are sansa de a reflecta o lovitura fizica.,client: game texts (localeInfo),done
+c:locale_game:SKILL_ENCHANTED_BLADE_DESC,Raises physical damage dealt and steals HP from the opponent. ,Zwiększa zadawane obrażenia fizyczne oraz kradnie PŻ od przeciwnika. ,Mareste daunele fizice provocate si fura PV de la adversar. ,client: game texts (localeInfo),done
+c:locale_game:SKILL_FAST_ATTACK_DESC,A fast area attack that teleports you. ,Szybki atak obszarowy i teleportujący. ,Atac rapid pe zona care va teleporteaza. ,client: game texts (localeInfo),done
+c:locale_game:SKILL_FEATHER_WALK_DESC,Raises movement speed. Raises stamina regeneration in combat. Weaker monsters do not hear your steps.,Zwiększa szybkość poruszania się. Zwiększa regenerację staminy w walce. Słabsze potwory nie słyszą twoich kroków.,Mareste viteza de miscare. Mareste regenerarea rezistentei in lupta. Monstrii mai slabi nu va aud pasii.,client: game texts (localeInfo),done
+c:locale_game:SKILL_FINGER_STRIKE_DESC,An attack that bypasses the opponent's defence.,Atak umożliwiający ominięcie obrony przeciwnika.,Atac care ignora apararea adversarului.,client: game texts (localeInfo),done
+c:locale_game:SKILL_FIRE_ARROW_DESC,Area attack with a chance to set on fire.,"Atak obszarowy, szansa na podpalenie.",Atac pe zona cu sansa de a da foc.,client: game texts (localeInfo),done
+c:locale_game:SKILL_FLAME_SPIRIT_DESC,Fireballs attack the marked target; the damage can splash onto monsters beside it.,"Atak ognistych kul na zaznaczony cel, obrażenia mogą rozprysnąć na potwory stojące obok.",Mingi de foc ataca tinta marcata; daunele se pot extinde asupra monstrilor de langa ea.,client: game texts (localeInfo),done
+c:locale_game:SKILL_FLAME_STRIKE_DESC,Area attack on every opponent around the character. ,Atak obszarowy we wszystkich przeciwników wokół postaci. ,Atac pe zona asupra tuturor adversarilor din jurul personajului. ,client: game texts (localeInfo),done
+c:locale_game:SKILL_FLYING_TALISMAN_DESC,"A long-range attack that can splash onto opponents beside it, with a chance to slow.","Atak długodystansowy, może rozprysnąć się na przeciwników obok, szansa na spowolnienie.","Atac de la distanta care se poate extinde asupra adversarilor de langa tinta, cu sansa de incetinire.",client: game texts (localeInfo),done
+c:locale_game:SKILL_LIGHTNING_CLAW_DESC,Sets off a chain reaction. Attacks several targets.,Wywołuje reakcję łańcuchową. Atakuje wiele celów.,Declanseaza o reactie in lant. Ataca mai multe tinte.,client: game texts (localeInfo),done
+c:locale_game:SKILL_LIGHTNING_THROW_DESC,A long-range attack that hits one opponent or several standing together.,"Atak z dystansu o dużym zasięgu, atakuje jednego przeciwnika, lub kilku stojących obok siebie.",Atac de la distanta care loveste un adversar sau mai multi aflati impreuna.,client: game texts (localeInfo),done
+c:locale_game:SKILL_MANASHIELD_DESC,Redirects damage from HP to SP.,Przekierowuje obrażenia z PŻ na PE.,Redirectioneaza daunele de pe PV pe PM.,client: game texts (localeInfo),done
+c:locale_game:SKILL_POISON_ARROW_DESC,Has a chance to poison the opponent and stuns it.,Posiada szansę na otrucie przeciwnika oraz zawiera w sobie omdlenie.,Are sansa de a otravi adversarul si il ameteste.,client: game texts (localeInfo),done
+c:locale_game:SKILL_POISON_CLOUD_DESC,Has a chance to poison the opponent.,Posiada szanse na otrucie przeciwnika.,Are sansa de a otravi adversarul.,client: game texts (localeInfo),done
+c:locale_game:SKILL_REFLECT_DESC,Reflects physical attacks. Can be given to another player. Bonus when used on yourself.,Odbija ataki fizyczne. Możliwość zbuffowania innego gracza. Bonus użycia na samym sobie.,Reflecta atacurile fizice. Poate fi data altui jucator. Bonus cand o folositi asupra dvs.,client: game texts (localeInfo),done
+c:locale_game:SKILL_REPETITIVE_SHOT_DESC,Shoots several arrows in a row. Chance of a piercing shot.,Wystrzał kilku strzał pod rząd. Szansa na przeszywający strzał.,Trage mai multe sageti la rand. Sansa de lovitura strapungatoare.,client: game texts (localeInfo),done
+c:locale_game:SKILL_ROLLING_DAGGER_DESC,A spinning attack with three chances to hit and a chance to poison the opponent. ,Atak obrotowy posiadający trzy szanse na trafienie oraz szansę na otrucie przeciwnika. ,Atac rotitor cu trei sanse de lovire si sansa de a otravi adversarul. ,client: game texts (localeInfo),done
+c:locale_game:SKILL_SHAMAN_FIRE_RAGE,Dragon's Wrath,Smoczy Gniew,Furia Dragonului,client: game texts (localeInfo),done
+c:locale_game:SKILL_SHAMAN_FIRE_RAGE_DESC,Activates with Dragon's Roar. Raises physical attack power.,Aktywuje się razem z użyciem um. Smoczy Skowyt. Zwiększa siłę ataku fizycznego.,Se activeaza cu Ragetul Dragonului. Mareste puterea atacului fizic.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SHAMAN_HEAVEN_PROTECTION,Heavenly Shield,Niebiańska Tarcza,Scutul ceresc,client: game texts (localeInfo),done
+c:locale_game:SKILL_SHAMAN_HEAVEN_PROTECTION_DESC,Activates with Cure. Absorbs damage dealt by monsters.,Aktywuje się razem z użyciem um. Leczenie. Absorbuje obrażenia zadane od potworów.,Se activeaza cu Vindecare. Absoarbe daunele provocate de monstri.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SHOOTING_DRAGON_DESC,A ranged area attack. Has a chance to set the target on fire. ,Atak dystansowo-obszarowy. Posiada szansę na podpalenie celu. ,Atac de la distanta pe o zona. Are sansa de a da foc tintei. ,client: game texts (localeInfo),done
+c:locale_game:SKILL_SPIRIT_ORB_DESC,A long-range attack on several targets. Has a chance to slow the opponent.,"Atak długodystansowy, atakuje wiele celów. Posiada szansę na spowolnienie przeciwika.",Atac de la distanta asupra mai multor tinte. Are sansa de a incetini adversarul.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SPIRIT_STRIKE_DESC,A strong frontal area blow.,Silne frontowe uderzenie obszarowe.,O lovitura frontala puternica pe zona.,client: game texts (localeInfo),done
+c:locale_game:SKILL_STEALTH_DESC,Hides the character; attack from an Ambush.,"Powoduje ukrycie się postaci, atak z Zasadzki.",Ascunde personajul; atacati dintr-o ambuscada.,client: game texts (localeInfo),done
+c:locale_game:SKILL_STRONG_BODY_DESC,Raises defence and lowers movement speed. From grade G the character does not fall and gains Piercing Strike resistance.,"Zwiększa obronę, zmniejsza szybkość poruszania się. Od poziomu G postać nie upada oraz zwiększa Odporność na Przeszywające Uderzenie.",Mareste apararea si reduce viteza de miscare. De la gradul G personajul nu mai cade si primeste rezistenta la Lovitura strapungatoare.,client: game texts (localeInfo),done
+c:locale_game:SKILL_STUMP_DESC,"Attacks the opponents around you, with a chance to stun them.","Atakuje przeciwników wokół siebie, posiada szansę na omdlenie przeciwnika.","Ataca adversarii din jurul dvs., cu sansa de a-i ameti.",client: game texts (localeInfo),done
+c:locale_game:SKILL_SUMMON_LIGHTNING_DESC,Area attack. Has a chance to stun the opponent.,Atak obszarowy. Posiada szansę na omdlenie przeciwinika.,Atac pe zona. Are sansa de a ameti adversarul.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SWIFTNESS_DESC,Raises movement speed and speeds up skill cooldowns. Can be given to another player. Bonus when used on yourself.,Zwiększa prędkość poruszania się oraz przyspiesza tempo odnowienia umiejętności. Możliwość zbuffowania innego gracza. Bonus użycia na samym sobie.,Mareste viteza de miscare si scurteaza timpul de reincarcare al abilitatilor. Poate fi data altui jucator. Bonus cand o folositi asupra dvs.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SWORD_AURA_DESC,Raises attack power.,Zwiększa siłę ataku.,Mareste puterea de atac.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SWORD_STRIKE_DESC,A long-range attack that stuns the opponent.,"Atak długodystansowy, omdlewa przeciwnika.",Atac de la distanta care ameteste adversarul.,client: game texts (localeInfo),done
+c:locale_game:SKILL_TERROR_DESC,Lowers the physical damage opponents deal.,Zmniejsza obrażenia fizyczne zadawane przez przeciwników.,Reduce daunele fizice provocate de adversari.,client: game texts (localeInfo),done
+c:locale_game:SKILL_THREEWAY_CUT_DESC,An attack of three blows in a row.,Atak trzema ciosami pod rząd.,Atac din trei lovituri la rand.,client: game texts (localeInfo),done
+c:locale_game:SKILL_WHIRLWIND_DESC,Attacks every opponent around you.,Atakuje wszystkich przeciwników wokół siebie.,Ataca toti adversarii din jurul dvs.,client: game texts (localeInfo),done
+c:locale_game:SOCKET_EXTRACT_QUESTION,Do you want to take this stone out of the item?,Czy chcesz wyjąć ten Kamień z Przedmiotu?,Vreti sa scoateti aceasta piatra din obiect?,client: game texts (localeInfo),done
+c:locale_game:SPECIAL_SHOP_ACCOUNT_LIMIT,Purchase limit per account: %d,Limit zakupów na konto: %d,Limita de cumparare pe cont: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:SPECIAL_SHOP_LIMIT_LEVEL,Level required to buy: %d,Wymagany poziom do zakupu: %d,Nivel necesar pentru cumparare: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:SPECIAL_SHOP_LIMIT_REPUTATION,Reputation required: %s,Wymagana reputacja: %s,Reputatie necesara: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SPECIAL_SHOP_LIMIT_TIME,One purchase every %s,Zakup raz na %s,O cumparare la fiecare %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SPECIAL_SHOP_REQ_ITEMS,Items required:,Wymagane przedmioty:,Obiecte necesare:,client: game texts (localeInfo),done
+c:locale_game:SPECIAL_SHOP_UPDATE_POPUP,The shop's offer has changed.,Oferta sklepu zmieniła się.,Oferta magazinului s-a schimbat.,client: game texts (localeInfo),done
+c:locale_game:STATUS_PLUS_LABEL,|cffbc893aavailable [|r%d|cffbc893a]|r,|cffbc893adostępne [|r%d|cffbc893a]|r,|cffbc893adisponibil [|r%d|cffbc893a]|r,client: game texts (localeInfo) | keep: %d; |c...|r colour codes,done
+c:locale_game:SUBSCRIPTION_BENEFIT_CHANNEL,Access to the Premium channel[ENTER]Your spouse can be teleported to the Premium channel.,Dostęp do kanału Premium[ENTER]Możliwe jest teleportowanie małżonka na kanał Premium.,Acces la canalul Premium[ENTER]Partenerul de casatorie poate fi teleportat pe canalul Premium.,client: game texts (localeInfo) | keep: [ENTER] = new line,done
+c:locale_game:SUBSCRIPTION_BENEFIT_DEPOSIT,45 more storeroom slots.,Dodatkowe 45 slotów w magazynie.,Inca 45 de sloturi in depozit.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_DROP,Double item drop chance,Podwojona szansa na drop przedmiotów,Sansa dubla de drop pentru obiecte,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_EMOTION,Use of Emotions,Możliwość korzystania z Emocji,Folosirea emotiilor,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_EXP,50% more experience,50% więcej doświadczenia,Cu 50% mai multa experienta,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_FISH,A better chance to catch a fish.,Dodatkowa szansa na pomyślne wyłowienie ryby.,O sansa mai buna de a prinde un peste.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_GOLD,Double Yang drop chance.,Podwojona szansa na drop Yang.,Sansa dubla de drop pentru Yang.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_ITEM_VIEW,Item previews in the chat.,Możliwość wysyłania podglądu przedmiotów na czacie.,Previzualizarea obiectelor in chat.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_LOVE,Double love point regeneration.,Podwojona regeneracja punktów miłości.,Regenerare dubla a punctelor de iubire.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_ONLY_SUB,Premium only,Dostępne tylko dla Premium,Doar Premium,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_PASSAGE,Free entry to Spider Dungeon V2.,Darmowy dostęp do Lochu Pająków V2.,Intrare gratuita in Temnita Paianjenilor V2.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_PICKUP,Yang is picked up automatically.,Automatyczne podnoszenie Yang.,Yang-ul este ridicat automat.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_SHOP,20 more shop slots[ENTER]Shops open for up to 48h[ENTER]Rename an open shop[ENTER]Skips the free shop limit per channel.,Dodatkowe 20 slotów w sklepie[ENTER]Możliwość wystawienia sklepu do 48h[ENTER]Edycja nazwy otwartego sklepu[ENTER]Omija darmowy limit sklepów na kanale.,Inca 20 de sloturi in magazin[ENTER]Magazine deschise pana la 48h[ENTER]Redenumirea unui magazin deschis[ENTER]Ocoleste limita de magazine gratuite pe canal.,client: game texts (localeInfo) | keep: [ENTER] = new line,done
+c:locale_game:SUBSCRIPTION_BUTTON,Buy!,Kup!,Cumpara!,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_PRES_DESC1,"It is a way to support the project regularly and the best package for a player,[ENTER]with the best price for the value you get when you join the Premium players.","Jest to sposób na regularne wspieranie projektu, a także najlepszy pakiet dla gracza,[ENTER]z najlepszą ceną do wartości jakie otrzymasz, po dołączeniu do graczy premium.","Este un mod de a sustine regulat proiectul si cel mai bun pachet pentru un jucator,[ENTER]cu cel mai bun pret pentru ce primiti cand va alaturati jucatorilor Premium.",client: game texts (localeInfo) | keep: [ENTER] = new line,done
+c:locale_game:SUBSCRIPTION_PRES_DESC2,The main bonuses are:,Najważniejsze bonusy to:,Principalele bonusuri sunt:,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_PRES_DESC3,You also get %d other benefits.[ENTER](Hover over an icon to see its description),"Dodatkowo otrzymasz %d innych benefitów.[ENTER](Najedź myszką na ikonę, aby zobaczyć opis)",Mai primiti si alte %d avantaje.[ENTER](Tineti mouse-ul pe o pictograma pentru a-i vedea descrierea),client: game texts (localeInfo) | keep: %d; [ENTER] = new line,done
+c:locale_game:SUBSCRIPTION_PRES_DESC4,All of it for 50 PLN a month!,Wszystko to za 50 zł na miesiąc!,Toate acestea pentru 50 PLN pe luna!,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_PRES_TITLE1,What is a Premium Account?,Czym jest Konto Premium?,Ce este un cont Premium?,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_PRES_TITLE2,What benefits do I get?,Jakie otrzymam benefity?,Ce avantaje primesc?,client: game texts (localeInfo),done
+c:locale_game:SUMMER_RING_LEFT,Extensions left: %d,Pozostałe możliwe przedłużenia: %d,Prelungiri ramase: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ABSORB,Absorbs %d damage,Absorpcja %d obr.,Absoarbe %d daune,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_AFFECT_NO_FRIENDLY_KILL_PENALTY,You do not lose rank if you kill a friendly player.,Nie stracisz rangi jeżeli zabijesz przyjaznego gracza.,Nu pierdeti rang daca ucideti un jucator prietenos.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ANTIFLAG_GIVE,Cannot be given to other players.,Niezdatny do przekazania innym graczom.,Nu poate fi dat altor jucatori.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ANTIFLAG_MYSHOP,Cannot be sold in a shop.,Niezdatny do handlu w sklepie.,Nu poate fi vandut intr-un magazin.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ANTIFLAG_NO_TRADE,Cannot be traded with players.,Niezdatny do handlu z graczami.,Nu poate fi schimbat cu jucatorii.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_ACCEDRAIN_RATE,Absorption rate: %d%%,Stopień absorpcji: %d%%,Rata de absorbtie: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_BLEEDING_PCT,Bleeding attack + %d%%,Atak krwawienia + %d%%,Atac cu sangerare + %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_BLEEDING_REDUCE,Bleeding attack resistance + %d%%,Odporność na Atak Krwawienia + %d%%,Rezistenta la atacul cu sangerare + %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ARROW_DAMAGE_REDUCTION,Max. damage reduction: %d%% (monsters %d%%),Maks. redukcja obrażeń: %d%% (potwory %d%%),Reducere max. a daunelor: %d%% (monstri %d%%),client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_ARROW_MAX_RADIUS,Poor shot quality: from %.1fm,Słaba jakość strzału: od %.1fm,Calitate slaba a tragerii: de la %.1fm,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_ARROW_MIN_RADIUS,Best shooting distance: up to %.1fm,Optymalny dystans strzału: do %.1fm,Cea mai buna distanta de tragere: pana la %.1fm,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_BUYPRICE_CURRENCY,Price: %s %s,Cena: %s %s,Pret: %s %s,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:TOOLTIP_BUYPRICE_REPUTATION,Price: %s reputation,Cena: %s reputacji,Pret: %s reputatie,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_BUYPRICE_STACK,Price per piece: %s,Cena za 1 szt.: %s,Pret pe bucata: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_DEF_GRADE_CHARACTER_WINDOW,Base defence: %d (+%d%% boost),Bazowa obrona: %d (+%d%% wzmocnienie),Aparare de baza: %d (+%d%% intarire),client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_FAST_STAT_ADD,|Eshortcut/ctrl|e + |Eshortcut/mleft|e - quick stat allocation,|Eshortcut/ctrl|e + |Eshortcut/mleft|e - szybkie rozdanie statystyk,|Eshortcut/ctrl|e + |Eshortcut/mleft|e - distribuire rapida a statutului,client: game texts (localeInfo) | keep: |c...|r colour codes,done
+c:locale_game:TOOLTIP_HERB_KNIFE_UPGRADE1,Give it to Yu-Hwan,Daj to Yu-Hwan'owi,Dati-l lui Yu-Hwan,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_HERB_KNIFE_UPGRADE2,to get an,aby dostać,pentru a primi un,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_HERB_KNIFE_UPGRADE3,improved Knife.,ulepszony Nóż.,cutit imbunatatit.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_QUALITY,Quality +%d%%,Jakość +%d%%,Calitate +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_BONUS_SP,Bonus SP: %d ,Bonusowe PE: %d ,Bonus PM: %d ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_DAMAGE_BONUS,Magic damage against monsters +%d%% ,Magiczne Obrażenia w potwory +%d%% ,Daune magice impotriva monstrilor +%d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_DAMAGE_BONUS_PC,Magic damage bonus +%d%% ,Bonus Magicznych obrażeń +%d%% ,Bonus daune magice +%d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_OPEN_SHOP_REQ_LEVEL,Level 15 required.,Wymagany 15 poziom.,Este necesar nivelul 15.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_OPEN_SHOP_REQ_MONSTER,800 monsters killed required.,Wymagane 800 zabitych potworów.,Sunt necesari 800 de monstri ucisi.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PARTY_NEXT_SKILL_LEVEL,Next level,Następny poziom,Nivelul urmator,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POINT_DEATH_PENALTY,Charges: %d,Ilość Ładunków: %d,Incarcari: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_POTION_ATTBONUS_HUMAN,Slayer's Potion,Mikstura Pogromcy,Potiunea Ucigasului,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_ATT_GRADE,Potion of Attack,Mikstura Ataku,Potiunea Atacului,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_CAST_SPEED,Potion of Casting Speed,Mikstura Szybkości Zaklęcia,Potiunea Vitezei de Vraja,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_CRIT,Potion of Critical Hit,Mikstura Krytycznego Ciosu,Potiunea Loviturii Critice,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_DEF_GRADE,Potion of Defence,Mikstura Obrony,Potiunea Apararii,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_DX,Potion of Dexterity,Mikstura Zręczności,Potiunea Dexteritatii,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_HP_REGEN,Potion of Life Regeneration,Mikstura Regeneracji Życia,Potiunea Regenerarii Vietii,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_HT,Potion of Vitality,Mikstura Witalności,Potiunea Vitalitatii,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_IQ,Potion of Intelligence,Mikstura Inteligencji,Potiunea Inteligentei,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_MAGIC_ATT_MOB,Potion of Magic Power,Mikstura Siły Magii,Potiunea Puterii Magice,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_MAX_HP,Potion of Life,Mikstura Życia,Potiunea Vietii,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_NORMAL_HIT_DEFEND,Potion of Invulnerability,Mikstura Nietykalności,Potiunea Invulnerabilitatii,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_PENET,Potion of Piercing Strike,Mikstura Przeszywającego Ciosu,Potiunea Loviturii Strapungatoare,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_RESIST_HUMAN,Potion of the Dragon's Scale,Mikstura Łuski Smoka,Potiunea Solzului de Dragon,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_RESIST_MAGIC,Potion of Magic Defence,Mikstura Magicznej Obrony,Potiunea Apararii Magice,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_RESIST_NORMAL_DAMAGE,Potion of Physical Resistance,Mikstura Odporności Fizycznej,Potiunea Rezistentei Fizice,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_SKILL_DAMAGE_BONUS,Potion of Might,Mikstura Potęgi,Potiunea Puterii,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_SKILL_DEFEND,Potion of Insensitivity,Mikstura Niewrażliwości,Potiunea Insensibilitatii,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_SKILL_DURATION,Potion of Endurance,Mikstura Trwałości,Potiunea Rezistentei,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_SP_REGEN,Potion of Energy Regeneration,Mikstura Regeneracji Energii,Potiunea Regenerarii Energiei,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_ST,Potion of Strength,Mikstura Siły,Potiunea Fortei,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_ST_REGEN,Potion of Stamina Regeneration,Mikstura Regeneracji Staminy,Potiunea Regenerarii Rezistentei,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_REAL_CAST_SPEED,Skill cast time shortened by %d%% ,Skrócenie ładowania um. o %d%% ,Timpul de lansare a abilitatilor redus cu %d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_REFINE_BONUS_ITEM_TYPE,Item type: %s,Typ przedmiotu: %s,Tipul obiectului: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:UI_DEFAULT_FONT_NAME,Tahoma,Tahoma,Tahoma,client: game texts (localeInfo),check
+c:locale_game:UI_FONT_SIZE_DEFAULT,12,12,12,client: game texts (localeInfo),done
+c:locale_game:USE_VOUCHER_ALREADY_USED,The code has already been used.,Kod został już wykorzystany.,Codul a fost deja folosit.,client: game texts (localeInfo),done
+c:locale_game:USE_VOUCHER_NO_CODE,Invalid code.,Niepoprawny kod.,Cod invalid.,client: game texts (localeInfo),done
+c:locale_game:USE_VOUCHER_SUCCESS,The voucher was redeemed!,Pomyślnie wykorzystano kupon!,Voucherul a fost folosit!,client: game texts (localeInfo),done
+c:locale_game:USE_VOUCHER_TRY_AGAIN_LATER,Try again later.,Spróbuj później.,Incercati din nou mai tarziu.,client: game texts (localeInfo),done
+c:locale_game:WHAT_ACTION_WITH_ITEM1,What do you want to do with %s?,Co chcesz zrobić z %s?,Ce vreti sa faceti cu %s?,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:WHAT_ACTION_WITH_ITEM2,What do you want to do with %dx %s?,Co chcesz zrobić z %dx %s?,Ce vreti sa faceti cu %dx %s?,client: game texts (localeInfo) | keep: %d %s,done
+c:locale_game:WHISPER_ANOTHER_EMPIRE_WARNING,This player is from another kingdom - without knowing their language you will not understand each other.,"Gracz jest z innego królestwa, bez znajomości drugiego języka nie porozumiecie się.","Acest jucator este din alt regat - fara sa-i cunoasteti limba, nu va veti intelege.",client: game texts (localeInfo),done
+c:locale_game:WHISPER_UNBAN,Unblock,Odblokuj,Deblocheaza,client: game texts (localeInfo),done
+c:locale_game:SECONDS_LESS_THAN_MINUTE,Less than 1 min.,,Mai putin de 1 min.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CLASS,Class:,,Clasa:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STR,STR:,,FOR:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_VIT,VIT:,,VIT:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_DEX,DEX:,,DEX:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_INT,INT:,,INT:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_STAT_POINTS,Status points:,,Puncte de statut:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SKILL_POINTS,Skill points:,,Puncte de abilitate:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SUPPORT_SKILL_POINTS,Support skill points:,,Puncte de abilitati de sprijin:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MAP_INDEX,Map (index):,,Harta (index):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_LAST_ONLINE,Last online:,,Ultima data online:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_HORSE_LEVEL,Horse level:,,Nivelul calului:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_HORSE_POINTS,Horse points:,,Punctele calului:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ACCOUNT,Account:,,Cont:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PLAYTIME,Play time (min):,,Timp de joc (min):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RANK_POINTS,Rank points:,,Puncte de rang:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_WARRIOR_M,Warrior (M),,Razboinic (M),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_WARRIOR_F,Warrior (F),,Razboinic (F),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_NINJA_F,Ninja (F),,Ninja (F),client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_JOB_SURA_F,Sura (F),,Sura (F),client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_JOB_SHAMAN_M,Shaman (M),,Saman (M),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_SHAMAN_F,Shaman (F),,Saman (F),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_MAIN,Main Panel,,Panou principal,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ADD_GM,Add GM,,Adauga GM,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_LOOKUP,Check Player,,Verifica jucatorul,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_CREATE_ITEM,Create Item,,Creeaza obiect,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_BAN,Account Ban,,Ban de cont,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_SPAWN_BOTS,Spawn Bots,,Spawn boti,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_SPAWN_MOBS,Spawn Mobs,,Spawn mobi,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_SERVER,Server Control,,Controlul serverului,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RATE_EXP,Experience:,,Experienta:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RATE_DROP,Item drop:,,Drop de obiecte:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RATE_YANG,Yang drop:,,Drop de Yang:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_CHAT,Bots talk over their heads,,Botii vorbesc deasupra capului,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_CHAT_HELP,"The line over a bot's head (hunting, off to the blacksmith, fishing). Switch it off for players who mind it. The shout on the world chat about a +7/+8/+9 upgrade stays either way.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_BOOKS,Skill books without the day's wait,,Carti de abilitate fara asteptarea zilnica,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_BOOKS_HELP,"The game makes a character wait about a day between two reads of the same skill, so a bot needs a month to read a skill from M1 to G1, and the books pile up in its bag meanwhile. On: a bot reads a book the moment it has one - the game itself is the only brake. Off: the game's daily wait, unchanged.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_NIGHT,Night/snow after 22:00,,Noapte/zapada dupa 22:00,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_SCRAP,Scrap keepers,,Colectori de fier vechi,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_SCRAP_HELP,"The share of stall keepers that put their weak upgrades (+0 to +3) on the counter for pennies instead of selling them to an NPC - scrap for burning at the blacksmith, as on hard servers. Off by default.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_REST,Resting in town,,Odihna in oras,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_REST_HELP,"The share of bots that stay by the stalls for a while after an errand in town instead of going straight back to hunting. At 100 percent the town is lively, at 0 everyone is out in the field.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_CHEST,Moonlight Chest - from a killed monster,,Cufarul Luminii Lunii - de la un monstru ucis,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_CHEST_HELP,"How often a chest drops: from a killed monster and from a broken Metin. The game default is 1 and 30 percent; more chests mean more bonus scrolls, speed potions and Blessing Scrolls for the bots. Applies within five seconds, to bots and players alike.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_CHEST_STONE,Moonlight Chest - from a broken Metin,,Cufarul Luminii Lunii - de la un Metin spart,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_CHEST_STONE_HELP,"The second half of the setting above - its own chance, rolled when a Metin stone breaks instead of when a common monster dies.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_RESTOCK,Buying potions,,Cumpararea potiunilor,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_RESTOCK_HELP,Back to town as soon as the red potions run out.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_REFINE,The blacksmith,,Fierarul,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_REFINE_HELP,Upgrading weapons and armour instead of hunting.,,Imbunatatirea armelor si armurilor in loc de vanatoare.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_SKILL,Skill books,,Carti de abilitate,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_SKILL_HELP,Reading books to push a skill from M towards G.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_HORSE,The horse,,Calul,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_HORSE_HELP,The stable and hunting medals in the Monkey Dungeon.,,Grajdul si medaliile de vanatoare in Temnita Maimutelor.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_BIOLOG,The Biologist,,Biologul,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_BIOLOG_HELP,Collecting for the Biologist instead of levelling.,,Colectarea pentru Biolog in loc de crestere in nivel.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_METIN,Metin stones,,Pietre Metin,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_METIN_HELP,Hunting Metins instead of common monsters.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_PARTY,Parties,,Grupuri,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_PARTY_HELP,"Fighting together, not every bot on its own.",,"Lupta impreuna, nu fiecare bot pe cont propriu.",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_HUNTING,Hunting missions,,Misiuni de vanatoare,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_HUNTING_HELP,Hunting for the level-up on the map the mission names.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_LEVEL,Plain grinding,,Grind simplu,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_LEVEL_HELP,What a bot does when nothing else asks for it. Raise it and the errands lose.,,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_FISHING,Fishing,,Pescuit,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_FISHING_HELP,"How many bots fish at all. Decided once per bot, so a change reaches the next generation of anglers.",,,client: game texts (localeInfo),new
+c:locale_game:GM_PANEL_AI_TRADE,Market stalls,,Tarabe,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_TRADE_HELP,"How many bots keep a stall open. Merchants always do, whatever this slider says.",,,client: game texts (localeInfo),new
+c:locale_game:GM_COMMAND_ITEM,/item - adds an item,,/item - adauga un obiect,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_ITEM_2,/item - adds several pieces of an item,,/item - adauga mai multe bucati dintr-un obiect,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_M,/m - summons a monster or an NPC,,/m - cheama un monstru sau un NPC,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_P,/p - turns you into a monster or an NPC,,/p - va transforma intr-un monstru sau NPC,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_ALIGN_200000,/set align 200000 - Chivalric rank,,/set align 200000 - rang Cavaleresc,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_WEAK,"/weak - right-click a monster first, then type the command and the monster has 1 HP",,"/weak - dati mai intai clic dreapta pe un monstru, apoi scrieti comanda si monstrul are 1 PV",client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SKI_121,/ski 121 - Leadership,,/ski 121 - Conducere,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SKI_131,/ski 131 - Call Horse,,/ski 131 - Cheama calul,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SKI_124,/ski 124 - Mining,,/ski 124 - Minerit,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SKI_125,/ski 125 - Item Creation,,/ski 125 - Crearea obiectelor,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_INV,/inv - invisibility,,/inv - invizibilitate,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_DC,/dc - kicks someone from the server,,/dc - da pe cineva afara de pe server,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_WARP,/warp - moves the GM to a player,,/warp - muta GM-ul la un jucator,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_TRANSFER,/transfer - moves a player to the GM,,/transfer - muta un jucator la GM,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_X_Y,/go x y - moves to the coordinates x y,,/go x y - muta la coordonatele x y,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_S,/go s - teleport to Mount Sohan,,/go s - teleport la Muntele Sohan,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_T,/go t - teleport to Orc Valley,,/go t - teleport in Valea Orcilor,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_M,/go m - teleport to Hwang Temple,,/go m - teleport la Templul Hwang,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_F,/go f - teleport to Doyyumhwan,,/go f - teleport la Doyyumhwan,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_TR,/go tr - teleport to Ghost Wood,,/go tr - teleport in Padurea Fantomelor,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_TRENT2,/go trent2 - teleport to Red Forest,,/go trent2 - teleport in Padurea Rosie,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_MAX_HP,/set max_hp - raises HP,,/set max_hp - mareste PV,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_MAX_SP,/set max_sp - raises SP,,/set max_sp - mareste PM,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_N,/n - a message at the top of the screen,,/n - un mesaj in partea de sus a ecranului,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_BLOCK_CHAT,/block_chat - blocks the chat for a while,,/block_chat - blocheaza chatul pentru o vreme,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_BLOCK_CHAT_LIST,/block_chat_list - players blocked from chatting,,/block_chat_list - jucatorii blocati pe chat,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_KILL,/kill - kills a player,,/kill - omoara un jucator,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_STUN,/stun - stuns a player,,/stun - ameteste un jucator,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SLOW,/slow - slows a player,,/slow - incetineste un jucator,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_HORSE_LEVEL,/horse_level - raises the horse level,,/horse_level - mareste nivelul calului,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_RESET,/reset - restores HP and SP,,/reset - reface PV si PM,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_D,/go d - teleport to the desert,,/go d - teleport in desert,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PURGE,"/purge - removes monsters, NPCs etc. around you",,"/purge - sterge monstrii, NPC-urile etc. din jurul dvs.",client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_LEVEL,/level - changes the character's level,,/level - schimba nivelul personajului,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_O,/go o - teleport to the OX arena,,/go o - teleport in arena OX,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_WARP_400_600,/warp 400 600 - teleport to the GM arena,,/warp 400 600 - teleport in arena GM,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_WARP_200_100,/warp 200 100 - snow island (the GMs' home),,/warp 200 100 - insula de zapada (casa GM-ilor),client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_WARP_7032_5225,/warp 7032 5225 - teleport to V2,,/warp 7032 5225 - teleport la V2,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_RESP_ALL,/resp all - when /purge has removed an NPC,,/resp all - cand /purge a sters un NPC,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_REPEAT,/ - repeats the last command,,/ - repeta ultima comanda,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GWLIST,/gwlist - shows the guild wars,,/gwlist - arata razboaiele de breasla,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GWCANCEL,/gwcancel - ends the war between the given guilds,,/gwcancel - incheie razboiul dintre breslele date,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_HORSE_RIDE,/horse_ride - calls the horse,,/horse_ride - cheama calul,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_121_59,/setsk 121 59 - Leadership P,,/setsk 121 59 - Conducere P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_124_59,/setsk 124 59 - Mining P,,/setsk 124 59 - Minerit P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_125_59,/setsk 125 59 - Item Creation P,,/setsk 125 59 - Crearea obiectelor P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_126_59,/setsk 126 59 - Shinsoo Language P,,/setsk 126 59 - Limba Shinsoo P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_127_59,/setsk 127 59 - Chunjo Language P,,/setsk 127 59 - Limba Chunjo P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_128_59,/setsk 128 59 - Jinno Language P,,/setsk 128 59 - Limba Jinno P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_129_59,/setsk 129 59 - Polymorph P,,/setsk 129 59 - Polimorf P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_130_30,/setsk 130 30 - horse level 30,,/setsk 130 30 - nivelul calului 30,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_131_10,/setsk 131 10 - Call Horse 100%,,/setsk 131 10 - Cheama calul 100%,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_B,/b - an announcement in a frame,,/b - un anunt intr-un chenar,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_X,/x - day,,/x - zi,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_H,/h - horse information,,/h - informatii despre cal,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_O,/o - observer mode,,/o - mod observator,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_F,/f - ...unknown...,,/f - ...necunoscut...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_U,/u - number of players online,,/u - numarul de jucatori online,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_W,/w - number of players online,,/w - numarul de jucatori online,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_137_59,/setsk 137 59 - Horseback Slash P,,/setsk 137 59 - Taietura calare P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_138_59,/setsk 138 59 - Horse Stump P,,/setsk 138 59 - Tropaitul calului P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_139_59,/setsk 139 59 - Power Wave P,,/setsk 139 59 - Unda de putere P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_140_59,/setsk 140 59 - 4th military horse skill,,/setsk 140 59 - a 4-a abilitate a calului militar,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_POLY_0_3,/poly 0-3 - your character,,/poly 0-3 - personajul dvs.,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_POLY_4,/poly 4 - Warrior,,/poly 4 - Razboinic,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_POLY_6,/poly 6 - Sura (female),,/poly 6 - Sura (femeie),client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_POLY_7,/poly 7 - Shaman,,/poly 7 - Saman,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PRIV_EMPIRE_0_1_ITEM_DROP,/priv_empire 0 1:item_drop - raises the item drop by a percentage for a while,,/priv_empire 0 1:item_drop - mareste dropul de obiecte cu un procent pentru o vreme,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PRIV_EMPIRE_0_2_GOLD_DROP,/priv_empire 0 2:gold_drop - raises the Yang drop by a percentage for a while,,/priv_empire 0 2:gold_drop - mareste dropul de Yang cu un procent pentru o vreme,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PRIV_EMPIRE_0_3_GOLD10_DROP,"/priv_empire 0 3:gold10_drop - raises the Yang drop by a percentage for a while, times 10",,"/priv_empire 0 3:gold10_drop - mareste dropul de Yang cu un procent pentru o vreme, de 10 ori",client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PRIV_EMPIRE_0_4EXP,/priv_empire 0:4exp - raises exp by a percentage for a while,,/priv_empire 0:4exp - mareste exp cu un procent pentru o vreme,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_SURA_BM,-- Sura BM - P skills --,,-- Sura MN - abilitati P --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_SURA_WP,-- Sura WP - P skills --,,-- Sura Arme - abilitati P --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_WOJOWNIK_BODY,-- Warrior Body - P skills --,,-- Razboinic Corp - abilitati P --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_WOJOWNIK_MENTAL,-- Warrior Mental - P skills --,,-- Razboinic Mental - abilitati P --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_SZAMAN_SMOK,-- Shaman Dragon - P skills --,,-- Saman Dragon - abilitati P --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_SZAMAN_HEALER,-- Shaman Healer - P skills --,,-- Saman Vindecare - abilitati P --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_NINJA_DAGGER,-- Ninja Dagger - P skills --,,-- Ninja Pumnal - abilitati P --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_NINJA_ARCHER,-- Ninja Archer - P skills --,,-- Ninja Arcas - abilitati P --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_EXP,/set exp - gives the given amount of exp,,/set exp - da cantitatea data de exp,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_GOLD,/set gold - gives the given amount of Yang,,/set gold - da cantitatea data de Yang,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PKMODE_0,/pkmode 0 - PvP mode Peaceful,,/pkmode 0 - mod PvP Pasnic,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PKMODE_1,/pkmode 1 - PvP mode Aggressive,,/pkmode 1 - mod PvP Agresiv,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PKMODE_2,/pkmode 2 - PvP mode Free,,/pkmode 2 - mod PvP Liber,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_SKILL,/set skill - adds the given number of skill points,,/set skill - adauga numarul dat de puncte de abilitate,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSKILLOTHER_59,/setskillother 59 - gives someone the given skill at P,,/setskillother 59 - da cuiva abilitatea data la P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_R,/r - restores all SP and HP,,/r - reface toate PM si PV,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_A,/a - gives someone the given level,,/a - da cuiva nivelul dat,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_OPEN,/open - starts the OX event,,/open - porneste evenimentul OX,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_MSPD_0,/mspd 0 - 1000 - walking speed,,/mspd 0 - 1000 - viteza de mers,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_MAXHP,/set_maxhp - refills HP,,/set_maxhp - umple PV,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_MAXSP,/set_maxsp - refills SP,,/set_maxsp - umple PM,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_A_LEVEL,/a level - changes a player's level,,/a level - schimba nivelul unui jucator,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_POLYITEM,/polyitem - adds a polymorph marble of the given monster,,/polyitem - adauga o marmura de polimorf a monstrului dat,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_151_7,/setsk 151 7 - Blood of Dragon God,,/setsk 151 7 - Sangele Zeului Dragon,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_152_7,/setsk 152 7 - Benediction of Dragon God,,/setsk 152 7 - Binecuvantarea Zeului Dragon,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_153_7,/setsk 153 7 - Holy Armour,,/setsk 153 7 - Armura sfanta,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_154_7,/setsk 154 7 - Acceleration,,/setsk 154 7 - Accelerare,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_155_7,/setsk 155 7 - Rage of Dragon God,,/setsk 155 7 - Furia Zeului Dragon,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_156_7,/setsk 156 7 - Dragon's Wish,,/setsk 156 7 - Dorinta Dragonului,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_157_7,/setsk 157 7 - ...unknown...,,/setsk 157 7 - ...necunoscut...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_STATE_RUN,/set_state run - ...unknown...,,/set_state run - ...necunoscut...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_STATE_START,/set_state start - ...unknown...,,/set_state start - ...necunoscut...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_STATE_INFORMATION,/set_state information - ...unknown...,,/set_state information - ...necunoscut...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_E_LOTTO_ROUND,/e lotto_round - ...unknown...,,/e lotto_round - ...necunoscut...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_E_LOTTO_DROP,/e lotto-drop - ...unknown...,,/e lotto-drop - ...necunoscut...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GETE,/gete - ...unknown...,,/gete - ...necunoscut...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GETQ,/getq - ...unknown...,,/getq - ...necunoscut...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_RELOAD_Q,/reload q - ...unknown...,,/reload q - ...necunoscut...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_WEAPON,Weapon,,Arma,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_ARMOUR,Armour,,Armura,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_EARRINGS,Earrings,,Cercei,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_BRACELETS,Bracelets,,Bratari,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_NECKLACES,Necklaces,,Coliere,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_SHOES,Shoes,,Pantofi,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_HELMET,Helmet,,Coif,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_SHIELD,Shield,,Scut,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_MATERIAL,Upgrade items,,Obiecte de imbunatatire,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_OTHER,Other items,,Alte obiecte,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PLACE_INVENTORY,Inventory,,Inventar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PLACE_STOREROOM,Storeroom,,Depozit,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_DESERT,Yongbi Desert,,Desertul Yongbi,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_ORC_VALLEY,Orc Valley,,Valea Orcilor,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_SOHAN,Mount Sohan,,Muntele Sohan,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_FIRE_LAND,Doyyumhwan,,Doyyumhwan,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_TELEPORT_SPIDER_V1,Spider Dungeon V1,,Temnita Paianjenilor V1,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_SPIDER_V2,Spider Dungeon V2,,Temnita Paianjenilor V2,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_MONKEY_EASY,Easy Monkey Dungeon,,Temnita Maimutelor usoara,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_MONKEY_NORMAL,Normal Monkey Dungeon,,Temnita Maimutelor normala,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_MONKEY_HARD,Hard Monkey Dungeon,,Temnita Maimutelor grea,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_HWANG,Hwang Temple,,Templul Hwang,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_GHOST_WOOD,Ghost Wood,,Padurea Fantomelor,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_RED_FOREST,Red Forest,,Padurea Rosie,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NONE,(none),,(niciunul),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_ANSWER_RETRY,"No answer from the server, try again.",,"Niciun raspuns de la server, incercati din nou.",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_ANSWER_REOPEN,No answer from the server - open the tab again.,,Niciun raspuns de la server - deschideti din nou fila.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_EMPTY,(empty),,(gol),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ADMIN_TITLE,GM Administration Panel,,Panou de administrare GM,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MAIN_LINE1,Choose a tab above. Every action is,,Alegeti o fila de mai sus. Fiecare actiune este,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MAIN_LINE2,checked again on the server.,,verificata din nou pe server.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MAIN_LINE3,"The panel is a BETA. If you notice bugs,",,"Panoul este in BETA. Daca observati erori,",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MAIN_LINE4,write to OskarPWA on Discord.,,scrieti-i lui OskarPWA pe Discord.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_COMING_SOON,Coming soon.,,In curand.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CHECK,Check,,Verifica,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SKILLS,Skills:,,Abilitati:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GIVE_YANG,Give Yang,,Da Yang,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GIVE_DC,Give Dragon Coins,,Da Monede Dragon,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SET_HORSE_LEVEL,Change horse level,,Schimba nivelul calului,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SET_RANK,Change rank,,Schimba rangul,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ADD_STATS,Add stats,,Adauga statut,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SET_SKILLS,Change skills,,Schimba abilitatile,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CHOOSE,(choose),,(alegeti),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BACK,Back,,Inapoi,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEXT,Next,,Urmatorul,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OWNER,Owner:,,Proprietar:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY,Category:,,Categorie:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ITEM,Item:,,Obiect:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_COUNT,Amount:,,Cantitate:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_DESTINATION,Put into:,,Pune in:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STONES,Spirit Stones (0 = empty):,,Pietre Spirituale (0 = gol):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BONUSES,Bonuses (type 0 = empty):,,Bonusuri (tip 0 = gol):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_VALUE,Value:,,Valoare:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CREATE,Create,,Creeaza,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_POLY_MARBLE,Poly Marble:,,Marmura poly:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CHOOSE_CREATURE,(choose a creature),,(alegeti o creatura),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEED_OWNER_ITEM,Enter the owner and choose an item.,,Introduceti proprietarul si alegeti un obiect.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_CHAR_FIELD,A forbidden character in a field.,,Caracter interzis intr-un camp.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CREATING,Creating...,,Se creeaza...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ITEM_CREATED,Item created.,,Obiect creat.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PLAYER_OFFLINE,The player is not online.,,Jucatorul nu este online.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_VNUM,Wrong item vnum.,,Vnum de obiect gresit.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_ROOM_TARGET,No room at the destination.,,Nu este loc la destinatie.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAFEBOX_CLOSED,The player has not opened the Storeroom this session.,,Jucatorul nu a deschis Depozitul in aceasta sesiune.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MALL_CLOSED,The player has not opened the Item Shop Storage this session.,,Jucatorul nu a deschis Depozitul Item Shop in aceasta sesiune.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_DATA,Data error.,,Eroare de date.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ERROR,Error: %s,,Eroare: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_NEED_CREATURE,Choose a creature.,,Alegeti o creatura.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MARBLE_ADDED,Marble added to the inventory.,,Marmura adaugata in inventar.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_UNKNOWN_CREATURE,Unknown creature.,,Creatura necunoscuta.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_ROOM_INVENTORY,No room in the inventory.,,Nu este loc in inventar.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MARBLE_FAILED,Error: the marble could not be created.,,Eroare: marmura nu a putut fi creata.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ACTION,Action:,,Actiune:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_CHECK,Check status,,Verifica starea,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_TEMP,Temporary ban,,Ban temporar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_PERM,Permanent ban,,Ban permanent,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_UNBAN,Unban,,Anuleaza banul,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_DAYS,Days (temporary ban only):,,Zile (doar ban temporar):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_EXECUTE,Execute,,Executa,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_KICK,Kick from server,,Da afara de pe server,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_NOTE1,A ban takes effect at the NEXT login to the account - it does,,Un ban are efect la URMATOAREA autentificare in cont - nu,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_NOTE2,not end a session already logged in. Kick from server works,,incheie o sesiune deja conectata. Darea afara de pe server,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_NOTE3,only while the player is online RIGHT NOW.,,functioneaza doar cat timp jucatorul este online CHIAR ACUM.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEED_NICK,Enter a nick.,,Introduceti un nick.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_KICKING,Kicking...,,Se da afara...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SENDING,Sending...,,Se trimite...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_SAVED,Saved. Refreshing GM ranks...,,Salvat. Se reimprospateaza rangurile GM...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_PERMISSION,Only an IMPLEMENTOR can change other characters' GM ranks.,,Doar un IMPLEMENTOR poate schimba rangurile GM ale altor personaje.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_SELF_NOTE,A GM can remove their own rank.,,Un GM isi poate elimina propriul rang.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_EMPTY,GM removed. Check the next server start!,,GM eliminat. Verificati la urmatoarea pornire a serverului!,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_EMPTY_NOTE1,The GM list is empty: the next start may grant,,Lista GM este goala: urmatoarea pornire poate acorda,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_EMPTY_NOTE2,IMPLEMENTOR to the admin account's oldest character.,,IMPLEMENTOR celui mai vechi personaj al contului admin.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_RESTART_UNKNOWN,GM removed. Rank recovery on restart was not checked.,,GM eliminat. Recuperarea rangului la repornire nu a fost verificata.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_NO_ANSWER,No reply. Check the rank in the web panel.,,Niciun raspuns. Verificati rangul in panoul web.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_TESTSERVER,test_server mode grants GM to everyone.,,Modul test_server acorda GM tuturor.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ACCOUNT_STATUS,"Account status: %s, access: %s",,"Starea contului: %s, acces: %s",client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GM_PANEL_BAD_ANSWER,Bad answer from the server.,,Raspuns gresit de la server.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_DONE,Done.,,Gata.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_SUCH_PLAYER,The player does not exist.,,Jucatorul nu exista.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_CHAR_ACCOUNT,A forbidden character in the account name.,,Caracter interzis in numele contului.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_DB_ERROR,Database query error.,,Eroare la interogarea bazei de date.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_KICK_SELF,You cannot kick yourself.,,Nu va puteti da afara pe dvs.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_RANK,Rank:,,Rang:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RANK_IMPLEMENTOR,Implementor (Owner),,Implementor (Proprietar),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_REMOVE_GM,Remove GM,,Elimina GM,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ADD_GM_NOTE1,Works at once (no server restart) - refreshes the GM list,,Functioneaza imediat (fara repornirea serverului) - reimprospateaza lista GM,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ADD_GM_NOTE2,on every character already logged in.,,pe fiecare personaj deja conectat.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_CHAR_NICK,A forbidden character in the nick.,,Caracter interzis in nick.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_RANK,Invalid rank.,,Rang invalid.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BOT_ID,Bot ID:,,ID bot:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_EMPIRE,Kingdom:,,Regat:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_REFRESH_LIST,Refresh list,,Reimprospateaza lista,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BOTS_TO_SPAWN,Bots to spawn,,Boti de spawnat,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVED_PLACES,Saved places,,Locuri salvate,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVE,Save,,Salveaza,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_LOAD,Load,,Incarca,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_UNKNOWN_PLACE,Unknown,,Necunoscut,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVING_PLACE,Saving place %d...,,Se salveaza locul %d...,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GM_PANEL_LOADING_PLACE,Loading place %d...,,Se incarca locul %d...,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GM_PANEL_TELEPORTING,Teleporting to: %s,,Teleportare la: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_NEED_PID_COUNT,Enter a PID and an amount.,,Introduceti un PID si o cantitate.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SPAWN_DONE,Done %s/%s. Active in total: %s,,Gata %s/%s. Activi in total: %s,client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:GM_PANEL_BAD_PID_COUNT,Data error - check the PID and the amount.,,Eroare de date - verificati PID-ul si cantitatea.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_EMPIRE,Invalid kingdom.,,Regat invalid.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SEARCHING,Searching...,,Se cauta...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PLAYER_NOT_FOUND,Player not found.,,Jucatorul nu a fost gasit.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SKILLS_OFFLINE,(character offline - no skill preview),,(personaj offline - fara previzualizarea abilitatilor),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MOBS,Mobs:,,Mobi:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CHOOSE_FROM_LIST,(choose from the list),,(alegeti din lista),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_METINS_LABEL,Metins:,,Metine:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_COMMANDS,GM commands,,Comenzi GM,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PURGE,Remove mobs,,Sterge mobii,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_WEAKEN,Mobs 1 hit,,Mobi dintr-o lovitura,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BOSSES,Bosses,,Bossi,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_METINS,Metins,,Metine,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SPAWNING,Spawning...,,Se spawneaza...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BOSSES_SPAWNED,Bosses spawned: %s/%s.,,Bossi spawnati: %s/%s.,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GM_PANEL_METINS_SPAWNED,Metins spawned: %s/%s.,,Metine spawnate: %s/%s.,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GM_PANEL_NEED_ID_COUNT,Enter an ID and an amount.,,Introduceti un ID si o cantitate.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SPAWNED,Spawned %s/%s.,,Spawnati %s/%s.,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GM_PANEL_BAD_ID_COUNT,Data error - check the ID and the amount.,,Eroare de date - verificati ID-ul si cantitatea.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_SUCH_MOB,No mob or Metin with that ID.,,Nu exista mob sau Metin cu acest ID.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RATES_NOTE,(The changes take effect after a server restart (nothing is deleted)),,(Modificarile au efect dupa repornirea serverului (nu se sterge nimic)),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_FETCH_RATES,Fetch the current rates,,Citeste ratele actuale,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RESTART,Restart the server,,Reporneste serverul,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BOT_BEHAVIOUR,Bot behaviour,,Comportamentul botilor,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_WEIGHT_CAPTION,%d - rarely      100 - as in the game      %d - often,,%d - rar      100 - ca in joc      %d - des,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:GM_PANEL_SCRAP_CAPTION,%d - off      %d - every stall keeper,,%d - oprit      %d - fiecare negustor de taraba,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:GM_PANEL_NEED_NUMBER,Enter a number 1-10000.,,Introduceti un numar 1-10000.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVING,Saving...,,Se salveaza...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVED_PCT,Saved (%s%%).,,Salvat (%s%%).,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_VALUE_REFUSED,The server refused the value (1-10000).,,Serverul a refuzat valoarea (1-10000).,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_LOADING,Loading...,,Se incarca...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_REQUESTING_RESTART,Requesting a restart...,,Se solicita repornirea...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RESTART_REQUESTED,Requested - the server restarts its cores itself within several seconds.,,Solicitat - serverul isi reporneste singur nucleele in cateva secunde.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RESTART_FAILED,Error: the restart request could not be saved.,,Eroare: cererea de repornire nu a putut fi salvata.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_LOADED,Loaded.,,Incarcat.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_COMMANDS_TITLE,GM commands:,,Comenzi GM:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AMOUNT,Amount:,,Cantitate:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GIVE,Give,,Da,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CANCEL,Cancel,,Anuleaza,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AMOUNT_YANG,Yang amount:,,Cantitate Yang:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AMOUNT_DC,DC amount:,,Cantitate DC:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEED_AMOUNT,Enter an amount.,,Introduceti o cantitate.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OK_OFFLINE,"OK (player offline, saved in the database).",,"OK (jucator offline, salvat in baza de date).",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OK_NEW_YANG,OK. New Yang balance: %s,,OK. Noul sold Yang: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_BAD_AMOUNT,Data error - check the amount.,,Eroare de date - verificati cantitatea.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OK_DC_ADDED,OK. Dragon Coins added.,,OK. Monede Dragon adaugate.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEW_VALUE,New value:,,Valoare noua:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEW_HORSE_LEVEL,New horse level (0-30):,,Noul nivel al calului (0-30):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEW_RANK_POINTS,New rank points:,,Noile puncte de rang:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEED_VALUE,Enter a value.,,Introduceti o valoare.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OK_HORSE_LEVEL,OK. Horse level: %s,,OK. Nivelul calului: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_BAD_VALUE,Data error - check the value.,,Eroare de date - verificati valoarea.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OK_RANK_POINTS,OK. Rank points: %s,,OK. Puncte de rang: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_STAT,Stat:,,Statut:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STAT_STR,Strength,,Forta,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STAT_VIT,Vitality,,Vitalitate,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STAT_DEX,Dexterity,,Dexteritate,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STAT_INT,Intelligence,,Inteligenta,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_UNKNOWN_STAT,Unknown stat.,,Statut necunoscut.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RETURN,Back,,Inapoi,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SKILL_ROW,%s (now %s/%s):,,%s (acum %s/%s):,client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:GM_PANEL_NEED_LEVEL,Enter a level.,,Introduceti un nivel.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_FORMAT,"Wrong format (e.g. 18, M5, G1, P).",,"Format gresit (de ex. 18, M5, G1, P).",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVED,Saved.,,Salvat.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MUST_BE_ONLINE,The player must be online.,,Jucatorul trebuie sa fie online.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_UNKNOWN_SKILL,Unknown skill.,,Abilitate necunoscuta.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_LOAD_FAILED,The GM panel did not load in this client - see syserr.txt,,Panoul GM nu s-a incarcat in acest client - vedeti syserr.txt,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_FIRST_30,First to level 30,,Primul la nivelul 30,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_FIRST_60,First to level 60,,Primul la nivelul 60,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_FIRST_90,First to level 90,,Primul la nivelul 90,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_TITLE,Bot Management [GM],,Administrarea botilor [GM],client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_TAB_GENERAL,General,,General,client: game texts (localeInfo),check
+c:locale_game:BOT_ADMIN_TAB_LIVE,Bot actions,,Actiunile botilor,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_TAB_MANAGE,Management,,Administrare,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_TAB_ACHIEVEMENTS,Achievements,,Realizari,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_ACTIVE_BOTS,Active bots,,Boti activi,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_ACTIVE_BOTS_NONE,Active bots: -,,Boti activi: -,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_IN_PARTY_NONE,In a party: -,,In grup: -,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_STALLS_NONE,Keeping a stall: -,,Tin o taraba: -,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_REFRESH,Refresh,,Reimprospateaza,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_CHOOSE_BOT,Choose a bot from the list on the left,,Alegeti un bot din lista din stanga,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_REFRESH_LOG,Refresh log,,Reimprospateaza jurnalul,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_KICK,Kick the bot,,Da afara botul,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_RESPAWN,Respawn,,Respawn,client: game texts (localeInfo),check
+c:locale_game:BOT_ADMIN_GIVE_ITEM,Give an item (vnum / amount):,,Da un obiect (vnum / cantitate):,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_SEND,Send,,Trimite,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_ACTIVE_BOTS_COUNT,Active bots: %s,,Boti activi: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:BOT_ADMIN_IN_PARTY,In a party: %s,,In grup: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:BOT_ADMIN_STALLS,Keeping a stall: %s,,Tin o taraba: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:BOT_ADMIN_BOT_DETAILS,"%s (Lv %d) - pid %d, pos (%d, %d), kingdom %d",,"%s (Nv %d) - pid %d, poz (%d, %d), regat %d",client: game texts (localeInfo) | keep: %s %d %d %d %d %d,done
+c:locale_game:BOT_ADMIN_NOTHING_SAID,(this bot has not said anything yet),,(acest bot nu a spus inca nimic),client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_ACHIEVEMENT_N,Achievement #%d,,Realizarea #%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:BOT_ADMIN_WON_BY,Won by: %s,,Castigata de: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:BOT_ADMIN_NOBODY_YET,Nobody yet,,Nimeni inca,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_LOAD_FAILED,The bot admin window did not load in this client - see syserr.txt,,Fereastra de administrare a botilor nu s-a incarcat in acest client - vedeti syserr.txt,client: game texts (localeInfo),done
+c:locale_game:GM_BAN_NEED_REASON,Enter a reason (min. 3 characters),,Introduceti un motiv (min. 3 caractere),client: game texts (localeInfo),done
+c:locale_game:GM_BAN_NEED_DAYS,Enter the length of the ban in days.,,Introduceti durata banului in zile.,client: game texts (localeInfo),done
+c:locale_game:GM_CAPTCHA_CODE,Code: |cffffa826%s|r,,Cod: |cffffa826%s|r,client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:GM_CAPTCHA_TIME_LEFT,Time left: %ds,,Timp ramas: %ds,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GM_CAPTCHA_SOLVED,The code was right. It took %d seconds.,,Codul a fost corect. A durat %d secunde.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GM_CAPTCHA_NO_ATTEMPTS,Every attempt to enter the code was used. (|cffffa826%s|r),,Toate incercarile de a introduce codul au fost folosite. (|cffffa826%s|r),client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:GM_CAPTCHA_WRONG_CODE,Wrong code (|cffffa826%s|r),,Cod gresit (|cffffa826%s|r),client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:GM_CAPTCHA_TIMEOUT,Time is up.,,Timpul a expirat.,client: game texts (localeInfo),done
+c:locale_game:GM_CAPTCHA_CODE_CHANGED,Code changed (|cffffa826%s|r),,Cod schimbat (|cffffa826%s|r),client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:GM_CAPTCHA_LOGGED_OUT,The player logged out.,,Jucatorul s-a deconectat.,client: game texts (localeInfo),done
+c:locale_game:GM_CAPTCHA_STARTED,Started with the code |cffffa826%s|r,,Pornit cu codul |cffffa826%s|r,client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:GM_CAPTCHA_CHECKING,"Checking player %s (pid %s), code: %s",,"Se verifica jucatorul %s (pid %s), cod: %s",client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:TARGET_BUTTON_GM_CHECK,Check,,Verifica,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_NAME_30_DAYS,$ITEM_NAME (30 days),,$ITEM_NAME (30 de zile),client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_NAME_PACK_25,$ITEM_NAME (Pack of 25),,$ITEM_NAME (pachet de 25),client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_NAME_30_HOURS,$ITEM_NAME (30 hours),,$ITEM_NAME (30 de ore),client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_NAME_7_DAYS,$ITEM_NAME (7 days),,$ITEM_NAME (7 zile),client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_PIECES,Pieces: %d,,Bucati: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:ITEMSHOP_CURRENCY_DC,DC,,DC,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CURRENCY_DM,DM,,DM,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_STARTS_IN,Starts in %s  ,,Incepe in %s  ,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:ITEMSHOP_ENDS_IN,Ends in %s  ,,Se termina in %s  ,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:ITEMSHOP_PIECES_BAR,Pieces: %d | ,,Bucati: %d | ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:ITEMSHOP_PRICE_LABEL,Price: ,,Pret: ,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_PROMOTION_ENDS,Promotion ends in %s | ,,Promotia se termina in %s | ,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:MYSHOP_WHISPER_NAME,[Shop],,[Magazin],client: game texts (localeInfo),done
+c:locale_game:BUSY_ACTION_GATHERING,Gathering,,Colectare,client: game texts (localeInfo),done
+c:locale_game:BUSY_ACTION_IN_PROGRESS,In progress,,In desfasurare,client: game texts (localeInfo),done
+c:locale_game:BUSY_ACTION_INTERRUPTED,Interrupted,,Intrerupt,client: game texts (localeInfo),done
+c:locale_game:BUSY_ACTION_FAILED,Failed,,Esuat,client: game texts (localeInfo),done
+c:locale_game:BUSY_ACTION_SUCCESS,Success,,Reusit,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_UNTRADEABLE,Untradeable,,Nu se poate schimba,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_TRADEABLE,Tradeable,,Se poate schimba,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_WEAPONS,Weapons,,Arme,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_ARMOUR,Armour,,Armura,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_OTHER,Other,,Altele,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_SCROLLS_MARBLES,Scrolls and Marbles,,Pergamente si marmure,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_EXCHANGES,Exchanges,,Schimburi,client: game texts (localeInfo),done
+c:locale_game:REPORT_PLAYER_CHOOSE,Choose,,Alege,client: game texts (localeInfo),done
+c:locale_game:CONFIG_RESOLUTION_CUSTOM,Custom,,Personalizat,client: game texts (localeInfo),done
+c:locale_game:CONFIG_SCALE_VALUE,Scale (%s),,Scala (%s),client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_TITLE,GM Panel by Kiciamol,,Panou GM de Kiciamol,client: game texts (localeInfo),done
+c:locale_game:GMP_WINDOW_SIZE,Window size:,,Marimea ferestrei:,client: game texts (localeInfo),done
+c:locale_game:GMP_READY,Ready,,Gata,client: game texts (localeInfo),done
+c:locale_game:GMP_WAITING,Waiting for the server...,,Se asteapta serverul...,client: game texts (localeInfo),done
+c:locale_game:GMP_NO_ANSWER,No answer from the server,,Niciun raspuns de la server,client: game texts (localeInfo),done
+c:locale_game:GMP_SENT,Sent: %s,,Trimis: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_SAVED,Saved,,Salvat,client: game texts (localeInfo),done
+c:locale_game:GMP_SAVED_OFFLINE,Saved (player offline),,Salvat (jucator offline),client: game texts (localeInfo),done
+c:locale_game:GMP_ERR,Error: %s,,Eroare: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_ON,ON,,PORNIT,client: game texts (localeInfo),done
+c:locale_game:GMP_OFF,OFF,,OPRIT,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_PLAYER,Player,,Jucator,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_SELF,Me (GM),,Eu (GM),client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_WORLD,World & events,,Lume si evenimente,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_ITEMS,Items,,Obiecte,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_ACCOUNTS,Accounts,,Conturi,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_SPAWN,Spawn,,Spawn,client: game texts (localeInfo),check
+c:locale_game:GMP_MENU_TELEPORT,Teleport,,Teleport,client: game texts (localeInfo),check
+c:locale_game:GMP_MENU_SERVER,Server,,Server,client: game texts (localeInfo),check
+c:locale_game:GMP_MENU_CMDS,GM commands,,Comenzi GM,client: game texts (localeInfo),done
+c:locale_game:GMP_NICK,Name:,,Nume:,client: game texts (localeInfo),done
+c:locale_game:GMP_SEARCH,Search,,Cauta,client: game texts (localeInfo),done
+c:locale_game:GMP_SEARCH_LABEL,Search:,,Cauta:,client: game texts (localeInfo),done
+c:locale_game:GMP_SEARCH_BONUS,Search bonus:,,Cauta bonus:,client: game texts (localeInfo),done
+c:locale_game:GMP_SEARCH_STONE,Search stone:,,Cauta piatra:,client: game texts (localeInfo),done
+c:locale_game:GMP_BACK,Back,,Inapoi,client: game texts (localeInfo),done
+c:locale_game:GMP_MY_TARGET,My target,,Tinta mea,client: game texts (localeInfo),done
+c:locale_game:GMP_SEARCHING,Searching...,,Se cauta...,client: game texts (localeInfo),done
+c:locale_game:GMP_FOUND,Found: %s,,Gasit: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_NOT_FOUND,No such character,,Nu exista acest personaj,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_BAD_NICK,Invalid name,,Nume invalid,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NO_NICK,Enter a player name,,Introduceti numele unui jucator,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NO_TARGET,Select a player in the game first,,Alegeti mai intai un jucator in joc,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NUMBER,Enter a valid number,,Introduceti un numar valid,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_OFFLINE,The player is offline,,Jucatorul este offline,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NOT_ONLINE,The player is not online,,Jucatorul nu este online,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_EQ_TARGET,Equipment: click the player in the game and choose EQ,,Echipament: dati clic pe jucator in joc si alegeti EQ,client: game texts (localeInfo),done
+c:locale_game:GMP_ONLINE,Online,,Online,client: game texts (localeInfo),check
+c:locale_game:GMP_OFFLINE_SINCE,Offline since %s,,Offline din %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_MAP,Map: %s,,Harta: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_HPMP,HP/SP: %s / %s,,PV/PM: %s / %s,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GMP_INFO_YANG,Yang: %s,,Yang: %s,client: game texts (localeInfo) | keep: %s,check
+c:locale_game:GMP_INFO_ACCOUNT,Account: %s,,Cont: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_STATS,STR %s  VIT %s  DEX %s  INT %s,,FOR %s  VIT %s  DEX %s  INT %s,client: game texts (localeInfo) | keep: %s %s %s %s,done
+c:locale_game:GMP_INFO_POINTS,"Stat points %s, skill %s",,"Puncte de statut %s, abilitati %s",client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GMP_INFO_IP,IP: %s,,IP: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_HORSE,Horse: level %s,,Cal: nivelul %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_RANK,Rank: %s,,Rang: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_EXP,Exp: %s,,Exp: %s,client: game texts (localeInfo) | keep: %s,check
+c:locale_game:GMP_JOB_WARRIOR,Warrior,,Razboinic,client: game texts (localeInfo),done
+c:locale_game:GMP_JOB_NINJA,Ninja,,Ninja,client: game texts (localeInfo),check
+c:locale_game:GMP_JOB_SURA,Sura,,Sura,client: game texts (localeInfo),check
+c:locale_game:GMP_JOB_SHAMAN,Shaman,,Saman,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_MOVE,Movement,,Miscare,client: game texts (localeInfo),done
+c:locale_game:GMP_GOTO_PLAYER,Go to,,Mergi la,client: game texts (localeInfo),done
+c:locale_game:GMP_SUMMON,Summon,,Cheama,client: game texts (localeInfo),done
+c:locale_game:GMP_STATE,State (chat),,Stare (chat),client: game texts (localeInfo),done
+c:locale_game:GMP_AFFECTS,Effects (chat),,Efecte (chat),client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_CHAR,Character,,Personaj,client: game texts (localeInfo),done
+c:locale_game:GMP_VIEW_EQ,View EQ,,Vezi EQ,client: game texts (localeInfo),done
+c:locale_game:GMP_GIVE_ITEM,Give item,,Da obiect,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_M,All to M1,,Toate la M1,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_G,All to G1,,Toate la G1,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_P,All to P,,Toate la P,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_YANG,Yang,,Yang,client: game texts (localeInfo),check
+c:locale_game:GMP_VAL_CASH,Dragon Coins,,Monede Dragon,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_LEVEL,Level,,Nivel,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_RANK,Rank,,Rang,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_HORSE,Horse level,,Nivelul calului,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_SKILLPT,+ Skill points,,+ Puncte de abilitate,client: game texts (localeInfo),done
+c:locale_game:GMP_STAT_STR,Strength,,Forta,client: game texts (localeInfo),done
+c:locale_game:GMP_STAT_VIT,Vitality,,Vitalitate,client: game texts (localeInfo),done
+c:locale_game:GMP_STAT_DEX,Dexterity,,Dexteritate,client: game texts (localeInfo),done
+c:locale_game:GMP_STAT_INT,Intelligence,,Inteligenta,client: game texts (localeInfo),done
+c:locale_game:GMP_GIVE,Give,,Da,client: game texts (localeInfo),done
+c:locale_game:GMP_SET,Set,,Seteaza,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_SKILLS,Skills,,Abilitati,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_HINT,Search an online player to see the skills,,Cautati un jucator online pentru a-i vedea abilitatile,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_EDIT,"Level: 1-19, M1-M10, G1-G10 or P",,"Nivel: 1-19, M1-M10, G1-G10 sau P",client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_NONE,No skills learned,,Nicio abilitate invatata,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_OFFLINE,Skills are shown only for online players,,Abilitatile sunt afisate doar pentru jucatorii online,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_SKILL_LEVEL,"Level: 1-19, M1-M10, G1-G10 or P",,"Nivel: 1-19, M1-M10, G1-G10 sau P",client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_PUNISH,Punishments,,Pedepse,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE_FOR,Mute for:,,Mut pentru:,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE,Mute,,Mut,client: game texts (localeInfo),done
+c:locale_game:GMP_UNMUTE,Unmute,,Anuleaza mut,client: game texts (localeInfo),done
+c:locale_game:GMP_STUN,Stun,,Ameteste,client: game texts (localeInfo),done
+c:locale_game:GMP_SLOW,Slow,,Incetinire,client: game texts (localeInfo),done
+c:locale_game:GMP_KILL,Kill...,,Omoara...,client: game texts (localeInfo),done
+c:locale_game:GMP_KICK,Kick...,,Da afara...,client: game texts (localeInfo),done
+c:locale_game:GMP_BAN_DOTS,Ban...,,Ban...,client: game texts (localeInfo),check
+c:locale_game:GMP_Q_KILL,Kill %s?,,Omorati %s?,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_Q_KICK,Kick %s from the game?,,Il dati afara pe %s din joc?,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_HDR_ME,My character,,Personajul meu,client: game texts (localeInfo),done
+c:locale_game:GMP_INVISIBLE,Invisibility,,Invizibilitate,client: game texts (localeInfo),done
+c:locale_game:GMP_SPY,Spy mode,,Mod spion,client: game texts (localeInfo),done
+c:locale_game:GMP_NO_COOLDOWN,No cooldowns,,Fara timpi de reincarcare,client: game texts (localeInfo),done
+c:locale_game:GMP_IMMORTAL_ON,Immortal ON,,Nemuritor PORNIT,client: game texts (localeInfo),done
+c:locale_game:GMP_IMMORTAL_OFF,Immortal OFF,,Nemuritor OPRIT,client: game texts (localeInfo),done
+c:locale_game:GMP_FULL_HPMP,Full HP/SP,,PV/PM pline,client: game texts (localeInfo),done
+c:locale_game:GMP_FULL_SET,Full set,,Set complet,client: game texts (localeInfo),done
+c:locale_game:GMP_MAX_BONUS,Max bonuses,,Bonusuri maxime,client: game texts (localeInfo),done
+c:locale_game:GMP_ALL_SKILLS,All skills P,,Toate abilitatile P,client: game texts (localeInfo),done
+c:locale_game:GMP_CLEAR_MY_AFFECT,Clear effects,,Sterge efectele,client: game texts (localeInfo),done
+c:locale_game:GMP_HORSE_MAX,Max horse,,Cal maxim,client: game texts (localeInfo),done
+c:locale_game:GMP_REWARP,Rewarp,,Rewarp,client: game texts (localeInfo),check
+c:locale_game:GMP_POLY,Polymorph (vnum):,,Polimorf (vnum):,client: game texts (localeInfo),done
+c:locale_game:GMP_POLY_ON,Transform,,Transforma,client: game texts (localeInfo),done
+c:locale_game:GMP_POLY_OFF,Revert,,Revino,client: game texts (localeInfo),done
+c:locale_game:GMP_POLY_MARBLE,Give marble,,Da marmura,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_AROUND,Around me,,In jurul meu,client: game texts (localeInfo),done
+c:locale_game:GMP_PURGE,Purge mobs,,Sterge mobii,client: game texts (localeInfo),done
+c:locale_game:GMP_PURGE_ALL,Purge all,,Sterge tot,client: game texts (localeInfo),done
+c:locale_game:GMP_WEAKEN,Weaken mobs,,Slabeste mobii,client: game texts (localeInfo),done
+c:locale_game:GMP_PULL,Pull mobs,,Trage mobii,client: game texts (localeInfo),done
+c:locale_game:GMP_MOB_COUNT,Count mobs,,Numara mobii,client: game texts (localeInfo),done
+c:locale_game:GMP_RESPAWN,Respawn,,Respawn,client: game texts (localeInfo),check
+c:locale_game:GMP_HDR_NOTICE,Notice,,Anunt,client: game texts (localeInfo),done
+c:locale_game:GMP_NOTICE_CHAT,In chat,,In chat,client: game texts (localeInfo),check
+c:locale_game:GMP_NOTICE_GM,As GM,,Ca GM,client: game texts (localeInfo),done
+c:locale_game:GMP_NOTICE_BIG,Big,,Mare,client: game texts (localeInfo),done
+c:locale_game:GMP_NOTICE_MAP,This map only,,Doar aceasta harta,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NO_TEXT,Enter the notice text,,Introduceti textul anuntului,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_EVENTS,Events (empire bonus),,Evenimente (bonus regat),client: game texts (localeInfo),done
+c:locale_game:GMP_EV_EXP,Exp %,,Exp %,client: game texts (localeInfo),check
+c:locale_game:GMP_EV_DROP,Drop %,,Drop %,client: game texts (localeInfo),check
+c:locale_game:GMP_EV_YANG,Yang %,,Yang %,client: game texts (localeInfo),check
+c:locale_game:GMP_EV_HOURS,Hours,,Ore,client: game texts (localeInfo),done
+c:locale_game:GMP_EMPIRE_ALL,All,,Toate,client: game texts (localeInfo),done
+c:locale_game:GMP_EMPIRE_SHINSOO,Shinsoo,,Shinsoo,client: game texts (localeInfo),check
+c:locale_game:GMP_EMPIRE_CHUNJO,Chunjo,,Chunjo,client: game texts (localeInfo),check
+c:locale_game:GMP_EMPIRE_JINNO,Jinno,,Jinno,client: game texts (localeInfo),check
+c:locale_game:GMP_EV_START,Start event,,Porneste evenimentul,client: game texts (localeInfo),done
+c:locale_game:GMP_EV_STOP,Stop events,,Opreste evenimentele,client: game texts (localeInfo),done
+c:locale_game:GMP_EV_HINT,"Extra percent, e.g. 100 = double. Empty/0 = unchanged.",,"Procent suplimentar, de ex. 100 = dublu. Gol/0 = neschimbat.",client: game texts (localeInfo),done
+c:locale_game:GMP_EV_STARTED,Event started,,Eveniment pornit,client: game texts (localeInfo),done
+c:locale_game:GMP_EV_STOPPED,Events stopped,,Evenimente oprite,client: game texts (localeInfo),done

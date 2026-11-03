@@ -1,0 +1,701 @@
+id,english,polski,translation,notes,status
+c:locale_interface:CAPTCHA_REQUEST_NEW_IMAGE,Request a new code (up to 2 times),Poproś o nowy kod (max 2 razy),Neuen Code anfordern (bis zu 2-mal),client: window texts (uiScriptLocale),done
+c:locale_interface:CAPTCHA_TIP1,|cfff58742NOTICE!|r Security check!,|cfff58742UWAGA!|r Kontrola bezpieczeństwa!,|cfff58742ACHTUNG!|r Sicherheitsprüfung!,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
+c:locale_interface:CAPTCHA_TIP2,A Game Master has requested verification.,Mistrz Gry wymaga weryfikacji poprzez wpisanie,Ein Game Master hat eine Prüfung angefordert.,client: window texts (uiScriptLocale),done
+c:locale_interface:CAPTCHA_TIP3,Please enter the CAPTCHA code correctly,kodu Captcha. Proszę o jego poprawne,"Bitte gib den CAPTCHA-Code richtig ein,",client: window texts (uiScriptLocale),done
+c:locale_interface:CAPTCHA_TIP4,to continue playing.,wprowadzenie aby móc kontynuować rozgrywkę.,um weiterzuspielen.,client: window texts (uiScriptLocale),done
+c:locale_interface:CAPTCHA_TIP5,Entering an incorrect code may result,Błędne podanie kodu może skutkować,Ein falscher Code kann zu einer,client: window texts (uiScriptLocale),done
+c:locale_interface:CAPTCHA_TIP6,in a permanent account ban.,stałą blokadą konta.,dauerhaften Kontosperre führen.,client: window texts (uiScriptLocale),done
+c:locale_interface:SPRINT_ONBOARDING,Try the Sprint skill!,Sprawdź umiejętność Sprintu!,Probiere die Fertigkeit Sprint aus!,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_TARGET_TITLE,GM: Player Preview,,GM: Spielervorschau,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_TARGET_ACCOUNT_PLACEHOLDER,Account: ACCOUNT_NAME),,Konto: ACCOUNT_NAME),client: window texts (uiScriptLocale),done
+c:locale_interface:GM_TARGET_VIEW,Preview,,Vorschau,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_BAN_DURATION,Ban duration,,Sperrdauer,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_BAN_DAYS_PLACEHOLDER,in days,,in Tagen,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_BAN_WHY,WHY?!,,WARUM?!,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_BAN_REASON_PLACEHOLDER,Enter a reason...,,Grund eingeben...,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_BAN_BUTTON,Ban,,Sperren,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_CAPTCHA_TIME_PLACEHOLDER,Time left: 30s,,Restzeit: 30s,client: window texts (uiScriptLocale),done
+c:locale_interface:GM_CAPTCHA_PLAYER_PLACEHOLDER,Nick: PLAYER_NAME (pid: |cff5af22c99999|r),,Name: SPIELERNAME (pid: |cff5af22c99999|r),client: window texts (uiScriptLocale) | keep: |c...|r colour codes,done
+c:locale_interface:GM_CAPTCHA_CODE_PLACEHOLDER,Code: |cffffa826CAPTCHA_CODE|r,,Code: |cffffa826CAPTCHA_CODE|r,client: window texts (uiScriptLocale) | keep: |c...|r colour codes,check
+c:locale_interface:CAPTCHA_DIALOG_TITLE,Enter the CAPTCHA code,,CAPTCHA-Code eingeben,client: window texts (uiScriptLocale),done
+c:locale_interface:CAPTCHA_TIME_PLACEHOLDER,Left: 45s,,Rest: 45s,client: window texts (uiScriptLocale),done
+c:locale_interface:CAPTCHA_CODE_LABEL,Code:,,Code:,client: window texts (uiScriptLocale),check
+c:locale_interface:CAPTCHA_ATTEMPTS_PLACEHOLDER,Attempts left: 3,,Verbleibende Versuche: 3,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_WINDOW_TITLE,Item Shop,,Itemshop,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_WINDOW_CURRENCY_DC,DC,,DM,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_WINDOW_CURRENCY_DM,DM,,DMa,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_WINDOW_BUY_CONFIRM,Confirm purchase,,Kauf bestätigen,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_WINDOW_BUY_1,Buy 1,,1 kaufen,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_WINDOW_BUY_5,Buy 5,,5 kaufen,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_WINDOW_BUY_10,Buy 10,,10 kaufen,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_ITEM_TITLE_PLACEHOLDER,Enchant Item (Pack of 4),,Gegenstand verzaubern (4er-Pack),client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_ITEM_TIME_PLACEHOLDER,Ends in xxx,,Endet in xxx,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEMSHOP_ITEM_SOLD_OUT,Sold out.,,Ausverkauft.,client: window texts (uiScriptLocale),done
+c:locale_interface:BUSY_ACTION_GATHERING_DOTS,Gathering...,,Sammeln...,client: window texts (uiScriptLocale),done
+c:locale_interface:CRAFTING_FILTER_DEFAULT,Filter,,Filter,client: window texts (uiScriptLocale),check
+c:locale_interface:CONFIG_MUSIC,Music,,Musik,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SOUND_EFFECTS,Sound effects,,Soundeffekte,client: window texts (uiScriptLocale),done
+c:locale_interface:CONFIG_SCALE_PLACEHOLDER,Scale (1.0),,Skalierung (1.0),client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_SETTINGS,Settings,,Einstellungen,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_RULES,Rules,,Regeln,client: window texts (uiScriptLocale),done
+c:locale_interface:LOGIN_VERSION_PLACEHOLDER,Version: xxx,,Version: xxx,client: window texts (uiScriptLocale),check
+c:locale_interface:POTION_RECHARGE_SLOT,Elixir slot,,Elixierplatz,client: window texts (uiScriptLocale),done
+c:locale_interface:PRIVATE_SHOP_NAME_PLACEHOLDER,Enter a shop name...,,Shopnamen eingeben...,client: window texts (uiScriptLocale),done
+c:locale_interface:SHOP_TIME_LEFT_PLACEHOLDER,Left 23:59:59,,Noch 23:59:59,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEM_EXCHANGE_WINDOW_TITLE,Exchange,,Tausch,client: window texts (uiScriptLocale),done
+c:locale_interface:ITEM_EXCHANGE_WINDOW_RESULT,Result,,Ergebnis,client: window texts (uiScriptLocale),done
+c:locale_interface:CHARACTER_BONUSES_BUTTON,Bonuses,,Boni,client: window texts (uiScriptLocale),done
+c:locale_game_ikashop:IKASHOP_MONEY_INPUT_DIALOG_TITLE,Insert Price,,Preis eingeben,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_QUESTION_DIALOG_CONTINUE_TEXT,Continue,,Weiter,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_QUESTION_DIALOG_CANCEL_TEXT,Cancel,,Abbrechen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_BOARD_TITLE,Trade Hub,,Handelszentrale,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_SAFEBOX_OPEN_BUTTON_TEXT,Open Safebox Board,,Shoplager öffnen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_PRIVATE_OFFER_OPEN_BUTTON_TEXT,Open Private Offers Board,,Private Angebote öffnen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_AUCTION_OPEN_BUTTON_TEXT,Open Auction Board,,Auktionen öffnen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_SEARCH_SHOP_BUTTON_TEXT,Open Search Shop (|Eshortcut/ctrl.tga|e + S),,Shopsuche öffnen (|Eshortcut/ctrl.tga|e + S),client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_DURATION_INCREASE_BUTTON_TEXT,Restore Duration,,Dauer erneuern,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_CANCEL_SHOP_BUTTON_TEXT,Cancel Shop,,Shop schließen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_SHOP_EXPIRED_DURATION,|cFFFF9999|hExhausted duration|r,,|cFFFF9999|hDauer abgelaufen|r,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_INVALID_ITEM_PRICE,Inserted an invalid price.,,Ungültiger Preis eingegeben.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_INCREASE_DURATION_NO_MONEY,You don't have enough money to complete the request.,,Du hast nicht genug Yang für diese Anfrage.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_INCREASE_DURATION_QUESTION,The operation will cost |cFFFFFF99|h{}|r. Do you want to continue?,,Der Vorgang kostet |cFFFFFF99|h{}|r. Möchtest du fortfahren?,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_CANNOT_SELL_ITEM,You cannot sell this item.,,Du kannst diesen Gegenstand nicht verkaufen.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_CANNOT_SELL_ITEM_EXPIRED_SHOP,The store is closed. You cannot sell items.,,Der Shop ist geschlossen. Du kannst keine Gegenstände verkaufen.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_CANNOT_SELL_ITEM_NO_SPACE,You have run out of available space. Unable to sell the item.,,Kein Platz mehr frei. Der Gegenstand kann nicht verkauft werden.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_SELL_ITEM_TOOLTIP,|Eshortcut/mright.tga|e Sell Item,,|Eshortcut/mright.tga|e Gegenstand verkaufen,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_EDIT_ITEM_TOOLTIP,|Eshortcut/mleft.tga|e + |Eshortcut/shift.tga|e Edit Price,,|Eshortcut/mleft.tga|e + |Eshortcut/shift.tga|e Preis bearbeiten,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_REMOVE_ITEM_TOOLTIP,|Eshortcut/mright.tga|e Remove Item,,|Eshortcut/mright.tga|e Gegenstand entfernen,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_CANCEL_SHOP_QUESTION,All items that cannot be placed in your Inventory will be moved to the Shopping Safebox. Do You want to continue?,,"Alle Gegenstände, die nicht ins Inventar passen, werden ins Shoplager verschoben. Möchtest du fortfahren?",client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_BUSINESS_NO_AUCTION_CREATE_AUCTION_QUESTION,You do not own any auctions. Would you like to create an Auction now?,,Du hast keine Auktionen. Möchtest du jetzt eine Auktion erstellen?,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SAFEBOX_BOARD_TITLE,Shopping Safebox,,Shoplager,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SAFEBOX_CLAIM_MONEY_BUTTON_TEXT,Claim Money,,Yang abholen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SAFEBOX_CLAIM_ITEMS_BUTTON_TEXT,Claim Items,,Gegenstände abholen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SAFEBOX_CLAIM_ITEM_TOOLTIP,|Eshortcut/mleft.tga|e Claim Item,,|Eshortcut/mleft.tga|e Gegenstand abholen,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_SAFEBOX_CLAIM_ALL_ITEMS_QUESTION,Do you want to transfer all items to your inventory?,,Möchtest du alle Gegenstände ins Inventar verschieben?,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_BOARD_TITLE,Auction,,Auktion,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_CREATE_BOARD_TITLE,Select Item,,Gegenstand wählen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_CREATE_REMOVE_ITEM,|Eshortcut/mleft.tga|e Remove Item,,|Eshortcut/mleft.tga|e Gegenstand entfernen,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ACUTION_CREATE_CREATE_BUTTON,Create,,Erstellen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ACUTION_CANCEL_AUCTION_BUTTON,Cancel,,Abbrechen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_CANNOT_CANCEL,You cannot cancel the auction if it has received bids.,,"Du kannst die Auktion nicht abbrechen, wenn bereits Gebote vorliegen.",client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_CANCEL_AUCTION_QUESTION,The item will be transferred to the Shopping Safebox. Are you sure you want to close the auction?,,Der Gegenstand wird ins Shoplager verschoben. Möchtest du die Auktion wirklich beenden?,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_MIN_BID,Min. Raise,,Min. Erhöhung,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_MY_AUCTION_CREATION_DURATION,|cFFFFFF88Three Days|h|r,,|cFFFFFF88Drei Tage|h|r,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_DATETIME_TODAY,Today {:02d}:{:02d},,Heute {:02d}:{:02d},client: offline shop and market | keep: {:02d},done
+c:locale_game_ikashop:IKASHOP_DATETIME_YESTERDAY,Yesterday {:02d}:{:02d},,Gestern {:02d}:{:02d},client: offline shop and market | keep: {:02d},done
+c:locale_game_ikashop:IKASHOP_DATETIME_TOMORROW,Tomorrow {:02d}:{:02d},,Morgen {:02d}:{:02d},client: offline shop and market | keep: {:02d},done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_BOARD_TITLE,Search Shop,,Shopsuche,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SEARCH_BUTTON_TEXT,Search,,Suchen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_AUCTION_LIST_BUTTON_TEXT,Auctions,,Auktionen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_HISTORY_BUTTON_TEXT,History,,Verlauf,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_RESET_FILTER_BUTTON_TEXT,Cancel Filters,,Filter löschen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_HEADER,Type,,Art,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_HEADER,Sub-type,,Unterart,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SELECT_AN_ELEMENT,Select...,,Wählen...,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_WEAPON,Weapon,,Waffe,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_ARMOR,Armor,,Rüstung,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_JEWEL,Jewel,,Schmuck,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_COSTUME,Costume,,Kostüm,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_PET,Pet,,Haustier,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_MOUNT,Mount,,Reittier,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_ALCHEMY,Alchemy,,Alchemie,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_BOOK,Book,,Buch,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_STONE,Stone,,Stein,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_MINERALS,Mineral,,Mineral,client: offline shop and market,check
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_TYPE_FISH,Fish,,Fisch,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_SWORD,Sword,,Schwert,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_TWOHANDED,Two Hand Sword,,Zweihänder,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_BLADE,Blade,,Klinge,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_DAGGER,Dagger,,Dolch,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_BOW,Bow,,Bogen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_BELL,Bell,,Glocke,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_FAN,Fan,,Fächer,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_WEAPON_CLAW,Claw,,Klaue,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_ARMOR_WARRIOR,Warrior Armor,,Kriegerrüstung,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_ARMOR_SURA,Sura Armor,,Sura-Rüstung,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_ARMOR_ASSASSIN,Ninja Armor,,Ninja-Rüstung,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_ARMOR_SHAMAN,Shaman Armor,,Schamanenrüstung,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_ARMOR_WOLFMAN,Wolfman Armor,,Lykaner-Rüstung,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_JEWEL_HELM,Helm,,Helm,client: offline shop and market,check
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_JEWEL_SHIELD,Shield,,Schild,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_JEWEL_EAR,Earrings,,Ohrringe,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_JEWEL_NECK,Necklace,,Halskette,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_JEWEL_WRIST,Wrist,,Armband,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_JEWEL_SHOES,Shoes,,Schuhe,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_COSTUME_BODY,Body,,Körper,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_COSTUME_WEAPON,Weapon,,Waffe,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_COSTUME_HAIR,Hairs,,Frisuren,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_COSTUME_SASH,Sash,,Schärpe,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_PET_EGGS,Eggs,,Eier,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_SUBTYPE_PET_SEALS,Seal,,Siegel,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_PRICE_MIN_HEADER,Price Min:,,Preis min.:,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_PRICE_MAX_HEADER,Price Max:,,Preis max.:,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_LEVEL_MIN_HEADER,Lv. Min:,,St. min.:,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_LEVEL_MAX_HEADER,Lv. Max:,,St. max.:,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_ABSORB_HEADER,Sash Abs.:,,Schärpe Abs.:,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ALCHEMY_GRADE_HEADER,Alchemy Grade:,,Alchemie-Grad:,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE0,10% or more,,10% oder mehr,client: offline shop and market | keep: % o,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE1,15% or more,,15% oder mehr,client: offline shop and market | keep: % o,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE2,20% or more,,20% oder mehr,client: offline shop and market | keep: % o,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_SASH_GRADE_VALUE3,25% only,,nur 25%,client: offline shop and market | keep: % o | shown as written: % is a percent sign here,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_NORMAL,Normal,,Normal,client: offline shop and market,check
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_BRILLIANT,Brillant,,Brillant,client: offline shop and market,check
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_RARE,Rare,,Selten,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_ANCIENT,Ancient,,Antik,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_DRAGON_SOUL_GRADE_LEGENDARY,Legendary,,Legendär,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_BUY_BUTTON_TEXT,Buy,,Kaufen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_OFFER_BUTTON_TEXT,Offer,,Angebot,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_OPEN_SHOP_BUTTON_TEXT,Open Shop,,Shop öffnen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_OPEN_AUCTION_BUTTON_TEXT,Open Auction,,Auktion öffnen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_NO_FILTER_USED,Use at least one filter to start the search.,,"Benutze mindestens einen Filter, um die Suche zu starten.",client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_ITEM_NAME_AUCTION,(Auction),,(Auktion),client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_HISTORY_WHAT_FORMAT,Searched Name : |cFFFFFF99|h{}|r (found {} items),,Gesuchter Name: |cFFFFFF99|h{}|r ({} Gegenstände gefunden),client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_SEARCH_SHOP_HISTORY_INFO_BUTTON_TEXT,Show Filter Informations,,Filterinformationen anzeigen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SHOP_NAME_FORMAT,{}'s Shop,,Shop von {},client: offline shop and market | keep: {},done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_BUY_ITEM_TOOLTIP,|Eshortcut/mleft.tga|e Buy,,|Eshortcut/mleft.tga|e Kaufen,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_EXPIRED,The shop is no longer available.,,Der Shop ist nicht mehr verfügbar.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_OFFER_ITEM_TOOLTIP,|Eshortcut/shift.tga|e + |Eshortcut/mleft.tga|e Private Offer,,|Eshortcut/shift.tga|e + |Eshortcut/mleft.tga|e Privates Angebot,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_BUY_ITEM_QUESTION,Do you want to buy |cFFFFFF99|h{}|r sold at |cFFFFFF99|h{}|r?,,Möchtest du |cFFFFFF99|h{}|r für |cFFFFFF99|h{}|r kaufen?,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_INVALID_OFFER_PRICE,You entered an invalid price.,,Du hast einen ungültigen Preis eingegeben.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_OFFER_MUST_BE_LOWER_THAN_PRICE,The bid must be lower than the sale price.,,Das Angebot muss unter dem Verkaufspreis liegen.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_OFFER_MUST_BE_HIGHER_THAN_PCT_OF_PRICE,The bid cannot be lower than |cFFFFFF99|h{}%|r of the sale price.,,Das Angebot darf nicht unter |cFFFFFF99|h{}%|r des Verkaufspreises liegen.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_OFFER_NOT_ENOUGH_MONEY,You do not have enough money to offer this amount.,,"Du hast nicht genug Yang, um diesen Betrag anzubieten.",client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SHOP_GUEST_MAKE_OFFER_ITEM_PRICE_TOO_LOW,Cannot make private offers for item that costs less than 10.000 yangs.,,Für Gegenstände unter 10.000 Yang sind keine privaten Angebote möglich.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ACUTION_GUEST_RAISE_AUCTION_BUTTON,Raise,,Bieten,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_GUEST_MIN_RAISE_REQUIRED,You cannot offer less than the min. raise.,,Du kannst nicht weniger als die min. Erhöhung bieten.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_GUEST_NOT_ENOUGH_MONEY,You do not have enough money to offer this amount.,,"Du hast nicht genug Yang, um diesen Betrag anzubieten.",client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_AUCTION_GUEST_NAME_FORMAT,{}'s Auction,,Auktion von {},client: offline shop and market | keep: {},done
+c:locale_game_ikashop:IKASHOP_AUCTION_LIST_BOARD_TITLE,Auction List,,Auktionsliste,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_OFFER_LIST_BOARD_TITLE,Offer List,,Angebotsliste,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_OFFER_LIST_DENY_OFFER_BUTTON_TEXT,Deny,,Ablehnen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_OFFER_LIST_CANCEL_OFFER_BUTTON_TEXT,Cancel,,Abbrechen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_OFFER_LIST_ACCEPT_OFFER_BUTTON_TEXT,Accept,,Annehmen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_OFFER_LIST_ACCEPT_OFFER_QUESTION,By accepting the offer you will receive the price offered in exchange for the item. Do you want to accept the offer?,,"Nimmst du das Angebot an, erhältst du den angebotenen Preis für den Gegenstand. Möchtest du das Angebot annehmen?",client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_OFFER_LIST_CANCEL_OFFER_QUESTION,The offer will be deleted. Do you want to continue?,,Das Angebot wird gelöscht. Möchtest du fortfahren?,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_GENERIC_LIST_EMPTY_HEADER,The list is Empty.,,Die Liste ist leer.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_HISTORY_FILTER_LIST_BOARD_TITLE,Filters History,,Filterverlauf,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_SAFEBOX_RECV_ITEM,Item inserted into the shopping safebox.,,Gegenstand ins Shoplager gelegt.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_PRIVATE_OFFER_CREATED,Offer successfully created.,,Angebot erfolgreich erstellt.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_DO_NOW,You cannot perform this operation right now.,,Diesen Vorgang kannst du gerade nicht ausführen.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_CREATE_SHOP_ON_WRONG_PLACE,You cannot create a shop in this place.,,An diesem Ort kannst du keinen Shop erstellen.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_GENERIC_ERROR,Something went wrong. (Generic error),,Etwas ist schiefgelaufen. (Allgemeiner Fehler),client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_BUY_NOT_ENOUGH_MONEY,You do not have enough yang to complete the purchase.,,Du hast nicht genug Yang für den Kauf.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_BUY_PRICE_CHANGED,"The price has been changed, please check the new price and try again.",,Der Preis hat sich geändert. Prüfe den neuen Preis und versuche es erneut.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_MOVE_CLOSED_SHOP,You cannot move a closed shop.,,Einen geschlossenen Shop kannst du nicht verschieben.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_ADD_USED_ITEM,This item is not available for sale at this time.,,Dieser Gegenstand kann derzeit nicht verkauft werden.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_ADD_SEALED_ITEM,This item is not available for sale at this time.,,Dieser Gegenstand kann derzeit nicht verkauft werden.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_SEARCH_COOLDOWN_STILL_ACTIVED,Wait 5 seconds between searches.,,Warte 5 Sekunden zwischen den Suchen.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CREATE_OFFER_COOLDOWN_STILL_ACTIVED,Wait 10 seconds between one offer created and another.,,Warte 10 Sekunden zwischen zwei Angeboten.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_SAFEBOX_CANNOT_GET_ITEM,You do not have enough space to collect the item.,,"Du hast nicht genug Platz, um den Gegenstand abzuholen.",client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_CREATE_AUCTION_WRONG_PLACE,You cannot create an auction in this place.,,An diesem Ort kannst du keine Auktion erstellen.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_CREATE_AUCTION_ITEM_SEALED,This item is not available for sale at this time.,,Dieser Gegenstand kann derzeit nicht verkauft werden.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_PLEASE_SLOW_DOWN,Too many actions in a short time. Please wait a while and try again.,,Zu viele Aktionen in kurzer Zeit. Warte etwas und versuche es erneut.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_PENDING_PRIVATE_OFFER_LIMIT,You have reached the limit of pending private offers.,,Du hast das Limit offener privater Angebote erreicht.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_PENDING_PRIVATE_OFFER_ALREADY_EXIST,You have already made an offer for this item.,,Du hast für diesen Gegenstand bereits ein Angebot gemacht.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_SAFEBOX_FULL,Your shopping safebox is too full. To proceed you must first lighten it.,,Dein Shoplager ist zu voll. Leere es zuerst.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_SERVER_POPUP_MESSAGE_CANNOT_RAISE_OVER_YOURSELF,You are already the highest bidder in this auction.,,Du bist bereits Höchstbietender in dieser Auktion.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_PRO_SHOP_GUEST_BUY_ALL_ITEM_TOOLTIP,|Eshortcut/ctrl.tga|e + |Eshortcut/mleft.tga|e Buy all those at this price,,|Eshortcut/ctrl.tga|e + |Eshortcut/mleft.tga|e Alle zu diesem Preis kaufen,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_SHOP_GUEST_BUY_ALL_ITEMS_QUESTION,Do you want to buy all |cFFFFFF99|h{}|r sold at |cFFFFFF99|h{}|r?,,Möchtest du alle |cFFFFFF99|h{}|r für |cFFFFFF99|h{}|r kaufen?,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_BOARD_TITLE,Notifications,,Benachrichtigungen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_SOLD_ITEM,You sold |cFFFFFF99|h{}|r for |cFFFFFF99|h{}|r.,,Du hast |cFFFFFF99|h{}|r für |cFFFFFF99|h{}|r verkauft.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_NEW_OFFER_ON_ITEM,You have received an offer for |cFFFFFF99|h{}|r.,,Du hast ein Angebot für |cFFFFFF99|h{}|r erhalten.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_SHOP_EXPIRED,Your shop has been closed!,,Der Shop wurde geschlossen!,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_ITEM_EXPIRED,Your |cFFFFFF99|h{}|r has expired and has been removed from your shop.,,Dein |cFFFFFF99|h{}|r ist abgelaufen und wurde aus deinem Shop entfernt.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_AUCTION_NEW_OFFER,Your auction of |cFFFFFF99|h{}|r has received a new bid.,,Deine Auktion für |cFFFFFF99|h{}|r hat ein neues Gebot erhalten.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_AUCTION_EXPIRED,Your auction of |cFFFFFF99|h{}|r has expired.,,Deine Auktion für |cFFFFFF99|h{}|r ist abgelaufen.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_AUCTION_SOLD,Your |cFFFFFF99|h{}|r auction has ended. |cFFFFFF99|h{}|r purchased the item for |cFFFFFF99|h{}|r yangs.,,Deine Auktion für |cFFFFFF99|h{}|r ist beendet. |cFFFFFF99|h{}|r hat den Gegenstand für |cFFFFFF99|h{}|r Yang gekauft.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_SELLER_OFFER_CANCELLED,The offer for |cFFFFFF99|h{}|r was cancelled by the bidder.,,Das Angebot für |cFFFFFF99|h{}|r wurde vom Bieter zurückgezogen.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_BUYER_OFFER_DENIED,Your offer of |cFFFFFF99|h{}|r for |cFFFFFF99|h{}|r was rejected by the seller.,,Dein Angebot von |cFFFFFF99|h{}|r für |cFFFFFF99|h{}|r wurde vom Verkäufer abgelehnt.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_BUYER_OFFER_ACCEPTED,Your offer of |cFFFFFF99|h{}|r for |cFFFFFF99|h{}|r has been accepted.,,Dein Angebot von |cFFFFFF99|h{}|r für |cFFFFFF99|h{}|r wurde angenommen.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_BUYER_OFFER_EXPIRED,Your offer of |cFFFFFF99|h{}|r for |cFFFFFF99|h{}|r has been canceled.,,Dein Angebot von |cFFFFFF99|h{}|r für |cFFFFFF99|h{}|r wurde storniert.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_BUYER_AUCTION_BUY,You won the auction of |cFFFFFF99|h{}|r by paying |cFFFFFF99|h{}|r.,,Du hast die Auktion für |cFFFFFF99|h{}|r gewonnen und |cFFFFFF99|h{}|r bezahlt.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_BUYER_AUCTION_RAISE,|cFFFFFF99|h{}|r has outbid you for |cFFFFFF99|h{}|r.,,|cFFFFFF99|h{}|r hat dich bei |cFFFFFF99|h{}|r überboten.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_NOTIFICATION_BUYER_AUCTION_LOST,|cFFFFFF99|h{}|r won the auction of |cFFFFFF99|h{}|r for |cFFFFFF99|h{}|r.,,|cFFFFFF99|h{}|r hat die Auktion für |cFFFFFF99|h{}|r für |cFFFFFF99|h{}|r gewonnen.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_NOTIFICATION_OPEN_BUTTON_TEXT,Open Notification Board,,Benachrichtigungen öffnen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_REMOVE_ALL_SIMILAR_ITEM_TOOLTIP,|Eshortcut/mright.tga|e + |Eshortcut/ctrl.tga|e Remove all similar Items,,|Eshortcut/mright.tga|e + |Eshortcut/ctrl.tga|e Alle ähnlichen Gegenstände entfernen,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_REMOVE_ALL_SIMILAR_ITEMS_QUESTION,All |cFFFFFF99|h{}|r will be moved to Inventory or Shopping Safebox. Do You want to continue?,,Alle |cFFFFFF99|h{}|r werden ins Inventar oder Shoplager verschoben. Möchtest du fortfahren?,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_EDIT_ALL_SIMILAR_ITEM_TOOLTIP,|Eshortcut/mleft.tga|e + |Eshortcut/ctrl.tga|e Edit Price of all similar Items.,,|Eshortcut/mleft.tga|e + |Eshortcut/ctrl.tga|e Preis aller ähnlichen Gegenstände bearbeiten.,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_PRO_SHOP_RANGE_VIEW_HEADER,Shop view,,Shopanzeige,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_MOVE_SHOP_BUTTON_TEXT,Shop Repositioning,,Shop verschieben,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_MOVE_SHOP_NO_MONEY,You don't have enough money.,,Du hast nicht genug Yang.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_PRO_BUSINESS_MOVE_SHOP_QUESTION,Do you want to move the shop to your current location? The operation will cost |cFFFFFF99|h{}|r.,,Möchtest du den Shop an deinen aktuellen Ort verschieben? Der Vorgang kostet |cFFFFFF99|h{}|r.,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_REQUESTING,Average Price: |cFF99FF99|hRequesting...|r,,Durchschnittspreis: |cFF99FF99|hWird abgefragt...|r,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_NOT_AVAILABLE,Average Price: |cFFFF9999|hNot available|r,,Durchschnittspreis: |cFFFF9999|hNicht verfügbar|r,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_VALUE,Average Price: |cFFFFFF99|h{}|r,,Durchschnittspreis: |cFFFFFF99|h{}|r,client: offline shop and market | keep: {}; |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_EMOJI,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,,|Eikashop/ultimate/average.png|e |cFFFFFF99|h{}|r,client: offline shop and market | keep: {}; |c...|r colour codes,check
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PRICE_AVERAGE_NOT_AVAILABLE_EMOJI,|Eikashop/ultimate/average.png|e |cFFFF9999|hUnknown|r,,|Eikashop/ultimate/average.png|e |cFFFF9999|hUnbekannt|r,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_SHOP_SKIN_BOARD_TITLE,Shop Decorations,,Shop-Dekorationen,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_SHOP_SKIN_NAME,Shop Decoration n.{},,Shop-Dekoration Nr. {},client: offline shop and market | keep: {},done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_SHOP_SKIN_USAGE_QUESTION,Using it the item will be destroyed and change the appearance of your shop for 15 days. Do you want to continue?,,Beim Benutzen wird der Gegenstand zerstört und das Aussehen deines Shops für 15 Tage geändert. Möchtest du fortfahren?,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_SHOP_PRIVATE_KEY_MULTIUSE_TOOLTIP,|Eshortcut/mright.tga|e + |Eshortcut/ctrl.tga|e Use x10,,|Eshortcut/mright.tga|e + |Eshortcut/ctrl.tga|e 10x benutzen,client: offline shop and market | keep: |c...|r colour codes,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PREMIUM_AFFECT_DESCRIPTION,Search Shop Premium,,Shopsuche Premium,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_SORT_BY_PRICE_CHECKBOX,Sort by price,,Nach Preis sortieren,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_SORT_BY_PRICE_PREMIUM_FEATURE,The Search Shop Premium is required to use this feature.,,Für diese Funktion ist Shopsuche Premium erforderlich.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_PRIVATE_SHOP_KEY_SHOP_FULL_UNLOCKED,You have already unlocked all the slots in the shop.,,Du hast bereits alle Plätze im Shop freigeschaltet.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_SEARCH_SHOP_PREMIUM_ALREADY_ACTIVE,Search Shop Premium is already active.,,Shopsuche Premium ist bereits aktiv.,client: offline shop and market,done
+c:locale_game_ikashop:IKASHOP_ULTIMATE_NOTIFICATION_SELLER_DECORATION_EXPIRED,Your |cFFFFFF99|hShop Decoration|r is expired.,,Deine |cFFFFFF99|hShop-Dekoration|r ist abgelaufen.,client: offline shop and market | keep: |c...|r colour codes,done
+c:wiki_game:WIKI_100,Level 101+,Poziom 101+,Stufe 101+,client: the in-game Wiki,done
+c:wiki_game:WIKI_1_75,Lv 1-75,Poziom 1-75,Lv 1-75,client: the in-game Wiki,done
+c:wiki_game:WIKI_76_100,Lv 76-100,Poziom 76-100,Lv 76-100,client: the in-game Wiki,done
+c:wiki_game:WIKI_ACCESSORIES,Accessories,Biżuteria i pasy,Accessoires,client: the in-game Wiki,done
+c:wiki_game:WIKI_ALCHEMY,Dragon Stone Alchemy,Alchemia,Drachenstein-Alchemie,client: the in-game Wiki,done
+c:wiki_game:WIKI_ALCHEMY_NOTE,"The Alchemist and the Dragon Stone window (refining, upgrading)","Alchemik i okno Smoczych Kamieni (szlifowanie, ulepszanie)","Der Alchemist und das Drachenstein-Fenster (Schleifen, Verbessern)",client: the in-game Wiki,done
+c:wiki_game:WIKI_ALL,All,Wszystkie,Alle,client: the in-game Wiki,done
+c:wiki_game:WIKI_ALL_CLASSES,All classes,Wszystkie,Alle Klassen,client: the in-game Wiki,done
+c:wiki_game:WIKI_ALL_ITEMS,Items,Przedmioty,Gegenstände,client: the in-game Wiki,done
+c:wiki_game:WIKI_AVAIBLE_AT,Available from,Dostępny u,Erhältlich bei,client: the in-game Wiki,done
+c:wiki_game:WIKI_BACK,Back,Wstecz,Zurück,client: the in-game Wiki,done
+c:wiki_game:WIKI_BIOLOG,Biolog,Biolog,Biologe,client: the in-game Wiki,done
+c:wiki_game:WIKI_BOSSES,Bosses,Bossowie,Bosse,client: the in-game Wiki,done
+c:wiki_game:WIKI_BOSSES_EVENT,Event Bosses,Bossowie eventowi,Event-Bosse,client: the in-game Wiki,done
+c:wiki_game:WIKI_CATEGORY,Category,Kategoria,Kategorie,client: the in-game Wiki,done
+c:wiki_game:WIKI_CHESTS,Chests,Skrzynie,Truhen,client: the in-game Wiki,done
+c:wiki_game:WIKI_CHESTS_ALTERNATIVE,Alternative chests,Pozostałe skrzynie,Weitere Truhen,client: the in-game Wiki,done
+c:wiki_game:WIKI_CHESTS_BOSS,Boss chests,Skrzynie bossów,Boss-Truhen,client: the in-game Wiki,done
+c:wiki_game:WIKI_CHESTS_EVENT,Event chests,Skrzynie eventowe,Event-Truhen,client: the in-game Wiki,done
+c:wiki_game:WIKI_CHEST_ALL,all at once,wszystko naraz,alles auf einmal,client: the in-game Wiki,done
+c:wiki_game:WIKI_CHEST_ONE,one at random,losowo jeden,eins zufällig,client: the in-game Wiki,done
+c:wiki_game:WIKI_COMMON_NOTE,"This lists assigned mob drops. Other drops depend on level, rank, quests and world settings.","Lista obejmuje drop przypisany potworowi. Inny drop zależy od poziomu, rangi, zadań i ustawień świata.","Hier stehen die zugewiesenen Monster-Drops. Andere Drops hängen von Stufe, Rang, Quests und Welteinstellungen ab.",client: the in-game Wiki,done
+c:wiki_game:WIKI_CONTENTS,Contents,Zawartość,Inhalt,client: the in-game Wiki,done
+c:wiki_game:WIKI_CONTENT_INFO,Content of %s,Zawartość: %s,Inhalt von %s,client: the in-game Wiki | keep: %s,done
+c:wiki_game:WIKI_COSTUME,Costume,Kostiumy,Kostüm,client: the in-game Wiki,done
+c:wiki_game:WIKI_COSTUMES,Costumes,Kostiumy,Kostüme,client: the in-game Wiki,done
+c:wiki_game:WIKI_COSTUME_HAIR,Hair,Fryzury,Frisur,client: the in-game Wiki,done
+c:wiki_game:WIKI_COSTUME_SASH,Sash,Szarfa,Schärpe,client: the in-game Wiki,done
+c:wiki_game:WIKI_CREDIT,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,Wiki: Kiciamol | Metin2 Singleplayer,client: the in-game Wiki,check
+c:wiki_game:WIKI_DAMAGE,Damage: %d - %d,Obrażenia: %d - %d,Schaden: %d - %d,client: the in-game Wiki | keep: %d %d,done
+c:wiki_game:WIKI_DROP,Drop,Drop,Drop,client: the in-game Wiki,check
+c:wiki_game:WIKI_DROPLIST_INFO,Droplist of %s,Drop z: %s,Dropliste von %s,client: the in-game Wiki | keep: %s,done
+c:wiki_game:WIKI_DROP_COUNT,%d items,%d przedmiotów,%d Gegenstände,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_DS_ADD,Additional (%d-%d drawn from the list):,Dodatkowe (losowo %d-%d z listy):,Zusätzlich (%d-%d aus der Liste gezogen):,client: the in-game Wiki | keep: %d %d,done
+c:wiki_game:WIKI_DS_BASIC,Basic (always):,Podstawowe (zawsze):,Grundwerte (immer):,client: the in-game Wiki,done
+c:wiki_game:WIKI_DS_BONUS,Bonuses,Bonusy,Boni,client: the in-game Wiki,done
+c:wiki_game:WIKI_DS_NO_ADD,Additional: none at this grade,Dodatkowe: brak na tej klasie kamienia,Zusätzlich: keine bei dieser Stufe,client: the in-game Wiki,done
+c:wiki_game:WIKI_DS_RANGE,value +0 > +%d,wartość +0 > +%d,Wert +0 > +%d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_DS_STEP,step %d,stopień %d,Stufe %d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_EQUIPMENT,Equipment,Ekwipunek,Ausrüstung,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_ARMOR,Armor,Zbroje,Rüstung,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_BELT,Belt,Pasy,Gürtel,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_BRACELET,Bracelet,Bransolety,Armband,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_EARRING,Earrings,Kolczyki,Ohrringe,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_HELMET,Helmets,Hełmy,Helme,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_NECKLACE,Necklace,Naszyjniki,Halskette,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_SHIELD,Shields,Tarcze,Schilde,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_SHOES,Shoes,Buty,Schuhe,client: the in-game Wiki,done
+c:wiki_game:WIKI_EQUIPMENT_TALISMAN,Talisman,Talizmany,Talisman,client: the in-game Wiki,check
+c:wiki_game:WIKI_EQUIPMENT_WEAPONS,Weapons,Bronie,Waffen,client: the in-game Wiki,done
+c:wiki_game:WIKI_EXP,Experience,Doświadczenie,Erfahrung,client: the in-game Wiki,done
+c:wiki_game:WIKI_EXPAND,Expand,Powiększ,Aufklappen,client: the in-game Wiki,done
+c:wiki_game:WIKI_FOOTER,Base chances from the server files - Ctrl+Alt+RMB opens the page in the browser,Szanse bazowe z plików serwera · Ctrl+Alt+PPM otwiera stronę w przeglądarce,Grundchancen aus den Serverdateien - Strg+Alt+RMT öffnet die Seite im Browser,client: the in-game Wiki,done
+c:wiki_game:WIKI_GOLD_EXP,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,Yang: %d - %d | EXP: %d,client: the in-game Wiki | keep: %d %d %d,check
+c:wiki_game:WIKI_HP,Max. HP: %d,Maks. PZ: %d,Max. TP: %d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_IMPROVEMENT_INFO,Improvement info by %s,Ulepszanie: %s,Verbesserungsinfo von %s,client: the in-game Wiki | keep: %s,done
+c:wiki_game:WIKI_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,check
+c:wiki_game:WIKI_ITEMSHOP_DROP,%s - %s,%s - %s,%s - %s,client: the in-game Wiki | keep: %s %s,done
+c:wiki_game:WIKI_ITEM_NAME,Item Name,Nazwa przedmiotu,Gegenstandsname,client: the in-game Wiki,done
+c:wiki_game:WIKI_JOB_ASSASSIN,Ninja,Ninja,Ninja,client: the in-game Wiki,check
+c:wiki_game:WIKI_JOB_SHAMAN,Shaman,Szaman,Schamane,client: the in-game Wiki,done
+c:wiki_game:WIKI_JOB_SURA,Sura,Sura,Sura,client: the in-game Wiki,check
+c:wiki_game:WIKI_JOB_WARRIOR,Warrior,Wojownik,Krieger,client: the in-game Wiki,done
+c:wiki_game:WIKI_LEVEL_MOB_TEXT,Level %d,Poziom %d,Stufe %d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_LEVEL_SHORT,Level %d,Poziom %d,Stufe %d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_LEVEL_TEXT,Level %d - Refine Range %d~%d,Poziom %d - zakres ulepszeń %d~%d,Stufe %d - Verbesserung %d~%d,client: the in-game Wiki | keep: %d %d %d,done
+c:wiki_game:WIKI_LEVEL_TEXT2,Level %d~%d - Refine Range %d~%d,Poziom %d~%d - zakres ulepszeń %d~%d,Stufe %d~%d - Verbesserung %d~%d,client: the in-game Wiki | keep: %d %d %d %d,done
+c:wiki_game:WIKI_LIVES_ON,Found on:,Występuje:,Vorkommen:,client: the in-game Wiki,done
+c:wiki_game:WIKI_LOAD_ERROR,Cannot open Wikipedia. Error details were saved to syserr.txt.,Nie można otworzyć Wikipedii. Szczegóły błędu zapisano w syserr.txt.,Wikipedia kann nicht geöffnet werden. Details stehen in syserr.txt.,client: the in-game Wiki,done
+c:wiki_game:WIKI_METINSTONE,Metinstone,Kamienie Metin,Metinstein,client: the in-game Wiki,done
+c:wiki_game:WIKI_MOB_NAME,Mob Name,Nazwa potwora,Monstername,client: the in-game Wiki,done
+c:wiki_game:WIKI_MONSTER,Monster,Potwory,Monster,client: the in-game Wiki,check
+c:wiki_game:WIKI_MOUNT,Mount,Wierzchowce,Reittier,client: the in-game Wiki,done
+c:wiki_game:WIKI_NO_DROP,No drop of its own - only the common drop by level.,Brak własnego dropu - tylko wspólny drop z poziomu.,Kein eigener Drop - nur der allgemeine Drop nach Stufe.,client: the in-game Wiki,done
+c:wiki_game:WIKI_ORIGIN,Origin,Pochodzenie,Herkunft,client: the in-game Wiki,done
+c:wiki_game:WIKI_ORIGIN_TITLE,Where to get it,Skąd zdobyć,Woher bekommen,client: the in-game Wiki,done
+c:wiki_game:WIKI_OTHER_DROP_WAY,Other acquisition paths,Pozostałe sposoby zdobycia,Andere Wege,client: the in-game Wiki,done
+c:wiki_game:WIKI_PET,Pet,Zwierzaki,Haustier,client: the in-game Wiki,done
+c:wiki_game:WIKI_REFINE_COST,Cost: %d Yang | Chance: %d%%,Koszt: %d Yang | Szansa: %d%%,Kosten: %d Yang | Chance: %d%%,client: the in-game Wiki | keep: %d %d,done
+c:wiki_game:WIKI_REFINE_UNKNOWN,Recipe data is unavailable.,Brak danych o tej recepturze.,Keine Rezeptdaten verfügbar.,client: the in-game Wiki,done
+c:wiki_game:WIKI_RESET,Clear,Wyczyść,Leeren,client: the in-game Wiki,done
+c:wiki_game:WIKI_RESULTS,Results: %d,Wyniki: %d,Ergebnisse: %d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_SEARCH,Search,Szukaj,Suchen,client: the in-game Wiki,done
+c:wiki_game:WIKI_SEARCH_HINT,Search...,Szukaj...,Suchen...,client: the in-game Wiki,done
+c:wiki_game:WIKI_SECTION_ITEMS,ITEMS,PRZEDMIOTY,GEGENSTÄNDE,client: the in-game Wiki,done
+c:wiki_game:WIKI_SECTION_WORLD,WORLD,ŚWIAT,WELT,client: the in-game Wiki,done
+c:wiki_game:WIKI_SHINING,Shining,Efekty,Glanz,client: the in-game Wiki,done
+c:wiki_game:WIKI_SHRINK,Shrink,Pomniejsz,Zuklappen,client: the in-game Wiki,done
+c:wiki_game:WIKI_SNAPSHOT_NOTE,Wiki data comes with the client. Target and chest drop previews use the current world.,Dane Wiki z paczki klienta. Podgląd dropu w oknie celu i skrzyni uwzględnia bieżący świat.,Wiki-Daten kommen mit dem Client. Ziel- und Truhen-Drops zeigen die aktuelle Welt.,client: the in-game Wiki,done
+c:wiki_game:WIKI_SORT,Sort:,Sortuj:,Sortieren:,client: the in-game Wiki,done
+c:wiki_game:WIKI_SORT_LEVEL,level,poziom,Stufe,client: the in-game Wiki,done
+c:wiki_game:WIKI_SORT_NAME,name,nazwa,Name,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_CHEST,Chest,Skrzynia,Truhe,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_COMMON,Rank and level dependent drop,Drop zależny od rangi i poziomu,Drop nach Rang und Stufe,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_CRAFT,Crafting,Wytwarzanie,Herstellung,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_FISHING,Fishing,Łowienie ryb,Angeln,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_ITEMSHOP,ItemShop,ItemShop,ItemShop,client: the in-game Wiki,check
+c:wiki_game:WIKI_SOURCE_MOB,Monster,Potwór,Monster,client: the in-game Wiki,check
+c:wiki_game:WIKI_SOURCE_QUEST,Quest or reward,Zadanie lub nagroda,Quest oder Belohnung,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_REFINE,Refining,Ulepszanie,Verbesserung,client: the in-game Wiki,done
+c:wiki_game:WIKI_SOURCE_SHOP,NPC shop,Sklep NPC,NPC-Laden,client: the in-game Wiki,done
+c:wiki_game:WIKI_STATICS_INFO,Statistics: %s,Statystyki: %s,Statistik: %s,client: the in-game Wiki | keep: %s,done
+c:wiki_game:WIKI_STATICS_INFO_DEFENSES,Defenses:,Odporności:,Verteidigung:,client: the in-game Wiki,done
+c:wiki_game:WIKI_STATICS_INFO_DMG,Min. Dmg:%d | Max. Dmg:%d | Max HP: %d,Min. obrażenia: %d | Maks. obrażenia: %d | Maks. PZ: %d,Min. Schaden:%d | Max. Schaden:%d | Max. TP: %d,client: the in-game Wiki | keep: %d %d %d,done
+c:wiki_game:WIKI_STATICS_INFO_TYPE,Genus: %s | Sub-genus: %s,Rodzaj: %s | Podrodzaj: %s,Gattung: %s | Untergattung: %s,client: the in-game Wiki | keep: %s %s,done
+c:wiki_game:WIKI_STATICS_INFO_YNG,Min. Yang:%d | Max. Yang:%d | EXP: %d,Min. Yang: %d | Maks. Yang: %d | EXP: %d,Min. Yang:%d | Max. Yang:%d | EXP: %d,client: the in-game Wiki | keep: %d %d %d,check
+c:wiki_game:WIKI_STAT_EXP,Exp,Dośw.,EXP,client: the in-game Wiki,done
+c:wiki_game:WIKI_STAT_HP,HP,PŻ,TP,client: the in-game Wiki,done
+c:wiki_game:WIKI_STAT_LEVEL,Level,Poziom,Stufe,client: the in-game Wiki,done
+c:wiki_game:WIKI_STAT_SOURCES,Sources,Źródła,Quellen,client: the in-game Wiki,done
+c:wiki_game:WIKI_STAT_YANG,Yang,Yang,Yang,client: the in-game Wiki,check
+c:wiki_game:WIKI_SYSTEMS,Systems,Systemy,Systeme,client: the in-game Wiki,done
+c:wiki_game:WIKI_TAG_BOSS,BOSS,BOSS,BOSS,client: the in-game Wiki,check
+c:wiki_game:WIKI_TAG_KING,KING,KRÓL,KÖNIG,client: the in-game Wiki,done
+c:wiki_game:WIKI_TAG_METIN,METIN,METIN,METIN,client: the in-game Wiki,check
+c:wiki_game:WIKI_TAG_MINIBOSS,MINIBOSS,MINIBOSS,MINIBOSS,client: the in-game Wiki,check
+c:wiki_game:WIKI_TITLE,Wiki System,Wikipedia,Wiki-System,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_ACCESSORY,Jewellery,Biżuteria,Schmuck,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_ALCHEMY,Alchemy,Alchemia,Alchemie,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_ARMOR,Equipment,Ekwipunek,Ausrüstung,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_CHEST,Chest,Skrzynia,Truhe,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_COSTUME,Costume,Kostium,Kostüm,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_QUEST,Quest item,Przedmiot questowy,Quest-Gegenstand,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_UNIQUE,Unique,Unikat,Einzigartig,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_USE,Usable,Używalny,Verwendbar,client: the in-game Wiki,done
+c:wiki_game:WIKI_TYPE_WEAPON,Weapon,Broń,Waffe,client: the in-game Wiki,done
+c:wiki_game:WIKI_UNAVAILABLE,Wikipedia requires a complete client update.,Wikipedia wymaga pełnej aktualizacji klienta.,Das Wiki benötigt ein vollständiges Client-Update.,client: the in-game Wiki,done
+c:wiki_game:WIKI_UNAVAILABLE_TEXT,The Costumes section is not available yet.,Sekcja Kostiumy jest na razie niedostępna.,Der Bereich Kostüme ist noch nicht verfügbar.,client: the in-game Wiki,done
+c:wiki_game:WIKI_UNAVAILABLE_TITLE,Unavailable,Niedostępne,Nicht verfügbar,client: the in-game Wiki,done
+c:wiki_game:WIKI_UNKOWN_ITEM,Unknown item: %d,Nieznany przedmiot: %d,Unbekannter Gegenstand: %d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_UNKOWN_MOB,Unknown Mob: %d,Nieznany potwór: %d,Unbekanntes Monster: %d,client: the in-game Wiki | keep: %d,done
+c:wiki_game:WIKI_UPGRADE_COSTS,Next Item,Następny poziom,Nächster Gegenstand,client: the in-game Wiki,done
+c:wiki_game:WIKI_YANG_COSTS,Yang costs,Koszt Yang,Yang-Kosten,client: the in-game Wiki,done
+c:wiki_game:WIKI_LEVEL_NOTE,Chance for a character at most 1 level above the monster.,Szansa dla postaci najwyżej 1 poziom wyżej od potwora.,Chance für Figuren höchstens 1 Stufe über dem Monster.,client: the in-game Wiki,done
+c:wiki_game:WIKI_LEVEL_TABLE,"5 levels above: 92%, 10: 50% (boss, Metin: 30%), 15+: 1%.","Wyżej o 5 poz.: 92%, o 10: 50% (boss, metin: 30%), o 15+: 1%.","5 Stufen darüber: 92%, 10: 50% (Boss, Metin: 30%), ab 15: 1%.",client: the in-game Wiki,done
+c:wiki_game:WIKI_GUIDES,Guides,Poradniki,Guides,client: the in-game Wiki,check
+c:wiki_game:WIKI_GUIDE_HINT,Rules and tips,Zasady i wskazówki,Rules and tips,client: the in-game Wiki,check
+c:wiki_game:WIKI_GUIDE_SNAPSHOT,Local beta rules,Zasady lokalnej wersji testowej,Local beta rules,client: the in-game Wiki,check
+c:wiki_game:WIKI_HAIRSTYLES,Hairstyles,Fryzury,Hairstyles,client: the in-game Wiki,check
+c:wiki_game:WIKI_LOCATIONS,Spawn locations,Miejsca występowania,Spawn locations,client: the in-game Wiki,check
+c:wiki_game:WIKI_MORE_POINTS,and %d more locations,i %d innych punktów,and %d more locations,client: the in-game Wiki | keep: %d,check
+c:wiki_game:WIKI_SORT_GUIDE,order,kolejność,order,client: the in-game Wiki,check
+c:wiki_game:WIKI_SOURCE_WHEEL,Wheel of Fortune (ItemShop),Koło Fortuny (ItemShop),Wheel of Fortune (ItemShop),client: the in-game Wiki,check
+c:wiki_game:WIKI_EVENTS,Event,Event,Event,client: the in-game Wiki,check
+c:wiki_game:WIKI_OTHER,Other,Inne,Other,client: the in-game Wiki,check
+c:wiki_game:WIKI_SOURCE_EVENT,Server event (when active),Event serwerowy (gdy aktywny),Server event (when active),client: the in-game Wiki,check
+c:wiki_game:WIKI_MOONLIGHT,Moonlight event: drops depend on the event settings.,Event Blasku Księżyca: drop zależy od ustawień eventu.,Moonlight event: drops depend on the event settings.,client: the in-game Wiki,check
+c:wiki_game:WIKI_TANAKA,Yonah: 1 Tanaka Ear for 1 Purple Ebony Chest.,Yonah: 1 Ucho Tanaki za 1 Fioletową Hebanową Szkatułkę.,Yonah: 1 Tanaka Ear for 1 Purple Ebony Chest.,client: the in-game Wiki,check
+c:pbt:6be29a6de503,[Fishing] ,[Lowienie] ,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5ad3706308ce,combat settings,ustawienia walki,Kampfeinstellungen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a3138da54f72,Could not save the Auto Hunt shortcut.,Nie udało się zapisać skrótu Auto Łowów.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b6c37aaf88b8,Auto Hunt - toggle on / off,Auto Łowy - włącz / wyłącz,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:1c1ba981a6a0,Works with the window closed.,Działa także przy zamkniętym oknie.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:845abf2b9eee,Auto Hunt - shortcut,Auto Łowy - skrót,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:52b4f13a5a39,Drag onto a quickbar slot.,Przeciągnij na wybrane pole paska.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:8c778e7cd1f6,The assigned key starts / stops hunting.,Klawisz skrótu włącza / wyłącza łowy.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7c043c232308,Autologin: again in %d s (try %d),Autologin: ponownie za %d s (próba %d),Autologin: erneut in %d s (Versuch %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:77dfd2135f4d,Cancel,Anuluj,Abbrechen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e9579d7c6045,Summons %s. A seal for 7 days of use (168 hours). The time runs only while the seal is worn and stops when you log out. It gives no extra bonuses. Right click: put it on or take it off.,Przywoluje %s. Pieczec na 7 dni uzywania (168 godzin). Czas uplywa tylko przy zalozonej pieczeci i zatrzymuje sie po wylogowaniu. Nie daje dodatkowych bonusow. PPM: zaloz lub zdejmij.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:a47f8adcd225,For game masters only.,Dostepna wylacznie dla GM.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ab7b4e435ccd,The time counts while the seal is worn.,Czas naliczany przy zalozonej pieczeci.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2b9418aefafc,Right click: put the seal on or take it off.,PPM: zaloz / zdejmij pieczec.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:4283cc417472,A seal for game masters only.,Pieczec dostepna wylacznie dla GM.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:e8bd86936448,Lasts: %d min,Czas dzialania: %d min,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:e3f59d402540,Movement speed +%d,Szybkosc ruchu +%d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:48ee2f6c9dc1,Attack +%d%%,Atak +%d%%,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:25664e0e3cb9,Experience +%d%%,Doswiadczenie +%d%%,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:ec7cc1838f39,Level %d,Poziom %d,Stufe %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:b1c76ffc943d,Coordinates: %.2f %.2f %.2f | Texture memory: %d MB,Wspolrzedne: %.2f %.2f %.2f | Pamiec tekstur: %d MB,Koordinaten: %.2f %.2f %.2f | Texturspeicher: %d MB,"client: our windows (companion, Auto Hunt, status lines) | keep: %.2f %.2f %.2f %d",done
+c:pbt:8e1f3ea2f38b,Limit: %d FPS | Logic: %d Hz | Work: %.2f ms | Present: %.2f ms | Wait: %.2f ms,Limit: %d FPS | Logika: %d Hz | Praca: %.2f ms | Present: %.2f ms | Pauza: %.2f ms,Limit: %d FPS | Logik: %d Hz | Arbeit: %.2f ms | Present: %.2f ms | Warten: %.2f ms,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %.2f %.2f %.2f",done
+c:pbt:42a069f5dbd3,Render: %d FPS | Render time: %.2f (%d) ms | Triangles: %d,Obraz: %d FPS | Renderowanie: %.2f (%d) ms | Trojkaty: %d,Bild: %d FPS | Renderzeit: %.2f (%d) ms | Dreiecke: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %.2f %d %d",done
+c:pbt:e0049a66519c,On,Wł.,An,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e3de5ab0ca4c,Off,Wył.,Aus,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:977473534cff,In storage: %d (with your inventory: %d),W magazynie: %d (razem z ekwipunkiem: %d),Im Lager: %d (mit deinem Inventar: %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:93f89e6ca207,The game server is older than the client and crafting does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i wytwarzanie nie sięga do magazynu - zaktualizuj serwer.,"Der Spielserver ist älter als der Client, und das Herstellen greift nicht auf dein Lager zu - aktualisiere den Server.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bfe0eea5d810,The storage did not answer in time - try again.,Magazyn nie odpowiedział na czas - spróbuj jeszcze raz.,Das Lager hat nicht rechtzeitig geantwortet - versuche es noch einmal.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0a3465fb1b3d,From the storage into your inventory: %s,Z magazynu do ekwipunku: %s,Aus dem Lager ins Inventar: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:30e3eece8c0b,Crafting takes materials from your storage only at an NPC in a first or second village.,Materiały z magazynu bierze tylko wytwarzanie u NPC w pierwszej i drugiej wiosce.,Das Herstellen nimmt Materialien aus deinem Lager nur bei einem NPC im ersten oder zweiten Dorf.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:67ceb5da793e,Crafting reaches into your storage once you have opened it at the storekeeper (with its password).,"Wytwarzanie sięga do magazynu dopiero, gdy raz otworzysz go u Dozorcy (hasłem).","Das Herstellen greift erst auf dein Lager zu, wenn du es einmal beim Lagerverwalter (mit Passwort) geöffnet hast.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22da85e39458,Not enough materials - even with your storage.,Za mało materiałów - nawet razem z magazynem.,Nicht genug Materialien - auch nicht mit dem Lager.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:11ba9614e761,No room in your inventory for the materials from your storage.,Brak miejsca w ekwipunku na materiały z magazynu.,Kein Platz im Inventar für die Materialien aus dem Lager.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:76f26a2fe775,Your storage is busy - close other windows and try again.,Magazyn jest teraz zajęty - zamknij inne okna i spróbuj jeszcze raz.,Dein Lager ist gerade beschäftigt - schließe andere Fenster und versuche es noch einmal.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2fcaa9b3fe31,You cannot do that while dead.,Nie możesz tego zrobić po śmierci.,"Das kannst du nicht, während du tot bist.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a9319a6c2c6b,Your storage is not available now.,Magazyn jest teraz niedostępny.,Dein Lager ist gerade nicht verfügbar.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4287907dd0c8,The database did not confirm the save - open your storage at the storekeeper and check.,Baza nie potwierdziła zapisu - otwórz magazyn u Dozorcy i sprawdź.,Die Datenbank hat das Speichern nicht bestätigt - öffne dein Lager beim Lagerverwalter und prüfe es.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1aeeb6edee77,The materials could not be taken from your storage - nothing was moved.,Nie udało się wziąć materiałów z magazynu - nic nie zostało przeniesione.,Die Materialien konnten nicht aus dem Lager genommen werden - nichts wurde verschoben.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c06f646d9939,Your storage does not have enough of it either: %s,Magazyn też nie ma dosyć: %s,Dein Lager hat auch nicht genug davon: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:2585bcdd1947,Price: low to high,Cena: rosnaco,Preis: aufsteigend,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d1fbecd113d3,Price: high to low,Cena: malejaco,Preis: absteigend,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ab5d6fd63898,Price per piece,Cena za sztuke,Preis pro Stück,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:257c1c4b5f9a,Name A-Z,Nazwa A-Z,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:851085e076f7,Seller A-Z,Sprzedawca A-Z,Verkäufer A-Z,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f0e6ea4e867f,Quantity: low to high,Ilosc: rosnaco,Menge: aufsteigend,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8fc208b783fb,Quantity: high to low,Ilosc: malejaco,Menge: absteigend,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f3eff5cf2cf1,Max. HP,Max PZ,Max. TP,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8c3e41c399c1,Max. SP,Max PM,Max. MP,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:636fe3e9cb87,Vitality (VIT),Witalnosc (WIT),Vitalität (VIT),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a7281c4f2ca8,Intelligence (INT),Inteligencja (INT),Intelligenz (INT),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6094f7875c9b,Strength (STR),Sila (STR),Stärke (STR),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8d36f7565c7f,Dexterity (DEX),Zrecznosc (DEX),Geschicklichkeit (DEX),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8022d81e1777,Skill damage,Obrazenia umiejetnosci,Fertigkeitsschaden,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9d65da196313,Casting speed,Szybkosc zaklec,Zaubergeschwindigkeit,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1859d2ecc83a,HP regeneration,Regeneracja PZ,TP-Regeneration,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dc639c9f8c21,SP regeneration,Regeneracja PM,MP-Regeneration,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1c9fc679ecbc,Poison chance,Szansa na otrucie,Vergiftungschance,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4cbe056eea2b,Stun chance,Szansa na omdlenie,Ohnmachtschance,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b67fe86797b7,Slow chance,Szansa na spowolnienie,Verlangsamungschance,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0bc5da17b8c1,Strong against humans,Bonus vs ludzie,Stark gegen Menschen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e725b7de0e1b,Strong against animals,Bonus vs zwierzeta,Stark gegen Tiere,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:14eeaba651b2,Strong against orcs,Bonus vs orki,Stark gegen Orks,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:add50ad3790e,Strong against mystics,Bonus vs mistycy,Stark gegen Esoterische,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6a7baaaf6972,Strong against undead,Bonus vs nieumarli,Stark gegen Untote,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:72dc316c9115,Strong against devils,Bonus vs diably,Stark gegen Teufel,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8ed3ab48c971,SP drain chance,Szansa na odebranie PM,MP-Entzugschance,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7b9622cd8c25,Resistance: swords,Odpornosc: miecze,Widerstand: Schwerter,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b4f08eb14c54,Resistance: two-handed,Odpornosc: dwureczne,Widerstand: Zweihänder,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:22bad5489e1d,Resistance: daggers,Odpornosc: sztylety,Widerstand: Dolche,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5d6ef4e2edd3,Resistance: bells,Odpornosc: dzwony,Widerstand: Glocken,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4bd43dce2d93,Resistance: fans,Odpornosc: wachlarze,Widerstand: Fächer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4ede4c7f92cf,Reflect melee attacks,Odbicie ciosow,Nahkampfangriffe reflektieren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0a7762fec465,Reflect arrows,Odbicie strzal,Pfeile reflektieren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:42f7e65f7bc7,Poison resistance,Odpornosc: trucizna,Giftwiderstand,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:735dd8dd9f14,Slow immunity,Odpornosc na spowolnienie,Immunität gegen Verlangsamung,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:06d345299406,Max. stamina,Maks. wytrzymalosc,Max. Ausdauer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c397934852e4,Stamina regeneration,Regeneracja wytrzymalosci,Ausdauerregeneration,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3cde07e488af,Skill duration,Czas umiejetnosci,Fertigkeitsdauer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5b5aafe6b9e2,Experience,Doswiadczenie,Erfahrung,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cf60b418759b,Average damage,Srednie obrazenia,Durchschnittsschaden,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0e3525a8d295,Attack speed,Szybkosc ataku,Angriffsgeschwindigkeit,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5ca5d6e2ac48,Movement speed,Szybkosc ruchu,Bewegungsgeschwindigkeit,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:76708ebaa8bd,Attack value,Wartosc ataku,Angriffswert,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a154f2bb86d0,Critical hit chance,Szansa na krytyk,Chance auf kritischen Treffer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f9cb5d9c7d36,Piercing hit chance,Szansa na przebicie,Chance auf durchbohrenden Treffer,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:82dd2cdf36f9,Block,Blok,Blocken,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5f1a7e1f69f3,Dodge,Unik,Ausweichen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:76011ffe0cfe,Stun immunity,Odpornosc na omdlenia,Immunität gegen Ohnmacht,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7f5845c604b4,Resistance: arrows,Odpornosc: strzaly,Widerstand: Pfeile,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:edaa00bf94d6,Resistance: magic,Odpornosc: magia,Widerstand: Magie,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d3d4b20be256,HP absorption,Kradziez PZ,TP-Absorption,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:600f7953e765,SP absorption,Kradziez PM,MP-Absorption,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a585108c5260,Yang drop bonus,Bonus do yang,Yang-Drop-Bonus,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:60c837fe2ac2,%s (max. %d),%s (maks. %d),,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",new
+c:pbt:7ceca51fcafe,Buy,Kup,Kaufen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:63fc03bc6359,- none -,- brak -,- keine -,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:96e578211aa2,Filters,Filtry,Filter,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:810bcfb5e00b,Bonus filters,Filtry bonusow,Bonusfilter,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6f88322a15e6,"Up to 5 bonuses at once, each with a minimum value:","Do 5 bonusow naraz, kazdy z minimalnym progiem:","Bis zu 5 Boni gleichzeitig, jeweils mit Mindestwert:","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:080b8441c2fa,Min. number of bonuses:,Min. liczba bonusow:,Min. Anzahl Boni:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0d5fda95e394,Ranges,Zakresy,Bereiche,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7eb0cee888ab,Min,Od,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:a95e85aed563,Max,Do,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7c7f5d049fad,Level,Poziom,Stufe,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e261b29a7d99,Item count,Liczba sztuk,Anzahl,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5d223669691d,Refine (+0..+9),Ulepszenie (+0..+9),Verbesserung (+0..+9),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:41ff354b2b33,Class,Klasa,Klasse,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:945eda39d82d,Warrior,Wojownik,Krieger,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6f6596271da8,Shaman,Szaman,Schamane,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8a754c61c2ce,Gender,Plec,Geschlecht,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b7c17e97d3d6,Female,Kobieta (K),Weiblich,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3f3a489c72de,Male,Mezczyzna (M),Männlich,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:cfea419c3b4e,Apply,Zastosuj,Anwenden,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:719ea396ad92,Clear,Wyczysc,Leeren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e5e1fba99a26,Enter a number or leave the field empty.,Wpisz liczbe albo pozostaw puste pole.,Gib eine Zahl ein oder lass das Feld leer.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0d2108ba7d8c,"Invalid range (min <= max, refine 0..9).","Niepoprawny zakres (min <= max, ulepszenie 0..9).","Ungültiger Bereich (min <= max, Verbesserung 0..9).","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0e774b481000,Bonus minimum: 1..32767 (empty = 1).,Prog bonusu: 1..32767 (puste = 1).,Bonus-Minimum: 1..32767 (leer = 1).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:75b98050b8fe,Bonus count: 0..7 (empty = 0).,Liczba bonusow: 0..7 (puste = 0).,Anzahl Boni: 0..7 (leer = 0).,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:01ebc3233b38,Seller: %s,Sprzedawca: %s,Verkäufer: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:0f5b883c5608,Bonuses: %d,Bonusy: %d,Boni: %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:a7ba36524805,%s / pc.,%s / szt.,%s / Stk.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:7e194c858b1b,Flea Market,Dom Towarowy,Flohmarkt,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:71dd2eff9b4d,Name:,Nazwa:,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bce06414177f,Search,Szukaj,Suchen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6d38465ea070,Clear item name,Wyczysc nazwe przedmiotu,Gegenstandsnamen leeren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:56e3badc4e6c,Refresh,Odswiez,Aktualisieren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:412226715c56,Clear filters,Wyczysc filtry,Filter leeren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2a1e071a74fe,Animations (on/off),Animacje (wl./wyl.),Animationen (an/aus),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c4d63e4c56f1,From:,Od:,Von:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ba1cfdcd865f,to:,do:,bis:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ecdda59aea5e,Item,Przedmiot,Gegenstand,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:44f6af694554,Quantity,Ilosc,Menge,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3e8248e32edf,Price,Cena,Preis,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8c1049470218,Buy selected,Kup wybrane,Ausgewählte kaufen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:80202a6c9379,Filters (%d),Filtry (%d),Filter (%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:2d4218ad7781,Select offers to buy,"Zaznacz oferty po lewej, aby kupic",Angebote zum Kauf auswählen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f335acb67021,Selected: %d | %s,Zaznaczone: %d | %s,Ausgewählt: %d | %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",done
+c:pbt:20b908f50fa9,Buy (%d),Kup (%d),Kaufen (%d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:2d578ce90be9,Buy all selected offers,Kup wszystkie zaznaczone oferty,Alle ausgewählten Angebote kaufen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9bca3675c7a3,Buy %d selected offers for %s?,Kupic %d zaznaczonych ofert za %s?,%d ausgewählte Angebote für %s kaufen?,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",done
+c:pbt:535dba3605a0,Loading offers... %d received,Wczytywanie ofert... pobrano %d,Lade Angebote... %d empfangen,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:3b670edfad63,Showing %d offers (the limit) - narrow the search to see the rest.,"Pokazano %d ofert (limit) - zawez wyszukiwanie, zeby zobaczyc reszte.","%d Angebote angezeigt (Limit) - grenze die Suche ein, um den Rest zu sehen.","client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:d98ef4a5e439,Offers: %d (matching the filters: %d),Ofert: %d (pasuje do filtrow: %d),Angebote: %d (passend zu den Filtern: %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:ed92ad7614ac,Loading offers...,Wczytywanie ofert...,Lade Angebote...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7fb235da99b3,No offers match the filters,Brak ofert spelniajacych kryteria,Keine Angebote passen zu den Filtern,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6e2baf47193a,Average: %s / pc.,Srednia: %s / szt.,Durchschnitt: %s / Stk.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:72cf236c9b3d,Cheapest offers: %d / 20,Najtansze oferty: %d / 20,Günstigste Angebote: %d / 20,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:b12ceb2d133d,Partial estimate - loading offers,Wycena czesciowa - trwa wczytywanie,Teilschätzung - Angebote werden geladen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:eb8f544f7270,Few offers - indicative estimate,Mala liczba ofert - wycena orientacyjna,Wenige Angebote - grobe Schätzung,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:d2b8c352eb49,No pricing data,Brak danych do wyceny,Keine Preisdaten,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dbd81b70bf69,"Sample: loaded offers (filters, limit 6000)","Probka: wczytane oferty (filtry, limit 6000)","Stichprobe: geladene Angebote (Filter, Limit 6000)","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:09991353366e,Buy %s for %s?,Kupic %s za %s?,%s für %s kaufen?,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:2e5a6dec9ac1,The Dragon Stone Alchemy has been switched on.,Alchemia Smoczych Kamieni została włączona.,Die Drachenstein-Alchemie wurde eingeschaltet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a6a715c268e4,The Dragon Stone Alchemy has been switched off in this world.,Alchemia Smoczych Kamieni została wyłączona na tym świecie.,Die Drachenstein-Alchemie wurde in dieser Welt ausgeschaltet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8d773e495b70,Possession is not available (no quest on the server).,Przemiana jest niedostępna (brak questa na serwerze).,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ecd80c936ce6,Taking over %s...,Przemiana w %s...,,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",new
+c:pbt:35f8a558084e,Possession: waiting for the bot to leave the world (about %d s)...,"Przemiana: czekam, aż bot opuści świat (ok. %d s)...",,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:d8127f4d3861,Cannot prepare the relogin. Possession cancelled.,Nie można przygotować przelogowania. Przemiana anulowana.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c1d225b0fb62,Possession: logging in as the bot...,Przemiana: logowanie na postać bota...,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:db6a3295c8ef,Back to the GM character...,Powrót do postaci GM...,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:5f9cb78ca1c4,Log in to the GM account - the return finishes by itself.,Zaloguj się na konto GM - powrót dokończy się sam.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:6d35ad0af300,Back to GM,Powrót do GM,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:38bbb47f096f,Back to your character,Wróć do swojej postaci,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:a06115cee1ee,Switching to your companion...,Przechodzisz na Towarzysza...,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:46b38871028d,Your companion is leaving the world (about %d s)...,Towarzysz opuszcza świat (ok. %d s)...,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:e56fb12bf888,Cannot prepare the relogin - cancelled.,Nie można przygotować przelogowania - anulowano.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:03c284c5c132,Logging in as your companion...,Logowanie na Towarzysza...,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:0ebe620a39e8,Back to your character...,Powrót do twojej postaci...,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2d55683300e2,Log in to your own account - your companion goes back to the AI.,Zaloguj się na swoje konto - Towarzysz wróci pod opiekę AI.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:70fb7c1c6f64,First to %d kills - tied,Do %d zabójstw - remis,Wer zuerst %d Kills hat - Gleichstand,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:ee0171aa6998,First to %d kills,Do %d zabójstw,Wer zuerst %d Kills hat,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:370d735027ec,%s %d - %d to go,%s %d - zostało %d,%s %d - noch %d,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d %d",done
+c:pbt:68c165671716,leads,prowadzi,führt,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:f2de2f15e2d7,"Your game file metin2client.exe is out of date.[ENTER]Close the game and the launcher, open the launcher again[ENTER]and click PLAY - it replaces the file. If this message[ENTER]comes back, add the game folder to your antivirus exclusions.","Twój plik gry metin2client.exe jest nieaktualny.[ENTER]Zamknij grę i launcher, otwórz launcher ponownie[ENTER]i kliknij GRAJ - sam podmieni ten plik. Jeśli komunikat[ENTER]wraca, dodaj folder gry do wykluczeń antywirusa.","Deine Spieldatei metin2client.exe ist veraltet.[ENTER]Schließe Spiel und Launcher, öffne den Launcher erneut[ENTER]und klicke auf PLAY - er ersetzt die Datei. Wenn diese Meldung[ENTER]wiederkommt, füge den Spielordner zu den Ausnahmen deines Virenscanners hinzu.","client: our windows (companion, Auto Hunt, status lines) | keep: [ENTER] = new line",done
+c:pbt:20afa011d2a3,The saved password cannot be read on this computer.[ENTER]Type the password and click this account again - it is saved anew.,Nie mozna odczytac zapisanego hasla na tym komputerze.[ENTER]Wpisz haslo i kliknij to konto ponownie - zapisze sie od nowa.,Das gespeicherte Passwort kann auf diesem Computer nicht gelesen werden.[ENTER]Gib das Passwort ein und klicke erneut auf dieses Konto - es wird neu gespeichert.,"client: our windows (companion, Auto Hunt, status lines) | keep: [ENTER] = new line",done
+c:pbt:5f9bb66b27d8,The original: metin2singleplayer.com,Oryginał: metin2singleplayer.com,Das Original: metin2singleplayer.com,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e173a5936a47,"Inventory sorted: %d moved, %d stacks merged.","Uporządkowano ekwipunek: przestawiono %d, scalono stosów: %d.","Inventar sortiert: %d verschoben, %d Stapel zusammengeführt.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:dbe55b4f15df,The inventory is already sorted.,Ekwipunek jest już uporządkowany.,Das Inventar ist bereits sortiert.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:462970e1bd06,"The inventory cannot be sorted now - close the trade, the shop or the other window.","Nie można teraz uporządkować ekwipunku - zamknij handel, sklep lub inne okno.","Das Inventar kann jetzt nicht sortiert werden - schließe den Handel, den Laden oder das andere Fenster.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:893dbad1eff3,Wait a moment before sorting again.,Odczekaj chwilę przed kolejnym porządkowaniem.,"Warte einen Moment, bevor du erneut sortierst.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a5d28cbe9c9f,The inventory could not be laid out - nothing was changed.,Nie udało się ułożyć ekwipunku - nic nie zmieniono.,Das Inventar konnte nicht angeordnet werden - nichts wurde geändert.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:018ce0869c18,You cannot sort the inventory while dead.,Nie możesz porządkować ekwipunku po śmierci.,"Du kannst das Inventar nicht sortieren, während du tot bist.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7d06d6feb4d8,The inventory is in an unexpected state - nothing was changed. Please report it on Discord.,Ekwipunek jest w nieoczekiwanym stanie - nic nie zmieniono. Zgłoś to na Discordzie.,Das Inventar ist in einem unerwarteten Zustand - nichts wurde geändert. Bitte melde es auf Discord.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8a89adc4901c,The server cannot sort the inventory.,Serwer nie obsługuje porządkowania ekwipunku.,Der Server kann das Inventar nicht sortieren.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6a83c5a929b7,Server rejected sort exclusions. A server update is required.,Serwer odrzucił oznaczenia sortowania. Wymagana aktualizacja serwera.,Der Server hat die Sortier-Ausnahmen abgelehnt. Ein Server-Update ist nötig.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:4b92d4e5bb06,Put down the item on your cursor first.,Odłóż najpierw przedmiot trzymany kursorem.,Lege zuerst den Gegenstand am Mauszeiger ab.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fc65cee725de,The inventory cannot be sorted while a shop is being opened.,Nie można porządkować ekwipunku podczas otwierania sklepu.,"Das Inventar kann nicht sortiert werden, während ein Laden geöffnet wird.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:0c3692131748,Stacks merged: %d. Nothing else moved.,Połączono stosy: %d. Nic poza tym się nie przesunęło.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:f0e6ecb9f16d,There is nothing to merge.,Nie ma czego łączyć.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:8842522dcba1,Only merge stacks - nothing else moves,Tylko połącz stosy - nic poza tym się nie przesunie,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:349abe80e489,"Stop the bonus switcher, the chest opener and the splitting first.","Najpierw zatrzymaj zmianę bonusów, otwieranie skrzynek i rozdzielanie.","Stoppe zuerst den Bonus-Switcher, den Truhenöffner und das Aufteilen.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c2a24223eaef,Wait for the item move to finish.,Poczekaj na zakończenie przenoszenia przedmiotu.,"Warte, bis das Verschieben des Gegenstands abgeschlossen ist.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:95224fca5845,Left Alt + Shift + LMB: lock this page against sorting,Lewy Alt + Shift + LPM: zablokuj tę stronę przed sortowaniem,Linke Alt + Umschalt + LMT: diese Seite vom Sortieren sperren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e4f5cddc0c00,Page locked against sorting. Left Alt + Shift + LMB: unlock,Strona zablokowana przed sortowaniem. Lewy Alt + Shift + LPM: odblokuj,Seite vom Sortieren gesperrt. Linke Alt + Umschalt + LMT: entsperren,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:728830de8682,Page %s locked - sorting leaves it as it is.,Strona %s zablokowana - sortowanie jej nie ruszy.,Seite %s gesperrt - das Sortieren lässt sie unverändert.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:abf010f47ab1,Page %s unlocked.,Strona %s odblokowana.,Seite %s entsperrt.,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:0dc33891a03e,This server cannot lock pages - update the server.,Ten serwer nie obsługuje blokady stron - zaktualizuj serwer.,Dieser Server kann keine Seiten sperren - aktualisiere den Server.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:28c9e49fdca7,Could not save the page locks. Check permissions on the client cache folder.,Nie udało się zapisać blokady stron. Sprawdź uprawnienia katalogu cache klienta.,Die Seitensperren konnten nicht gespeichert werden. Prüfe die Rechte des Cache-Ordners des Clients.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a6fe095b1637,Could not save favorites. Check permissions on the client cache folder.,Nie udało się zapisać ulubionych. Sprawdź uprawnienia katalogu cache klienta.,Favoriten konnten nicht gespeichert werden. Prüfe die Rechte des Cache-Ordners des Clients.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5b76cca6e1cb,Item included in sorting again.,Przedmiot ponownie podlega sortowaniu.,Gegenstand wird wieder mitsortiert.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e35dc9e7d6d6,Item excluded from sorting.,Przedmiot wykluczony z sortowania.,Gegenstand vom Sortieren ausgenommen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:18c9173fa511,Could not load the favorites star. Sorting protection still works.,Nie udało się wczytać gwiazdki ulubionych. Ochrona sortowania nadal działa.,Der Favoriten-Stern konnte nicht geladen werden. Der Sortierschutz funktioniert weiterhin.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c2549723119a,Surprise,Niespodzianka,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:35cf8b34bb55,Unwrap,Rozpakuj,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7d7c11d9f258,One gift per account,Jeden prezent na konto,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:f9bb5126607f,24 December surprises,24 grudniowe niespodzianki,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:bbfa773e5a63,Close,Zamknij,Schließen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bb11a8e3f871,Rules,Zasady,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:83c87884b09b,Claimed,Odebrano,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b564001a58dc,Missed,Minelo,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:24345a14377f,Today,Dzisiaj,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:65640c6577c9,December,Grudzien,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:2b292c497184,%d December,%d grudnia,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:908f227b0dd6,GM TEST - a separate test claim,TEST GM - osobny odbior testowy,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:3fe2ff1262a6,Gifts arrive in your account's Item Shop storage.,Nagrody odbierzesz w magazynie Item-Shop konta.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:faf95485b7eb,You will see what it holds once opened.,Zawartosc poznasz po otwarciu.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:4ae461d4bc8a,Opening the chest...,Otwieranie skrzyni...,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:0ffec8cf0939,This account has its gift.,Prezent odebrano na koncie.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7a9e12726fb8,Amount: %d,Ilosc: %d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:b0270b2c1f8c,The claim was not confirmed.,Nie potwierdzono odbioru.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:288edef357b4,Try again in a moment.,Sprobuj ponownie za chwile.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:3ca358cfce77,Starts on 1 December.,Start: 1 grudnia.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c6fd4c2dcddc,The calendar is over.,Kalendarz zakonczony.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:ede159f81022,The day to claim it has passed.,Termin odbioru minal.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:423ddf5d0e68,Available from %d December.,Dostepny od %d grudnia.,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:03486141d611,Requires the Orc Teeth,Wymagane Zeby Orka,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:6fa4783d976d,from the Biologist (task finished).,u Biologa (zadanie ukonczone).,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c84005600b5f,The gift is not ready yet.,Prezent jeszcze niedostepny.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:a2d80aba065d,Today's chest is waiting!,Dzisiejsza skrzynia czeka!,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:7f90ae94e1b2,Left: %dh %dm %ds,Pozostalo: %dh %dm %ds,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d %d",new
+c:pbt:55a02da80660,One chest a day per account. The gift is a surprise.,Jedna skrzynia dziennie na konto. Nagroda jest niespodzianka.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:8297bb17c6aa,Got it!,Zrozumiano!,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:29939303c0ae,The offer has changed. Open the shop again.,Oferta zmienila sie. Otworz sklep ponownie.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:1f28a36329d8,The purchase failed. Open the shop again.,Zakup nie powiodl sie. Otworz sklep ponownie.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:9fa07507c3d1,Buy part of a stack,Kup czesc stosu,Teil eines Stapels kaufen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fe2c3f97aa0d,Quantity:,Ile sztuk:,Menge:,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ee8df12b6c3a,To pay for %d pcs.: %s,Do zaplaty za %d szt.: %s,Zu zahlen für %d Stk.: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %s",done
+c:pbt:af17da72a33f,In the stack: %d pcs.,Dostepne: %d szt.,Im Stapel: %d Stk.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:7fcd8d44c6f2,Suggested,Sugerowana,Vorgeschlagen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5d398eef3ecc,Minimum,Minimalna,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:a8df2fec28d8,Maximum,Maksymalna,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:b887ba2a5f48,Median,Mediana,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:d1c69a859a96,Last,Ostatnia,Letzter,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:09af574c7f20,Inactive,Nieaktywna,Inaktiv,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3f6ef31cfaf2,Prices,Ceny,Preise,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b950d7402bcc,Reprice all items,Zmien ceny wszystkich,Alle Gegenstände neu bepreisen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:230e30fc83cd,"Choose a pricing mode above first (e.g. Median), then click ""Reprice all items"". No prices were changed.","Najpierw wybierz tryb ceny powyzej (np. Mediana), potem kliknij ""Zmien ceny wszystkich"". Nie zmieniono cen.","Wähle oben zuerst einen Preismodus (z. B. Median) und klicke dann auf \""Alle Gegenstände neu bepreisen\"". Es wurden keine Preise geändert.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:3431a9ec66d6,The bots suggest: ,Sugestia botow: ,Die Bots schlagen vor: ,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b2c2d6014043,The bots have no price for this item yet.,Boty nie maja jeszcze wyceny tego przedmiotu.,Die Bots haben noch keinen Preis für diesen Gegenstand.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9b4f5ba1cceb,Median of the bots' prices: %s (1 sample),Mediana cen botow: %s (1 probka),Median der Bot-Preise: %s (1 Stichprobe),"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:4bc578791bc3,Median of the bots' prices: %s (samples: %d),Mediana cen botow: %s (probki: %d),Median der Bot-Preise: %s (Stichproben: %d),"client: our windows (companion, Auto Hunt, status lines) | keep: %s %d",done
+c:pbt:c280bdbbdac8,Too few sales for a median.,Za malo sprzedazy do wyliczenia mediany.,Zu wenige Verkäufe für einen Median.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bfde4a5f4f11,No sales yet - this is the base price.,Brak historii transakcji - pokazana cena bazowa.,Noch keine Verkäufe - das ist der Grundpreis.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:220cf7c6efa7,The market for such a stack: %s - %s,Rynek dla takiego stosu: %s - %s,Der Markt für so einen Stapel: %s - %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s %s",done
+c:pbt:ca0b88b87313,The market: no comparable offers.,Rynek: brak porownywalnych ofert.,Der Markt: keine vergleichbaren Angebote.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:324b5a543908,Last sale by the bots: %s,Ostatnia sprzedaz botow: %s,Letzter Verkauf der Bots: %s,"client: our windows (companion, Auto Hunt, status lines) | keep: %s",done
+c:pbt:8b7e7133a00e,Last sale by the bots: no data.,Ostatnia sprzedaz botow: brak danych.,Letzter Verkauf der Bots: keine Daten.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:78c2a68ee063,"Your client %s is older[ENTER]than the server requires (%s).[ENTER]To update, close the game and run[ENTER]Aktualizuj.bat in the client folder[ENTER](or your launcher, if you have it).","Twój klient %s jest starszy[ENTER]niż wymaga serwer (%s).[ENTER]Zaktualizuj go: zamknij grę i uruchom[ENTER]Aktualizuj.bat w folderze klienta[ENTER](albo launcher, jeśli go masz).","Dein Client %s ist älter,[ENTER]als der Server verlangt (%s).[ENTER]Zum Aktualisieren schließe das Spiel und starte[ENTER]Aktualizuj.bat im Client-Ordner[ENTER](oder deinen Launcher, falls vorhanden).","client: our windows (companion, Auto Hunt, status lines) | keep: %s %s; [ENTER] = new line",done
+c:pbt:566a380d9943,Click: hide the EXP percentage,Kliknij: ukryj procent EXP,Klick: EXP-Prozent ausblenden,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:7d114188ff34,Click: show the EXP percentage,Kliknij: pokaż procent EXP,Klick: EXP-Prozent anzeigen,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:20e40e8f033c,FPS counter,Licznik FPS,FPS-Anzeige,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ca6fcaed995c,Map name,Nazwa mapy,Kartenname,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2f57a118f41c,Hold Enter,Ulepsz. Enterem,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:9c8238f65551,Snow,Śnieg,Schnee,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c614ba7c453c,Auto,Auto,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:3d60fc576619,Active quests: %d,Misje do wykonania: %d,,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",new
+c:pbt:84b5029b0bb4,Keep refining,Ulepszaj dalej,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:c20edea73f2e,After an attempt the window comes back,"Po próbie okno wraca dla tego samego przedmiotu,",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:445696521b34,"for the same item, while it is still in its cell.",jeśli nadal leży w tej kratce.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:129517b4eb9c,You confirm every attempt yourself.,Każdą próbę zatwierdzasz sam.,,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:98f32c326656,"Enter: refine, and it confirms the question.","Enter: Ulepsz, a w pytaniu potwierdza.",,"client: our windows (companion, Auto Hunt, status lines)",new
+c:pbt:6329d3cdc10a,The game server is older than the client and upgrading with a scroll does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i ulepszanie zwojem nie sięga do magazynu - zaktualizuj serwer.,"Der Spielserver ist älter als der Client, und das Verbessern mit einer Schriftrolle greift nicht auf dein Lager zu - aktualisiere den Server.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:b464e67921af,The game server is older than the client and its smith does not reach into your storage - update the server.,Serwer gry jest starszy niż klient i kowal nie sięga do magazynu - zaktualizuj serwer.,"Der Spielserver ist älter als der Client, und sein Schmied greift nicht auf dein Lager zu - aktualisiere den Server.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:ed6c50061628,Upgrading with a scroll takes materials from your storage only in a first or second village.,Ulepszanie zwojem bierze materiały z magazynu tylko w pierwszej i drugiej wiosce.,Das Verbessern mit einer Schriftrolle nimmt Materialien aus deinem Lager nur im ersten oder zweiten Dorf.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:a8d6281f6656,The smith reaches into your storage once you have opened it at the storekeeper (with its password).,"Kowal sięga do magazynu dopiero, gdy raz otworzysz go u Dozorcy (hasłem).","Der Schmied greift erst auf dein Lager zu, wenn du es einmal beim Lagerverwalter (mit Passwort) geöffnet hast.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8dc2f76ac423,Only a smith in a first or second village takes materials from your storage.,Materiały z magazynu bierze tylko kowal w pierwszej i drugiej wiosce.,Nur ein Schmied im ersten oder zweiten Dorf nimmt Materialien aus deinem Lager.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:30bae71bcd73,"Storage sorted: %d moved, %d stacks merged.","Uporządkowano magazyn: przestawiono %d, scalono stosów: %d.","Lager sortiert: %d verschoben, %d Stapel zusammengeführt.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:83cd561e8e3e,The storage is already sorted.,Magazyn jest już uporządkowany.,Das Lager ist bereits sortiert.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:04be28247e55,"The storage cannot be sorted now - close the trade, the shop or the other window.","Nie można teraz uporządkować magazynu - zamknij handel, sklep lub inne okno.","Das Lager kann jetzt nicht sortiert werden - schließe den Handel, den Laden oder das andere Fenster.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:475772538077,The storage could not be laid out - nothing was changed.,Nie udało się ułożyć magazynu - nic nie zmieniono.,Das Lager konnte nicht angeordnet werden - nichts wurde geändert.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dd4d50ac5ab8,You cannot sort the storage while dead.,Nie możesz porządkować magazynu po śmierci.,"Du kannst das Lager nicht sortieren, während du tot bist.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:dddf74028f02,The storage is in an unexpected state - nothing was changed. Please report it on Discord.,Magazyn jest w nieoczekiwanym stanie - nic nie zmieniono. Zgłoś to na Discordzie.,Das Lager ist in einem unerwarteten Zustand - nichts wurde geändert. Bitte melde es auf Discord.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6ca035cdb4fd,The storage is not open.,Magazyn nie jest otwarty.,Das Lager ist nicht geöffnet.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:2d740fa2f3b9,The server does not support this storage feature.,Serwer nie obsługuje tej funkcji magazynu.,Der Server unterstützt diese Lagerfunktion nicht.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:25cd2b984935,The storage cannot be sorted while a shop is being opened.,Nie można porządkować magazynu podczas otwierania sklepu.,"Das Lager kann nicht sortiert werden, während ein Laden geöffnet wird.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9e2b79002c2a,"The item cannot be moved now - close the trade, the shop or the other window.","Nie można teraz przenieść przedmiotu - zamknij handel, sklep lub inne okno.","Der Gegenstand kann jetzt nicht verschoben werden - schließe den Handel, den Laden oder das andere Fenster.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:bbc0a8aef9ee,That item is not there any more.,Tego przedmiotu już tam nie ma.,Dieser Gegenstand ist nicht mehr da.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c6e9bbd08a85,Another item lies in that slot.,Na tym polu leży inny przedmiot.,In diesem Feld liegt ein anderer Gegenstand.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:8b4e71a7327e,That stack is full.,Ten stos jest już pełny.,Dieser Stapel ist voll.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:66680a1cc17d,That item cannot be put there.,Tego przedmiotu nie można tam przełożyć.,Dieser Gegenstand kann dort nicht abgelegt werden.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:62e30536e601,No item can be put there.,Nie można tam przełożyć przedmiotu.,Dort kann kein Gegenstand abgelegt werden.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:e8b6729d19c2,Too fast - try again.,Za szybko - spróbuj jeszcze raz.,Zu schnell - versuche es erneut.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9bc408e9d114,You cannot move items while dead.,Nie możesz przekładać przedmiotów po śmierci.,"Du kannst keine Gegenstände verschieben, während du tot bist.","client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:605c61faa375,Loading price data...,Pobieranie danych cenowych...,Lade Preisdaten...,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:1e897388518f,Select an automatic pricing mode.,Wybierz tryb automatycznego ustalania ceny.,Wähle einen automatischen Preismodus.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:aebe4f5d2b76,The price will be set according to your selection.,Cena zostanie uzupelniona zgodnie z wybrana opcja.,Der Preis wird entsprechend deiner Auswahl festgelegt.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:90a1cec68f17,Prices: %d of %d fetched.,Ceny: pobrano %d z %d.,Preise: %d von %d abgerufen.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:ec8fd40c4151,"Fetching market prices for %d items, about %d s. Keep the shop window open.","Pobieram ceny rynkowe dla %d przedmiotow, to potrwa ok. %d s. Nie zamykaj okna sklepu.","Rufe Marktpreise für %d Gegenstände ab, etwa %d s. Lass das Ladenfenster offen.","client: our windows (companion, Auto Hunt, status lines) | keep: %d %d",done
+c:pbt:d3c186656239,Prices were not changed: the shop total would reach the Yang limit.,Ceny nie zostaly zmienione: laczna wartosc sklepu osiagnelaby limit Yang.,Preise wurden nicht geändert: Die Ladensumme würde das Yang-Limit erreichen.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:63dfb4723cb5,Skipped %d items without a price or with a changed shop listing.,Pominieto %d przedmiotow bez ceny lub ze zmieniona pozycja sklepu.,%d Gegenstände ohne Preis oder mit geänderter Ladenzeile übersprungen.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:c81ee1f5ea0c,Queued price changes for %d items.,Zlecono zmiane cen %d przedmiotow.,Preisänderungen für %d Gegenstände eingereiht.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:043fec7c5d3b,Automatic pricing stopped: the shop window was closed or the mode changed.,Automatyczne ceny przerwane: zamknieto okno sklepu albo zmieniono tryb.,Automatische Preisgestaltung gestoppt: Das Ladenfenster wurde geschlossen oder der Modus geändert.,"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:470d4940548a,Shop prices changed (%d).,Ceny w sklepie zostaly zmienione (%d).,Ladenpreise geändert (%d).,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:240843836565,The price of %d lines could not be changed - try again.,Nie udalo sie zmienic ceny %d pozycji - sprobuj jeszcze raz.,Der Preis von %d Zeilen konnte nicht geändert werden - versuche es erneut.,"client: our windows (companion, Auto Hunt, status lines) | keep: %d",done
+c:pbt:bf52eaf51dc8,Red (S),Czerwone (M),Rot (K),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:acef391bd970,Red (M),Czerwone (S),Rot (M),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:fb9768bd833b,Red (L),Czerwone (D),Rot (G),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:811bcac8acce,Blue (S),Niebieskie (M),Blau (K),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:c649b232c58e,Blue (M),Niebieskie (S),Blau (M),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:9c9734458346,Blue (L),Niebieskie (D),Blau (G),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:eb2e9ec063bb,Green (S),Zielone (M),Grün (K),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:5aa37c8dbd5b,Green (M),Zielone (S),Grün (M),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:232a14f8169a,Green (L),Zielone (D),Grün (G),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:44a979ae6f24,Purple (S),Fioletowe (M),Lila (K),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:46ab40326db1,Purple (M),Fioletowe (S),Lila (M),"client: our windows (companion, Auto Hunt, status lines)",done
+c:pbt:6e5ee7bdaef1,Purple (L),Fioletowe (D),Lila (G),"client: our windows (companion, Auto Hunt, status lines)",done

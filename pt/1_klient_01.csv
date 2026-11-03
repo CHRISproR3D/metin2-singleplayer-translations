@@ -1,0 +1,701 @@
+id,english,polski,translation,notes,status
+c:locale_game:AFF_LOVE_POINT,Love points: %d%%,Punkty Miłosne: %d%%,Pontos de amor: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:ALIGNMENT_NAME,Rank points:,Punkty Rangi:,Pontos de posto:,client: game texts (localeInfo),done
+c:locale_game:ATTACK_ERROR_UNKNOWN,Unknown attack error: %s,Nieznany błąd podczas ataku: %s,Erro de ataque desconhecido: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CANNOT_ATTACK_DEST_IN_SAFE,The combatant is too far away.,Przeciwnik jest za daleko.,O adversário está demasiado longe.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_ATTACK_SELF_IN_SAFE,I cannot attack my opponent from here.,Nie mogę zaatakować.,Não posso atacar o meu adversário daqui.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_EQUIP_IN_EXCHANGE,You cannot change your equipment whilst trading.,Nie możesz zmienić zbroi podczas handlu.,Não podes mudar o equipamento durante uma troca.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_EQUIP_IN_SHOP,You cannot change your equipment whilst trading.,Nie możesz zmienić zbroi podczas handlu.,Não podes mudar o equipamento durante uma troca.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_OPEN_PRIVATE_SHOP_IN_SAFE_AREA,You cannot open a private shop in a public area.,Nie możesz otworzyć Prywatnego Magazynu w miejscu publicznym.,Não podes abrir uma loja privada numa zona pública.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SHOOT_DEST_IN_SAFE,The enemy is too far away.,Wróg jest za daleko.,O inimigo está demasiado longe.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SHOOT_EMPTY_ARROW,I need an arrow.,Potrzebuję Strzały.,Preciso de uma flecha.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SHOOT_SELF_IN_SAFE,I cannot attack my opponent from here. ,Nie mogę tego zrobić.,Não posso atacar o meu adversário daqui. ,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_APPROACH,I am sure that I cannot get any closer.,"Jestem pewny, że nie mogę podejść bliżej.",Tenho a certeza de que não me consigo aproximar mais.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_ATTACK,I cannot attack that.,Nie mogę zaatakować..,Não posso atacar isso.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_DEST_IN_SAFE,The opponent is too far away.,Wróg jest za daleko.,O adversário está demasiado longe.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_EQUIP_FISHING_ROD,I need a Fishing Pole.,Potrzebuję Wędki.,Preciso de uma cana de pesca.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_HAVE_TO_RIDE,I need a Horse to be able to use this. ,"Najpierw potrzebuję Konia, zanim użyję tego.",Preciso de um cavalo para usar isto. ,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NEED_EMPTY_BOTTLE,I do not have an empty bottle.,Nie mam Pustej Butelki.,Não tenho uma garrafa vazia.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NEED_POISON_BOTTLE,I do not have a Poison Bottle.,Nie mam Butelki Z Trucizną.,Não tenho uma garrafa de veneno.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NEED_TARGET,Who is the target?,Kto jest celem?,Quem é o alvo?,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_ENOUGH_HP,I do not have enough HP!,Nie mam wystarczającej ilości PŻ!,Não tenho PV suficientes!,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_ENOUGH_SP,I do not have enough SP!,Nie mam wystarczającej ilości PE!,Não tenho PM suficientes!,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_HORSE_SKILL,I cannot use this whilst riding.,Nie mogę tego użyć podczas jazdy konnej.,Não posso usar isto a cavalo.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_MATCHABLE_WEAPON,I cannot use this skill with this weapon.,Nie mogę użyć tej Umiejętności używając tej broni,Não posso usar esta habilidade com esta arma.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_YET_LEARN,I have not learned this skill.,Nie opanowałem tej umiejętności.,Não aprendi esta habilidade.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_ONLY_FOR_ALLIANCE,This only affects group members.,To działa tylko na członków grupy.,Isto só afeta os membros do grupo.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_ONLY_FOR_CORPSE,This only affects dead people.,To działa tylko na martwych ludzi.,Isto só afeta os mortos.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_REMOVE_FISHING_ROD,I cannot use this skill with a Fishing Pole.,Nie mogę użyć tej umiejętności z Wędką.,Não posso usar esta habilidade com uma cana de pesca.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_SELF_IN_SAFE,I cannot attack from here.,Nie mogę zaatakować z tego miejsca.,Não posso atacar daqui.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_USE_SELF,I cannot use this on myself.,Nie mogę tego użyć na sobie.,Não posso usar isto em mim mesmo.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_WAIT_COOLTIME,I cannot use this skill yet.,Nie mogę jeszcze użyć tej Umiejętności.,Ainda não posso usar esta habilidade.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_USE,You cannot use this.,Nie możesz go użyć.,Não podes usar isto.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_WHISPER_DEST_REFUSE,%s has blocked whispering.,%s zablokował szeptanie całkowicie.,%s bloqueou os sussurros.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CANNOT_WHISPER_NOT_LOGON,%s is not online.,%s nie jest zalogowany.,%s não está online.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CANNOT_WHISPER_SELF_REFUSE,You cannot whisper something to someone when you have completely blocked whispering. ,Nie możesz szeptać do nikogo gdy szeptanie jest całkowicie zablokowane.,Não podes sussurrar a ninguém enquanto tiveres os sussurros totalmente bloqueados. ,client: game texts (localeInfo),done
+c:locale_game:CHANNEL,Channel,Kanał,Canal,client: game texts (localeInfo),done
+c:locale_game:CHANNELING_CANNOT_LOGOUT,You cannot go back to the login screen.,Nie możesz wrócić do okna logowania.,Não podes voltar ao ecrã de início de sessão.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_EMPTY_SERVER,No server,Brak Serwera,Nenhum servidor,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_NORMAL,Channel %d,Kanał %d,Canal %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:CHANNEL_NOTIFY_FULL,This channel is full! Please choose another one.,Ten Kanał jest pełny! Proszę wybrać inny.,Este canal está cheio! Escolhe outro.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_NOT_FIND_INFO,No information found via the Channel.,Brak informacji o tym kanale.,Nenhuma informação encontrada para este canal.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_PVP,Free duel,Wolny pojedynek,Duelo livre,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_SELECT_CHANNEL,Choose the channel,Wybierz Kanał,Escolhe o canal,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_SELECT_REGION,Choose region.,Wybierz region.,Escolhe a região.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_SELECT_SERVER,Choose server,Wybierz serwer,Escolhe o servidor,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_TEST_SERVER,Test server,Test server,Servidor de teste,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_TEST_SERVER_ADDR,Test %s:%d,Test %s:%d,Teste %s:%d,client: game texts (localeInfo) | keep: %s %d,done
+c:locale_game:CHAT_ALL,All,Wszystko,Tudo,client: game texts (localeInfo),done
+c:locale_game:CHAT_BLOCK,Block,Blok,Bloquear,client: game texts (localeInfo),done
+c:locale_game:CHAT_GUILD,Guild,Gildia,Guilda,client: game texts (localeInfo),done
+c:locale_game:CHAT_INFORMATION,Info,Info,Info,client: game texts (localeInfo),check
+c:locale_game:CHAT_INSULT_STRING,This sentence has invalid words in it.,To zdanie zawiera niepoprawne słowa.,Esta frase contém palavras proibidas.,client: game texts (localeInfo),done
+c:locale_game:CHAT_LOG,Show old messages [L],Pokaż stare wiadomości [L],Mostrar mensagens antigas [L],client: game texts (localeInfo),done
+c:locale_game:CHAT_LOG_TITLE,Chat-log,Protokół wiadomości,Histórico do chat,client: game texts (localeInfo),done
+c:locale_game:CHAT_NORMAL,Normal,Normalne,Normal,client: game texts (localeInfo),check
+c:locale_game:CHAT_NOTICE,Announcement,Ogłoszenia,Anúncio,client: game texts (localeInfo),done
+c:locale_game:CHAT_PARTY,Group,Grupa,Grupo,client: game texts (localeInfo),done
+c:locale_game:CHAT_SEND_CHAT,Send chat,Wyślij wiadomość,Enviar,client: game texts (localeInfo),done
+c:locale_game:CHAT_SEND_MEMO,Send whisper[Shift+Enter],Wyślij szept [Shift+Enter],Enviar sussurro [Shift+Enter],client: game texts (localeInfo),done
+c:locale_game:CHAT_SHOUT,Call,Wołaj,Gritar,client: game texts (localeInfo),done
+c:locale_game:CHAT_SHOUT_LIMIT,You can only call every 15 seconds.,Możesz wołać tylko co 15 sekund.,Só podes gritar a cada 15 segundos.,client: game texts (localeInfo),done
+c:locale_game:CHAT_WHISPER,Whispering,Szeptanie,Sussurro,client: game texts (localeInfo),done
+c:locale_game:CREATE_ERROR_GM_NAME,You are not allowed to use 'GM' in your character name.,"Nie jesteś upoważniony do użycia ,GM‘ w swojej nazwie postaci.",Não podes usar «GM» no nome da tua personagem.,client: game texts (localeInfo),done
+c:locale_game:CREATE_ERROR_INSULT_NAME,This name is invalid.,Ta nazwa jest niepoprawna.,Este nome não é válido.,client: game texts (localeInfo),done
+c:locale_game:CREATE_EXIST_SAME_NAME,Another character already has this name.,Inna postać już ma tą nazwę.,Outra personagem já tem este nome.,client: game texts (localeInfo),done
+c:locale_game:CREATE_FAILURE,You cannot create the character,Nie możesz stworzyć postaci,Não é possível criar a personagem,client: game texts (localeInfo),done
+c:locale_game:CREATE_GM_NAME,GM,GM,GM,client: game texts (localeInfo),done
+c:locale_game:CREATE_INPUT_NAME,Enter the name.,Wybierz nazwę.,Introduz o nome.,client: game texts (localeInfo),done
+c:locale_game:CREATE_PLUS_STAT,There are still status points available. ,Nadal pozostały punkty statusu.,Ainda há pontos de estado disponíveis. ,client: game texts (localeInfo),done
+c:locale_game:DAY,Days,Dni,Dias,client: game texts (localeInfo),done
+c:locale_game:DO_YOU_BUY_ITEM1,Do you want to buy %s for %s?,Czy chcesz kupić %s za %s?,Queres comprar %s por %s?,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:DO_YOU_BUY_ITEM2,Do you want to buy %s %s for %s?,Czy chcesz kupić %s %s za %s?,Queres comprar %s %s por %s?,client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:DO_YOU_DROP_MONEY,Do you want to drop %d Yang?,Czy chcesz upuścić %d Yang?,Queres largar %d Yang?,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:DO_YOU_SELL_ITEM1,Do you want to sell %s for %s?,Czy chcesz sprzedać %s za %s?,Queres vender %s por %s?,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:DO_YOU_SELL_ITEM2,Do you want to sell %s %s for %s?,Czy chcesz sprzedać %s %s za %s?,Queres vender %s %s por %s?,client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:DRAGON_SOUL_CANNOT_REFINE,This Dragon Stone cannot be refined.,Nie możesz uszlachetnić tego Smoczego Kamienia.,Esta Pedra de Dragão não pode ser refinada.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_CANNOT_REFINE_MORE,This Dragon Stone has already reached the highest level.,Ten Smoczy Kamień osiągnął już najwyższy poziom.,Esta Pedra de Dragão já atingiu o nível máximo.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_EQUIP_WARNING1,It is difficult to remove a Dragon Stone once it is attached.,Usunięcie Smoczego Kamienia nie jest prostą sprawą.,É difícil remover uma Pedra de Dragão depois de colocada.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_EQUIP_WARNING2,Would you still like to continue?,Chcesz mimo to kontynuować?,Queres continuar mesmo assim?,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_EXPIRED,Expired Dragon Stone,Wygasły Smoczy Kamień,Pedra de Dragão expirada,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_INVALID_DRAGON_SOUL,That is the wrong Dragon Stone.,To nieprawidłowy Smoczy Kamień.,Esta não é a Pedra de Dragão certa.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_IS_NOT_DRAGON_SOUL,That is not a Dragon Stone.,To nie jest Smoczy Kamień.,Isto não é uma Pedra de Dragão.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_NOT_DRAGON_SOUL_REFINE_STONE,That is not the right Dragon Stone.,To nieprawidłowy Smoczy Kamień.,Esta não é a Pedra de Dragão certa.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_NOT_ENOUGH_MATERIAL,You do not have enough material to refine.,Nie posiadasz wystarczająco materiału do uszlachetnienia.,Não tens materiais suficientes para refinar.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_NOT_MATCHED_SLOT,The Dragon Stone does not fit in this slot.,Ten Smoczy Kamień nie pasuje do tego slotu.,A Pedra de Dragão não cabe nesta ranhura.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL1,"Clarity: matt,","Jakość: matowy,","Pureza: baça,",client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL2,"Clarity: clear,","Jakość: przejrzysty,","Pureza: límpida,",client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL3,"Clarity: flawless,","Jakość: bez skazy,","Pureza: impecável,",client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL4,"Clarity: brilliant,","Jakość: znakomity,","Pureza: brilhante,",client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL5,"Clarity: excellent,","Jakość: wyborny,","Pureza: excelente,",client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STRENGTH,Level: +%d,Poziom: +%d,Nível: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:DRAGON_SOUL_UNEQUIP_WARNING1,The Dragon Stone may be destroyed in the process.,Smoczy Kamień może ulec zniszczeniu.,A Pedra de Dragão pode ser destruída durante o processo.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_UNEQUIP_WARNING2,Would you still like to continue?,Chcesz mimo to kontynuować?,Queres continuar mesmo assim?,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_UNMATCHED_SLOT,That is the wrong slot.,To nieprawidłowy slot.,Esta não é a ranhura certa.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_UNQUALIFIED,You cannot yet use Dragon Stone alchemy.,Nie możesz jeszcze użyć alchemii Smoczych Kamieni.,Ainda não podes usar a alquimia das Pedras de Dragão.,client: game texts (localeInfo),done
+c:locale_game:DROP_ITEM_FAILURE_EQUIP_ITEM,You cannot drop equipped items.,Nie możesz upuścić założonych przedmiotów.,Não podes largar itens equipados.,client: game texts (localeInfo),done
+c:locale_game:DROP_ITEM_FAILURE_PRIVATE_SHOP,You cannot drop any items as long as a private shop is open.,Nie możesz upuścić Przedmiotu z ekwipunku jeśli otworzyłeś prywatny Magazyn.,Não podes largar itens enquanto uma loja privada estiver aberta.,client: game texts (localeInfo),done
+c:locale_game:DROP_MONEY_FAILURE_1000_OVER,You can drop a maximum of 999 Yang.,Możesz upuścić maksimum 999 Yang.,Podes largar no máximo 999 Yang.,client: game texts (localeInfo),done
+c:locale_game:EMOTION_ANGRY,Aggravating,Denerwować,Irritar,client: game texts (localeInfo),done
+c:locale_game:EMOTION_ATTRACTIVE,Seduction,Uwodzić,Seduzir,client: game texts (localeInfo),done
+c:locale_game:EMOTION_BANTER,Sneering,Drwić,Troçar,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CHEERS_1,Cheers 1,Powitanie 1,Saúde 1,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CHEERS_2,Cheers 2,Powitanie 2,Saúde 2,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CHEERUP,Cheer,Rozweselać,Animar,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CHOOSE_ONE,Choose a target.,Wybierz cel,Escolhe um alvo.,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CLAP,Claps,Klaszcz,Aplaudir,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CLAP_KISS,Kiss,Pocałunek,Beijo,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CONGRATULATION,Approval,Zgoda,Aprovar,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_1,Dance 1,Taniec 1,Dança 1,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_2,Dance 2,Taniec 2,Dança 2,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_3,Dance 3,Taniec 3,Dança 3,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_4,Dance 4,Taniec 4,Dança 4,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_5,Dance 5,Taniec 5,Dança 5,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_6,Gumsan Style,Gumsan Style,Gumsan Style,client: game texts (localeInfo),check
+c:locale_game:EMOTION_FORGIVE,Forgiveness,Wybaczyć,Perdoar,client: game texts (localeInfo),done
+c:locale_game:EMOTION_FRENCH_KISS,French Kiss,Francuski pocałunek,Beijo apaixonado,client: game texts (localeInfo),done
+c:locale_game:EMOTION_JOY,Joy,Radość,Alegria,client: game texts (localeInfo),done
+c:locale_game:EMOTION_SAD,Sad,Smutek,Tristeza,client: game texts (localeInfo),done
+c:locale_game:EMOTION_SHY,Rejection,Odmowa,Recusar,client: game texts (localeInfo),done
+c:locale_game:EMOTION_SLAP,Hit,Uderzenie,Bofetada,client: game texts (localeInfo),done
+c:locale_game:EMPIRE_A,Shinsoo Kingdom,Królestwo Shinsoo,Reino de Shinsoo,client: game texts (localeInfo),done
+c:locale_game:EMPIRE_B,Chunjo Kingdom,Królestwo Chunjo,Reino de Chunjo,client: game texts (localeInfo),done
+c:locale_game:EMPIRE_C,Jinno Kingdom,Królestwo Jinno,Reino de Jinno,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_CANNOT_GIVE,This item cannot be traded.,Nie możesz handlować tym przedmiotem.,Este item não pode ser trocado.,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_CANT_EDIT_MONEY,You cannot change the sum now.,Nie możesz teraz zmienić kwoty.,Não podes alterar a quantia agora.,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_FAILURE_EQUIP_ITEM,You cannot exchange equipped Items.,Nie możesz wymienić ubranych przedmiotów.,Não podes trocar itens equipados.,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_MONEY,Sum,Kwota,Quantia,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_TITLE,Trade with %s,Handluj z %s,Troca com %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_FAILURE,You lost the Bait.,Straciłeś przynętę.,Perdeste o isco.,client: game texts (localeInfo),done
+c:locale_game:FISHING_NOTIFY1,It looks like  %s is hooked.,,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:FISHING_NOTIFY2,It looks like %s is on the hook.,,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:FISHING_SUCCESS1,You captured %s!,,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:FISHING_SUCCESS2,You have pulled %s out of the water!,,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:FISHING_UNKNOWN,Something has taken the bait but you can't see what it is.,,,client: game texts (localeInfo),new
+c:locale_game:FISHING_WRONG_PLACE,You cannot go fishing here.,Nie możesz tu łowić ryb.,Não podes pescar aqui.,client: game texts (localeInfo),done
+c:locale_game:FOR_FEMALE,for female,dla kobiet,para mulher,client: game texts (localeInfo),done
+c:locale_game:FOR_MALE,for male,dla mężczyzn,para homem,client: game texts (localeInfo),done
+c:locale_game:GAME_CANNOT_MINING,You cannot mine Ore while riding.,Nie możesz wydobywać surowców podczas jazdy konnej.,Não podes extrair minério a cavalo.,client: game texts (localeInfo),done
+c:locale_game:GAME_CANNOT_PICK_ITEM,You cannot collect this Item as you did not win it.,"Nie możesz podnieść tego Przedmiotu, nie ty go zdobyłeś.","Não podes apanhar este item, porque não foste tu quem o ganhou.",client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_CURSOR,The cursor could not be established.,Kursor nie może zostać utworzony.,Não foi possível criar o cursor.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_DIRECTX,DirectX 8.1 must be installed so that the game can run.\nInstall DirectX 8.1 or higher.,Aby gra mogła ruszyć musi być zainstalowany DirectX 8.1 .\nZainstaluj DirectX 8.1 lub nowszy.,O DirectX 8.1 tem de estar instalado para o jogo funcionar.\nInstala o DirectX 8.1 ou mais recente.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_GRAPHICS_BAD_PERFORMANCE,No graphic device could be found. \nCheck if your VGA card is correctly installed.,"Żadne graficzne urządzenie nie zostało znalezione.\nSprawdź, czy twoja karta VGA jest aktualnie zainstalowana.",Nenhum dispositivo gráfico encontrado.\nVerifica se a tua placa gráfica está bem instalada.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_GRAPHICS_NOT_EXIST,"Graphic device could not be established. \nCheck if you have a VGA card. \nAlternatively, you can active the hardware accelerator.\n(Set hardware accelerator to max \nControl Panel->Display->Settings->Advanced->Troubleshoot tab)",Nie można było uruchomić karty graficznej.\nSprawdź czy masz kartę VGA.\nAlternatywniem możesz aktywować akcelerację sprzętową.\n(Ustaw suwak akceleracji sprzętowej na maks. \nPanel Sterowania->Ekran->Ustawienia->Zaawansowane->Rozwiązywanie Problemów),Não foi possível iniciar o dispositivo gráfico.\nVerifica se tens uma placa gráfica.\nTambém podes ativar a aceleração de hardware.\n(Define a aceleração de hardware no máximo:\nPainel de controlo->Ecrã->Definições->Avançadas->Resolução de problemas),client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_GRAPHICS_NOT_SUPPORT_32BIT,The graphics card of the computer does not support the window mode in 32bit Mode. \nChange to 16bit Mode or use Full Screen Mode.,Karta graficzna w komputerze nie obsługuje trybu ekranowego w trybie 32bit.\nUstaw tryb 16 bitowy lub użyj trybu pełnoekranowego.,A placa gráfica não suporta o modo janela em 32 bits.\nMuda para 16 bits ou usa o ecrã inteiro.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_ITEM_PROTO,No Item data there.\nInstall the game again.,Brak danych o Przedmiotach.\nZainstaluj grę jeszcze raz.,Não há dados de itens.\nReinstala o jogo.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_MAIN_WINDOW,Mainframe could not be established,Gra nie mogła zostać uruchomiona w okienku,Não foi possível criar a janela principal,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_MOB_PROTO,No Monster Data there.\nInstall the game again.,Brak danych o Potworach.\nZainstaluj grę jeszcze raz.,Não há dados de monstros.\nReinstala o jogo.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_NETWORK,Network devices could not be established.\nCheck your internet connection.,Nie można było uruchomić urządzeń sieciowych.\nSprawdź swoje ustawienia internetowe.,Não foi possível iniciar os dispositivos de rede.\nVerifica a tua ligação à Internet.,client: game texts (localeInfo),done
+c:locale_game:GAME_PICK_MONEY,You received %s.,Otrzymałeś %s.,Recebeste %s.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_128_HEIGHT,Height is not 128 Pixel,Wysokość nie ma 128px.,A altura não é de 128 píxeis,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_12_HEIGHT,Height is not 12 Pixel,Wysokość nie ma 12px.,A altura não é de 12 píxeis,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_16_WIDTH,Width is not 16 Pixel,Szerokość nie ma 16px.,A largura não é de 16 píxeis,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_64_WIDTH,Width is not 64 Pixel,Szerokość nie ma 64px.,A largura não é de 64 píxeis,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_FILE_FORMAT,The game does not support this picture.,Gra nie obsługuje tego obrazka.,O jogo não suporta esta imagem.,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_PATH,Move the data into the folder metin2/upload.,Przenieś plik do folderu upload/ w głównym katalogu gry Metin2.,Coloca o ficheiro na pasta metin2/upload.,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_SELECT,No picture file chosen.,Plik z obrazkiem nie został wybrany.,Nenhuma imagem escolhida.,client: game texts (localeInfo),done
+c:locale_game:GUILDWAR_CTF_TITLE,Flag captured.,Flaga zdobyta.,Bandeira capturada.,client: game texts (localeInfo),done
+c:locale_game:GUILDWAR_NORMAL_TITLE,Field Battle,Pole Bitwy,Batalha em campo,client: game texts (localeInfo),done
+c:locale_game:GUILDWAR_QUESTION_LINE_1,The Guild %s  declared war on your Guild.,Gildia %s wypowiedziała wojnę twojej Gildii.,A guilda %s declarou guerra à tua guilda.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GUILDWAR_QUESTION_LINE_2,Do you accept? (%s),Akceptujesz? (%s),Aceitas? (%s),client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GUILDWAR_UNKNOWN_TITLE,...,...,...,client: game texts (localeInfo),done
+c:locale_game:GUILDWAR_WARP_TITLE,Arena Battle,Walka na arenie,Batalha na arena,client: game texts (localeInfo),done
+c:locale_game:GUILD_BUILDING_GRADE,Rank,Ranga,Posto,client: game texts (localeInfo),done
+c:locale_game:GUILD_BUILDING_NAME,Name of building,Nazwa Budynku,Nome do edifício,client: game texts (localeInfo),done
+c:locale_game:GUILD_CANNOT_HEAL_GSP_ANYMORE,The Dragon Ghost Energy is already fully restored.,Energia Ducha Smoka jest już w pełni zregenerowana.,A energia do Fantasma do Dragão já está totalmente restaurada.,client: game texts (localeInfo),done
+c:locale_game:GUILD_COMMENT,Write,Napisz,Escrever,client: game texts (localeInfo),done
+c:locale_game:GUILD_CREATE_ERROR_INSULT_NAME,Guildname is not valid.,Nazwa Gildii jest niepoprawna.,O nome da guilda não é válido.,client: game texts (localeInfo),done
+c:locale_game:GUILD_DEFAULT_GRADE,Guild members,Członkowie Gildii,Membros da guilda,client: game texts (localeInfo),done
+c:locale_game:GUILD_DELETE,Delete,Usuń,Apagar,client: game texts (localeInfo),done
+c:locale_game:GUILD_DEPOSIT,Deposit,Depozyt,Depósito,client: game texts (localeInfo),done
+c:locale_game:GUILD_DO_YOU_HEAL_GSP,Do you want to spend %s Yang to restore %d units of Dragon Ghost?,Czy chcesz odnowić za %s Yang %d Ducha Smoka?,Queres gastar %s Yang para restaurar %d unidades do Fantasma do Dragão?,client: game texts (localeInfo) | keep: %s %d,done
+c:locale_game:GUILD_DO_YOU_JOIN, has invited you. Do you want to join the guild?,  zaprasza Cię do swojej Gildii. Chcesz do niej dołączyć?, convidou-te. Queres juntar-te à guilda?,client: game texts (localeInfo),done
+c:locale_game:GUILD_EMPTY_AREA,Empty land,Wolna Ziemia,Terreno livre,client: game texts (localeInfo),done
+c:locale_game:GUILD_ENEMY_GUILD_NAME,Guild name of the enemy,Nazwa Gildii wroga,Nome da guilda inimiga,client: game texts (localeInfo),done
+c:locale_game:GUILD_FACILITY,Outbuilding,Przybudówka,Anexo,client: game texts (localeInfo),done
+c:locale_game:GUILD_GEM,Gem,Klejnot,Gema,client: game texts (localeInfo),done
+c:locale_game:GUILD_HEADQUARTER,Main Building,Budynek Główny,Edifício principal,client: game texts (localeInfo),done
+c:locale_game:GUILD_HEAL_GSP,Restore Dragon ghost,Regeneracja Ducha Smoka,Restaurar o Fantasma do Dragão,client: game texts (localeInfo),done
+c:locale_game:GUILD_INFO_ENEMY_GUILD_EMPTY,None,Nikt,Nenhuma,client: game texts (localeInfo),done
+c:locale_game:GUILD_MARK_NOT_ENOUGH_LEVEL,Minimum level of 3 required,Potrzebny przynajmniej 3 poziom,É necessário o nível 3,client: game texts (localeInfo),done
+c:locale_game:GUILD_NAME,Guild name,Nazwa Gildii,Nome da guilda,client: game texts (localeInfo),done
+c:locale_game:GUILD_NOT_ENOUGH_MATERIAL,Not enough building material for this building.,Nie masz wystarczającej ilości surowców na tą budowlę.,Materiais de construção insuficientes para este edifício.,client: game texts (localeInfo),done
+c:locale_game:GUILD_NOT_ENOUGH_MONEY,Not enough Yang for this building.,Nie masz wystarczającej ilości Yang na tą budowlę.,Yang insuficiente para este edifício.,client: game texts (localeInfo),done
+c:locale_game:GUILD_NO_NOTICE_PERMISSION,You do not have the rights to make an announcement.,Nie masz praw do tworzenia ogłoszeń.,Não tens permissão para fazer um anúncio.,client: game texts (localeInfo),done
+c:locale_game:GUILD_OBJECT,Objects,Obiekty,Objetos,client: game texts (localeInfo),done
+c:locale_game:GUILD_OFFER_EXP,Invest experience,PD do przekazania,Investir experiência,client: game texts (localeInfo),done
+c:locale_game:GUILD_SHORT_EXP,Not enough experience points.,Za mało Punktów Doświadczenia.,Pontos de experiência insuficientes.,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_BASEINFO,Basic Information,Podstawowa Informacja,Informações básicas,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_BOARD,Blackboard,Tablica,Quadro,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_GRADE,Rights Administration,Zarządzanie Prawami,Gestão de permissões,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_INFO,Guild Information,Informacje o Gildii,Informações da guilda,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_MEMBER,Guild Members,Członkowie Gildii,Membros da guilda,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_SKILL,Guild Skills,Umiejętności Gildii,Habilidades da guilda,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_LIMIT_30MIN,Time: 30 Minutes,Czas: 30 Minut,Duração: 30 minutos,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_REWARD_POTION,Reward: The winner receives a Potion,Nagroda: Zwycięzca otrzymuje Miksturę,Recompensa: o vencedor recebe uma poção,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_USE_BATTLE_MAP,Location: Guild War Arena,Miejsce: Teatr Wojny Gildii,Local: arena de guerra de guildas,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_USE_NORMAL_MAP,Location: Normal Map,Miejsce: Normalna Mapa,Local: mapa normal,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_WIN_CHECK_SCORE,The highest result wins the war.,Najlepszy wynik wygrywa Wojnę.,A pontuação mais alta vence a guerra.,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_WIN_TAKE_AWAY_FLAG1,Capture the flag of your enemy,Zdobądź Flagę przeciwnika,Captura a bandeira do inimigo,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_WIN_TAKE_AWAY_FLAG2,and carry it to your base.,i dostarcz ją do swojej bazy.,e leva-a para a tua base.,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_WIN_WIPE_OUT_GUILD,Defeat all enemies to win.,Pokonaj wszystkich wrogów by wygrać.,Derrota todos os inimigos para vencer.,client: game texts (localeInfo),done
+c:locale_game:GUILD_WITHDRAW,Fallback,Wycofaj się,Recuar,client: game texts (localeInfo),done
+c:locale_game:GUILD_YOU_DO_NOT_JOIN,You are not a member of any Guild.,Nie jesteś członkiem żadnej Gildii.,Não és membro de nenhuma guilda.,client: game texts (localeInfo),done
+c:locale_game:HORSE_HEALTH0,Dead,Na skraju śmierci,Morto,client: game texts (localeInfo),done
+c:locale_game:HORSE_HEALTH1,Starving,Głodny,Esfomeado,client: game texts (localeInfo),done
+c:locale_game:HORSE_HEALTH2,Hungry,Wygłodzony,Com fome,client: game texts (localeInfo),done
+c:locale_game:HORSE_HEALTH3,Full,Pełny,Saciado,client: game texts (localeInfo),done
+c:locale_game:HORSE_LEVEL1,Normal Horse,Normalny Koń,Cavalo normal,client: game texts (localeInfo),done
+c:locale_game:HORSE_LEVEL2,Battle Horse,Opancerzony Koń,Cavalo de combate,client: game texts (localeInfo),done
+c:locale_game:HORSE_LEVEL3,Military Horse,Wojskowy Koń,Cavalo militar,client: game texts (localeInfo),done
+c:locale_game:HOUR,Hours,Godzin,Horas,client: game texts (localeInfo),done
+c:locale_game:HOW_MANY_ITEM_DO_YOU_DROP1,Do you want to drop %s?,Czy chcesz upuścić %s?,Queres largar %s?,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:HOW_MANY_ITEM_DO_YOU_DROP2,Do you want to drop %s %d?,Czy chcesz upuścić %s %d?,Queres largar %s %d?,client: game texts (localeInfo) | keep: %s %d,done
+c:locale_game:INPUT_MATRIX_CARD_NUMBER,Enter Matrix Cardnumber.,Wpisz numer karty Matrix.,Introduz o número do cartão matriz.,client: game texts (localeInfo),done
+c:locale_game:INPUT_MATRIX_CARD_TITLE,Matrix Card,Karta Matrix,Cartão matriz,client: game texts (localeInfo),done
+c:locale_game:INPUT_PRIVATE_CODE_DIALOG_DESCRIPTION,Enter deletion-code from your account settings here.,Wprowadź kod usunięcia z zarządzania kontem.,Introduz aqui o código de eliminação das definições da tua conta.,client: game texts (localeInfo),done
+c:locale_game:INPUT_PRIVATE_CODE_DIALOG_TITLE,Delete character,Usuwanie postaci,Apagar personagem,client: game texts (localeInfo),done
+c:locale_game:INVENTORY_DO_NOT_PACK_WARP_SCROLL,Role of Return cannot be combined.,Zwoje powrotu nie mogą być łączone.,O Pergaminho de Regresso não pode ser combinado.,client: game texts (localeInfo),done
+c:locale_game:INVENTORY_REALLY_USE_ITEM,Do you want to use this Item?,Czy chcesz użyć tego Przedmiotu?,Queres usar este item?,client: game texts (localeInfo),done
+c:locale_game:JOB_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),check
+c:locale_game:JOB_ASSASSIN0,Amateur Ninja,Amator Ninja,Ninja aprendiz,client: game texts (localeInfo),done
+c:locale_game:JOB_ASSASSIN1,Power of the Ninjas,Moc Zabójcy,Poder dos Ninjas,client: game texts (localeInfo),done
+c:locale_game:JOB_ASSASSIN2,Undead,Moc Łucznika,Morto-vivo,client: game texts (localeInfo),done
+c:locale_game:JOB_SHAMAN,Shaman,Szaman,Xamã,client: game texts (localeInfo),done
+c:locale_game:JOB_SHAMAN0,Amateur Shaman,Amator Shaman,Xamã aprendiz,client: game texts (localeInfo),done
+c:locale_game:JOB_SHAMAN1,Power of the Dragon,Moc Smoka,Poder do Dragão,client: game texts (localeInfo),done
+c:locale_game:JOB_SHAMAN2,Lightning Power,Moc Błyskawicy,Poder do Relâmpago,client: game texts (localeInfo),done
+c:locale_game:JOB_SURA,Sura,Sura,Sura,client: game texts (localeInfo),check
+c:locale_game:JOB_SURA0,Amateur Sura,Amator Sura,Sura aprendiz,client: game texts (localeInfo),done
+c:locale_game:JOB_SURA1,Power of the Fata Morgana,Moc Ostrza,Poder da Fata Morgana,client: game texts (localeInfo),done
+c:locale_game:JOB_SURA2,Power of Black Magic,Moc Czarnej Magii,Poder da Magia Negra,client: game texts (localeInfo),done
+c:locale_game:JOB_WARRIOR,Warrior,Wojownik,Guerreiro,client: game texts (localeInfo),done
+c:locale_game:JOB_WARRIOR0,Amateur Warrior,Amator Wojownik,Guerreiro aprendiz,client: game texts (localeInfo),done
+c:locale_game:JOB_WARRIOR1,Power of Arahan,Moc Ciała,Poder de Arahan,client: game texts (localeInfo),done
+c:locale_game:JOB_WARRIOR2,Power of Partisans,Moc Umysłu,Poder dos Partisanos,client: game texts (localeInfo),done
+c:locale_game:LEFT_TIME,Time Remaining,Pozostały Czas,Tempo restante,client: game texts (localeInfo),done
+c:locale_game:LOGIN_CONNECT_FAILURE,Error while connecting to the server.,Błąd podczas łączenia się z serwerem.,Erro ao ligar ao servidor.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_CONNECT_SUCCESS,You have been connected to the server.,Jesteś połączony z serwerem.,Estás ligado ao servidor.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_CONNETING,You will be connected to the server...,Zostaniesz połączony z serwerem.,A ligar ao servidor...,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_ALREAY,Your account is already connected.,Twoje konto jest już połączone.,A tua conta já está ligada.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_BE_SAME_KEY,Registration problem.,Problem z rejestracją.,Problema de registo.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_BLOCK_ID,Your account is banned.,Twoje konto jest zablokowane.,A tua conta está banida.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_BLOCK_LOGIN,Please choose one of the other servers!,Serwer Zamknięty - proszę wybrać inny!,Escolhe outro servidor!,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_NOBILL,Your account had no play time.,Twoje konto nie ma czasu gry.,A tua conta não tem tempo de jogo.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_NOT_AVAIL,Your account cannot be used.,Twoje konto nie może być użyte.,A tua conta não pode ser usada.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_NOT_EXIST_ID,Account name or password incorrect.,Nieprawidłowa nazwa konta lub hasło.,Nome de conta ou palavra-passe incorretos.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_REPAIR_ID,Items have been restored for this account.,Przedmioty zostały przywrócone dla tego konta.,Foram restaurados itens para esta conta.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_SHUTDOWN,The server is not open yet.,Serwer nie jest jeszcze otwarty.,O servidor ainda não está aberto.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_TOO_MANY_USER,You could not connect because too many players are online.,"Nie możesz się połączyć, ponieważ za dużo graczy jest online.",Não foi possível ligar: demasiados jogadores online.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_UNKNOWN,You could not register for unknown reasons.,Nie możesz się zarejestrować z nieznanych powodów.,Não foi possível registar por um motivo desconhecido.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_WEB_BLOCK,You have been blocked at the website. Please check your EMails.,Twoje konto zostało zablokowane na stronie www. Proszę sprawdzić swoją pocztę e-mail.,Foste bloqueado no site. Verifica os teus e-mails.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER,You entered a wrong number.,Wpisałeś nieprawidłowy numer.,Introduziste um número errado.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER_TRIPLE,You entered a wrong number three times. /n Your connection will be disabled.,Wybrałeś zły numer trzy razy. /n Twoje połączenie zostanie zerwane.,Introduziste um número errado três vezes. /n A tua ligação será desativada.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_WRONG_PASSWORD,Account name or password incorrect.,"Nieprawidłowa nazwa konta, hasło lub PIN.",Nome de conta ou palavra-passe incorretos.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_INPUT_ID,Enter the ID.,Podaj swoje ID.,Introduz o ID.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_INPUT_PASSWORD,Enter the password.,Wpisz swoje hasło.,Introduz a palavra-passe.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_PROCESSING,Logging in...,Logowanie...,A iniciar sessão...,client: game texts (localeInfo),done
+c:locale_game:MALL_CANNOT_INSERT,You cannot place the Item.,Nie możesz umieścić Przedmiotu.,Não podes colocar este item.,client: game texts (localeInfo),done
+c:locale_game:MALL_PASSWORD_TITLE,Password,Hasło,Palavra-passe,client: game texts (localeInfo),done
+c:locale_game:MAP_A1,Yongan Area,Strefa Yongan,Região de Yongan,client: game texts (localeInfo),done
+c:locale_game:MAP_A2,Valley of Seungryong,Dolina Seungryong,Vale de Seungryong,client: game texts (localeInfo),done
+c:locale_game:MAP_A3,Yayang Area,Strefa Yayang,Região de Yayang,client: game texts (localeInfo),done
+c:locale_game:MAP_AG,Jungrang,Jungrang,Jungrang,client: game texts (localeInfo),check
+c:locale_game:MAP_B1,Joan Area,Strefa Joan,Região de Joan,client: game texts (localeInfo),done
+c:locale_game:MAP_B2,Valley of Imji,Dolina Imji,Vale de Imji,client: game texts (localeInfo),done
+c:locale_game:MAP_B3,Bokjung Area,Strefa Bokjung,Região de Bokjung,client: game texts (localeInfo),done
+c:locale_game:MAP_BAY,Nephrite Bay,Nefrytowa Zatoka,Baía de Nefrite,client: game texts (localeInfo),done
+c:locale_game:MAP_BG,Waryong,Waryong,Waryong,client: game texts (localeInfo),check
+c:locale_game:MAP_C1,Pyungmoo Area,Strefa Pyungmoo,Região de Pyungmoo,client: game texts (localeInfo),done
+c:locale_game:MAP_C2,Valley of Bangsan,Dolina Bangsan,Vale de Bangsan,client: game texts (localeInfo),done
+c:locale_game:MAP_C3,Bakra Area,Strefa Bakra,Região de Bakra,client: game texts (localeInfo),done
+c:locale_game:MAP_CAPE,Cape Dragon Fire,Przylądek Smoczego Ognia,Cabo do Fogo do Dragão,client: game texts (localeInfo),done
+c:locale_game:MAP_CG,Imha,Imha,Imha,client: game texts (localeInfo),check
+c:locale_game:MAP_DAWN,Gautama Cliff,Klif Gautama,Penhasco de Gautama,client: game texts (localeInfo),done
+c:locale_game:MAP_DESERT,Yongbi Desert,Pustynia Yongbi,Deserto de Yongbi,client: game texts (localeInfo),done
+c:locale_game:MAP_FLAME,Doyyumhwan,Doyyumhwan,Doyyumhwan,client: game texts (localeInfo),check
+c:locale_game:MAP_NUSLUCK,Land of Giants,Kraina Gigantów,Terra dos Gigantes,client: game texts (localeInfo),done
+c:locale_game:MAP_SKELTOWER,Gumsan Tower,Wieża Gumsan,Torre de Gumsan,client: game texts (localeInfo),done
+c:locale_game:MAP_SNOW,Mount Sohan,Góra Sohan,Monte Sohan,client: game texts (localeInfo),done
+c:locale_game:MAP_SPIDER,Kuahlo Dong,Kuahlo Dong,Kuahlo Dong,client: game texts (localeInfo),check
+c:locale_game:MAP_TEMPLE,Hwang Temple,Świątynia Hwang,Templo de Hwang,client: game texts (localeInfo),done
+c:locale_game:MAP_THUNDER,Thunder Mountains,Gromiste Góry,Montanhas do Trovão,client: game texts (localeInfo),done
+c:locale_game:MAP_TREE,Lungsam,Lungsam,Lungsam,client: game texts (localeInfo),check
+c:locale_game:MAP_TRENT02,Red Forest,Czerwony Las,Floresta Vermelha,client: game texts (localeInfo),done
+c:locale_game:MAP_WL,Snakefield,Wężowe Pole,Campo das Serpentes,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_ADD_FRIEND,Add Friend,Dodaj Przyjaciela,Adicionar amigo,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_1,%s added you as a friend.,%s dodał Cię jako przyjaciela.,%s adicionou-te como amigo.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_2,Accept?,Zaakceptować?,Aceitar?,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_DO_YOU_DELETE,Delete?,Usunąć?,Apagar?,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_DO_YOU_DELETE_PHONE_NUMBER,Do you want to delete the cell phone number?,Czy chcesz usunąć numer telefonu komórkowego?,Queres apagar o número de telemóvel?,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_DO_YOU_MOVE,Do you want to go on?,Czy chcesz kontynuować?,Queres continuar?,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_EMPTY_LIST,Empty,Pusto,Vazio,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_FAMILY,Family,Rodzina,Família,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_FRIEND,Friends,Przyjaciel,Amigos,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_GUILD,Guild,Gildia,Guilda,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_AUTHORITY_DESCRIPTION,Enter the confirmation number that was sent to your cell phone.,"Wprowadź numer potwierdzający, który został wysłany na twój telefon komórkowy.",Introduz o número de confirmação enviado para o teu telemóvel.,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_AUTHORITY_TITLE,Enter confirmation number,Wprowadź numer potwierdzający,Introduzir número de confirmação,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_PHONE_NUMBER_1,Enter the cell phone number for the Text message sending.,Wprowadź numer telefonu komórkowego do wysyłania wiadomości tekstowych.,Introduz o número de telemóvel para o envio de SMS.,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_PHONE_NUMBER_2,Do you want to enter the number now?,Czy chcesz teraz wprowadzić numer?,Queres introduzir o número agora?,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_PHONE_NUMBER_TITLE,Enter cell phone number.,Wprowadź numer telefonu komórkowego.,Introduz o número de telemóvel.,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_SEND_MOBILE_MESSAGE_TITLE,Send message.,Wyślij wiadomość.,Enviar mensagem.,client: game texts (localeInfo),done
+c:locale_game:MINIMAP,Open Mini Map,Otwórz Mini Mapę,Abrir minimapa,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_CANNOT_SEE,Mini Map cannot be seen.,Nie można zobaczyć Mini Mapy.,O minimapa não está visível.,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_CAN_NOT_SHOW_AREAMAP,Large Map cannot be shown.,Mini Mapa nie może zostać pokazana.,O mapa grande não pode ser mostrado.,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_DEC_SCALE,Zoom out,Oddal,Afastar,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_INC_SCALE,Zoom in,Przybliż,Aproximar,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_OBSERVER_COUNT,%d observers,%d obserwatorów,%d espetadores,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:MINIMAP_SHOW_AREAMAP,Open Large Map,Otwórz Dużą Mapę,Abrir mapa grande,client: game texts (localeInfo),done
+c:locale_game:MINUTE,Minutes,Minut,Minutos,client: game texts (localeInfo),done
+c:locale_game:MONETARY_UNIT0,Yang,Yang,Yang,client: game texts (localeInfo),check
+c:locale_game:MONETARY_UNIT1,Ten Thousand,Dziesięć Tysięcy,Dez mil,client: game texts (localeInfo),done
+c:locale_game:MONETARY_UNIT2,Hundred Billion,Sto Miliardów,Cem mil milhões,client: game texts (localeInfo),done
+c:locale_game:MONEY_INPUT_DIALOG_SELLPRICE,Sales Price:,Cena sprzedaży:,Preço de venda:,client: game texts (localeInfo),done
+c:locale_game:MOVE_ITEM_FAILURE_PRIVATE_SHOP,You cannot move items while you have a private shop open.,"Nie możesz przesuwać przedmiotów, jeśli masz otwarty prywatny Magazyn.",Não podes mover itens enquanto a tua loja privada estiver aberta.,client: game texts (localeInfo),done
+c:locale_game:MUSIC_EMPTY_MUSIC_LIST,No Backgroundmusic.,Brak muzyki w tle.,Sem música de fundo.,client: game texts (localeInfo),done
+c:locale_game:MUSIC_METIN2_DEFAULT_THEMA,Metin2 Standard music,Standardowa muzyka Metin2,Música padrão do Metin2,client: game texts (localeInfo),done
+c:locale_game:MUSIC_NOT_SELECT_MUSIC,No Music file chosen.,Plik z muzyką nie został wybrany.,Nenhum ficheiro de música escolhido.,client: game texts (localeInfo),done
+c:locale_game:NEEFD_REST,You must rest first.,Musisz najpierw odpocząć.,Tens de descansar primeiro.,client: game texts (localeInfo),done
+c:locale_game:NOT_YET_SUPPORT,Not yer supported,Nie jest obsługiwany,Ainda não suportado,client: game texts (localeInfo),done
+c:locale_game:OPTION_PVPMODE_CANNOT_SET_GUILD_MODE,You cannot activate Guild Mode when you do not belong to a Guild.,Nie możesz aktywować Trybu Gildii kiedy nie należysz do żadnej Gildii.,Não podes ativar o modo guilda se não pertenceres a nenhuma guilda.,client: game texts (localeInfo),done
+c:locale_game:OPTION_PVPMODE_NOT_SUPPORT,You cannot choose this configuration in PvP Mode.,Nie możesz wybrać tej konfiguracji w Trybie PvP.,Não podes escolher esta opção no modo JxJ.,client: game texts (localeInfo),done
+c:locale_game:OPTION_PVPMODE_PROTECT,You need to have at least Level %d to be able to change the PvP Mode.,Potrzebujesz conajmniej Poziomu %d aby móć używać Trybu PvP.,Tens de ter pelo menos o nível %d para mudar o modo JxJ.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_ATTACKER,Attack Value: +%d,Wartość Ataku: +%d,Valor de ataque: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_BERSERKER,Attck Speed: +%d,Szybkość Ataku: +%d,Velocidade de ataque: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_BUFFER,Skill Duration: +%d,Czas Trwania: +%d,Duração das habilidades: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_DEFENDER,Defence: +%d,Obrona: +%d,Defesa: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_EXP,Bonus EXP: %d%%,Bonus DOŚ: %d%%,Bónus de EXP: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_SKILL_MASTER,Max. SP: +%d,Siła magii w potwory: +%d%%,PM máx.: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_TANKER,Max. HP: +%d,Maks. PŻ: +%d,PV máx.: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BREAK_UP,Delete Group,Usuń Grupę,Dissolver grupo,client: game texts (localeInfo),done
+c:locale_game:PARTY_DO_YOU_ACCEPT, would like to join the Group., chce dołączyć do grupy., quer juntar-se ao grupo.,client: game texts (localeInfo),done
+c:locale_game:PARTY_DO_YOU_JOIN, has invited you to join his group. Accept?,",  zaprasza Cię do swojej grupy. Czy chcesz przyjąć zaproszenie?", convidou-te para o grupo. Aceitar?,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE,EXP Distribution,Podział DOŚ,Distribuição de EXP,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_LEVEL,Level dependant,zależy od poziomu,Conforme o nível,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_LEVEL_TOOLTIP,Higher level group members receive more EXP.,Członkowie grupy o wyższym poziomie otrzymują więcej PD.,Os membros de nível mais alto recebem mais EXP.,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_PARITY,even,równo,Igual,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_PARITY_TOOLTIP,All Group members receive the same EXP.,Wszyscy otrzymują taką samą ilość PD.,Todos os membros do grupo recebem a mesma EXP.,client: game texts (localeInfo),done
+c:locale_game:PARTY_HEAL_ALL_MEMBER,Restore everything.,Odnów wszystko.,Restaurar tudo.,client: game texts (localeInfo),done
+c:locale_game:PARTY_INCREASE_AREA_150,Range of the group heightened of the factor 1.5 .,"Zasięg grupy zwiększony o współczynnik 1,5.","Alcance do grupo multiplicado por 1,5.",client: game texts (localeInfo),done
+c:locale_game:PARTY_INCREASE_AREA_200,Range of the group heightened of the factor 2.,Zasięg grupy zwiększony o współczynnik 2.,Alcance do grupo multiplicado por 2.,client: game texts (localeInfo),done
+c:locale_game:PARTY_LEAVE,Leave group,Opuść grupę,Sair do grupo,client: game texts (localeInfo),done
+c:locale_game:PARTY_LONGTIME_BONUS_EXP,Bonus EXP for a long group game: +%d%%,Bonus DOŚ za długą grę grupową: +%d%%,Bónus de EXP por jogar muito tempo em grupo: +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_MEMBER_OFFLINE,[Offline],[Offline],[Offline],client: game texts (localeInfo),check
+c:locale_game:PARTY_RECALL_MEMBER,Call group member.,Wezwij członka grupy.,Chamar membro do grupo.,client: game texts (localeInfo),done
+c:locale_game:PARTY_REGEN_BONUS,Bonus for HP- + SP regeneration: +%d%%,Bonus za PŻ- + PE regeneracja: +%d%%,Bónus de regeneração de PV e PM: +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_REQUEST_DENIED,Your request has been declined.,Odrzucono zaproszenie.,O teu pedido foi recusado.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_ATTACKER,Constitute as Attacker.,Ustanów jako Atakującego.,Definir como atacante.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_BERSERKER,Constitute as Berserker.,Ustanów jako Berserker.,Definir como berserker.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_BUFFER,Constitute as Blocker.,Ustanów jako Blokującego.,Definir como bloqueador.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_DEFENDER,Constitute as Defender.,Ustanów jako Obrońcę.,Definir como defensor.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_NORMAL,Withdraw settings.,Wycofaj bonus.,Anular definições.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_SKILL_MASTER,Constitute as Skill Master.,Ustanów jako Mistrza Umiejętności.,Definir como mestre de habilidades.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_TANKER,Constitute as blade fighter.,Ustanów jako Walczącego W Zwarciu.,Definir como lutador de lâmina.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SKILL_ATTACKER,Base Attack Value Attacker +%.0f,Podstawowa Wartość Ataku +%.0f,Valor de ataque base (atacante) +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_BERSERKER,Attack Speed Berserker +%.0f,Szybkość Ataku +%.0f,Velocidade de ataque (berserker) +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_BUFFER,Skill Duration Blocker +%.0f,Czas trwania +%.0f,Duração das habilidades (bloqueador) +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_DEFENDER,Defence Defender +%.0f,Obrona +%.0f,Defesa (defensor) +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_HP_REGEN,HP Regeneration +%.0f%%,Regeneracja PŻ +%.0f%%,Regeneração de PV +%.0f%%,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_PARTY_AREA,Group range +%d%%,Zasięg Grupy +%d%%,Alcance do grupo +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_SKILL_SKILL_MASTER,Max. SP Skill Master +%.0f,Siła magii na potwory +%.0f%%,PM máx. (mestre de habilidades) +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_SP_REGEN,SP Regeneration +%.0f%%,Regeneracja PE +%.0f%%,Regeneração de PM +%.0f%%,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_TANKER,Max. HP blade fighter +%.0f,Max PŻ +%.0f,PV máx. (lutador de lâmina) +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_WARP,Possible to call group members.,Możliwe wezwanie członków grupy.,É possível chamar membros do grupo.,client: game texts (localeInfo),done
+c:locale_game:PASSWORD_TITLE,Storeroom password,Hasło do magazynu,Palavra-passe do armazém,client: game texts (localeInfo),done
+c:locale_game:PICK_ITEM_TITLE,Item Number,Numer Przedmiotu,Número do item,client: game texts (localeInfo),done
+c:locale_game:PICK_MONEY_TITLE,Sum,Kwota,Quantia,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_CANNOT_SELL_ITEM,You cannot sell this item in a private shop.,Nie możesz sprzedać tego Przedmiotu w prywatnym Magazynie.,Não podes vender este item numa loja privada.,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_CLOSE_QUESTION,Do you want to close the private shop?,Czy chcesz zamknąć prywatny Magazyn?,Queres fechar a loja privada?,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_INPUT_NAME_DIALOG_TITLE,Name of the private shop.,Wpisz nazwę swojego Sklepu.,Nome da loja privada.,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_INPUT_PRICE_DIALOG_TITLE,Price,Cena,Preço,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL0,Chivalric,Rycerski,Cavaleiresco,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL1,Noble,Szlachetny,Nobre,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL2,Good,Dobry,Bom,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL3,Friendly,Przyjazny,Amigável,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL4,Neutral,Neutralny,Neutro,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL5,Aggressive,Agresywny,Agressivo,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL6,Fraudulent,Nieuczciwy,Fraudulento,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL7,Malicious,Złośliwy,Malicioso,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL8,Cruel,Okrutny,Cruel,client: game texts (localeInfo),check
+c:locale_game:PVP_MODE_GUILD,PvP - Guild activated,PvP - gildia aktywowana,JxJ - Guilda ativado,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_KILL,PvP - Free activated,PvP - tryb wolny aktywowany,JxJ - Livre ativado,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_NORMAL,PvP - Peace activated,PvP - tryb pokojowy aktywowany.,JxJ - Paz ativado,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_PROTECT,PvP - Protection activated,Aktywowano ochronę przed PvP,JxJ - Proteção ativado,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_REVENGE,PvP - Hostile activated,PvP - tryb wrogi aktywowany,JxJ - Hostil ativado,client: game texts (localeInfo),done
+c:locale_game:PVP_OPTION_KILL,Free,Wolny,Livre,client: game texts (localeInfo),done
+c:locale_game:PVP_OPTION_NORMAL,Peace,Pokojowy,Paz,client: game texts (localeInfo),done
+c:locale_game:PVP_OPTION_PROTECT,Protection,Ochrona,Proteção,client: game texts (localeInfo),done
+c:locale_game:PVP_OPTION_REVENGE,Hostile,Wrogi,Hostil,client: game texts (localeInfo),done
+c:locale_game:QUEST_APPEND,New Quest acquired.,Otrzymano Nową Misję.,Nova missão obtida.,client: game texts (localeInfo),done
+c:locale_game:QUEST_MIN,Min.,Min.,Min.,client: game texts (localeInfo),check
+c:locale_game:QUEST_SEC,Sec.,Sek.,Seg.,client: game texts (localeInfo),done
+c:locale_game:QUEST_TIMEOVER,Time Expired,Koniec czasu,Tempo esgotado,client: game texts (localeInfo),done
+c:locale_game:QUEST_UNLIMITED_TIME,No time limit.,Brak limitu czasowego.,Sem limite de tempo.,client: game texts (localeInfo),done
+c:locale_game:QUEST_ZEROSEC,0 Sec.,0 Sek.,0 seg.,client: game texts (localeInfo),done
+c:locale_game:QUICKSLOT_REGISTER_DISABLE_ITEM,This Item cannot be added to the Fast Access Field.,Ten Przedmiot nie może zostać dodany do Szybkiego Pola Dostępu.,Este item não pode ser adicionado à barra de acesso rápido.,client: game texts (localeInfo),done
+c:locale_game:RECEIVE_MESSAGE,%s sent you a message.,%s wysłał Ci wiadomość.,%s enviou-te uma mensagem.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_COST,Upgrade cost: %s,Cena za Ulepszenie: %s,Custo de melhoria: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_DESTROY_WARNING,This Item could be destroyed while upgrading.,Ten Przedmiot może zostać zniszczony podczas ulepszania.,Este item pode ser destruído durante a melhoria.,client: game texts (localeInfo),done
+c:locale_game:REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_1,"This will improve the chance for upgrading,","To zwiększy szanse na ulepszenie,","Isto aumenta a probabilidade de melhoria,",client: game texts (localeInfo),done
+c:locale_game:REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_2,but if you fail the Item could be destroyed. /n Do you want to continue?,"ale jeśli zawiedziesz, Przedmiot zostanie zniszczony. Czy chcesz kontynuować?","mas, se falhar, o item pode ser destruído. /n Queres continuar?",client: game texts (localeInfo),done
+c:locale_game:REFINE_DOWN_GRADE_WARNING,The Item could be down graded this way.,Przedmiot może zostać zdegradowany w ten sposób.,"Desta forma, o item pode perder um nível.",client: game texts (localeInfo),done
+c:locale_game:REFINE_DO_YOU_SEPARATE_METIN,Do you want to remove all available spirit stones?,Czy chcesz usunąć wszystkie Kamienie Duszy?,Queres remover todas as pedras espirituais?,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE,You failed.,Zawiodłeś.,Falhaste.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_CAN_NOT_ATTACH,%s cannot be included in that Item.,%s nie może zostać uwzględniony w tym Przedmiocie.,%s não pode ser colocado neste item.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_FAILURE_EQUIP_ITEM,You cannot upgrade equipped Items.,Nie możesz ulepszyć założonego Przedmiotu.,Não podes melhorar itens equipados.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_METIN_INSEPARABLE_ITEM,No spirit stone can be taken away.,Żaden Kamień Duszy nie może zostać wyjęty.,Nenhuma pedra espiritual pode ser removida.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_NEED_BETTER_SCROLL,You need a better Advancement Scroll.,Potrzebujesz lepszego Zwoju.,Precisas de um Pergaminho de melhoria melhor.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_NO_GOLD_SOCKET,There is no Gold socket to include %s .,Nie ma Złotej Kieszeni by uwzględnić %s .,Não há ranhura dourada para colocar %s.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_FAILURE_NO_MORE_SOCKET,You cannot make more Sockets.,Nie możesz zrobić więcej Kieszeni.,Não podes criar mais ranhuras.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_NO_SOCKET0,There is no Socket to include the %s.,"Nie ma slotu, w którym można umieścić %s.",Não há ranhura para colocar %s.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_FAILURE_SOCKET_DISABLE_ITEM,You cannot make any Sockets on this Item.,Nie możesz zrobić żadnych Kieszeni w tym Przedmiocie.,Não podes criar ranhuras neste item.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_UPGRADE_DISABLE_ITEM,This Item cannot be upgraded.,Ten Przedmiot nie może zostać ulepszony.,Este item não pode ser melhorado.,client: game texts (localeInfo),done
+c:locale_game:REFINE_SUCCESS,The advancement of the Item was successful.,Pomyślne Ulepszenie Przedmiotu.,A melhoria do item foi bem-sucedida.,client: game texts (localeInfo),done
+c:locale_game:REFINE_SUCCESS_PROBALITY,Chance for Advancement %d%%,Szansa na Ulepszenie %d%%,Probabilidade de melhoria %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:REFINE_WARNING2,Do you want to continue?,Czy chcesz kontynuować?,Queres continuar?,client: game texts (localeInfo),done
+c:locale_game:SAFEBOX_ERROR,You entered the wrong password.,Wprowadziłeś złe hasło.,Palavra-passe incorreta.,client: game texts (localeInfo),done
+c:locale_game:SAFEBOX_SELL_DISABLE_SAFEITEM,You cannot sell any of the saved Items.,Nie możesz sprzedać żadnego z zachowanych Przedmiotów.,Não podes vender nenhum dos itens guardados.,client: game texts (localeInfo),done
+c:locale_game:SAFEBOX_WRONG_PASSWORD,The passwords have to be identical.,Hasła muszą być identyczne.,As palavras-passe têm de ser iguais.,client: game texts (localeInfo),done
+c:locale_game:SCREENSHOT_SAVE1,Screenshot saved to '%s'.,Zrzut ekranu zapisano w '%s'.,Captura de ecrã guardada em «%s».,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SCREENSHOT_SAVE2,Screenshot File,Plik ze zrzutem obrazu,Ficheiro de captura de ecrã,client: game texts (localeInfo),done
+c:locale_game:SCREENSHOT_SAVE_FAILURE,Saving of Screenshot failed.,Niepomyślny zapis zrzutu obrazu.,Falha ao guardar a captura de ecrã.,client: game texts (localeInfo),done
+c:locale_game:SECOND,Sec,Sek,Seg,client: game texts (localeInfo),done
+c:locale_game:SELECT_CAN_NOT_DELETE,You cannot delete the character.,Nie możesz usunąć postaci.,Não podes apagar esta personagem.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGED_NAME,You changed the name of the character.,Zmieniłeś nazwę postaci.,Mudaste o nome da personagem.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_FAILURE_ALREADY_EXIST_NAME,The character name is already existing.,Ta nazwa postaci już istnieje.,Este nome de personagem já existe.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_FAILURE_STRANGE_INDEX,Try again.,Spróbuj ponownie.,Tenta novamente.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_FAILURE_STRANGE_NAME,That,Nazwa jest niewłaściwa.,Isso,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_NAME_TITLE,Change character name.,Zmień nazwę postaci.,Mudar o nome da personagem.,client: game texts (localeInfo),done
+c:locale_game:SELECT_DELEING,Character will be deleted.,Postać zostanie usunięta.,A personagem será apagada.,client: game texts (localeInfo),done
+c:locale_game:SELECT_DELETED,Deletion successful.,Usuwanie pomyślne.,Eliminação concluída.,client: game texts (localeInfo),done
+c:locale_game:SELECT_DO_YOU_DELETE_REALLY,Do you want to continue?,Czy chcesz kontynuować?,Queres continuar?,client: game texts (localeInfo),done
+c:locale_game:SELECT_EMPTY_SLOT,This is an empty field.,To jest wolne pole.,Isto é um espaço vazio.,client: game texts (localeInfo),done
+c:locale_game:SELECT_GM_NAME,GM,GM,GM,client: game texts (localeInfo),done
+c:locale_game:SELECT_INPUT_CHANGING_NAME,Enter a new character name.,Wprowadź nową nazwę postaci.,Introduz um novo nome de personagem.,client: game texts (localeInfo),done
+c:locale_game:SELECT_NOT_JOIN_GUILD,No Guild,Brak Gildii,Sem guilda,client: game texts (localeInfo),done
+c:locale_game:SHOP_BUY_INFO,Choose the Item you want to buy in the shop window.,"Wybierz z wystawy przedmiot, który chcesz kupić.",Escolhe o item que queres comprar na janela da loja.,client: game texts (localeInfo),done
+c:locale_game:SHOP_CANNOT_SELL_EQUIPMENT,You cannot sell  equipped Items.,Nie możesz sprzedawać ubranych przedmiotów.,Não podes vender itens equipados.,client: game texts (localeInfo),done
+c:locale_game:SHOP_CANNOT_SELL_ITEM,This Item cannot be sold.,Ten Przedmiot nie może zostać sprzedany.,Este item não pode ser vendido.,client: game texts (localeInfo),done
+c:locale_game:SHOP_ERROR_UNKNOWN,Unknown Shop Error: %s,Nieznany Błąd Sklepu: %s,Erro de loja desconhecido: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SHOP_INVALID_POS,This Item cannot be used here.,Ten Przedmiot nie może zostać tu użyty.,Este item não pode ser usado aqui.,client: game texts (localeInfo),done
+c:locale_game:SHOP_INVENTORY_FULL,Your inventory is full.,Nie ma miejsca w ekwipunku.,O teu inventário está cheio.,client: game texts (localeInfo),done
+c:locale_game:SHOP_NOT_ENOUGH_MONEY,Not enough Yang,Niewystarczająca ilość Yang,Yang insuficiente,client: game texts (localeInfo),done
+c:locale_game:SHOP_NOT_ENOUGH_MONEY_EX,You do not have enough Yang.,Nie posiadasz wystarczająco Yang.,Não tens Yang suficiente.,client: game texts (localeInfo),done
+c:locale_game:SHOP_SELL_INFO,Choose the Item you want to sell  in your inventory window.,"Wybierz w oknie ekwipunku przedmiot, który chcesz sprzedać.",Escolhe no inventário o item que queres vender.,client: game texts (localeInfo),done
+c:locale_game:SHOP_SOLDOUT,Sold Out,Wyprzedany,Esgotado,client: game texts (localeInfo),done
+c:locale_game:SHOT_ERROR_UNKNOWN,Unknown Error during Long Distance Attack: %s,Nieznany błąd podczas ataku z dystansu: %s,Erro desconhecido num ataque à distância: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SKILL_BOHO,Reflect,Odbicie,Reflexão,client: game texts (localeInfo),done
+c:locale_game:SKILL_BUDONG,is not used anymore,nie jest już używany,já não é usado,client: game texts (localeInfo),done
+c:locale_game:SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_BOOK,You need EXP to learn this Skill.,Potrzebujesz DOŚ do nauki tej Umiejętności.,Precisas de EXP para aprender esta habilidade.,client: game texts (localeInfo),done
+c:locale_game:SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_STAT,You need a Book to learn this Skill.,Potrzebujesz Księgi do nauki tej Umiejętności.,Precisas de um livro para aprender esta habilidade.,client: game texts (localeInfo),done
+c:locale_game:SKILL_CHEONGEUN,Strong Body,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_CRITICAL,Critical hit,Cios Krytyczny,Golpe crítico,client: game texts (localeInfo),done
+c:locale_game:SKILL_ENCHANT_POISON,Apply Poison,Dodaj Truciznę,Aplicar veneno,client: game texts (localeInfo),done
+c:locale_game:SKILL_EUNHYEONG,Camouflage,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_FAINT,Blackout,Omdlenie,Desmaio,client: game texts (localeInfo),done
+c:locale_game:SKILL_FIND_TRAP,Find Trap,Szukaj Pułapki,Encontrar armadilha,client: game texts (localeInfo),done
+c:locale_game:SKILL_FIRE,Permanent Fire,Podpalenie,Fogo persistente,client: game texts (localeInfo),done
+c:locale_game:SKILL_FISHMIND,Fishing Marble is active,Marmur Rybaka jest aktywny,O Berlinde de pesca está ativo,client: game texts (localeInfo),done
+c:locale_game:SKILL_GAMJI,Capture,Złap,Captura,client: game texts (localeInfo),done
+c:locale_game:SKILL_GEOMGYEONG,Aura of the Sword,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_GEONGON,SKILL_GEONGON Not used anymore,SKILL_GEONGON Niewykorzystany,SKILL_GEONGON Já não é usado,client: game texts (localeInfo),done
+c:locale_game:SKILL_GICHEON,Dragon's Aid,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_GIGONG,Chi Rotation,Rotacja Chi,Rotação do Chi,client: game texts (localeInfo),done
+c:locale_game:SKILL_GONGPO,Fear,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_GRADE_NAME_GRAND_MASTER,%s Grand Master,%s Wielki Mistrz,%s Grão-Mestre,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SKILL_GRADE_NAME_MASTER,%s Master,%s Mistrz,%s Mestre,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SKILL_GRADE_NAME_PERFECT_MASTER,%s Perfect Master,%s Perfekcyjny Mistrz,%s Mestre Perfeito,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SKILL_GROUP_ASSASSIN_1,Blade,Ostrze,Lâmina,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_ASSASSIN_2,Arc,Łuk,Arco,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_HORSE,Riding,Jazda,Equitação,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_SHAMAN_1,Dragon,Smok,Dragão,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_SHAMAN_2,Healing,Leczenie,Cura,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_SURA_1,Weapon,Broń,Arma,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_SURA_2,Magic,Magia,Magia,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_WARRIOR_1,Body,Ciało,Corpo,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_WARRIOR_2,Mental,Umysł,Mental,client: game texts (localeInfo),check
+c:locale_game:SKILL_GWIGEOM,Enchanted Blade,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_GYEONGGONG,Feather Walking,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_HEUKSIN,Dark Protection,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_HOSIN,Blessing,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_HWAYEOM,SKILL_HWAYEOM Not used anymore,SKILL_HWAYEOM Niewykorzystany,SKILL_HWAYEOM Já não é usado,client: game texts (localeInfo),done
+c:locale_game:SKILL_HYEOLMA,SKILL_HYEOLMA Not used anymore,SKILL_HYEOLMA Niewykorzystany,SKILL_HYEOLMA Já não é usado,client: game texts (localeInfo),done
+c:locale_game:SKILL_INC_ATKSPD,Attack speed raised,Zwiększona Szybkość Ataku,Velocidade de ataque aumentada,client: game texts (localeInfo),done
+c:locale_game:SKILL_INC_MOVSPD,Moving speed raised,Zwiększona Szybkość Ruchu,Velocidade de movimento aumentada,client: game texts (localeInfo),done
+c:locale_game:SKILL_INMA,SKILL_INMA Not used anymore,SKILL_INMA niewykorzystany,SKILL_INMA Já não é usado,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEOJU,Curse,Klątwa,Maldição,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEONGEOP,Healing,Leczenie,Cura,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEONGWI,Battle Flush,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_JEONSINBANGEO,Full Defence,Całkowita Obrona,Defesa total,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEONSINGONGGYEOK,Full Attack,Całkowity Atak,Ataque total,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEUNGCHE,SKILL_JEUNGCHE Not used anymore,SKILL_JEUNGCHE Niewykorzystany,SKILL_JEUNGCHE Já não é usado,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEUNGHON,SKILL_JEUNGHON Not used anymore,SKILL_JEUNGHON Niewykorzystany,SKILL_JEUNGHON Já não é usado,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEUNGRYEOK,Attack +,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_JEUNGSOK,Speed +,Szybkość +,Velocidade +,client: game texts (localeInfo),done
+c:locale_game:SKILL_JIGAM,SKILL_JIGAM Not used anymore,SKILL_JIGAM Niewykorzystany,SKILL_JIGAM Já não é usado,client: game texts (localeInfo),done
+c:locale_game:SKILL_JIPJUNG,SKILL_JIPJUNG Not used anymore,SKILL_JIPJUNG Niewykorzystany,SKILL_JIPJUNG Já não é usado,client: game texts (localeInfo),done
+c:locale_game:SKILL_JUMAGAP,Enchanted Armour,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_JUMAGEOM,SKILL_JUMAGEOM Not used anymore,SKILL_JUMAGEOM Niewykorzystany,SKILL_JUMAGEOM Já não é usado,client: game texts (localeInfo),done
+c:locale_game:SKILL_KWAEGEOM,SKILL_KWAEGEOM Not used anymore,SKILL_KWAEGEOM Niewykorzystany,SKILL_KWAEGEOM Já não é usado,client: game texts (localeInfo),done
+c:locale_game:SKILL_KWAESOK,Speed,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_LEGBOUND,SKILL_LEGBOUND Not used anymore,SKILL_LEGBOUND Niewykorzystany,SKILL_LEGBOUND Já não é usado,client: game texts (localeInfo),done
+c:locale_game:SKILL_MUSA,SKILL_MUSA Not used anymore,SKILL_MUSA Niewykorzystany,SKILL_MUSA Já não é usado,client: game texts (localeInfo),done
+c:locale_game:SKILL_MUYEONG,Ghost of the Flame,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_NEED_EMPTY_BOTTLE,I do not have an Empty Bottle.,Nie mam Pustej Butelki.,Não tenho uma garrafa vazia.,client: game texts (localeInfo),done
+c:locale_game:SKILL_NEED_POISON_BOTTLE,I do not have a Poison Bottle,Nie mam Butelki z Trucizną,Não tenho uma garrafa de veneno,client: game texts (localeInfo),done
+c:locale_game:SKILL_ONLY_FOR_GUILD_WAR,You can use this Skill during a Guild War only.,Możesz używać tej Umiejętności tylko podczas Wojny Gildii.,Só podes usar esta habilidade durante uma guerra de guildas.,client: game texts (localeInfo),done
+c:locale_game:SKILL_PABEOP,Neutralize Spell,,,client: game texts (localeInfo),new
+c:locale_game:SKILL_POWERFUL_STRIKE,Dazing Attack,Atak Oszałamiający,Ataque atordoante,client: game texts (localeInfo),done
+c:locale_game:SKILL_SEOMGWANG,Lightning Bomb,Bomba Błyskawic,Bomba de relâmpago,client: game texts (localeInfo),done
+c:locale_game:SKILL_SINCHAK,SKILL_SINCHAK Not used anymore,SKILL_SINCHAK Niewykorzystany,SKILL_SINCHAK Já não é usado,client: game texts (localeInfo),done
+c:locale_game:SKILL_SLEEP,Sleep,Uśpienie,Sono,client: game texts (localeInfo),done
+c:locale_game:SKILL_SLOW,Slow,Spowolnienie,Lentidão,client: game texts (localeInfo),done
+c:locale_game:SKILL_STUN,Daze,Ogłuszenie,Atordoamento,client: game texts (localeInfo),done
+c:locale_game:SKILL_SUHO,Guard,Strażnik,Guarda,client: game texts (localeInfo),done
+c:locale_game:SKILL_SUMMON_DESCRIPTION,Chance of the Evocation: %d%%,Szansa na Przywołanie: %d%%,Probabilidade de evocação: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:SKILL_TOOLTIP_INT,Intelligence,Inteligencja,Inteligência,client: game texts (localeInfo),done
+c:locale_game:SKILL_TOOLTIP_LEVEL,Level,Poziom,Nível,client: game texts (localeInfo),done
+c:locale_game:SKILL_TOXICDIE,Poisoning,Otrucie,Envenenamento,client: game texts (localeInfo),done
+c:locale_game:SKILL_TOXICPOWER,Poison attack value increased,Zwiększona Wartość Ataku Trucizną,Valor de ataque do veneno aumentado,client: game texts (localeInfo),done
+c:locale_game:SKILL_TUSOK,Ghost Hit,Uderzenie Ducha,Golpe fantasma,client: game texts (localeInfo),done
+c:locale_game:SKILL_WONSIN,SKILL_WONSIN Not used anymore,SKILL_WONSIN Niewykorzystany,SKILL_WONSIN Já não é usado,client: game texts (localeInfo),done
+c:locale_game:SKILL_YONGSIN,SKILL_YONGSIN Not used anymore,SKILL_YONGSIN Niewykorzystany,SKILL_YONGSIN Já não é usado,client: game texts (localeInfo),done
+c:locale_game:STAT_MINUS_CON,Vitality Adjustment (Remaining chance: %d),Dostosowanie Witalności (Pozostała szansa: %d),Ajuste de vitalidade (hipóteses restantes: %d),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:STAT_MINUS_DEX,Dexterity Adjustment (Remaining Chance: %d),Dostosowanie Zręczności (Pozostała Szansa: %d),Ajuste de destreza (hipóteses restantes: %d),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:STAT_MINUS_INT,Intelligence Adjustment (Rest of Chance: %d),Dostosowanie Inteligencji (Pozostałą szansa: %d),Ajuste de inteligência (hipóteses restantes: %d),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:STAT_MINUS_STR,Strength Adjustment (Rest of Chance: %d),Dostosowanie Siły (Pozostałą szansa: %d),Ajuste de força (hipóteses restantes: %d),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:STAT_TOOLTIP_CON,Increases HP and defence,Podwyższa PŻ i Obronę,Aumenta PV e defesa,client: game texts (localeInfo),done
+c:locale_game:STAT_TOOLTIP_DEX,Increases attack and evasion,Podwyższa atak i uniki,Aumenta ataque e esquiva,client: game texts (localeInfo),done
+c:locale_game:STAT_TOOLTIP_INT,"Increases SP, magic attack and defence","Podwyższa PE, magiczny atak i obronę.","Aumenta PM, ataque mágico e defesa",client: game texts (localeInfo),done
+c:locale_game:STAT_TOOLTIP_STR,Increases attack value and damage,Podwyższa Wartość Ataku i Uszkodzeń,Aumenta o valor de ataque e o dano,client: game texts (localeInfo),done
+c:locale_game:SYMBOLLIST_TITLE,Register Guild flag,Zarejestruj Flagę Gildii,Registar bandeira da guilda,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_CPU_TILING_1,CPU Tiling Mode can upgrade the speed of a weaker PC.,CPU TNL może ulepszyć szybkość słabszego PC.,O modo Tiling CPU pode acelerar um PC mais fraco.,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_CPU_TILING_2,"If there are problem with the graphics choose either ,Systemoption‘ or ,CONFIG.exe‘","Jeśli jest problem z grafiką, wybierz ,Opcje System lub ,CONFIG.exe;","Se houver problemas gráficos, escolhe «Opções do sistema» ou «CONFIG.exe»",client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_CPU_TILING_3,and change to GPU Tiling Mode.,i zmień na GPU TNL.,e muda para o modo Tiling GPU.,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_GPU_TILING_1,GPU Tiling Mode can run slow on a weaker PC.,GPU TNL może działać wolniej na słabszych PC.,O modo Tiling GPU pode ser lento num PC mais fraco.,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_GPU_TILING_2,If there are problems with the graphics choose either 'System Options' or 'CONFIG.exe',"Jeśli zaistnieją problem z grafiką, wybierz 'Opcje Systemu' lub 'CONFIG.exe'","Se houver problemas gráficos, escolhe «Opções do sistema» ou «CONFIG.exe»",client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_GPU_TILING_3,and change to GPU Tiling Mode.,i zmień na GPU TNL,e muda para o modo Tiling GPU.,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_TILING_EXIT,"To change to Tiling mode, the game has to be restarted.",Aby zmienić tryb TNL trzeba zrestartować grę.,"Para mudar o modo Tiling, é preciso reiniciar o jogo.",client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_ACCEPT_FIGHT,Agree,Zgoda,Aceitar,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_AVENGE,Revenge,Zemsta,Vingança,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_BUILDING_DESTROY,Destroy,Zniszcz,Destruir,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_DISMOUNT,Dismount,Zsiądź,Desmontar,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_EMOTION_ALLOW,Emotions,Emocje,Emoções,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_EXCHANGE,Trading,Handel,Trocar,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_EXCLUDE,Exclude,Wyklucz,Excluir,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_EXIT_OBSERVER,End Observer Mode,Zakończ Tryb Obserwatora,Sair do modo espetador,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_FIGHT,Duel,Pojedynek,Duelo,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_FRIEND,Friend,Przyjaciel,Amigo,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_INVITE_GUILD,Guild Invitation,Zapr. Gildii,Convite para guilda,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_INVITE_PARTY,Group Invitation,Zapr. Grupy,Convite para grupo,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_LEAVE_PARTY,Leave Group,Opuść Grupę,Sair do grupo,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_REQUEST_ENTER_PARTY,Join Group,Dołącz do Grupy,Entrar no grupo,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_VIEW_EQUIPMENT,Equipment,Zbroja,Equipamento,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_WHISPER,Whispering,Szept,Sussurro,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_BOSS,Boss,Boss,Chefe,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_KING,Level 5.,Stopień 5.,Nível 5.,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_KNIGHT,Level 3.,Stopień 3.,Nível 3.,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_PAWN,Level 1.,Stopień 1.,Nível 1.,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_S_KNIGHT,Level 4.,Stopień 4.,Nível 4.,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_S_PAWN,Level 2.,Stopień 2.,Nível 2.,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_ATTACK,Attack,Atak,Atacar,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_AUTO,Attack automatically,atakuj automatycznie,Atacar automaticamente,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_CAMERA,Camera,Kamera,Câmara,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_EXP,Experience,Doświadczenie,Experiência,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_HP,HP,PŻ,PV,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_MOVE,Move,Ruch,Mover,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_SKILL,Skill,Umiejętność,Habilidade,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_SP,SP,PE,PM,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_ST,ST,ST,Res.,client: game texts (localeInfo),done
+c:locale_game:THING_COUNT,all,wszystko,todos,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ANTI_CRITICAL_PCT,Resistance against critical hits +%d%%,Odporność na cios krytyczny +%d%%,Resistência a golpes críticos +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ANTI_PENETRATE_PCT,Resistance against piercing hits +%d%%,Odporność na przeszywający cios +%d%%,Resistência a golpes perfurantes +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ANTI_SELL,Cannot be sold in the shop.,Nie może zostać sprzedany w Magazynie,Não pode ser vendido na loja.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_ANIMAL,Strong against Animals +%d%%,Silny przeciwko Zwierzętom +%d%%,Forte contra animais +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_ASSASSIN,Strong against Ninjas +%d%%,Silny przeciwko Ninja +%d%%,Forte contra Ninjas +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_DEVIL,Strong against Devils +%d%%,Silny przeciwko Diabłom +%d%%,Forte contra demónios +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_HUMAN,Strong against Half Humans +%d%%,Silny przeciwko Ludziom +%d%%,Forte contra semi-humanos +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_MILGYO,Strong against Mystics +%d%%,Silny przeciwko Mistykom +%d%%,Forte contra místicos +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_MONSTER,Strength against monsters +%d%%,Silny przeciwko Potworom +%d%%,Forte contra monstros +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_ORC,Strong against Orcs +%d%%,Silny przeciwko Orkom +%d%%,Forte contra orcs +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_SHAMAN,Strong against Shamans +%d%%,Silny przeciwko Szamanom +%d%%,Forte contra Xamãs +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_SURA,Strong against Sura +%d%%,Silny przeciwko Sura +%d%%,Forte contra Suras +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_UNDEAD,Strong against Undead +%d%%,Silny przeciwko Nieumarłym +%d%%,Forte contra mortos-vivos +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_WARRIOR,Strong against Warriorr +%d%%,Silny przeciwko Wojownikom +%d%%,Forte contra Guerreiros +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_BLOCK,Chance to block a close-combat attack %d%% ,Szansa na blok ciosów %d%%,Probabilidade de bloquear um ataque corpo a corpo %d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_COMBAT_SP_RECOVER,Recover SP all 5 seconds in a Battle %d,Odzyskiwanie PE przez 5 sekund podczas Bitwy %d,Recupera %d PM a cada 5 segundos em combate,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_CRITICAL_PCT,Chance of critical hit +%d%% ,Szansa na cios krytyczny +%d%%,Probabilidade de golpe crítico +%d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_DAMAGE_SP_RECOVER,%d%% Chance to get back SP when hit,Szansa na transfer %d%% otrzymanych obrażeń do PE,%d%% de probabilidade de recuperar PM ao ser atingido,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_DODGE,Chance to avoid Arrows %d%%,Szansa na uniknięcie Strzały: %d%%,Probabilidade de evitar flechas %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_EXP_DOUBLE_BONUS,%d%% Chance for EXP Bonus,Szansa na Bonus DOŚ: %d%%,%d%% de probabilidade de bónus de EXP,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_GOLD_DOUBLE_BONUS,%d%% Chance to drop double Yang,Szansa na podwójną ilość Yang: %d%%,%d%% de probabilidade de largar o dobro de Yang,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_IMMUNE_FALL,Immune against falling down,Niewrażliwy na Upadek,Imunidade contra queda,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_IMMUNE_SLOW,Defence against slowing,Niewrażliwy na spowolnienie,Defesa contra lentidão,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_IMMUNE_STUN,Defence against blackouts,Niewrażliwy na omdlenia,Defesa contra desmaio,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_ITEM_DROP_BONUS,%d%% Chance to drop double the Items,Szansa na podwójną ilość Przedmiotów: %d%%,%d%% de probabilidade de largar o dobro de itens,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_KILL_HP_RECOVER,"%d%% Chance, to restore HP",Szansa na odzyskanie PŻ: %d%%,%d%% de probabilidade de restaurar PV,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_KILL_SP_RECOVER,%d%% Chance to restore SP,Szansa na odzyskanie PE: %d%%,%d%% de probabilidade de restaurar PM,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_MANA_BURN_PCT,%d%% chance to rob SP,%d%% Szansa na kradzież PE,%d%% de probabilidade de roubar PM,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ +%d%%,PV máx. +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_MAX_SP_PCT,Max. SP +%d%% ,Maks. PE +%d%% ,PM máx. +%d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_NOAFFECT,No effect,Brak efektu,Sem efeito,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_NO_DEATH_PENALTY,No experience points will be lost if your character is revived at the place of his death. ,Nie tracisz Punktów Doświadczenia podczas wznawiania gry w miejscu śmierci.,Não se perdem pontos de experiência se a personagem for reanimada no local onde morreu. ,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_PENETRATE_PCT,%d%% Chance for piercing Hits,Szansa na przeszywające Uderzenie: %d%% ,%d%% de probabilidade de golpe perfurante,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_POISON_PCT,Poisoning chance %d%%,Szansa na Otrucie %d%%,Probabilidade de envenenamento %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_POISON_REDUCE,Poison Resistance %d%%,Odporność na Trucizny: %d%%,Resistência a veneno %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_POTION_BONUS,Potion %d%% effect raise,Objętość mikstur PŻ/PE powiększona o %d%%,Efeito das poções aumentado em %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_REFLECT_CURSE,Chance to reflect Curse: %d%%,,,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_REFLECT_MELEE,%d%% Chance to reflect close combat hits  ,%d%% Szansa na odbicie Ciosu,%d%% de probabilidade de refletir golpes corpo a corpo  ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_ASSASSIN,Defence chance against ninja attacks: %d%%,Odporność na Ninja: %d%%,Probabilidade de defesa contra ataques de Ninja: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_BELL,Bell Defence %d%%,Odporność na Dzwony: %d%%,Defesa contra sino %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_DAGGER,Dagger Defence %d%%,Odporność na Sztylety: %d%%,Defesa contra punhal %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_FAN,Fan Defence %d%%,Odporność na Wachlarze: %d%%,Defesa contra leque %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_SHAMAN,Defence chance against shaman attacks: %d%%,Odporność na Szamanów: %d%%,Probabilidade de defesa contra ataques de Xamã: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_SURA,Defence chance against sura attacks: %d%%,Odporność na Sura: %d%%,Probabilidade de defesa contra ataques de Sura: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_SWORD,Sword Defence %d%%,Odporność na Miecze: %d%%,Defesa contra espada %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_TWOHAND,Two-Handed Defence %d%%,Odporność na Broń Dwuręczną: %d%%,Defesa contra arma de duas mãos %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_WARRIOR,Defence chance against warrior attacks: %d%%,Odporność na Wojowników: %d%%,Probabilidade de defesa contra ataques de Guerreiro: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_WIND,Wind Resistance %d%%,Odporność na Wiatr: %d%%,Resistência ao vento %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_SKILL_BOOK_BONUS,Chance to learn from books upgraded by factor 2.5 .,Rada Pustelnika,"Probabilidade de aprender com livros multiplicada por 2,5.",client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_SKILL_BOOK_NO_DELAY,If learning fails you immediately have another try for free,"Jeśli trening się nie powiedzie, możesz od razu spróbować ponownie.","Se falhares, tens logo outra tentativa grátis",client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_SLOW_PCT,Slowing chance %d%%,Szansa na Spowolnienie %d%%,Probabilidade de abrandar %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_STEAL_HP,%d%% damage  will be absorbed by HP,%d%% obrażeń będzie dodanych do PŻ,%d%% do dano é absorvido pelos PV,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_STEAL_SP,%d%% damage will be absorbed by SP,%d%% obrażeń będzie dodanych do PE,%d%% do dano é absorvido pelos PM,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_STUN_PCT,Blackout chance %d%%,Szansa na Omdlenie %d%%,Probabilidade de desmaio %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ARMOR,Armor,Zbroja,Armadura,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ARROW,Arrow,Strzała,Flecha,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),check
+c:locale_game:TOOLTIP_ATT_GRADE,Attack Value +%d,Wartość Ataku +%d,Valor de ataque +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ATT_SPEED,Attack Speed +%d%%,Szybkość Ataku +%d%%,Velocidade de ataque +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_AUTO_POTION_HP,Sun Elixir,Eliksir Słońca,Elixir do Sol,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_AUTO_POTION_REST,Remainder: %.2f%%,Pozostało: %.2f%%,Restante: %.2f%%,client: game texts (localeInfo) | keep: %.2f,done
+c:locale_game:TOOLTIP_AUTO_POTION_SP,Moon Elixir,Eliksir Księżyca,Elixir da Lua,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_AUTO_POTION_USING,Active,Aktywny,Ativo,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_BOW_DISTANCE,Arc Range +%dm,Zasięg Łuku +%dm,Alcance do arco +%dm,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_BUYPRICE,Price: %s,Cena: %s,Preço: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_CAST_SPEED,Casting Speed +%d%%,Szybkość Zaklęcia +%d%%,Velocidade de conjuração +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_CON,Vitality +%d,Witalność +%d,Vitalidade +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_COSTUME_ATTR_BONUS,Costume bonus %d%% ,Bonus kostiumu %d%% ,Bónus de traje %d%% ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_DEF_GRADE,Defence +%d,Obrona +%d,Defesa +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_DEX,Dexterity +%d,Zręczność +%d,Destreza +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_DRAGON_SOUL_DECK1,Earth,Ziemia,Terra,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_DRAGON_SOUL_DECK2,Sky,Niebo,Céu,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_EAR,Earring,Kolczyki,Brinco,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ENERGY,Energy %d ,Energia %d,Energia %d ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ETC,And so on,I tak dalej,E assim por diante,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_FISHINGROD_EXP,Points %d / %d,Punkty %d / %d,Pontos %d / %d,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_FISHINGROD_LEVEL,Level: %d,Poziom: %d,Nível: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_FISHINGROD_UPGRADE1,Give to the Fisherman,"Daj Rybakowi,",Entrega ao Pescador,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_FISHINGROD_UPGRADE2,to get a better,aby dostać,para obteres uma melhor,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_FISHINGROD_UPGRADE3,Fishing Pole.,Ulepszoną Wędkę.,cana de pesca.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_FISH_LEN,Lenght: %.2fcm,Długość: %.2fcm,Comprimento: %.2f cm,client: game texts (localeInfo) | keep: %.2f,done
+c:locale_game:TOOLTIP_HELMET,Helmet,Hełm,Elmo,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_HP_REGEN,HP Regeneration +%d%%,Regeneracja Mikstur PŻ: +%d%%,Regeneração de PV +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_INT,Intelligence +%d,Inteligencja +%d,Inteligência +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_GRADE,Attack Value %d,Wartość Ataku: %d,Valor de ataque %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_POWER,Attack Value %d - %d,Wartość Ataku: %d - %d,Valor de ataque %d - %d,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_POWER_ONE_ARG,Attack Value %d,Wartość Ataku: %d,Valor de ataque %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_POWER_REFINE,Attack Value %d - %d (+%d),Wartość Ataku: %d - %d (+%d),Valor de ataque %d - %d (+%d),client: game texts (localeInfo) | keep: %d %d %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_SPEED,Attacking Speed %s,Szybkość Ataku: %s,Velocidade de ataque %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_ITEM_DEF_GRADE,Defence %d,Obrona %d,Defesa %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_FAST,Fast,Szybki,Rápida,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_LIMIT_CON,Vitality Upper Limit: %d,Górna granica Witalności: %d,Limite máximo de vitalidade: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_LIMIT_DEX,Dexterity Upper Limit: %d,Górny limit Zręczności: %d,Limite máximo de destreza: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_LIMIT_INT,Intelligence Upper Limit: %d,Górna granica Inteligencji: %d,Limite máximo de inteligência: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_LIMIT_LEVEL,From Level: %d,Od Poziomu: %d,A partir do nível: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_LIMIT_STR,Strenght Upper Limit: %d,Górna granica Siły: %d,Limite máximo de força: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_MAGIC_ATT_POWER,Magical Attack Value %d - %d,Wartość Magicznego Ataku: %d - %d,Valor de ataque mágico %d - %d,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_ITEM_MAGIC_ATT_POWER_ONE_ARG,Magical Attack Value %d,Wartość Magicznego Ataku: %d,Valor de ataque mágico %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_MAGIC_DEF_POWER,Magical Defence %d,Magiczna Obrona %d,Defesa mágica %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_NORMAL,Normal,Normalny,Normal,client: game texts (localeInfo),check
+c:locale_game:TOOLTIP_ITEM_SLOW,Slow,Wolny,Lentidão,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_VERY_FAST,Very fast,Bardzo szybki,Muito rápida,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_VERY_SLOW,Very slow,Bardzo wolny,Muito lenta,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_WEARABLE_JOB,[ Wearable ],[ Do ubrania ],[ Equipável ],client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_LOTTERY_STEP_NUMBER,%d,%d,%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_LOTTO_NUMBER,Lucky Number: %d,Szczęśliwy Numer: %d,Número da sorte: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_ATTBONUS_PER,Magic attack +%d%%,Magiczny atak +%d%%,Ataque mágico +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_ATT_GRADE,Magical Attack Value +%d,Wartość Magicznego Ataku: +%d,Valor de ataque mágico +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_DEF_GRADE,Magical Defence +%d,Magiczna Obrona: +%d,Defesa mágica +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_ATTBONUS,Attack Value +%d%%,Wartość Ataku: +%d%%,Valor de ataque +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_ATTBONUS_STATIC,Attack Value +12~15%,Wartość Ataku: +12~15%,Valor de ataque +12~15%,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_AUTOLOOT,A hand that picks up dropped Yang automatically,"Ręka, która automatycznie podnosi upuszczone Yang.",Uma mão que apanha automaticamente o Yang largado,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_DEFBONUS,Defence +%d%%,Obrona: +%d%%,Defesa +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_DEFBONUS_STATIC,Defence +12~15%,Obrona +12~15%,Defesa +12~15%,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_EXPBONUS,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,client: game texts (localeInfo) | keep: %d,check
+c:locale_game:TOOLTIP_MALL_EXPBONUS_P_STATIC,iCafe EXP Bonus +%d%%,iCafe DOŚ Bonus +%d%%,Bónus de EXP iCafe +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_EXPBONUS_STATIC,Increases gaining EXP by 50%,Zwiększa zdobywanie PD o 50%,Aumenta a EXP obtida em 50%,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_FISH_MIND,Your chance of catching a rare fish is doubled.,Szansa schwytania rzadkiej ryby zostanie podwojona.,A tua probabilidade de apanhar um peixe raro duplica.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_GOLDBONUS,Chance of capturing Yang multiplied with %.1f,Szansa na zdobycie Yang pomnożona o %.1f,Probabilidade de obter Yang multiplicada por %.1f,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_MALL_GOLDBONUS_STATIC,Doubles your chance to capture Yang,Szansa znalezienia Yang zostanie podwojona,Duplica a tua probabilidade de obter Yang,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_ITEMBONUS,Chance of capturing Items multiplied with %.1f,Szansa na zdobycie Przedmiotów pomnożona o %.1f,Probabilidade de obter itens multiplicada por %.1f,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_MALL_ITEMBONUS_P_STATIC,iCafe Chance of capturing Items plus %.1f%%,iCafe Szansa na zdobycie Przedmiotów plus %.1f%%,Probabilidade de obter itens iCafe +%.1f%%,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_MALL_ITEMBONUS_STATIC,Doubles your chances of capturing items,Podwojona szansa na zdobycie przedmiotu,Duplica a tua probabilidade de obter itens,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_MARRIAGE_FAST,Lovepoints raise faster.,Punkty Miłości szybciej się regenerują.,Os pontos de amor sobem mais depressa.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_SAFEBOX,Your Storeroom gets 2 storage rooms,Zwiększona pojemność Magazynu,O teu armazém ganha 2 compartimentos,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MAX_HP,Max. HP +%d,Maks. PŻ: +%d,PV máx. +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ: +%d%%,PV máx. +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_SP,Max. SP +%d,Maks. PE: +%d,PM máx. +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_SP_PCT,Max. SP +%d%%,Maks. PE: +%d%%,PM máx. +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_STAMINA,Max. Endurance +%d,Maks. Stamina: +%d,Resistência máx. +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MELEE_MAGIC_ATTBONUS_PER,Magic/melee attack +%d%%,Magiczny/krótkodystansowy atak +%d%%,Ataque mágico/corpo a corpo +%d%%,client: game texts (localeInfo) | keep: %d,done

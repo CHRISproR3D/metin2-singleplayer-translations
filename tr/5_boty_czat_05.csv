@@ -1,0 +1,701 @@
+id,english,polski,translation,notes,status
+b:value:mapa_dokad:52b3bc714cc0,into Colony,,Koloni'ye,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),done
+b:value:mapa_dokad:96422792f401,into the Colony,,Koloni'ye,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),done
+b:value:mapa:7d8dbce35cec,Castle Battle,,Kale Savasi,a value inside a bot chat line ({mapa}) | ASCII letters only (no accents),done
+b:value:mapa_gdzie:add14801482e,in Castle Battle,,Kale Savasi'nda,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),done
+b:value:mapa_gdzie:baaadba4a42b,in the Castle Battle,,Kale Savasi'nda,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),done
+b:value:mapa_dokad:07c49b66b602,to Castle Battle,,Kale Savasi'na,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),done
+b:value:mapa_dokad:add831f5b9ff,to the Castle Battle,,Kale Savasi'na,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),done
+b:value:mapa_dokad:92e6929d20a7,into Castle Battle,,Kale Savasi'na,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),done
+b:value:mapa_dokad:5c903ad520f5,into the Castle Battle,,Kale Savasi'na,a value inside a bot chat line ({mapa_dokad}) | ASCII letters only (no accents),done
+b:value:ryba:f62639330b3a,minnow,,minik balik,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:a9afa4cebfdb,zander,,sudak baligi,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:7e624a7b85ca,mandarin fish,,ringa baligi,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:d30b3e882f11,large zander,,buyuk sudak baligi,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:fd012804c84b,carp,,sazan,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:c64700ba3518,salmon,,som baligi,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:5d008b5aba7d,grass carp,,ot sazani,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:9449722f2d80,brook trout,,dere alabaligi,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:8f6263954e77,eel,,zargana,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:7ab53aefef46,rainbow trout,,gokkusagi alabaligi,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:d97088ca7ea9,river trout,,nehir alabaligi,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:5482fd239c94,rudd,,hamsi,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:7b308f21090c,perch,,levrek,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:05b4931278d1,tenchi,,tekir baligi,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:165a6d941df4,catfish,,yayin baligi,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:c89984bb502d,loach,,copra baligi,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:a9971dd1872d,lotus fish,,lufer baligi,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:6b0d803d8a1c,sweetfish,,sevimli balik,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:975fd8988ab6,smelt,,palamut baligi,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:1b44079e4e69,shiri,,kadife baligi,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:103b7bf99164,mirror carp,,aynali sazan,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:ryba:5c5a476f3ffa,goldfish,,altin sudak baligi,a value inside a bot chat line ({ryba}) | ASCII letters only (no accents),done
+b:value:skrot:1d49529b9649,Full Moon Sword,,dolunay,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:1ec54699ddcf,Poison Sword,,zehir,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:710d92b9247e,Battle Sword,,muho,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:70512192f423,Sting Sword,,azap,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:f630defbcb73,Triton Sword,,triton,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:cbe3bf88d0e8,Bamboo Sword,,bambu,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:db14ca8cc912,Orchid Sword,,orkide,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:3089d85b9b6b,Bloody Sword,,kanli kilic,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:7b96b2d6405c,Black Leaf Dirk,,syh,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:2d407dfaac31,Red Iron Blade,,kdp,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:b25bc74a0725,Black Round Shield,,syk,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:9be84f6c908c,Half Moon Sword,,yarimay,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:f0d813c93dd5,Lunar Sword,,ay kilici,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:ff0e2aba6295,Heavenly Sword,,ilahi kilic,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:f06ec44b18a9,Baron Sword,,baron,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:69cd86c2f9a6,Holy Sword,,kutsal kilic,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:7f3fea0b8459,Demon Blade,,seytani pala,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:34b58b44bf73,Soul Stealing Blade,,yari insan,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:d2a76b102586,Twelve Spirit Sword,,oniki ruh,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:3a5d33f7bd0a,Rib Knife,,kaburga,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:3a8d5964dcd0,Siamese Knife,,siam,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:b9c323894330,Chakram,,cakram,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:e35d509f4d7e,Devil Wing Chakram,,seytan kanadi,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:4d08be74c47b,Giant Devil Bow,,buyuk seytan yayi,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:f2d7f14a2143,Crow Steel Bow,,havali celik,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:d7aac9565303,Blue Dragon Bow,,mavi ejderha yayi,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:01f1fecbb708,Antique Bell,,antik can,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:a76ef72c1c39,Dragon Bell,,ejderha cani,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:c0c040d55849,Ebony Bracelet,,abanoz bilezik,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:42577424cc5d,Ebony Necklace,,abanoz kolye,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:f9e2fbfe3fe5,Ebony Earrings,,abanoz kupe,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:76004840ef2c,Heaven's Tear Bracelet,,cennetin gozu bilezik,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:dcf86be4651d,Heaven's Tear Necklace,,cennetin gozu kolye,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:2f98102adf16,Heaven's Tear Earrings,,cennetin gozu kupe,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:b06103d372da,Soul Crystal Bracelet,,ruh kristali bilezik,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:2add26a50950,Soul Crystal Necklace,,ruh kristali kolye,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:skrot:8d8ff2017882,Soul Crystal Earrings,,ruh kristali kupe,a value inside a bot chat line ({skrot}) | ASCII letters only (no accents),done
+b:value:klasa:9f26160164fd,warrior,,savasci,a value inside a bot chat line ({klasa}) | ASCII letters only (no accents),done
+b:value:klasa:b87358a3dca3,assassin,,ninja,a value inside a bot chat line ({klasa}) | ASCII letters only (no accents),done
+b:value:klasa:b6639d61a773,ninja,,ninja,a value inside a bot chat line ({klasa}) | ASCII letters only (no accents),check
+b:value:klasa:a525e8e164c6,sura,,sura,a value inside a bot chat line ({klasa}) | ASCII letters only (no accents),check
+b:value:klasa:c12aff4d07b0,shaman,,saman,a value inside a bot chat line ({klasa}) | ASCII letters only (no accents),done
+b:value:klasa:77abf4a7d113,lycan,,lycan,a value inside a bot chat line ({klasa}) | ASCII letters only (no accents),check
+b:value:krol:3af7af6e7465,reds,,kirmizi,a value inside a bot chat line ({krol}) | ASCII letters only (no accents),done
+b:value:krol:357380e7b641,yellows,,sari,a value inside a bot chat line ({krol}) | ASCII letters only (no accents),done
+b:value:krol:62c745de966a,blues,,mavi,a value inside a bot chat line ({krol}) | ASCII letters only (no accents),done
+b:value:krol_wroga:3af7af6e7465,reds,,kirmizi,a value inside a bot chat line ({krol_wroga}) | ASCII letters only (no accents),done
+b:value:krol_wroga:357380e7b641,yellows,,sari,a value inside a bot chat line ({krol_wroga}) | ASCII letters only (no accents),done
+b:value:krol_wroga:62c745de966a,blues,,mavi,a value inside a bot chat line ({krol_wroga}) | ASCII letters only (no accents),done
+b:value:nagroda_exp:01d4cff0efc7,a lot of,,bol,a value inside a bot chat line ({nagroda_exp}) | ASCII letters only (no accents),done
+b:value:nagroda_exp:885ccb1f2894,a little,,az,a value inside a bot chat line ({nagroda_exp}) | ASCII letters only (no accents),done
+b:value:nagroda_exp:b39028df8e5d,some,,biraz,a value inside a bot chat line ({nagroda_exp}) | ASCII letters only (no accents),done
+b:value:nagroda_exp:9da4941dcc86,little,,az,a value inside a bot chat line ({nagroda_exp}) | ASCII letters only (no accents),done
+b:value:nagroda_exp:4ce2a0424290,huge,,cok,a value inside a bot chat line ({nagroda_exp}) | ASCII letters only (no accents),done
+b:value:opcja:6335a6f0ac18,Yes,,Evet,a value inside a bot chat line ({opcja}) | ASCII letters only (no accents),done
+b:value:opcja:3cb1e607f711,No,,Hayir,a value inside a bot chat line ({opcja}) | ASCII letters only (no accents),done
+b:value:punkt:17b56a6d61f7,by the blacksmith,,demircinin yaninda,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
+b:value:punkt:1bdf40b04d2e,by the storekeeper,,depocunun yaninda,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
+b:value:punkt:d108ba9a34b3,by the general store,,marketin yaninda,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
+b:value:punkt:8151c4af9bf2,by the weapon dealer,,silah saticisinin yaninda,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
+b:value:punkt:7a4d37ffd716,by the armour dealer,,zirh saticisinin yaninda,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
+b:value:punkt:00f888bb17da,by the fisherman,,balikcinin yaninda,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
+b:value:punkt:960a8b7cc8e5,by the stable boy,,seyisin yaninda,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
+b:value:punkt:7603a9c0f685,by the teleporter,,isinlayicinin yaninda,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
+b:value:punkt:3d82432fea57,by the guard,,muhafizin yaninda,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
+b:value:punkt:491e3d01d71a,at the fountain,,cesmenin yaninda,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
+b:value:punkt:4e317a8624d9,at the gate,,kapinin yaninda,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
+b:value:miejsce:62399958a7d0,in the north,,kuzeyde,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:25c9fdfa2b65,in the south,,guneyde,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:56781c2cf224,in the east,,doguda,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:b1adc724b507,in the west,,batida,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:78df13c74ede,in the north-east,,kuzeydoguda,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:9f4176845969,in the north-west,,kuzeybatida,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:c83226783f92,in the south-east,,guneydoguda,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:a5421a8d6445,in the south-west,,guneybatida,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:cf1d1430599c,in the middle of the map,,haritanin ortasinda,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:2aa68e64f3a9,in the middle,,ortada,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:3ea23e849e26,in town,,sehirde,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:17b56a6d61f7,by the blacksmith,,demircinin yaninda,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:event:a7cd6b386f9e,chest,,sandik,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
+b:value:event:d6bf2ac8e5aa,exp,,exp,a value inside a bot chat line ({event}) | ASCII letters only (no accents),check
+b:value:event:0261947d160e,drop,,drop,a value inside a bot chat line ({event}) | ASCII letters only (no accents),check
+b:value:event:5dd1e336e60a,OX,,OX,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
+b:value:event:abe13955878a,fishing,,balik,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
+b:value:event:7c6fbb10a935,okey,,okey,a value inside a bot chat line ({event}) | ASCII letters only (no accents),check
+b:value:event:723fcc6c751b,hunt,,av,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
+b:value:zyczenie:5cd5483e4bed,necklace 4 bonuses,,4 efsunlu kolye,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:86da28dd7421,weapon,,silah,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:53b9fc7320a7,armour,,zirh,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:37138e64438a,helmet,,kask,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:8586cd8f19ae,shield,,kalkan,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:2e7dcf330923,bracelet,,bilezik,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:160b70583efd,necklace,,kolye,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:bbd25e33b194,earrings,,kupe,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:99a58151ea37,shoes,,ayakkabi,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:867b1ac0df2f,belt,,kemer,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:bon:befc8e0c69d7,15% crit,,%15 kritik,a value inside a bot chat line ({bon}) | keep: % c | ASCII letters only (no accents),done
+b:value:bon:ae38a493622a,crit,,kritik,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:e8bf090f86c6,pierce,,delici,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:9580bf1c7b07,avg,,ortalama,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:742277ef94a1,avg dmg,,ortalama,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:48b1dea554e4,skill,,beceri,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:d1eb04c08ce3,skill dmg,,beceri hasari,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:13bff01a10db,half-humans,,yari insan,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:dc21f5379a5a,half-human,,yari insan,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:3d122ac943b5,monsters,,canavar,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:14f74955c161,undead,,olumsuz,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:ce27696df0cc,devils,,seytan,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:874d546d6984,orcs,,ork,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:f7a893dbbf0e,animals,,hayvan,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:5e0a771b1b21,mystics,,mistik,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:f29c0e8449f5,hp,,hp,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:3dba0edf3f5e,max hp,,max hp,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),check
+b:value:bon:141c673cc5c9,sp,,sp,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:ab5c665b3f51,attack speed,,saldiri hizi,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:6ff7b8cd6890,move speed,,hareket hizi,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:20714ccb43c6,cast speed,,buyu hizi,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:54f095befe1a,hp regen,,hp yenileme,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:4504b7826f43,sp regen,,sp yenileme,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:a9890e990f3c,poison,,zehir,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:155127823f9f,stun,,sersemletme,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:91b2135e4a39,slow,,yavaslatma,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:7680ac953ee8,block,,blok,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:b28102225549,dodge,,kacinma,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:7a4a453dc6b1,str,,guc,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:5368e43696eb,int,,zeka,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:ed4bd654b694,dex,,ceviklik,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:6b256063cb06,vit,,canlilik,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:75c33e0c7191,sword res,,kilic savunmasi,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:bce2b9081909,two-handed res,,cift el savunmasi,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:8dd58ad20655,dagger res,,hancer savunmasi,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:ebbe56597a4d,bell res,,can savunmasi,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:1b99eac3f4db,fan res,,yelpaze savunmasi,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:e516401ecfec,arrow res,,ok savunmasi,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:ed112f9e7474,magic res,,buyu savunmasi,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:14246a6b0fa4,attack value,,saldiri degeri,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:cd01ee6f456c,defence,,savunma,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:format:d94103efd6b3,{n}% {x},,%{n} {x},"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",done
+b:value:format:43bfa05d6748,+{n}% {x},,+%{n} {x},"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",done
+b:value:format:f2f4831b0880,{x} {n} bonuses,,{n} efsunlu {x},"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",done
+b:value:bon:792c42e1e0ba,critical,,kritik,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:571dee0920a1,piercing,,delici,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:bon:950bc645a3e6,atk speed,,saldiri hizi,a value inside a bot chat line ({bon}) | ASCII letters only (no accents),done
+b:value:zyczenie:f468476ac9b4,something better,,daha iyi bir sey,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:3cde15c10dd6,an int piece for buffs,,buff icin zekali esya,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:0e186c39ef10,something,,bir esya,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:9580bf1c7b07,avg,,ort,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:cf89261ff21e,bonuses,,efsunlu,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:462d8778a8b9,with hp,,hp'li,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:e23b059cf0f1,with crit,,kritikli,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:333ed85ed18f,with pierce,,delicili,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:12567366e4f1,with attack speed,,saldiri hizli,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:7e38616a2500,with int,,zekali,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:74935bc8be1a,vs orcs,,orklara karsi,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:dac581ddfce2,vs undead,,olumsuzlere karsi,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:e7f86b35d5d8,vs devils,,seytanlara karsi,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:203bf6508278,vs animals,,hayvanlara karsi,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:zyczenie:1cdef716edf8,vs mystics,,mistiklere karsi,a value inside a bot chat line ({zyczenie}) | ASCII letters only (no accents),done
+b:value:punkt:44552a7e3b85,here,,burada,a value inside a bot chat line ({punkt}) | ASCII letters only (no accents),done
+b:value:miejsce:7c19458a629e,Yongan,,Yongan'da,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:7da30d4ad3bc,Waryong,,Waryong'da,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:262216f8cfe2,Yayang,,Yayang'da,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:48870af0431b,Jungrang,,Jungrang'da,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:829ccff8c626,Monkey Dungeon,,Maymun Zindani'nda,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:d0bcc103fadf,Joan,,Joan'da,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:31c317056f6e,Bokjung,,Bokjung'da,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:c2e7f08976f5,Pyungmoo,,Pyungmoo'da,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:8dd269ffa60e,Bakra,,Bakra'da,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:34339745ec1b,Imha,,Imha'da,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:e5b77d1e5eda,Mount Sohan,,Sohan Dagi'nda,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:6a5f2188d440,Doyyumhwan,,Doyyumhwan'da,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:fbbcd8f0c5a0,Yongbi Desert,,Yongbi Colu'nde,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:1ac3954d30fd,Orc Valley,,Seungryong Vadisi'nde,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:39d39a52e3ea,Hwang Temple,,Hwang Tapinagi'nda,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:442bd444cb69,Demon Tower,,Seytan Kulesi'nde,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:91cb1f9839c9,Ghost Forest,,Hayalet Ormani'nda,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:3c50cb9b927f,Red Forest,,Kirmizi Orman'da,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:959e752d5224,Grotto of Exile,,Surgun Magarasi'nda,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:d587b203230f,Grotto of Exile 2,,Surgun Magarasi 2'de,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:fcfb257cfcc6,Spider Dungeon 2,,Orumcek Zindani 2'de,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:2c795176ca49,Spider Dungeon,,Orumcek Zindani'nda,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:b31499e63c9b,Monkey Dungeon II,,Maymun Zindani 2'de,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:miejsce:70b0bb28251c,Monkey Dungeon III,,Maymun Zindani 3'te,a value inside a bot chat line ({miejsce}) | ASCII letters only (no accents),done
+b:value:event:69701ca9cd50,experience,,exp,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
+b:value:event:76c98b350b4d,drop chance,,drop sansi,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
+b:value:event:e9f23cd8afb5,yang from monsters,,canavarlardan yang,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
+b:value:event:857c886d74ce,Moonlight Treasure Chests drop from monsters and Metin stones,,Ayisigi Define Sandiklari canavar ve Metinlerden dusuyor,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
+b:value:event:45ed70dfbac7,Moonlight Treasure Chests drop from monsters,,Ayisigi Define Sandiklari canavarlardan dusuyor,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
+b:value:event:1fbb9e67d057,Moonlight Treasure Chests drop from Metin stones,,Ayisigi Define Sandiklari Metinlerden dusuyor,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
+b:value:event:372e3eba1d79,Moonlight Treasure Chests: drops disabled in settings,,Ayisigi Define Sandiklari: ayarlarda drop kapali,a value inside a bot chat line ({event}) | ASCII letters only (no accents),done
+b:value:mapa_gdzie:397f69667067,on Mount Sohan,,Sohan Dagi'nda,a value inside a bot chat line ({mapa_gdzie}) | ASCII letters only (no accents),done
+b:value:format:a08585f8e096,{n}{x},,{n} {x},"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",done
+b:value:format:bf0f099c6c37,{n}% {x}+,,%{n}+ {x},"a value inside a bot chat line ({format}) | keep: {n} {x} | ASCII letters only (no accents) | {n} is a number, {x} the rest: put them in your word order",done
+b:phrase:1f1dd908790c,You have gained %d exp.,,%d exp kazandın.,"a phrase the server says (bots' help, notices) | keep: %d",done
+b:phrase:6226f0d12f4a,,Dzieki za pomoc przy mobie!,Moba yardım ettiğin için sağ ol!,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:cb8a369011e5,,Czym jest Bingsu?,Bingsu nedir?,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:a6869600898d,Aura of the Sword,,Kılıç Aurası,"a phrase the server says (bots' help, notices)",done
+b:phrase:2c0ad07095c8,There is no one by that name,,Bu isimde kimse yok,"a phrase the server says (bots' help, notices)",done
+b:phrase:37da4b99062c,Close the other window first.,,Önce diğer pencereyi kapat.,"a phrase the server says (bots' help, notices)",done
+b:phrase:0b14ed9f4cc9,Playerbot %u is not active.,,%u numaralı Playerbot aktif değil.,"a phrase the server says (bots' help, notices) | keep: %u",done
+b:phrase:a6d86bb663b2,Player was reported recently.,,Oyuncu kısa süre önce bildirildi.,"a phrase the server says (bots' help, notices)",done
+b:phrase:15e22e5f2bb1,the bot is dead,,bot öldü,"a phrase the server says (bots' help, notices)",done
+b:phrase:b58388e46caf,The bot %s was not moved: %s.,,%s botu taşınmadı: %s.,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:c0bfefa385bc,The bot %s was moved to you.,,%s botu yanına getirildi.,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:d2abf9f2f03a,"You goto ( %d, %d )",,"( %d, %d ) konumuna gidiyorsun","a phrase the server says (bots' help, notices) | keep: %d %d",done
+b:phrase:45dc9e9c0ff5,"You warp to ( %d, %d )",,"( %d, %d ) konumuna ışınlandın","a phrase the server says (bots' help, notices) | keep: %d %d",done
+b:phrase:a6b798f84d1a,"You warp to ( %d, %d, %d )",,"( %d, %d, %d ) konumuna ışınlandın","a phrase the server says (bots' help, notices) | keep: %d %d %d",done
+b:phrase:c5d3b958ad30,List of the fields available:,,Kullanılabilir alanların listesi:,"a phrase the server says (bots' help, notices)",done
+b:phrase:c8ba9304788a,There is no such a skill.,,Böyle bir beceri yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:1b2816735aa6,There is no such character.,,Böyle bir karakter yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d0285d7a9fb5,No such a skill by that name.,,Bu isimde bir beceri yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d3f253370397,Subskill of [%s] was reset,,[%s] alt becerisi sıfırlandı,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:9688844cc0de,You must spawn frog in castle,,Kalede kurbağa çağırmalısın,"a phrase the server says (bots' help, notices)",done
+b:phrase:0d6f26a1636b,Players can log in.,,Oyuncular giriş yapabilir.,"a phrase the server says (bots' help, notices)",done
+b:phrase:1dd9d50fae34,Ban requested for player %s.,,%s oyuncusu için yasaklama istendi.,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:7102128c349d,Account with id %d not found.,,%d numaralı hesap bulunamadı.,"a phrase the server says (bots' help, notices) | keep: %d",done
+b:phrase:ab6add7e8bce,,jest rezerwacja %s dla %d,"Rezervasyon var: %s, %d için","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:3cc98c0f66ee,Spy mode is active!,,Casus modu aktif!,"a phrase the server says (bots' help, notices)",done
+b:phrase:58d3f96a74df,Whisper to %s(%s) from %s,,%s(%s) kişisine %s tarafından fısıltı,"a phrase the server says (bots' help, notices) | keep: %s %s %s",done
+b:phrase:de12142429db,,nie mozesz zablokowac GMa,GM'yi engelleyemezsin,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:a0af7c3eed38,,za trudn,çok zor,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:de855b5e2883,I'm not luring for you,,Senin için mob çekmiyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:4bbc0b21cf92,"Dobra, koncze lurowanie",,"Tamam, mob çekmeyi bırakıyorum","a phrase the server says (bots' help, notices)",done
+b:phrase:083f962a89de,Invite me to your party first,,Önce beni gruba davet et,"a phrase the server says (bots' help, notices)",done
+b:phrase:c5fe6bb13ee6,I'm already luring for you,,Zaten senin için mob çekiyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:744716eea91d,I'm not on your map,,Senin haritanda değilim,"a phrase the server says (bots' help, notices)",done
+b:phrase:cf22677fe63a,Not on my counter:,,Tezgâhımda yok:,"a phrase the server says (bots' help, notices)",done
+b:phrase:75a598d8df0e,nothing for sale right now,,şu an satılık bir şey yok,"a phrase the server says (bots' help, notices)",done
+b:phrase:95fa7a5a6524,Sorting out the inventory,,Envanteri düzenliyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:827cc8f22d2b,Going to a duel with %s,,%s ile düelloya gidiyorum,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:3e5bc4c74536,Duel with %s,,%s ile düello,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:bcabf8965fdc,Going to the OX Quiz,,OX Yarışması'na gidiyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:7f86fc3d12bb,Going to the Zuo event (%s),,Zuo etkinliğine gidiyorum (%s),"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:f7ceb058b505,Changing into the buff set,,Buff setine geçiyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:4a3986beec91,Casting buffs in the INT set,,INT setiyle buff atıyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:2a462a7b2fd3,%sBack for revenge on %s,,%s%s için rövanşa dönüyorum,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:36d7f6f57fbb,"dropper, pelny plecak",,"drop kasıyorum, çanta dolu","a phrase the server says (bots' help, notices)",done
+b:phrase:183e738f2852,chcialbym kupic od ciebie,,senden almak isterdim,"a phrase the server says (bots' help, notices)",done
+b:phrase:86f73bf95395,chce kupic,,almak istiyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:f6f80d0adacd,wszystko ok,,her şey yolunda,"a phrase the server says (bots' help, notices)",done
+b:phrase:cd4dac748588,,mozesz odejsc,gidebilirsin,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:f9dbdf30b5cc,wracaj do siebie,,kendi yerine dön,"a phrase the server says (bots' help, notices)",done
+b:phrase:bb68ed3653a5,przestan do mnie pisac,,bana yazmayı bırak,"a phrase the server says (bots' help, notices)",done
+b:phrase:253235bb6d9e,przestan mnie zaczepiac,,beni rahatsız etmeyi bırak,"a phrase the server says (bots' help, notices)",done
+b:phrase:4a767b90c212,,nie pisz mi,bana yazma,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:5a00b53c2f08,,odczep sie,yakamı bırak,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:4dc46ad08b15,,nie zaczepiaj,bulaşma,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:540afebdaa77,,nie chce z toba gadac,seninle konuşmak istemiyorum,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:f5869123311e,Taking books to the storage,,Kitapları depoya götürüyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:4695b589a3e3,Going to the general store,,Markete (Satıcı) gidiyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:eb10c3288fae,Going to the armour dealer,,Zırh satıcısına gidiyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:ff2ade108fb4,Going to the weapon dealer,,Silah satıcısına gidiyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:09d7e1632df7,Putting books into storage,,Kitapları depoya koyuyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:62e0ca6c75db,Going to the blacksmith,,Demirciye gidiyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:9e213fe05bff,Going for a profession,,Meslek için gidiyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:3433f2e9b25a,Going into town,,Şehre gidiyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:429cafb25f65,In my shop I've got:,,Dükkânımda var:,"a phrase the server says (bots' help, notices)",done
+b:phrase:d54006854ab3,"Not in my bag, but my shop",,Çantamda yok ama dükkânımda,"a phrase the server says (bots' help, notices)",done
+b:phrase:7908376e2a45,Put them up in your shop at,,Bunları dükkânında şu fiyata sat:,"a phrase the server says (bots' help, notices)",done
+b:phrase:ee6a74c2ce38,It's in my shop,,Dükkânımda duruyor,"a phrase the server says (bots' help, notices)",done
+b:phrase:0c502ee77bd8,I'm saving for,,Şunun için biriktiriyorum:,"a phrase the server says (bots' help, notices)",done
+b:phrase:2f8dd3c2252a,"I don't have buffs, I play",,"Buff'ım yok, ben şunu oynuyorum:","a phrase the server says (bots' help, notices)",done
+b:phrase:7aeaebcbc6be,"Don't have that one, I'm",,"Bu bende yok, ben şuyum:","a phrase the server says (bots' help, notices)",done
+b:phrase:084257a3cef2,shaman buff.,,şaman buff'ı.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b69e54d695c9,obrazen od potworow,,"canavar hasarından, ayrıca şuna karşı koruma:","a phrase the server says (bots' help, notices)",done
+b:phrase:8605d5d6463e,Not really looking for that.,,Bunu pek aramıyorum.,"a phrase the server says (bots' help, notices)",done
+b:phrase:dcbc35af95f5,Got enough of that for now.,,Şimdilik bundan yeterince var.,"a phrase the server says (bots' help, notices)",done
+b:phrase:23137bc8bfd9,", still coming over.",,", hâlâ sana geliyorum.","a phrase the server says (bots' help, notices)",done
+b:phrase:ea24f5e5d68c,"Fight's over, coming to you.",,"Dövüş bitti, sana geliyorum.","a phrase the server says (bots' help, notices)",done
+b:phrase:e2a762f8be8f,I can do,,Şunu yapabilirim:,"a phrase the server says (bots' help, notices)",done
+b:phrase:b3ad9eefc962,"Sorry, I can't go that low.",,"Üzgünüm, bu kadar aşağı inemem.","a phrase the server says (bots' help, notices)",done
+b:phrase:4d573b9bfe73,,do %d zabojstw albo %d minut,%d öldürmeye ya da %d dakikaya kadar,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:0083f8741d0d,koniec walki,,dövüş bitti,"a phrase the server says (bots' help, notices)",done
+b:phrase:5fdc6a3afc26,The last blow:,,Son darbe:,"a phrase the server says (bots' help, notices)",done
+b:phrase:b81e2523c3b5,"does not fight, only defends",,"savaşmıyor, sadece savunuyor","a phrase the server says (bots' help, notices)",done
+b:phrase:30e13ab1c5de,I can fish from level %d.,,%d. seviyeden itibaren balık tutabilirim.,"a phrase the server says (bots' help, notices) | keep: %d",done
+b:phrase:34415edd099e,I'm out shopping already.,,Zaten alışverişteyim.,"a phrase the server says (bots' help, notices)",done
+b:phrase:7726350ea559,That cannot be worn.,,Bu kuşanılamaz.,"a phrase the server says (bots' help, notices)",done
+b:phrase:020c883ef1d7,There is nothing there.,,Orada hiçbir şey yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:eee9c71f4e8b,That cannot be taken off.,,Bu çıkarılamaz.,"a phrase the server says (bots' help, notices)",done
+b:phrase:aeed77c126d1,That cannot be used now.,,Bu şu an kullanılamaz.,"a phrase the server says (bots' help, notices)",done
+b:phrase:fca9aeeb499b,The hair colour is changed.,,Saç rengi değişti.,"a phrase the server says (bots' help, notices)",done
+b:phrase:edd8127dbd61,That item is busy right now.,,O eşya şu an meşgul.,"a phrase the server says (bots' help, notices)",done
+b:phrase:31001346cac6,There is no room there.,,Orada yer yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:cf1f95deedb6,That stack is full already.,,O yığın zaten dolu.,"a phrase the server says (bots' help, notices)",done
+b:phrase:16120ba2fbe1,That is not in your bag.,,Bu senin çantanda yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b57246636682,Given to your companion:,,Yoldaşına verilen:,"a phrase the server says (bots' help, notices)",done
+b:phrase:587726c3c4e3,Your stack is full already.,,Senin yığının zaten dolu.,"a phrase the server says (bots' help, notices)",done
+b:phrase:7b851821f8b0,You have no room in your bag.,,Çantanda yer yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:ced4160a2fc1,Taken from your companion:,,Yoldaşından alınan:,"a phrase the server says (bots' help, notices)",done
+b:phrase:d246a7cc47b5,The handover failed.,,Teslim başarısız oldu.,"a phrase the server says (bots' help, notices)",done
+b:phrase:db1c1906475a,,Towarzysz nie ma tyle yang.,Yoldaşın o kadar yang'ı yok.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:8060934dc47d,I couldn't get to the water.,,Suya ulaşamadım.,"a phrase the server says (bots' help, notices)",done
+b:phrase:f152fe7ab096,It has to get up first.,,Önce ayağa kalkması lazım.,"a phrase the server says (bots' help, notices)",done
+b:phrase:692ecdd0013b,No room in the bag.,,Çantada yer yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:abf7d1397c52,Not enough of my own yang.,,Kendi yang'ım yetmiyor.,"a phrase the server says (bots' help, notices)",done
+b:phrase:9820cba0cf50,which I don't have,,ki bende yok,"a phrase the server says (bots' help, notices)",done
+b:phrase:f73f12cf60a6,I cannot use that marble now.,,O küreyi şu an kullanamam.,"a phrase the server says (bots' help, notices)",done
+b:phrase:3838a297823a,I'll fish too - next to you.,,"Ben de balık tutacağım, senin yanında.","a phrase the server says (bots' help, notices)",done
+b:phrase:4eecee759b00,I cannot use a marble now.,,Şu an küre kullanamam.,"a phrase the server says (bots' help, notices)",done
+b:phrase:e31a782586b3,I pick up only your drop.,,Sadece senin drop'unu topluyorum.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b64b1fae6c5f,I don't pick up the drop.,,Drop'u toplamıyorum.,"a phrase the server says (bots' help, notices)",done
+b:phrase:e1e87e72fcd8,I'll buff you (if I can).,,Sana buff atarım (yapabilirsem).,"a phrase the server says (bots' help, notices)",done
+b:phrase:4f863a093918,I won't buff you.,,Sana buff atmayacağım.,"a phrase the server says (bots' help, notices)",done
+b:phrase:755940bd0b8c,Updating the target quantity.,,Hedef miktar güncelleniyor.,"a phrase the server says (bots' help, notices)",done
+b:phrase:7d4023056e10,servicing shop,,dükkân hizmeti veriliyor,"a phrase the server says (bots' help, notices)",done
+b:phrase:8ba5a17b982a,I lost you - I'm done luring,,Seni kaybettim - mob çekmeyi bırakıyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:c058f87fbcc3,Find the Golden Axe,,Altın baltayı bul,"a phrase the server says (bots' help, notices)",done
+b:phrase:8857557d694c,The best cookbook,,En iyi yemek kitabı,"a phrase the server says (bots' help, notices)",done
+b:phrase:94633491fbbf,Meet the spy,,Casusla görüş,"a phrase the server says (bots' help, notices)",done
+b:phrase:477e715a98ca,The Spider with the Bell,,Zil taşıyan örümcek,"a phrase the server says (bots' help, notices)",done
+b:phrase:c06bd2f8c284,Let the Dead Rest,,Ölüleri huzura kavuştur,"a phrase the server says (bots' help, notices)",done
+b:phrase:5c49c8f7dd0a,A Letter from the Blacksmith,,Demirciden Bir Mektup,"a phrase the server says (bots' help, notices)",done
+b:phrase:22ac51ec3aa6,You found the Decorated Bow!,,Süslü yayı buldun!,"a phrase the server says (bots' help, notices)",done
+b:phrase:6a8f125394f2,Kill the Black Wind generals,,Siyah Rüzgar Çetesinin generallerini öldür,"a phrase the server says (bots' help, notices)",done
+b:phrase:7ebe7cf335b8,The bookworm's Treasure Map,,Kitap Kurdunun Define Haritası,"a phrase the server says (bots' help, notices)",done
+b:phrase:d478a79e30e5,Ore for new armour,,Yeni zırh için cevher,"a phrase the server says (bots' help, notices)",done
+b:phrase:2d0420e5dc99,Ore for a new weapon,,Yeni bir silah için cevher,"a phrase the server says (bots' help, notices)",done
+b:phrase:181ca3b1c8d9,The Stolen Rice Cake,,Çalınan pirinç pastası,"a phrase the server says (bots' help, notices)",done
+b:phrase:54f4d786d380,Look for Yu-Hwan,,Yu-Hwan'ı ara,"a phrase the server says (bots' help, notices)",done
+b:phrase:0e05bb4929ef,A medicine for Balso,,Balso için ilaç,"a phrase the server says (bots' help, notices)",done
+b:phrase:c9a90f3b574d,Go to the Peddler,,Seyyar satıcıya git,"a phrase the server says (bots' help, notices)",done
+b:phrase:2e66213676f0,Eun-Jung from the White Oath,,Beyaz Yeminliler'den Eun-Jung,"a phrase the server says (bots' help, notices)",done
+b:phrase:cf08db268137,Look for materials,,Malzemeleri ara,"a phrase the server says (bots' help, notices)",done
+b:phrase:e73906114016,The stolen Hairpin,,Çalınmış saç tokası,"a phrase the server says (bots' help, notices)",done
+b:phrase:79cb2a493c55,Get the Peach Seeds,,Şeftali Tohumlarını al,"a phrase the server says (bots' help, notices)",done
+b:phrase:a2e828cd9ccf,The daughter's wedding,,Kız Çocuğun Düğünü,"a phrase the server says (bots' help, notices)",done
+b:phrase:85efc110e61e,Letter from the Captain,,Yüzbaşının Mektubu,"a phrase the server says (bots' help, notices)",done
+b:phrase:718a35f89a75,The broken porcelain,,Parçalanmış Porselen,"a phrase the server says (bots' help, notices)",done
+b:phrase:6593982a75ec,The sick brother,,Hasta kardeş,"a phrase the server says (bots' help, notices)",done
+b:phrase:0709f49e2af1,The gift for Chaegirab,,Chaegirab için hediye,"a phrase the server says (bots' help, notices)",done
+b:phrase:515a5c546f0d,Talk to the City Guard,,Şehir Bekçisi ile görüş,"a phrase the server says (bots' help, notices)",done
+b:phrase:cde4dbb89e1d,Find the Fisherman,,Balıkçıyı bul,"a phrase the server says (bots' help, notices)",done
+b:phrase:050282dff64a,The Blacksmith's mission,,Demirci'nin verdiği görev,"a phrase the server says (bots' help, notices)",done
+b:phrase:d8b6d72af23e,Looking for the memorials,,Anıtı ara,"a phrase the server says (bots' help, notices)",done
+b:phrase:d453e7f0cc69,The ninth page,,Dokuzuncu sayfa,"a phrase the server says (bots' help, notices)",done
+b:phrase:0d5c0523b044,The sixth page,,Altıncı sayfa,"a phrase the server says (bots' help, notices)",done
+b:phrase:1b96db278dc0,Off into the Yongbi Desert,,Yongbi Çölü'ne,"a phrase the server says (bots' help, notices)",done
+b:phrase:89924e62815e,The secret book,,Gizli kitap,"a phrase the server says (bots' help, notices)",done
+b:phrase:3f8a58eb1309,News from the City Guard,,Şehir Bekçisinden haberler,"a phrase the server says (bots' help, notices)",done
+b:phrase:2eeeb4a35ea3,Destroy the Metin Stones,,Metin Taşlarını yok et,"a phrase the server says (bots' help, notices)",done
+b:phrase:d4266380e60b,Letter from the City Guard,,Şehir bekçisinden mektup,"a phrase the server says (bots' help, notices)",done
+b:phrase:58ea37474009,Capture the spy,,Casusu yakala,"a phrase the server says (bots' help, notices)",done
+b:phrase:31bda7537934,Talk to the Captain,,Yüzbaşı ile görüş,"a phrase the server says (bots' help, notices)",done
+b:phrase:d824bb948f39,Destroy the Metin of Battle,,Savaş Metinini yok et,"a phrase the server says (bots' help, notices)",done
+b:phrase:30f45262a0f3,Go to the Captain,,Yüzbaşı'ya git,"a phrase the server says (bots' help, notices)",done
+b:phrase:4511378cdec8,dajmy spokoj,,bırakalım artık,"a phrase the server says (bots' help, notices)",done
+b:phrase:bf52b20306dc,,"Haha, za szybko.","Haha, çok erken.","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:3ba5d8523d65,Let's just play for now.,,Şimdilik sadece oynayalım.,"a phrase the server says (bots' help, notices)",done
+b:phrase:fee0f20165e0,"Heh, you already said that.",,"Heh, bunu zaten söylemiştin.","a phrase the server says (bots' help, notices)",done
+b:phrase:af9dd705515e,"Good to see you, my tank.",,"Seni görmek güzel, tankım.","a phrase the server says (bots' help, notices)",done
+b:phrase:2d24ce8581e0,You called me,,Beni çağırdın,"a phrase the server says (bots' help, notices)",done
+b:phrase:2f47a84b8de3,"Hey, what are we doing today?",,"Hey, bugün ne yapıyoruz?","a phrase the server says (bots' help, notices)",done
+b:phrase:c16523d14427,Thanks for the gift!,,Hediye için sağ ol!,"a phrase the server says (bots' help, notices)",done
+b:phrase:9cfa1edc0f37,Really? Thank you!,,Gerçekten mi? Teşekkürler!,"a phrase the server says (bots' help, notices)",done
+b:phrase:58c59c8d0b0b,"That's a big gift, thank you.",,"Bu büyük bir hediye, teşekkürler.","a phrase the server says (bots' help, notices)",done
+b:phrase:6f789ac6bb32,"Hehe, thanks for the gift!",,"Hehe, hediye için sağ ol!","a phrase the server says (bots' help, notices)",done
+b:phrase:6bb20104ec93,Are you flirting with me?,,Benimle flört mü ediyorsun?,"a phrase the server says (bots' help, notices)",done
+b:phrase:6c0e45a996d1,"Haha, I came here to grind.",,"Haha, ben buraya exp kasmaya geldim.","a phrase the server says (bots' help, notices)",done
+b:phrase:557cec5fa4ed,,sprzedawac czy zostawic,"satayım mı, kalsın mı","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:05250256d7a2,Player %s reached level %u!,,%s oyuncusu %u. seviyeye ulaştı!,"a phrase the server says (bots' help, notices) | keep: %s %u",done
+b:phrase:b180ba5814c4,You said you were saving for,,Şunun için biriktirdiğini söylemiştin: ,"a phrase the server says (bots' help, notices)",done
+b:phrase:a7446dc01afa,. Still your goal?,,. Hâlâ hedefin bu mu?,"a phrase the server says (bots' help, notices)",done
+b:phrase:6ace6fcf3252,"I'm close, coming over to you",,"Yaklaştım, yanına geliyorum","a phrase the server says (bots' help, notices)",done
+b:phrase:6790e6824f8d,,"juz ide, bede za ok. %u min","geliyorum, yaklaşık %u dk sonra orada olurum","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:855b73baad5f,"%s, see you there in ~%u min",,"%s, yaklaşık %u dk sonra orada görüşürüz","a phrase the server says (bots' help, notices) | keep: %s %u",done
+b:phrase:5d82e8f86e7e,%s is at your side.,,%s yanında.,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:2a84ff3baef5,,nie bij,vurma,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:c9693673261b,No reward data for %s.,,%s için ödül verisi yok.,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:099575a9a595,I have to get up first.,,Önce ayağa kalkmam lazım.,"a phrase the server says (bots' help, notices)",done
+b:phrase:36830cafd28b,Item sold for %lld yang,,Eşya %lld yang karşılığında satıldı,"a phrase the server says (bots' help, notices) | keep: %lld",done
+b:phrase:56612241647f,szukam pt,,pt arıyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:914d5c443867,You have a companion already.,,Zaten bir Yoldaşın var.,"a phrase the server says (bots' help, notices)",done
+b:phrase:196b0f722242,You must type in %d to %d characters,,%d ile %d arasında karakter girmelisin,"a phrase the server says (bots' help, notices) | keep: %d %d",done
+b:phrase:679b33007a82,You need to have a fishing pass.,,Balıkçılık kartın olması gerekiyor.,"a phrase the server says (bots' help, notices)",done
+b:phrase:3d027746cac0,You are again vulnerable to death penalty.,,Yeniden ölüm cezasına açıksın.,"a phrase the server says (bots' help, notices)",done
+b:phrase:3f9498acb54c,Thanks for helping with the mob!,,Moba yardım ettiğin için sağ ol!,"a phrase the server says (bots' help, notices)",done
+b:phrase:f1fca25b84b7,This knife cannot be improved further.,,Bu bıçak daha fazla geliştirilemez.,"a phrase the server says (bots' help, notices)",done
+b:phrase:79f824f2316c,Earn the full practice points for this knife before improving it.,,Geliştirmeden önce bu bıçak için pratik puanlarının tamamını kazan.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8982e3e9b4ed,The unique item is not stackable.,,Eşsiz eşya üst üste yığılamaz.,"a phrase the server says (bots' help, notices)",done
+b:phrase:269886fb6179,The unique item has the antiflag stack.,,Eşsiz eşyada yığma yasağı (antiflag stack) var.,"a phrase the server says (bots' help, notices)",done
+b:phrase:767bf5a64b39,You don't have enough space to auto-split the unique item.,,Eşsiz eşyayı otomatik bölmek için yeterli yerin yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:ba3df2fa6571,You need to split the item to 1 unit to equip it.,,Kuşanmak için eşyayı 1 adede bölmen gerekiyor.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8c0bfcd08c77,You cannot take this item if you're using quests,,Bir görev penceresi açıkken bu eşyayı alamazsın,"a phrase the server says (bots' help, notices)",done
+b:phrase:b24168c50364,"Close the open quest window first (or log in again), then use the item.",,"Önce açık görev penceresini kapat (veya yeniden giriş yap), sonra eşyayı kullan.","a phrase the server says (bots' help, notices)",done
+b:phrase:5043500ff0a4,Gem refreshed: the gems' time starts again (%d h).,,Mücevher yenilendi: mücevherlerin süresi yeniden başlıyor (%d saat).,"a phrase the server says (bots' help, notices) | keep: %d",done
+b:phrase:8eaa6b7b0850,"The detector was activated, but no spirit stones were detected..",,"Dedektör etkinleştirildi, ama hiç zihin taşı bulunamadı..","a phrase the server says (bots' help, notices)",done
+b:phrase:3b2d37bee3f5,This effect is stacked to its maximum potential.,,Bu etki en yüksek seviyesine kadar birikmiş durumda.,"a phrase the server says (bots' help, notices)",done
+b:phrase:66a2aeb49922,"This seal's mount is not in this world's game client, so the seal stays in your bag.",,"Bu mührün bineği bu dünyanın oyun istemcisinde yok, bu yüzden mühür çantanda kalıyor.","a phrase the server says (bots' help, notices)",done
+b:phrase:5215ab1343e1,There is no riding a mount in a guild war.,,Lonca savaşında bineğe binilmez.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d4ba2b5837f6,There is no such skill by number %u,,%u numaralı beceri yok.,"a phrase the server says (bots' help, notices) | keep: %u",done
+b:phrase:ba612c47de0d,It doesn't work. Check the skill formula.,,İşe yaramıyor. Beceri formülünü kontrol et.,"a phrase the server says (bots' help, notices)",done
+b:phrase:70745a3b12b4,Up to level 30 the Old Woman in the first village resets your skills.,,30. seviyeye kadar ilk köydeki Yaşlı Kadın becerilerini sıfırlar.,"a phrase the server says (bots' help, notices)",done
+b:phrase:76d1e9678de4,You cannot open the safebox in dungeon or at war.,,Zindanda veya savaşta depoyu açamazsın.,"a phrase the server says (bots' help, notices)",done
+b:phrase:49e69bb1d5ff,Accept shutdown command from %s.,,%s tarafından verilen kapatma komutu kabul edildi.,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:282cdbbe157e,"Update your game client: the storage is the Collector's Warehouse now, and this client cannot open it.",,Oyun istemcini güncelle: depo artık Koleksiyoncunun Deposu ve bu istemci onu açamıyor.,"a phrase the server says (bots' help, notices)",done
+b:phrase:671d7c87d190,Storage cannot be opened in a dungeon or during a war.,,"Depo, zindanda veya savaş sırasında açılamaz.","a phrase the server says (bots' help, notices)",done
+b:phrase:2b9c44626151,[War] The guild %s is fighting another war now.,,[Savaş] %s loncası şu an başka bir savaşta.,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:c2132041e27c,[War] War on the guild %s is declared already - the bots will answer in the guild chat.,,[Savaş] %s loncasına savaş zaten ilan edildi - botlar lonca sohbetinde cevap verecek.,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:54b5ed2de82c,"[War] A war with the guild %s is on already, or ending.",,[Savaş] %s loncasıyla zaten savaş sürüyor ya da bitmek üzere.,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:792394004ad2,[War] The war map is not ready yet. Try again shortly.,,[Savaş] Savaş haritası henüz hazır değil. Birazdan tekrar dene.,"a phrase the server says (bots' help, notices)",done
+b:phrase:efdafcb2ff5c,[War] War declared on the bot guild %s. Battlefield: %s. The answer comes in a few seconds in the guild chat.,,[Savaş] %s bot loncasına savaş ilan edildi. Savaş alanı: %s. Cevap birkaç saniye içinde lonca sohbetine gelecek.,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:5d7e1059f924,Only a skill's buff can be removed with a right click.,,Sağ tıkla yalnızca bir becerinin buff'ı kaldırılabilir.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8b33ae46960a,,"[Guild] Orders to your guild's bots: /gildia_boty help, /gildia_boty exp, /gildia_boty return.","[Lonca] Loncanın botlarına emirler: /gildia_boty help, /gildia_boty exp, /gildia_boty return.","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:44e268e7759b,,"[Gildia] Rozkazy dla botow gildii: /gildia_boty pomoc, /gildia_boty exp, /gildia_boty wracajcie.","[Lonca] Lonca botlarına emirler: /gildia_boty pomoc, /gildia_boty exp, /gildia_boty wracajcie.","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:d5657b7d574e,[Guild] No guild bot was coming to you.,,[Lonca] Hiçbir lonca botu sana gelmiyordu.,"a phrase the server says (bots' help, notices)",done
+b:phrase:7a25b1f23256,[Guild] You are not in a guild.,,[Lonca] Bir loncada değilsin.,"a phrase the server says (bots' help, notices)",done
+b:phrase:80dc3120f2c9,"[Guild] The guild master gives the bots orders, and the ranks allowed to use the guild's skills (the Grades tab).",,[Lonca] Botlara lonca lideri ve lonca becerilerini kullanma yetkisi verdiği rütbeler emir verir (Rütbeler sekmesi).,"a phrase the server says (bots' help, notices)",done
+b:phrase:5552ff754887,[Guild] Bots cannot follow you into a dungeon instance.,,[Lonca] Botlar özel (instance) zindanlara gelemez.,"a phrase the server says (bots' help, notices)",done
+b:phrase:4f4d1dffb2ac,[Guild] Bots do not come to the Demon Tower's ground floor on an order - the stone would take them up the floors.,,[Lonca] Botlar emirle Şeytan Kulesi'nin zemin katına gelmez - taş onları üst katlara götürürdü.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d3541c77d473,[Guild] The order is out - the next one in %u s.,,[Lonca] Emir zaten verildi - bir sonraki %u sn sonra.,"a phrase the server says (bots' help, notices) | keep: %u",done
+b:phrase:bed2988b554c,[Guild] Coming to help you (%u): %s.,,[Lonca] Yardımına geliyor (%u): %s.,"a phrase the server says (bots' help, notices) | keep: %u %s",done
+b:phrase:517a96ca9399,"[Guild] Not coming: %u busy, %u outside the level range, %u with no way here.",,"[Lonca] Gelmeyenler: %u meşgul, %u seviye aralığı dışında, %u buraya yolu olmayan.","a phrase the server says (bots' help, notices) | keep: %u %u %u",done
+b:phrase:813ef92c302f,[Guild] No bot of your guild is in this part of the world right now.,,[Lonca] Şu an dünyanın bu kısmında loncanın hiçbir botu yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:9e2e0bf71c41,[Guild] Your guild's bots are already with you.,,[Lonca] Loncanın botları zaten yanında.,"a phrase the server says (bots' help, notices)",done
+b:phrase:3c0f45f187ad,"[Guild] No guild bot can come now: %u busy, %u outside the level range, %u with no way here.",,"[Lonca] Şu an hiçbir lonca botu gelemiyor: %u meşgul, %u seviye aralığı dışında, %u buraya yolu olmayan.","a phrase the server says (bots' help, notices) | keep: %u %u %u",done
+b:phrase:f7f195944f06,the bot's core does not host this map,,botun çekirdeği bu haritayı barındırmıyor,"a phrase the server says (bots' help, notices)",done
+b:phrase:55c4d801a5f7,the bot cannot stand on this map,,bot bu haritada duramaz,"a phrase the server says (bots' help, notices)",done
+b:phrase:f2365197e5b0,There is no character(%s) by that name,,Bu isimde bir karakter (%s) yok,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:fa8bb6db253d,Target(%s) is in %d channel (my channel %d),,Hedef (%s) %d. kanalda (benim kanalım %d),"a phrase the server says (bots' help, notices) | keep: %s %d %d",done
+b:phrase:32b182258958,,Bot %s jest na innym rdzeniu (mapa %ld) i nie przejdzie na mape tego rdzenia.,Bot %s başka bir çekirdekte (harita %ld) ve bu çekirdeğin haritasına geçemez.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:4198b74dd5c6,Usage: warp <character name> | <x meter> <y meter>,,Kullanım: warp <karakter adı> | <x metre> <y metre>,"a phrase the server says (bots' help, notices)",done
+b:phrase:040124b240e9,There is no one(%s) by that name,,Bu isimde kimse (%s) yok,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:5521d415c8ee,Total [%d] %d / %d / %d (this server %d),,Toplam [%d] %d / %d / %d (bu sunucu %d),"a phrase the server says (bots' help, notices) | keep: %d %d %d %d %d",done
+b:phrase:dd22cd38f9dd,Target is in %d channel (my channel %d),,Hedef %d. kanalda (benim kanalım %d),"a phrase the server says (bots' help, notices) | keep: %d %d",done
+b:phrase:f7be10e404eb,Cheaters can still see you. (use /spy to be cheater proof),,Hileciler seni hâlâ görebilir. (hileciye karşı korunmak için /spy kullan),"a phrase the server says (bots' help, notices)",done
+b:phrase:d56ab3230e8b,Not affected by that type and point.,,Bu tür ve puandan etkilenmiyor.,"a phrase the server says (bots' help, notices)",done
+b:phrase:109756a30e03,The building is being demolished. Nothing is refunded.,,Bina yıkılıyor. Hiçbir iade yapılmaz.,"a phrase the server says (bots' help, notices)",done
+b:phrase:204b334739e1,"This is no building of your guild's land, or it is already gone.",,"Bu, loncanın arazisinde bir bina değil ya da çoktan yok.","a phrase the server says (bots' help, notices)",done
+b:phrase:9c4d550c55e5,usage : /horse_level <name> <level>,,Kullanım: /horse_level <isim> <seviye>,"a phrase the server says (bots' help, notices)",done
+b:phrase:1292ca230a62,Delete failed. Quest flag does not exist.,,Silme başarısız. Görev bayrağı yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:62e65414f0b5,List of the available windows:,,Mevcut pencerelerin listesi:,"a phrase the server says (bots' help, notices)",done
+b:phrase:c79c5f7be070,This command blocks only logging in. It doesn't disconnect connected players.,,Bu komut yalnızca girişi engeller. Bağlı oyuncuların bağlantısını kesmez.,"a phrase the server says (bots' help, notices)",done
+b:phrase:1acb79942d88,,Nie ma zarzadzanego bota o PID %u.,PID %u olan yönetilen bot yok.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:9ba20fe1b9fc,,#%u - taki przedmiot nie istnieje.,#%u - böyle bir eşya yok.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:c89f740ccf51,Player %s is already on block list. Flush if you want to execute ban /block_flush,,%s oyuncusu zaten engel listesinde. Banı uygulamak istiyorsan önce temizle: /block_flush,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:361806d4c15a,Ban pool request for player %s.,,%s oyuncusu için ban havuzu isteği.,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:7986194efac2,Does not take indices above 109.,,109'un üzerindeki indeksleri kabul etmez.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d93683f0d930,Only an IMPLEMENTOR can change other characters' GM ranks. A GM can remove their own rank.,,Başkalarının GM rütbesini yalnızca bir IMPLEMENTOR değiştirebilir. Bir GM kendi rütbesini kaldırabilir.,"a phrase the server says (bots' help, notices)",done
+b:phrase:90c79f02ca8b,test_server mode grants GM to everyone. Disable it to remove GM rights.,,test_server modu herkese GM verir. GM yetkilerini kaldırmak için kapat.,"a phrase the server says (bots' help, notices)",done
+b:phrase:e041bf7283ad,The GM list is empty. The next server start may grant IMPLEMENTOR to the admin account's oldest character.,,GM listesi boş. Bir sonraki sunucu başlangıcında admin hesabının en eski karakterine IMPLEMENTOR verilebilir.,"a phrase the server says (bots' help, notices)",done
+b:phrase:e5238d587432,,Nie znam bazy tej mapy (index %ld).,Bu haritanın veritabanını bilmiyorum (indeks %ld).,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:68faa293147a,,"Tam nie da sie wejsc (%d, %d).","Oraya girilemez (%d, %d).","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:2c71dadea815,Blad bazy - miejsce niezapisane.,,Veritabanı hatası - yer kaydedilmedi.,"a phrase the server says (bots' help, notices)",done
+b:phrase:55000f08217b,Already a member in guild %s[%d],,Zaten %s[%d] loncasının üyesisin,"a phrase the server says (bots' help, notices) | keep: %s %d",done
+b:phrase:bcf8d9abaea0,There is no such guild skill by number %u,,%u numaralı böyle bir lonca becerisi yok,"a phrase the server says (bots' help, notices) | keep: %u",done
+b:phrase:d6a796000188,The Flea Market is switched off in this world.,,Pazar Evi bu dünyada kapalı.,"a phrase the server says (bots' help, notices)",done
+b:phrase:0bf908f4971f,"The Flea Market is open in the first and second villages (M1, M2) only.",,"Pazar Evi yalnızca birinci ve ikinci köyde (M1, M2) açıktır.","a phrase the server says (bots' help, notices)",done
+b:phrase:b5b5863220f6,An offline shop can be opened on CH1 only.,,Offline dükkân yalnızca CH1'de açılabilir.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a097d0d0c543,Your inventory is full - the part of the stack you bought lies at your feet.,,Envanterin dolu - satın aldığın yığının kalan kısmı ayağının dibinde duruyor.,"a phrase the server says (bots' help, notices)",done
+b:phrase:f3460138cab3,Bot stalls with this item: %d - each marked with a firework.,,Bot bu eşyayla tezgâh açtı: %d - her biri bir havai fişekle işaretli.,"a phrase the server says (bots' help, notices) | keep: %d",done
+b:phrase:b8473f70b3c8,You need a minimum level of %d to be able to talk.,,Konuşabilmek için en az %d. seviye olman gerekiyor.,"a phrase the server says (bots' help, notices) | keep: %d",done
+b:phrase:2b1bc19d3334,Friend lists are still loading. Try again in a moment.,,Arkadaş listeleri hâlâ yükleniyor. Birazdan tekrar dene.,"a phrase the server says (bots' help, notices)",done
+b:phrase:fa93d3887aff,This bot's friend list is full.,,Bu botun arkadaş listesi dolu.,"a phrase the server says (bots' help, notices)",done
+b:phrase:1e6a5642e99a,The storage could not confirm the last save. You will be logged out; log in again and everything is as the database has it.,,Depo son kaydı onaylayamadı. Oturumun kapatılacak; yeniden girdiğinde her şey veritabanındaki haliyle olacak.,"a phrase the server says (bots' help, notices)",done
+b:phrase:92ec811c7989,"The storage could not confirm the expansion. Open it again: if it has not grown, tell the administrator - the purchase is in the server's log.",,Depo genişletmeyi onaylayamadı. Tekrar aç: büyümediyse yöneticiye bildir - satın alma sunucu kaydında var.,"a phrase the server says (bots' help, notices)",done
+b:phrase:4caeaa1c0b3b,Hexagonal Treasure Chests drop from Metin stones players break (%s%% chance),,"Altıgen Sandık, oyuncuların kırdığı Metin Taşlarından düşer (%s%% şans)","a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:1f6ab57e8724,Event over: %s is back to normal.,,Etkinlik bitti: %s normale döndü.,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:a4341df99917,"Soul Stone: I have the Zen Beans for %s %s, but I read it only inside a village's safe zone.",,"Ruh Taşı: %s %s için Zen Fasulyesi var bende, ama onu sadece köyün güvenli bölgesinde okuyorum.","a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:0fdcb7a828f6,"My equipment is locked, so I leave your gifts alone.",,"Ekipmanım kilitli, o yüzden hediyelerine dokunmuyorum.","a phrase the server says (bots' help, notices)",done
+b:phrase:16d08ff197bf,"Soul Stone: %s %s - the training failed (it cost %d rank points, %d left). Each grade takes several tries.",,"Ruh Taşı: %s %s - eğitim başarısız oldu (%d rütbe puanı harcadı, %d kaldı). Her seviye birkaç deneme sürer.","a phrase the server says (bots' help, notices) | keep: %s %s %d %d",done
+b:phrase:1f411ec97e41,"Soul Stone waits: %s %s costs me %d rank points, I have %d. Give me Zen Beans or a Fruit of Life (I eat them for the training), or wait - rank grows slowly from killing monsters.",,"Ruh Taşı bekliyor: %s %s bana %d rütbe puanına mal oluyor, bende %d var. Bana Zen Fasulyesi ya da Yaşam Meyvesi ver (eğitim için yerim) ya da bekle - rütbe canavar öldürdükçe yavaş artar.","a phrase the server says (bots' help, notices) | keep: %s %s %d %d",done
+b:phrase:a84093719d44,"I have %s x%u on my stall in %s, %s yang for all of it",,"%s x%u tezgâhımda %s içinde, hepsi %s yang","a phrase the server says (bots' help, notices) | keep: %s %u %s %s",done
+b:phrase:6c4ed088944f,"I have %s on my stall in %s, %s yang",,"%s tezgâhımda %s içinde, %s yang","a phrase the server says (bots' help, notices) | keep: %s %s %s",done
+b:phrase:252b02f4af25,"I'll buy %s - put it on a stall in Joan or Bokjung, bots buy there",,"%s alırım - Joan veya Bokjung'da tezgâh aç, botlar orada alıyor","a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:41658247a66c,,"Kupie %s - wystaw na straganie w Joan albo Bokjung, boty tam kupuja","%s alırım - Joan veya Bokjung'da tezgâh aç, botlar orada alıyor","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:06e42faaa06f,"Buying %s - whoever has it, put it up in %s",,%s alıyorum - kimde varsa %s içinde tezgâha koysun,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:56c8be1288df,Deal! Set the price on your shop to %s and I'll buy it - I'll wait %u min.,,"Anlaştık! Dükkânındaki fiyatı %s yap, alırım - %u dk bekliyorum.","a phrase the server says (bots' help, notices) | keep: %s %u",done
+b:phrase:1474e6464bd3,That's too much for me. %s is the most I can give - my last price.,,Bu bana fazla. Verebileceğim en çok %s - son fiyatım.,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:c69513776e39,The deal stands: %s. Set that price on your shop and I'll buy it.,,"Anlaşma geçerli: %s. Dükkânına bu fiyatı koy, alırım.","a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:03285a8bef8e,I'm offering %s - deal? (ok / no / your price),,%s veriyorum - olur mu? (ok / no / kendi fiyatın),"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:162745f71fc4,"Pity, I can't go any higher. Maybe another time!",,"Yazık, daha fazla veremem. Belki başka zaman!","a phrase the server says (bots' help, notices)",done
+b:phrase:21aaad68f666,"Sure, no problem. Good luck with the sale!",,"Tabii, sorun değil. Satışta bol şans!","a phrase the server says (bots' help, notices)",done
+b:phrase:5fa1cd140b6a,"Hey, %s for %s is too much for me. I'd give %s - deal? (ok / no / your price)",,"Hey, %s için %s bana fazla. %s veririm - olur mu? (ok / no / kendi fiyatın)","a phrase the server says (bots' help, notices) | keep: %s %s %s",done
+b:phrase:cc39fd535600,"Sorry, I can't buy it after all.",,"Üzgünüm, sonuçta alamayacağım.","a phrase the server says (bots' help, notices)",done
+b:phrase:ce2082add835,I'm no archer - I lure with a bow,,Okçu değilim - yayla mob çekiyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:7bd97b67ac3d,I have no bow in my hand right now,,Şu an elimde yay yok,"a phrase the server says (bots' help, notices)",done
+b:phrase:abc86fe3a1ab,"Sure. Stand still, I'll bring them to you. To end it write ""stop luring""",,"Tamam. Kıpırdama, onları sana getireceğim. Bitirmek için ""stop luring"" yaz","a phrase the server says (bots' help, notices)",done
+b:phrase:a5f56e34f348,Which line? Send the counter item link and its count.,,Hangi satır? Tezgâhtaki eşyanın bağlantısını ve adedini gönder.,"a phrase the server says (bots' help, notices)",done
+b:phrase:cc7a472e4d5c,You mean that item - I still don't have it on my counter.,,O eşyayı diyorsun - o hâlâ tezgâhımda yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b072ba081c33,Which item on my counter? Give its name or link.,,Tezgâhımdaki hangi eşya? Adını ya da bağlantısını ver.,"a phrase the server says (bots' help, notices)",done
+b:phrase:0e233ddfc222,"Sure, the counter price stands.",,"Tabii, tezgâh fiyatı geçerli.","a phrase the server says (bots' help, notices)",done
+b:phrase:9c0483a94e19,Let's haggle again in a few minutes.,,Birkaç dakika sonra yine pazarlık edelim.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b690085e1469,I'll check the counter price change and let you know.,,Tezgâh fiyatı değişikliğine bakıp sana haber vereceğim.,"a phrase the server says (bots' help, notices)",done
+b:phrase:dbd6fd1a08a9,I can't lower the price right now. Try later.,,Şu an fiyatı düşüremem. Sonra dene.,"a phrase the server says (bots' help, notices)",done
+b:phrase:2c9e293d8cbf,"Deal, buy it from my counter now.",,"Anlaştık, şimdi tezgâhımdan al.","a phrase the server says (bots' help, notices)",done
+b:phrase:2997c15f479e,"I have a stall in %s, on it: %s",,"%s içinde tezgâhım var, üzerinde: %s","a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:82054074aceb,I'm just off to the market in %s,,Şimdi pazara gidiyorum: %s,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:228e4186e9f8,,%s stoi! Zbieramy sie na niego.,%s duruyor! Ona doğru toplanıyoruz.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:753512ba10dc,Devil's Catacomb: hunting the key,,Şeytan Katakombu: anahtarı avlıyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:bb8bacc6865d,Gathering at the Catacomb's Guardian,,Katakomb Bekçisi'nin yanında toplanıyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:6a680869b9d2,OX Quiz: waiting for a question,,OX Yarışması: soru bekliyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:574f5fb067ac,Changing back into the combat set,,Savaş setine geri geçiyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:b96207db390a,%sResting after death - waiting for mana,,%sÖldükten sonra dinleniyorum - mana bekliyorum,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:19a4ff5e29b2,%sGoing to help %s of my guild (for free),,%sLoncamdan %s adlı oyuncuya yardıma gidiyorum (bedava),"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:1f83bfe36ce7,%sHaggling over a price at a stall,,%sTezgâhta fiyat pazarlığı yapıyorum,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:c971d1bae583,%sGoing to the Monkey Dungeon for a Horse Medal,,%sAt Madalyonu için Maymun Zindanı'na gidiyorum,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:66a0b3d6c33d,%sLooking for a level 30 weapon on M3,,%sM3'te 30. seviye silah arıyorum,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:2d4978c856fe,Buying refine materials at the market,,Pazardan geliştirme malzemesi alıyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:10e09dfd0932,Trading with the weapon dealer,,Silah satıcısıyla alışveriş yapıyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:a279fa522e8b,Trading with the armour dealer,,Zırh satıcısıyla alışveriş yapıyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:603d03f7c758,"No shop right now, but I've got",,"Şu an dükkânım yok, ama çantamda","a phrase the server says (bots' help, notices)",done
+b:phrase:f85091b49061,What exactly do you want to buy?,,Tam olarak ne almak istiyorsun?,"a phrase the server says (bots' help, notices)",done
+b:phrase:d9779f8f66d2,"in my bag, but it's not up for sale.",,"var, ama onu satışa koymadım.","a phrase the server says (bots' help, notices)",done
+b:phrase:0a9c4ad642e6,"I'm here, I see you. You can open trade.",,"Buradayım, seni görüyorum. Takas açabilirsin.","a phrase the server says (bots' help, notices)",done
+b:phrase:7860440968dd,"Oh, %s would come in handy. Put it up in your shop, I'll check it out for sure.",,"Ooo, %s işime yarar. Dükkânına koy, kesin bakarım.","a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:68939f27e2ca,[Guild] %s has to go - something more urgent came up.,,[Lonca] %s gitmek zorunda - daha acil bir iş çıktı.,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:3344e9c76bb3,"Poszedles gdzies, to wracam do swoich spraw.",,"Bir yere gittin, ben de kendi işlerime dönüyorum.","a phrase the server says (bots' help, notices)",done
+b:phrase:6c1cf0beec56,"Can't get to you, sorry. Going back to my own stuff.",,"Yanına ulaşamıyorum, kusura bakma. Kendi işlerime dönüyorum.","a phrase the server says (bots' help, notices)",done
+b:phrase:db076278034d,"You went off somewhere, so I'm back to my own stuff.",,"Bir yere gittin, ben de kendi işlerime dönüyorum.","a phrase the server says (bots' help, notices)",done
+b:phrase:7d7701852bc9,,sprzedaje tylko cale %u szt. za %s,Sadece %u adetin tamamını %s karşılığında satıyorum,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:5d856bb9856a,"Couldn't finish in time, the visit is cancelled.",,"Zamanında yetişemedim, ziyaret iptal edildi.","a phrase the server says (bots' help, notices)",done
+b:phrase:794b7c946948,The price change was refused. Check the counter price.,,Fiyat değişikliği reddedildi. Tezgâh fiyatını kontrol et.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b8ff94233007,The price change is unconfirmed. Check the counter price.,,Fiyat değişikliği onaylanmadı. Tezgâh fiyatını kontrol et.,"a phrase the server says (bots' help, notices)",done
+b:phrase:448a582cc5cd,"Going for a weapon, back afterwards",,"Silah almaya gidiyorum, sonra döneceğim","a phrase the server says (bots' help, notices)",done
+b:phrase:95137dea5aa0,"Going for armour, back afterwards",,"Zırh almaya gidiyorum, sonra döneceğim","a phrase the server says (bots' help, notices)",done
+b:phrase:981092ccce27,"Going for equipment, back afterwards",,"Ekipman almaya gidiyorum, sonra döneceğim","a phrase the server says (bots' help, notices)",done
+b:phrase:036b0a0c1d50,"Going to upgrade at the blacksmith, back afterwards",,"Demircide eşya geliştirmeye gidiyorum, sonra döneceğim","a phrase the server says (bots' help, notices)",done
+b:phrase:26acf6e0fbad,"Going to the storekeeper, back afterwards",,"Depocuya gidiyorum, sonra döneceğim","a phrase the server says (bots' help, notices)",done
+b:phrase:7371eea61710,Going to take a break by the stalls,,Tezgâhların yanında mola vermeye gidiyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:8e907f80b1a2,Going to put my items up for sale,,Eşyalarımı satışa koymaya gidiyorum,"a phrase the server says (bots' help, notices)",done
+b:phrase:3b2f2d4e7eb9,[War] Your guild %s is at war with the guild %s. Answer 'Yes' in the window to join - or later click the scroll 'Ask for permission to join' at the left edge of the screen.,,"[Savaş] %s loncan, %s loncasıyla savaşta. Katılmak için penceredeki 'Evet'e bas - ya da sonra ekranın sol kenarındaki 'Katılma izni iste' parşömenine tıkla.","a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:801485693b1c,"[War] Your guild %s is at war with the guild %s. To join, click the scroll 'Ask for permission to join' at the left edge of the screen and answer 'Yes'.",,"[Savaş] %s loncan, %s loncasıyla savaşta. Katılmak için ekranın sol kenarındaki 'Katılma izni iste' parşömenine tıkla ve 'Evet'e bas.","a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:88e66cafaab7,[War] The war of your guild %s with the guild %s is fought on channel 1 - change the channel to join it.,,[Savaş] %s loncanın %s loncasıyla savaşı 1. kanalda yapılıyor - katılmak için kanalı değiştir.,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:273b1d54df98,[War] Your guild %s is at war with the guild %s. You cannot join it from this map - go out to an ordinary map.,,"[Savaş] %s loncan, %s loncasıyla savaşta. Bu haritadan katılamazsın - normal bir haritaya çık.","a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:b652a4e17bb2,we are fighting elsewhere now (a war or the Demon Tower),,şu an başka yerde savaşıyoruz (bir savaş ya da Şeytan Kulesi),"a phrase the server says (bots' help, notices)",done
+b:phrase:f4cb8cba1665,"there is a war on the guild map already, %s against %s, try again in about %d min",,"lonca haritasında zaten bir savaş sürüyor, %s - %s, yaklaşık %d dk sonra tekrar deneyin","a phrase the server says (bots' help, notices) | keep: %s %s %d",done
+b:phrase:889dd68a79cc,too few of us are in the game (%d of %d),,oyunda yeterince kişi yok (%d / %d),"a phrase the server says (bots' help, notices) | keep: %d %d",done
+b:phrase:1ae122d71602,"we are resting after the last war, try again in %u min",,"son savaştan sonra dinleniyoruz, %u dk sonra tekrar deneyin","a phrase the server says (bots' help, notices) | keep: %u",done
+b:phrase:003d5a36b7d9,"your guild fought us a short while ago, try again in %u min",,"loncan kısa süre önce bizimle savaştı, %u dk sonra tekrar deneyin","a phrase the server says (bots' help, notices) | keep: %u",done
+b:phrase:145713435d65,there is nowhere to fight on the guild map,,lonca haritasında savaşacak yer yok,"a phrase the server says (bots' help, notices)",done
+b:phrase:7086fe38f272,[War] The bot guild %s refuses: %s.,,[Savaş] %s bot loncası reddetti: %s.,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:907baa14231f,"[War] The bot guild %s takes the challenge! Battlefield: %s (%s), channel 1. The bots buff for %u s at their camp and go for the middle.",,"[Savaş] %s bot loncası meydan okumayı kabul etti! Savaş alanı: %s (%s), kanal 1. Botlar kamplarında %u sn buff atıp ortaya doğru ilerliyor.","a phrase the server says (bots' help, notices) | keep: %s %s %s %u",done
+b:phrase:5fcef44d7aa3,"[War] The first guild to %d kills wins; after 30 minutes, the one with more kills.",,[Savaş] İlk %d öldürmeye ulaşan lonca kazanır; 30 dakika sonra ise daha çok öldüren kazanır.,"a phrase the server says (bots' help, notices) | keep: %d",done
+b:phrase:0b161815231a,"Guild war: %s against the bot guild %s! Battlefield: %s (%s), %s.",,"Lonca savaşı: %s - bot loncası %s! Savaş alanı: %s (%s), %s.","a phrase the server says (bots' help, notices) | keep: %s %s %s %s %s",done
+b:phrase:b7e03bb67413,A bots' guild war begins soon (%s): %s against %s. Battlefield: %s.,,Birazdan bir bot loncası savaşı başlıyor (%s): %s - %s. Savaş alanı: %s.,"a phrase the server says (bots' help, notices) | keep: %s %s %s %s",done
+b:phrase:4b47555545e7,,"Wojna gildii: %s kontra gildia botow %s! Pole bitwy: %s (%s), %s.","Lonca savaşı: %s - bot loncası %s! Savaş alanı: %s (%s), %s.","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:6fcb046a467b,"Fine, we let it go. For %u minutes no bot will pick on you - unless you attack one of us.",,"Tamam, bırakıyoruz. %u dakika boyunca hiçbir bot sana bulaşmaz - ta ki birimize saldırana kadar.","a phrase the server says (bots' help, notices) | keep: %u",done
+b:phrase:b3565f640bc8,The truce lasts %u more min. Nobody touches you until you attack one of us.,,Ateşkes %u dk daha sürecek. Birimize saldırmadığın sürece kimse sana dokunmaz.,"a phrase the server says (bots' help, notices) | keep: %u",done
+b:phrase:796b9f219f45,The truce was broken a moment ago. We'll talk in %u min.,,Ateşkes az önce bozuldu. %u dk sonra konuşuruz.,"a phrase the server says (bots' help, notices) | keep: %u",done
+b:phrase:50fdf426de74,[Guild] %s of your guild is coming to help you.,,[Lonca] Loncandan %s sana yardıma geliyor.,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:fdbca782a532,[Truce] The bots leave you alone for %u minutes. The truce ends if you attack one of them.,,[Ateşkes] Botlar %u dakika boyunca seni rahat bırakacak. Birine saldırırsan ateşkes biter.,"a phrase the server says (bots' help, notices) | keep: %u",done
+b:phrase:88d9c47809ae,Demon Tower! Gather on the tower's ground floor by the Metin of Toughness - in %u minutes we break it together.,,Şeytan Kulesi! Kulenin zemin katında Dayanıklılık Metini'nin yanında toplanın - %u dakika sonra birlikte kırıyoruz.,"a phrase the server says (bots' help, notices) | keep: %u",done
+b:phrase:8df288ad3ac7,"The guild %s (%s) is off to the Demon Tower: gathering on the ground floor, start in %u minutes. Whoever stands there goes in with them.",,"%s (%s) loncası Şeytan Kulesi'ne gidiyor: zemin katta toplanma, %u dakika sonra başlıyor. Orada duran onlarla birlikte girer.","a phrase the server says (bots' help, notices) | keep: %s %s %u",done
+b:phrase:b068caf629f9,Breaking the Metin of Toughness!,,Dayanıklılık Metini kırılıyor!,"a phrase the server says (bots' help, notices)",done
+b:phrase:85ef9897513e,Demon Tower Blacksmith: success! %s from +%u to +%u,,Şeytan Kulesi Demircisi: başarılı! %s +%u'dan +%u'ya,"a phrase the server says (bots' help, notices) | keep: %s %u %u",done
+b:phrase:95f265c5099a,"Demon Tower Blacksmith: failed, %s from +%u to +%u - the item burned",,"Şeytan Kulesi Demircisi: başarısız, %s +%u'dan +%u'ya - eşya yandı","a phrase the server says (bots' help, notices) | keep: %s %u %u",done
+b:phrase:d5bdbe5fcb36,The guild %s (%s) defeated the Death Reaper on the Demon Tower's ninth floor!,,%s (%s) loncası Şeytan Kulesi'nin dokuzuncu katında Lusifer'i yendi!,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:ad04955864b5,The guild %s defeated the Death Reaper on the Demon Tower's ninth floor!,,%s loncası Şeytan Kulesi'nin dokuzuncu katında Lusifer'i yendi!,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:e020565f8a3c,The party of %s defeated the Death Reaper on the Demon Tower's ninth floor!,,%s oyuncusunun grubu Şeytan Kulesi'nin dokuzuncu katında Lusifer'i yendi!,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:4f8889c66ab3,The bots are leaving the Demon Tower.,,Botlar Şeytan Kulesi'nden ayrılıyor.,"a phrase the server says (bots' help, notices)",done
+b:phrase:e8fe04be4687,The Metins of Death guard the seventh floor. Break all four of them!,,Yedinci katı Ölüm Metinleri koruyor. Dördünü de kırın!,"a phrase the server says (bots' help, notices)",done
+b:phrase:107adef4ec05,None of the bots is level 75 - the Tower ends on the sixth floor.,,Botlardan hiçbiri 75. seviyede değil - Kule altıncı katta bitiyor.,"a phrase the server says (bots' help, notices)",done
+b:phrase:e1ce39e95b7d,The party of %s (%s) gathers at the Catacomb Guard in Hwang Temple - off to Azrael.,,%s (%s) grubu Hwang Tapınağı'ndaki Katakomb Bekçisi'nin yanında toplanıyor - Azrail'e gidiyor.,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:e2a2974bcb2f,The party of %s (%s) defeated Azrael in the Devil's Catacomb!,,%s (%s) grubu Şeytan Katakombu'nda Azrail'i yendi!,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:13af9fd73966,"Zuo event: Metin stones rain %s until %s! From halfway through, Zuo summons bosses.",,Zuo etkinliği: %s - %s arası Metin Taşları yağıyor! Yarısından sonra Zuo boss çağırıyor.,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:a27629dd81be,Pirate Tanaka fell %s - the winner: %s!,,Korsan Tanaka %s düştü - kazanan: %s!,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:f2e887a56d18,Zuo %s: the Metin stones stop falling - the bosses are coming!,,Zuo %s: Metin Taşları yağmayı bıraktı - bosslar geliyor!,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:2d3642a87fb5,"Like you, I get no experience (Anti-Exp Ring).",,Senin gibi ben de exp almıyorum (Anti-EXP Yüzüğü).,"a phrase the server says (bots' help, notices)",done
+b:phrase:bb4b021255a9,I cashed my Dragon Coin vouchers for %lld Dragon Coins - I have %lld now. I'll buy what I need with them.,,EP kuponlarımı %lld Ejderha Parasına çevirdim - şimdi %lld tanem var. İhtiyacım olanları bunlarla alacağım.,"a phrase the server says (bots' help, notices) | keep: %lld %lld",done
+b:phrase:ffd4ed853266,"I bought in the Item Shop: %s x%u for %lld %s, %s (%lld left).",,"Item Shop'tan aldım: %s x%u, %lld %s karşılığında, %s (%lld kaldı).","a phrase the server says (bots' help, notices) | keep: %s %u %lld %s %s %lld",done
+b:phrase:78e3c64b8669,"I'm saving my Dragon Coins for %s (%lld), %s - I have %lld.",,"Ejderha Paralarımı %s (%lld) için biriktiriyorum, %s - %lld tanem var.","a phrase the server says (bots' help, notices) | keep: %s %lld %s %lld",done
+b:phrase:ff8859454a12,"Your companion will be in the game in a moment (mode: %s, fight: %s).",,"Yoldaşın birazdan oyunda olacak (mod: %s, savaş: %s).","a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:1c489bf25ec0,"I'm saving up for %s (%lld), %s.",,"%s (%lld) için biriktiriyorum, %s.","a phrase the server says (bots' help, notices) | keep: %s %lld %s",done
+b:phrase:11c40e9a75ac,I buy at most once an hour - my next purchase in %u min.,,En fazla saatte bir alışveriş yaparım - sonraki alışverişim %u dk sonra.,"a phrase the server says (bots' help, notices) | keep: %u",done
+b:phrase:32be4c3ef7bc,I couldn't buy %s%s - I'll try again.,,%s%s alınamadı - tekrar deneyeceğim.,"a phrase the server says (bots' help, notices) | keep: %s %s",done
+b:phrase:ac2165a21193,My last Item Shop purchase: %s x%u for %lld %s.,,"Son Item Shop alışverişim: %s x%u, %lld %s karşılığında.","a phrase the server says (bots' help, notices) | keep: %s %u %lld %s",done
+b:phrase:d765e52607c1,I keep them - that is the setting in the Companion window (Options).,,Onları saklıyorum - Yoldaş penceresindeki ayar (Seçenekler) böyle.,"a phrase the server says (bots' help, notices)",done
+b:phrase:6004a91ba48c,"I spend them in the Item Shop on what I use - scrolls for my books, Soul Stones, bonus changes, upgrade scrolls - but I need none of it now.",,"Onları Item Shop'ta kullandığım şeylere harcıyorum - kitaplarım için kağıtlar, Ruh Taşları, bonus değiştirme, geliştirme kağıtları - ama şu an hiçbirine ihtiyacım yok.","a phrase the server says (bots' help, notices)",done
+b:phrase:261fd033d80d,I have just cashed my vouchers - I'll buy at my next look in the Item Shop (every 10 minutes).,,Kuponlarımı az önce bozdurdum - Item Shop'a bir sonraki bakışımda alacağım (her 10 dakikada bir).,"a phrase the server says (bots' help, notices)",done
+b:phrase:6d2ed2d72da3,I spend them in the Item Shop - I'll look there within 10 minutes.,,Onları Item Shop'ta harcıyorum - 10 dakika içinde oraya bakacağım.,"a phrase the server says (bots' help, notices)",done
+b:phrase:cbf1cc32b8e7,"All right, I won't start a fight. I guard you and myself, and help once you are fighting.",,"Tamam, kavga başlatmam. Seni ve kendimi korurum, sen dövüşmeye başlayınca yardım ederim.","a phrase the server says (bots' help, notices)",done
+b:phrase:1298f3d3e1a5,"All right, I won't fight. I only hit back at whoever hits me.",,"Tamam, dövüşmem. Sadece bana vuranlara karşılık veririm.","a phrase the server says (bots' help, notices)",done
+b:phrase:57ee2c0f37ff,"All right, I hit everything that comes near us.",,"Tamam, yanımıza gelen her şeye vururum.","a phrase the server says (bots' help, notices)",done
+b:phrase:b8b28e2124cc,I couldn't fish - coming back.,,Balık tutamadım - dönüyorum.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8be556f17eac,I can't afford a fishing pass (%u yang) - give me yang and send me again.,,Balıkçılık kartı almaya param yetmiyor (%u yang) - bana yang ver ve beni tekrar gönder.,"a phrase the server says (bots' help, notices) | keep: %u",done
+b:phrase:56712717eef6,My bag is full - I stop fishing. The fish are in my bag (the Companion window).,,Çantam dolu - balık tutmayı bırakıyorum. Balıklar çantamda (Yoldaş penceresi).,"a phrase the server says (bots' help, notices)",done
+b:phrase:df513b766e8f,I can't afford a rod or bait - I stop fishing.,,Olta ya da yem almaya param yetmiyor - balık tutmayı bırakıyorum.,"a phrase the server says (bots' help, notices)",done
+b:phrase:1e0c51160e00,I have no free cell in my bag for a fishing pass - make me some room.,,Çantamda balıkçılık kartı için boş yer yok - bana yer aç.,"a phrase the server says (bots' help, notices)",done
+b:phrase:7482c38e48b5,"Both my ring slots hold what you put on me, and the fishing pass needs one - take one off me.",,"İki yüzük yuvam da senin giydirdiklerinle dolu, balıkçılık kartı da birini istiyor - birini çıkar.","a phrase the server says (bots' help, notices)",done
+b:phrase:f64fa6f4fa2e,I can't put the fishing pass on - try again in a moment.,,Balıkçılık kartını takamıyorum - birazdan tekrar dene.,"a phrase the server says (bots' help, notices)",done
+b:phrase:7f47de5db438,"I have no rod and bait, and nobody sells them here - I stop fishing.",,"Ne olta ne yemim var, burada da kimse satmıyor - balık tutmayı bırakıyorum.","a phrase the server says (bots' help, notices)",done
+b:phrase:1683e1d4c5f1,"My rod is on my shop counter - I'm taking it back, send me again in a moment.",,"Oltam dükkân tezgâhımda duruyor - geri alıyorum, birazdan beni tekrar gönder.","a phrase the server says (bots' help, notices)",done
+b:phrase:0a5e4e41e0ae,I can't take the rod in hand - make room in my bag for my weapon.,,Oltayı ele alamıyorum - silahım için çantamda yer aç.,"a phrase the server says (bots' help, notices)",done
+b:phrase:e74822f53702,I stood by the water and couldn't cast - I stop fishing.,,Suyun kenarına geldim ama olta atamadım - balık tutmayı bırakıyorum.,"a phrase the server says (bots' help, notices)",done
+b:phrase:92dbc235489d,"I had something else to do first (a fight, a shop, the stable or a rest) - send me again.",,"Önce başka bir iş yapmam gerekti (dövüş, dükkân, ahır ya da dinlenme) - beni tekrar gönder.","a phrase the server says (bots' help, notices)",done
+b:phrase:68b99a38d716,I can't get to the water - I stop fishing.,,Suya ulaşamıyorum - balık tutmayı bırakıyorum.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d3c864c87f20,Somebody attacked me - I stop fishing.,,Biri bana saldırdı - balık tutmayı bırakıyorum.,"a phrase the server says (bots' help, notices)",done
+b:phrase:1d67b1af03cc,"I ran out of bait, and nobody sells it here - I stop fishing.",,"Yemim bitti, burada da kimse satmıyor - balık tutmayı bırakıyorum.","a phrase the server says (bots' help, notices)",done
+b:phrase:12797a329027,I fished for three hours - coming back.,,Üç saat balık tuttum - dönüyorum.,"a phrase the server says (bots' help, notices)",done
+b:phrase:3ac00f5d06ca,"My equipment is locked, and a rod goes in the hand - I don't fish.",,"Ekipmanım kilitli, olta da ele takılıyor - balık tutmuyorum.","a phrase the server says (bots' help, notices)",done
+b:phrase:4fbfa99a66c0,Cancelling shopping and returning after the shop confirmation.,,Alışverişi iptal edip dükkân onayından sonra dönüyorum.,"a phrase the server says (bots' help, notices)",done
+b:phrase:aae3b80de314,On my way - I'll be at your side in a moment.,,Geliyorum - birazdan yanında olurum.,"a phrase the server says (bots' help, notices)",done
+b:phrase:f93499c4e9e8,I have to get up first - I'll be right there.,,Önce ayağa kalkmam lazım - hemen geliyorum.,"a phrase the server says (bots' help, notices)",done
+b:phrase:da9c377473a3,Off to level on my own. Call me from the Companion letter when you need me.,,Kendi başıma exp kasmaya gidiyorum. Bana ihtiyacın olursa Yoldaş mektubundan çağır.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a4fd671cc32c,Close the shop and collect the goods and proceeds first. I cannot leave with your goods on the counter.,,"Önce dükkânı kapat, malları ve kazancı al. Eşyaların tezgâhta dururken ayrılamam.","a phrase the server says (bots' help, notices)",done
+b:phrase:3583655f5235,Your companion has left. You can choose a new one in the Companion letter.,,Yoldaşın ayrıldı. Yeni bir yoldaşı Yoldaş mektubundan seçebilirsin.,"a phrase the server says (bots' help, notices)",done
+b:phrase:9da8b0cfd072,,"Dobra, nie luruje - walcze przy tobie.","Tamam, mob çekmiyorum - yanında savaşıyorum.","a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:a37ca51dd941,"All right, I lure: while you stand on a spot, I pull up to 3 packs of monsters from around and bring them to you.",,"Tamam, mob çekiyorum: bir noktada durduğunda çevreden 3 mob grubuna kadar çekip sana getiriyorum.","a phrase the server says (bots' help, notices)",done
+b:phrase:9d350f2ee946,"Luring is on, but I'm not fighting now - set the fight to ""Attack"" or ""No 1st hit"" and I'll start.",,"Mob çekme açık, ama şu an savaşmıyorum - savaşı ""Saldır"" ya da ""İlk vuruş yok"" yap, başlayayım.","a phrase the server says (bots' help, notices)",done
+b:phrase:1e8b2afc070a,"All right, no luring - I fight at your side.",,"Tamam, mob çekmiyorum - yanında savaşıyorum.","a phrase the server says (bots' help, notices)",done
+b:phrase:11d6d6a8824c,"All right, I don't open chests, boxes or fish - they stay in my bag, you can take them in the Companion window.",,"Tamam, sandıkları, kutuları ve balıkları açmıyorum - çantamda kalıyorlar, Yoldaş penceresinden alabilirsin.","a phrase the server says (bots' help, notices)",done
+b:phrase:9c6db5927d28,"All right, I open the chests, boxes and fish in my bag myself.",,"Tamam, çantamdaki sandıkları, kutuları ve balıkları kendim açarım.","a phrase the server says (bots' help, notices)",done
+b:phrase:b74bad03ef21,"All right, I pick up only the kinds of items ticked in your Auto Hunt - and yang.",,"Tamam, sadece senin Otomatik Av ayarında işaretli türdeki eşyaları ve yang toplarım.","a phrase the server says (bots' help, notices)",done
+b:phrase:9f54a4c824f9,"All right, I pick up everything the Drop setting allows.",,"Tamam, Drop ayarının izin verdiği her şeyi toplarım.","a phrase the server says (bots' help, notices)",done
+b:phrase:9282826ff606,"All right, I leave my equipment alone. Your manual window commands still work.",,"Tamam, ekipmanıma dokunmam. Pencereden verdiğin elle komutlar yine çalışır.","a phrase the server says (bots' help, notices)",done
+b:phrase:25641a665f0b,I could not save the equipment lock. The setting is unchanged - try again in a moment.,,Ekipman kilidini kaydedemedim. Ayar değişmedi - birazdan tekrar dene.,"a phrase the server says (bots' help, notices)",done
+b:phrase:87bd5f93bcde,I'm waiting here. Call me when you need me.,,Burada bekliyorum. Bana ihtiyacın olunca çağır.,"a phrase the server says (bots' help, notices)",done
+b:phrase:372ed1d4775e,I'm out shopping. Call me if I should come back sooner.,,Alışverişe çıktım. Daha erken dönmemi istersen çağır.,"a phrase the server says (bots' help, notices)",done
+b:phrase:effa448a2619,I sold %u item%s for %lld yang; free bag cells: %d.,,"%u eşya%s sattım, %lld yang kazandım; boş çanta hücresi: %d.","a phrase the server says (bots' help, notices) | keep: %u %s %lld %d",done
+b:phrase:17778cf45306,"I have nothing to sell - the rest are gifts, locked pieces or what I need. Take what you want from my bag (the Companion window) or turn the shop on (/towarzysz sklep).",,"Satacak bir şeyim yok - gerisi hediye, kilitli eşya ya da bana lazım olanlar. İstediğini çantamdan al (Yoldaş penceresi) ya da dükkânı aç (/towarzysz sklep).","a phrase the server says (bots' help, notices)",done
+b:phrase:57492b2ba745,Back from shopping: I spent %lld yang and have %u red and %u blue potions.,,"Alışverişten döndüm: %lld yang harcadım, %u kırmızı ve %u mavi iksirim var.","a phrase the server says (bots' help, notices) | keep: %lld %u %u",done
+b:phrase:084410d3b946,I'm playing on my own now and do my own shopping. Call me first.,,"Şimdi kendi başıma oynuyorum, alışverişimi de kendim yapıyorum. Önce beni çağır.","a phrase the server says (bots' help, notices)",done
+b:phrase:bc34a4067f88,I can't get to my town from here.,,Buradan şehrime ulaşamıyorum.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8ddec1e4fe03,,Stad nie dojde do swojego miasta.,Buradan şehrime ulaşamıyorum.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:2229da6583bc,Off %s to shop. Back when I'm done.,,Alışverişe %s gidiyorum. İşim bitince dönerim.,"a phrase the server says (bots' help, notices) | keep: %s",done
+b:phrase:86c72e2689be,Costumes are switched off on this server.,,Bu sunucuda kostümler kapalı.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c548694c309f,Only a Bleach takes a hairstyle off: put one in your companion's bag and right-click it.,,Saç stilini sadece Saç Boyası Temizleyici çıkarır: Yoldaşının çantasına koy ve sağ tıkla.,"a phrase the server says (bots' help, notices)",done
+b:phrase:24f62bce6137,That is not for your companion's sex.,,"Bu, yoldaşının cinsiyeti için değil.","a phrase the server says (bots' help, notices)",done
+b:phrase:b64d93faab41,That is not for your companion's class.,,"Bu, yoldaşının sınıfı için değil.","a phrase the server says (bots' help, notices)",done
+b:phrase:28a1e24aa3cc,"Your companion's level is too low (needs %ld, has %d).",,"Yoldaşının seviyesi çok düşük (gereken %ld, mevcut %d).","a phrase the server says (bots' help, notices) | keep: %ld %d",done
+b:phrase:90891f38977f,Your companion has too little %s (needs %ld).,,Yoldaşının %s değeri çok düşük (gereken %ld).,"a phrase the server says (bots' help, notices) | keep: %s %ld",done
+b:phrase:5ff2b2b7dbe8,Your companion already wears something of the same group.,,Yoldaşın zaten aynı gruptan bir şey giyiyor.,"a phrase the server says (bots' help, notices)",done
+b:phrase:feca66e85d41,Your companion has no room in its bag.,,Yoldaşının çantasında yer yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b3a0f5a97be5,That cannot be taken off now - try again in a moment.,,Şu an çıkarılamaz - biraz sonra tekrar dene.,"a phrase the server says (bots' help, notices)",done
+b:phrase:bde5cfa1320d,Taken off. Your companion will not put it on by itself (unpin it so it can again).,,Çıkarıldı. Yoldaşın bunu kendi kendine giymez (tekrar giyebilmesi için sabitlemeyi kaldır).,"a phrase the server says (bots' help, notices)",done
+b:phrase:34b63a89ed44,Your companion already wears that.,,Yoldaşın zaten bunu giyiyor.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d950963ec11e,That does not go in that place.,,Bu o yere uymaz.,"a phrase the server says (bots' help, notices)",done
+b:phrase:1b9ee64a53ef,What it wears there cannot be taken off.,,Orada giydiği şey çıkarılamaz.,"a phrase the server says (bots' help, notices)",done
+b:phrase:56cb00876e16,Put on. Your companion will not take it off by itself.,,Giydirildi. Yoldaşın bunu kendi kendine çıkarmaz.,"a phrase the server says (bots' help, notices)",done
+b:phrase:3fe63efcd394,It will put it on as soon as its blow is done.,,Vuruşunu bitirir bitirmez giyecek.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8638b919a55f,,"Zalozy to, jak tylko skonczy cios.",Vuruşunu bitirir bitirmez giyecek.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:6084ded011dd,I have no room in my bag for what comes off. I'll put it on as soon as there is some.,,Çıkaracağım şey için çantamda yer yok. Yer açılır açılmaz giyeceğim.,"a phrase the server says (bots' help, notices)",done
+b:phrase:dedaac3ba7f4,I can't put that on now - I'll try again in a moment.,,Şu an bunu giyemiyorum - biraz sonra tekrar deneyeceğim.,"a phrase the server says (bots' help, notices)",done
+b:phrase:7046ca0cbcd6,A dye does nothing to a hairstyle - take it off with a Bleach first.,,Boya saç stiline işlemez - önce Saç Boyası Temizleyici ile çıkar.,"a phrase the server says (bots' help, notices)",done
+b:phrase:b93f26431725,Your companion has no room in its bag for the hairstyle.,,Yoldaşının çantasında saç stili için yer yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:08a0198dfb1c,That cannot be used now - try again in a moment.,,Bu şu an kullanılamaz - biraz sonra tekrar dene.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a0c5b7527b08,The hairstyle stayed on - try again in a moment.,,Saç stili çıkmadı - biraz sonra tekrar dene.,"a phrase the server says (bots' help, notices)",done
+b:phrase:10a9a177d206,The hairstyle is off and in your companion's bag. Now you can put another on.,,Saç stili çıktı ve yoldaşının çantasında. Şimdi başka birini takabilirsin.,"a phrase the server says (bots' help, notices)",done
+b:phrase:8d9304d00d2f,,Ten przedmiot jest teraz zajety.,Bu eşya şu an meşgul.,"a phrase the server says (bots' help, notices) | no English: translate from the Polish",done
+b:phrase:9808bafe7473,Dragon stones cannot be handed over here.,,Ejderha taşları burada teslim edilemez.,"a phrase the server says (bots' help, notices)",done
+b:phrase:ce15e4bf1338,Added to your companion's stack: %d of %u.,,Yoldaşının yığınına eklendi: %d / %u.,"a phrase the server says (bots' help, notices) | keep: %d %u",done
+b:phrase:55b044eabd3e,Added to your stack: %d of %u.,,Yığınına eklendi: %d / %u.,"a phrase the server says (bots' help, notices) | keep: %d %u",done
+b:phrase:688d04034f49,Your companion has no room in its bag to take that off - take something out of its bag first.,,Yoldaşının çantasında çıkarmak için yer yok - önce çantasından bir şey al.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c27e47d9eb12,Take it off into your companion's bag first - a worn piece cannot be destroyed.,,Önce yoldaşının çantasına çıkar - giyilen parça yok edilemez.,"a phrase the server says (bots' help, notices)",done
+b:phrase:428e6ef00a33,Only an item of your companion's bag can be destroyed.,,Yalnızca yoldaşının çantasındaki bir eşya yok edilebilir.,"a phrase the server says (bots' help, notices)",done
+b:phrase:3c558e5dde53,A wrong order - update the client.,,Hatalı komut - istemciyi güncelle.,"a phrase the server says (bots' help, notices)",done
+b:phrase:6744bad088d1,Your companion has moved it already - nothing was destroyed.,,Yoldaşın bunu zaten başka yere taşıdı - hiçbir şey yok edilmedi.,"a phrase the server says (bots' help, notices)",done
+b:phrase:6df0f99cf491,There is no Dragon Stone there.,,Orada Ejderha Taşı yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:df46ed21e70e,Take your stone off into Alchemy first.,,Önce taşını Simya'ya çıkar.,"a phrase the server says (bots' help, notices)",done
+b:phrase:fa06bfaadd84,Cannot equip now - retry after the blow (Alchemy needs level 30 and the system enabled).,,Şu an giyilemez - vuruştan sonra tekrar dene (Simya için 30. seviye ve sistemin açık olması gerekir).,"a phrase the server says (bots' help, notices)",done
+b:phrase:a6a0111b2b7c,"No room in your companion's Alchemy, or the worn stone is busy.",,Yoldaşının Simyasında yer yok ya da giyilen taş meşgul.,"a phrase the server says (bots' help, notices)",done
+b:phrase:5db48babbec4,No room in your companion's Alchemy.,,Yoldaşının Simyasında yer yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:dd98923fb774,The stone stayed in Alchemy - try again shortly.,,Taş Simya'da kaldı - birazdan tekrar dene.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a357663af4a9,Stone equipped and pinned. The Alchemy deck is on if the stone has time left.,,Taş giyildi ve sabitlendi. Taşın süresi varsa Simya destesi açık.,"a phrase the server says (bots' help, notices)",done
+b:phrase:807d20d974f0,Take the stone off into Alchemy first.,,Önce taşı Simya'ya çıkar.,"a phrase the server says (bots' help, notices)",done
+b:phrase:a0d4c5b18394,No room for that stone in the recipient's Alchemy.,,Alıcının Simyasında bu taş için yer yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d00c1ac02c07,Cannot take the stone off: make room in your companion's Alchemy and retry shortly.,,Taş çıkarılamıyor: yoldaşının Simyasında yer aç ve birazdan tekrar dene.,"a phrase the server says (bots' help, notices)",done
+b:phrase:ecdeed6935f1,The stone is in your Alchemy window.,,Taş Simya pencerende.,"a phrase the server says (bots' help, notices)",done
+b:phrase:d109977bad80,The stone is in your companion's Alchemy.,,Taş yoldaşının Simyasında.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c39a046c5d37,You don't have that much yang.,,O kadar yang'ın yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:5dfbf4e87080,Your companion doesn't have that much yang.,,Yoldaşında o kadar yang yok.,"a phrase the server says (bots' help, notices)",done
+b:phrase:7aa8c630142a,Your companion can't hold that much yang.,,Yoldaşın o kadar yang taşıyamaz.,"a phrase the server says (bots' help, notices)",done
+b:phrase:5ab8b0247fc4,You can't hold that much yang.,,O kadar yang taşıyamazsın.,"a phrase the server says (bots' help, notices)",done
+b:phrase:96e5c9c6d47b,I stop fishing and come back to you.,,Balık tutmayı bırakıp yanına dönüyorum.,"a phrase the server says (bots' help, notices)",done
+b:phrase:c5e0daa9a770,"I'm fishing right here by the water. The fish go into my bag. Call me (Call, or Fishing again) when I should come back.",,"Tam burada, suyun kenarında balık tutuyorum. Balıklar çantama giriyor. Geri dönmem gerekirse beni çağır (Çağır ya da yine Balık Tutma).","a phrase the server says (bots' help, notices)",done
+b:phrase:307c589a26ce,I'm playing on my own now. Call me first.,,Şimdi kendi başıma oynuyorum. Önce beni çağır.,"a phrase the server says (bots' help, notices)",done
+b:phrase:9b6854456949,"My equipment is locked, and a rod goes in the hand. Unlock it in Options.",,"Ekipmanım kilitli, ele de olta gerekiyor. Kilidi Seçenekler'den aç.","a phrase the server says (bots' help, notices)",done
+b:phrase:20bd1af599f8,I can't get to the water from here.,,Buradan suya ulaşamıyorum.,"a phrase the server says (bots' help, notices)",done

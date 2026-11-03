@@ -1,0 +1,317 @@
+id,english,polski,translation,notes,status
+e:d50edaf5de36,%d minutes %d seconds left on your chat block,Twoja blokada czatu trwa jeszcze %d minut %d sekund,Blocage du chat : encore %d minutes %d secondes,server message (chat/system line) | keep: %d %d,done
+e:be120aeffaf2,Yang rain drop rate,Szansa na deszcz dropów Yang,Taux de pluie de Yang,server message (chat/system line),done
+e:3f1d417c3ed9,Not the right material for an upgrade.,Masz za mało materiału na ulepszenie.,Ce n'est pas le bon matériau pour une amélioration.,server message (chat/system line),done
+e:59d091d32a08,All kingdoms,Wszystkie Królestwa,Tous les royaumes,server message (chat/system line),done
+e:e76b8fe4eace,Item drop rate in percent,Częstotliwość wypadania przedmiotów,Taux de drop d'objets en pourcentage,server message (chat/system line),done
+e:8ea747f68bb3,Yang drop rate in percent,Częstotliwość wypadania Yang,Taux de drop de Yang en pourcentage,server message (chat/system line),done
+e:523d5086faa1,Experience percentage,Procent Doświadczenia,Expérience en pourcentage,server message (chat/system line),done
+e:55b504430ebf,%d seconds left on your chat block,Pozostało %d sekund do końca twojej blokady pisania,Blocage du chat : encore %d secondes,server message (chat/system line) | keep: %d,done
+e:69fdf8d703a6,You cannot express emotions whilst riding a horse.,Nie możesz okazywać emocji będąc na koniu.,Vous ne pouvez pas exprimer d'émotions à cheval.,server message (chat/system line),done
+e:b93cdfd7efb7,You cannot use emotions with a player who is riding on a Horse.,"Nie możesz okazywać emocji graczowi, który jest na koniu.",Vous ne pouvez pas utiliser d'émotions avec un joueur à cheval.,server message (chat/system line),done
+e:63c59b890f47,[Guild] The enemy's guild leader is offline.,[Gildia] Lider Gildii przeciwnika jest offline.,[Guilde] Le chef de la guilde ennemie est hors ligne.,server message (chat/system line),done
+e:410ab21df64e,[Guild] This guild is taking part in a battle at the moment.,[Gildia] Obecnie ta Gildia uczestniczy już w walce.,[Guilde] Cette guilde participe actuellement à une bataille.,server message (chat/system line),done
+e:64cdd654af70,You're already riding. Get off first.,Jesteś na koniu. Najpierw musisz zsiąść.,Vous êtes déjà à cheval. Descendez d'abord.,server message (chat/system line),done
+e:c1e30c119275,You cannot upgrade items with this Scroll.,Nie możesz ulepszać tym zwojem.,Vous ne pouvez pas améliorer d'objets avec ce parchemin.,server message (chat/system line),done
+e:6ffbf4263bed,You can only be rewarded once for the Demon Tower Quest.,Możesz zostać nagrodzony tylko raz za każdą wyprawę do Wieży Demonów.,Vous ne pouvez être récompensé qu'une seule fois pour la quête de la Tour des démons.,server message (chat/system line),done
+e:a7735b6784d6,Dragon Stone has been removed.,Usunięcie Smoczego Kamienia powiodło się.,La pierre du dragon a été retirée.,server message (chat/system line),done
+e:8cd1d2c039c4,You cannot move the item within the refinement window.,Nie możesz przesuwać tego przedmiotu w obrębie okienka uszlachetniania.,Vous ne pouvez pas déplacer l'objet dans la fenêtre de raffinement.,server message (chat/system line),done
+e:a19ae6777512,Dragon Stone remaining duration has been extracted.,Ekstrakcja pozostałego czasu trwania Smoczego Kamienia powiodła się.,La durée restante de la pierre du dragon a été extraite.,server message (chat/system line),done
+e:38b887797d27,Remaining duration extraction failed.,Ekstrakcja pozostałego czasu trwania nie powiodła się.,L'extraction de la durée restante a échoué.,server message (chat/system line),done
+e:ceb93dae97e1,Removal of Dragon Stone failed. But you have received the following: %s,Usunięcie Smoczego Kamienia nie powiodło się. Otrzymano jednak: %s,Le retrait de la pierre du dragon a échoué. Mais vous avez reçu : %s,server message (chat/system line) | keep: %s,done
+e:43de03ff17b6,Removal of Dragon Stone failed.,Usunięcie Smoczego Kamienia nie powiodło się.,Le retrait de la pierre du dragon a échoué.,server message (chat/system line),done
+e:82f08e49ba2d,This item is not required for improving the clarity level.,Przedmiot ten nie jest potrzebny do podwyższenia stopnia jakości.,Cet objet n'est pas nécessaire pour améliorer le niveau de pureté.,server message (chat/system line),done
+e:6168408fdc30,This item cannot be advanced this way.,Ten przedmiot nie może być ulepszony w ten sposób.,Cet objet ne peut pas être amélioré de cette façon.,server message (chat/system line),done
+e:38a83e2c1c04,Improvement of the clarity level successful.,Podwyższenie stopnia jakości powiodło się.,Amélioration du niveau de pureté réussie.,server message (chat/system line),done
+e:1603ac1a8527,Refinement up one class failed.,Uszlachetnienie o jedną klasę wzwyż nie powiodło się.,Le raffinement d'une classe a échoué.,server message (chat/system line),done
+e:bb768177042b,This item is not required for refinement.,Przedmiot ten nie jest potrzebny do uszlachetniania.,Cet objet n'est pas nécessaire pour le raffinement.,server message (chat/system line),done
+e:4bc0f0bfa9cf,Refinement up one class was successful.,Uszlachetnienie o jedną klasę wzwyż powiodło się.,Raffinement d'une classe réussi.,server message (chat/system line),done
+e:18903f435883,Improvement of the clarity level failed.,Podwyższenie stopnia jakości nie powiodło się.,L'amélioration du niveau de pureté a échoué.,server message (chat/system line),done
+e:99e2bed222a1,You do not own the materials required to strengthen the Dragon Stone.,Nie posiadasz odpowiednich materiałów do wzmocnienia Smoczego Kamienia.,Vous n'avez pas les matériaux nécessaires pour renforcer la pierre du dragon.,server message (chat/system line),done
+e:588a36f9daf4,This Dragon Stone cannot be used for strengthening.,Tego Smoczego Kamienia nie można użyć w celu wzmocnienia.,Cette pierre du dragon ne peut pas servir au renforcement.,server message (chat/system line),done
+e:f4a11ea86c5f,Strengthening was successful.,Wzmocnienie powiodło się.,Renforcement réussi.,server message (chat/system line),done
+e:3de60aca54b5,Strengthening failed.,Wzmocnienie nie powiodło się.,Le renforcement a échoué.,server message (chat/system line),done
+e:dccbe53eb9a2,You are already carrying a Dragon Stone of this type.,Nosisz już ten rodzaj Smoczego Kamienia.,Vous portez déjà une pierre du dragon de ce type.,server message (chat/system line),done
+e:6135863a3825,The Dragon Stone cannot be removed.,Nie można usunąć tego Smoczego Kamienia.,La pierre du dragon ne peut pas être retirée.,server message (chat/system line),done
+e:6ab6579ade3d,You have already equipped this kind of Dragon Stone.,Już masz na sobie taki Smoczy Kamień.,Vous avez déjà équipé ce type de pierre du dragon.,server message (chat/system line),done
+e:5286e053c58c,"Before you open the Cor Draconis, you have to complete the Dragon Stone quest and activate the Dragon Stone Alchemy.","Zanim otworzysz Cor Draconis, musisz zakończyć misję Smoczego Kamienia i aktywować Alchemię Smoczych Kamieni.","Avant d'ouvrir le Cor Draconis, vous devez terminer la quête de la pierre du dragon et activer l'alchimie des pierres du dragon.",server message (chat/system line),done
+e:47f4c281460e,You can only discard the belt when there are no longer any items in its inventory.,"Możesz zdjąć pas dopiero wtedy, gdy w jego inwentarzu nie będzie żadnego przedmiotu.",Vous ne pouvez retirer la ceinture que lorsque son inventaire est vide.,server message (chat/system line),done
+e:a16769abc751,You can combine the Blessing Scroll with the Magic Iron Ore.,Zwój Błogosławieństwa oraz Magiczny Metal mogą zostać połączone.,Vous pouvez combiner le parchemin de bénédiction avec le minerai de fer magique.,server message (chat/system line),done
+e:669dacf31c6c,You cannot equip this item in your belt inventory.,Tego przedmiotu nie możesz zdeponować w inwentarzu swojego pasa.,Vous ne pouvez pas placer cet objet dans l'inventaire de ceinture.,server message (chat/system line),done
+e:439c86265f58,[1106-??]No puedes unir esto.,[1106-??]No puedes unir esto.,[1106-??]Vous ne pouvez pas combiner ceci.,server message (chat/system line),done
+e:a60bc397366c,You have invested %d Yang.,Zainwestowałeś %d Yang.,Vous avez investi %d Yang.,server message (chat/system line) | keep: %d,done
+e:7d22d9caa8e5,There is no Stone available to take out.,Nie ma już więcej Kamieni do wyjęcia.,Il n'y a aucune pierre à retirer.,server message (chat/system line),done
+e:7e7bf10bd1ef,You cannot store this location.,Nie możesz zapisać tej pozycji.,Vous ne pouvez pas enregistrer cet endroit.,server message (chat/system line),done
+e:c55e55b6b27b,You cannot save location placed in opposite kingdom.,Nie możesz zapisać pozycji wrogiego Królestwa.,Vous ne pouvez pas enregistrer un lieu situé dans le royaume adverse.,server message (chat/system line),done
+e:6af2f3fc9a04,There isn't enough space in your inventory.,Masz za mało miejsca w ekwipunku.,Il n'y a pas assez de place dans votre inventaire.,server message (chat/system line),done
+e:7eca9370db55,You cannot teleport to a safe position in a foreign Kingdom.,Nie możesz przenieść się do zapisanej pozycji w obcym Królestwie.,Vous ne pouvez pas vous téléporter vers une position sûre dans un royaume étranger.,server message (chat/system line),done
+e:b921b0861d06,You don't have enough HP.,Masz za mało PŻ.,Vous n'avez pas assez de PV.,server message (chat/system line),done
+e:035060c9ebf8,You don't have enough Spell Points (SP) to use this.,Masz za mało Punktów Energii aby tego użyć.,Vous n'avez pas assez de PM pour utiliser ceci.,server message (chat/system line),done
+e:e97f39109d5a,You'll reach your destination in %d seconds.,Osiągniesz miejsce docelowe w %d sekund po wykonaniu.,Vous atteindrez votre destination dans %d secondes.,server message (chat/system line) | keep: %d,done
+e:2399deac065e,You can only use a Moon Cake every 5 seconds.,Możesz używać Księżycowych Torcików tylko raz na 5 sekund.,Vous ne pouvez utiliser un gâteau de lune que toutes les 5 secondes.,server message (chat/system line),done
+e:933901b0143e,You cannot use this item in a duel.,Nie możesz użyć tego przedmiotu w pojedynku.,Vous ne pouvez pas utiliser cet objet en duel.,server message (chat/system line),done
+e:2ee91a09a8cb,You have won %d Yang.,Wygrałeś %d Yang.,Vous avez gagné %d Yang.,server message (chat/system line) | keep: %d,done
+e:f639d3690175,You cannot build a campfire here.,Nie możesz założyć tutaj obozu.,Vous ne pouvez pas faire de feu de camp ici.,server message (chat/system line),done
+e:a8366f8430a8,You cannot build a campfire under water.,Nie możesz rozpalić Ogniska pod wodą.,Vous ne pouvez pas faire de feu de camp sous l'eau.,server message (chat/system line),done
+e:b62b268d886b,Closed. You should look for the key.,Zamknięte. Powinieneś poszukać klucza.,Fermé. Vous devriez chercher la clé.,server message (chat/system line),done
+e:7f15561b3dac,This item cannot be opened with a key.,Ten przedmiot nie może zostać otwarty za pomocą klucza.,Cet objet ne s'ouvre pas avec une clé.,server message (chat/system line),done
+e:f24d7a506923,That's the right key.,To jest właściwy klucz.,C'est la bonne clé.,server message (chat/system line),done
+e:548ae6c6bb2d,You have received %d Yang.,Otrzymałeś %d Yang.,Vous avez reçu %d Yang.,server message (chat/system line) | keep: %d,done
+e:909ea227c5a8,A mysterious light comes out of the box.,Tajemnicze światło dobiega z tej skrzynki.,Une lumière mystérieuse sort du coffre.,server message (chat/system line),done
+e:69b7b77e3237,You have received %d experience points.,Otrzymałeś %d Punktów Doświadczenia.,Vous avez reçu %d points d'expérience.,server message (chat/system line) | keep: %d,done
+e:8c2203b3c878,Look what came out of the box!,"Zobacz, co wyskoczyło ze skrzyni!",Regardez ce qui est sorti du coffre !,server message (chat/system line),done
+e:82cb5635f562,[Guild] The guild level is too low.,[Gildia] Poziom gildii jest za niski.,[Guilde] Le niveau de la guilde est trop bas.,server message (chat/system line),done
+e:a44883df6dc9,"If you inhale the red smoke coming out of the box, your speed will increase!","Jeśli będziesz wdychać czerwony dym ze skrzyni, będziesz szybszy!","Si vous inhalez la fumée rouge qui sort du coffre, votre vitesse augmentera !",server message (chat/system line),done
+e:8a8bd29cdbfa,You cannot add more bonus.,Nie możesz dodać więcej bonusów.,Vous ne pouvez plus ajouter de bonus.,server message (chat/system line),done
+e:4f9a0bbffebe,New bonus added successfully.,Pomyślnie dodano bonus.,Nouveau bonus ajouté avec succès.,server message (chat/system line),done
+e:2db0f3a8600a,You cannot change the bonuses.,Nie możesz zmienić bonusów.,Vous ne pouvez pas changer les bonus.,server message (chat/system line),done
+e:3fc0c074e6b7,You need a Glass of Insight or an active Premium Subscription.,Wymagane Szkło Intuicji lub aktywna Subskrypcja Premium.,Il vous faut un Verre de clairvoyance ou un abonnement Premium actif.,server message (chat/system line),done
+e:c257ce8e8490,%s needed.,Wymagane %s.,%s requis.,server message (chat/system line) | keep: %s,done
+e:c24e647f2da1,OX-Question: ,OX-Question: ,Question OX : ,server message (chat/system line),done
+e:3b0a56615bc8,Someone bought %dx %s from your shop for %d Yang.,Ktoś zakupił %dx %s z Twojego sklepiku za %d Yang.,Quelqu'un a acheté %dx %s dans votre étal pour %d Yang.,server message (chat/system line) | keep: %d %s %d,done
+e:daaf664f4d0e,The shop has been closed; the remaining items and the Yang it earned are in its deposit.,"Sklep został zamknięty, pozostałe przedmioty oraz zarobione yang zostały dodane do depozytu.",L'étal a été fermé ; les objets restants et le Yang gagné sont dans son dépôt.,server message (chat/system line),done
+e:2fe02ec20d7f,You cannot open any more shops.,Nie możesz otworzyć więcej sklepów.,Vous ne pouvez plus ouvrir d'étals.,server message (chat/system line),done
+e:275638e01a78,You don't have enough space in your inventory.,Nie masz miejsca w ekwipunku.,Vous n'avez pas assez de place dans votre inventaire.,server message (chat/system line),done
+e:c098cb9d55f1,An error occurred,Wystapił błąd,Une erreur s'est produite,server message (chat/system line),done
+e:9819ee84d731,The Yang has been withdrawn from the shop's deposit.,Pomyślnie wypłacono Yang z depozytu sklepu.,Le Yang a été retiré du dépôt de l'étal.,server message (chat/system line),done
+e:7e1542aecb4c,The amount is too small.,Podana kwota jest za mała.,Le montant est trop faible.,server message (chat/system line),done
+e:1553bf972746,The amount is more than the Yang earned.,Podana kwota jest większa niż zarobione Yang.,Le montant dépasse le Yang gagné.,server message (chat/system line),done
+e:f413b084b5a7,The item has been added to your inventory,Przedmiot został dodany do twojego ekwipunku,L'objet a été ajouté à votre inventaire,server message (chat/system line),done
+e:dd332a26208f,The items have been added to your inventory,Przedmioty zostały dodane do twojego ekwipunku,Les objets ont été ajoutés à votre inventaire,server message (chat/system line),done
+e:247f305fb265,Shop closed,Zamkniecie sklepu,Étal fermé,server message (chat/system line),done
+e:8e759e02d20d,Item removed,Usuniecie przedmiotu,Objet retiré,server message (chat/system line),done
+e:3ca87e7b2633,#PLAYER_NAME#'s Shop,Sklep #PLAYER_NAME#,Étal de #PLAYER_NAME#,server message (chat/system line),done
+e:822cc3b22ef6,Shop - %s,Sklep - %s,Étal - %s,server message (chat/system line) | keep: %s,done
+e:c1ea3929c706,Opening shops has been blocked for your rank!,Tworzenie sklepów dla twojej posady zostało zablokowane!,L'ouverture d'étals est bloquée pour votre rang !,server message (chat/system line),done
+e:dc766bf27078,You cannot open a shop here.,Nie możesz otworzyć sklepu w tym miejscu.,Vous ne pouvez pas ouvrir d'étal ici.,server message (chat/system line),done
+e:9f6f891c0710,You cannot open a shop here.,Nie możesz otworzyć sklepu w tym miejscu.,Vous ne pouvez pas ouvrir d'étal ici.,server message (chat/system line),done
+e:48f2e9fee27b,You cannot open an offline shop here.,Nie możesz otworzyć sklepu offline w tym miejscu.,Vous ne pouvez pas ouvrir d'étal hors ligne ici.,server message (chat/system line),done
+e:b242a515ffd6,Remember that no offline shop can be set up on this map.,"Pamiętaj, że na tej mapie nie da się wystawić sklepu offline.",N'oubliez pas qu'aucun étal hors ligne ne peut être installé sur cette carte.,server message (chat/system line),done
+e:eda7f11a3fbd,You need %lld Yang to open this kind of shop,Potrzebujesz %lld Yang by otworzyć taki rodzaj sklepu,Il vous faut %lld Yang pour ouvrir ce type d'étal,server message (chat/system line) | keep: %lld,done
+e:c71cebf61915,There are too many shops on this channel. A premium shop is needed to go over the free limit.,Na tym kanale jest za dużo sklepów. Aby ominać darmowy limit wymagany jest sklep premium.,Il y a trop d'étals sur ce canal. Un étal Premium est nécessaire pour dépasser la limite gratuite.,server message (chat/system line),done
+e:ecb6a045b2d6,This channel has reached its limit of offline shops. You cannot open a shop.,Na tym kanale osiągnięto maksymalny limit sklepów offline. Nie możesz otworzyć sklepu.,Ce canal a atteint sa limite d'étals hors ligne. Vous ne pouvez pas ouvrir d'étal.,server message (chat/system line),done
+e:7f546ec3fa0b,Opening shops is switched off for the time being,Tworzenie sklepów jest tymczasowo wyłączone,L'ouverture d'étals est désactivée pour le moment,server message (chat/system line),done
+e:68ab0cf3310c,The items have been updated.,Przedmioty zostały pomyśnie zaktualizowane.,Les objets ont été mis à jour.,server message (chat/system line),done
+e:8f8487b2e07a,Dropped Yang will disappear after %d seconds.,Upuszczone Yang zniknie za %d sekund.,Le Yang jeté disparaîtra au bout de %d secondes.,server message (chat/system line) | keep: %d,done
+e:1045bc185074,Wait %d seconds before your next change to the shop.,"Zaczekaj %d sekund, aby dokonać kolejnej zmiany w sklepie.",Attendez %d secondes avant votre prochaine modification de l'étal.,server message (chat/system line) | keep: %d,done
+e:2be510151a2f,You must be on the same map as the shop.,Musisz znajdować się na tej samej mapie co sklep.,Vous devez être sur la même carte que l'étal.,server message (chat/system line),done
+e:1d0a4de3fd7b,You must be on the same channel as the shop.,Musisz znajdować się na tym samym kanale co sklep.,Vous devez être sur le même canal que l'étal.,server message (chat/system line),done
+e:62fcfed25584,You must stand next to the shop.,Musisz stać obok sklepu.,Vous devez vous tenir à côté de l'étal.,server message (chat/system line),done
+e:9465a74c6cf1,You don't have a shop.,Nie posiadasz sklepu.,Vous n'avez pas d'étal.,server message (chat/system line),done
+e:3c0f967faa7f,You don't have a premium shop.,Nie posiadasz sklepu premium.,Vous n'avez pas d'étal Premium.,server message (chat/system line),done
+e:e2e033644754,Some items in the shop are on locked slots.,Niektóre przedmioty w sklepie położone są w zablokowanym miejscu.,Certains objets de l'étal sont sur des emplacements verrouillés.,server message (chat/system line),done
+e:1c527e8bdc24,Some items in the shop overlap.,Niektóre przedmioty w sklepie na siebie nachodzą.,Certains objets de l'étal se chevauchent.,server message (chat/system line),done
+e:949fbba8748c,There are still items in your offline shop's deposit.,W depozycie sklepu offline zalegają przedmioty.,Il reste des objets dans le dépôt de votre étal hors ligne.,server message (chat/system line),done
+e:cb3e2f0e640d,You need a Bundle to open a shop.,Aby otworzyć sklep potrzebujesz Tobół.,Il vous faut un Baluchon pour ouvrir un étal.,server message (chat/system line),done
+e:5e800bf5b81e,You cannot buy from yourself.,Nie możesz kupować od samego siebie.,Vous ne pouvez pas vous acheter à vous-même.,server message (chat/system line),done
+e:c92b77c2964a,The value of the shop and your Yang together is more than the Yang allowed (2 billion).,Wartość sklepu i Twoich Yang jest większa niż dozwolona ilość Yang (2 miliardy).,La valeur de l'étal et votre Yang dépassent ensemble le Yang autorisé (2 milliards).,server message (chat/system line),done
+e:abb846a34775,Moving channel has been interrupted.,Zmiana kanału została przerwana.,Le changement de canal a été interrompu.,server message (chat/system line),done
+e:26d05cdb0f9e,You cannot change channel.,Nie możesz zmienić kanału.,Vous ne pouvez pas changer de canal.,server message (chat/system line),done
+e:1a4a3fe07eb0,"Currently, you cannot switch to that channel.",Zmiana na wskazany kanał jest obecnie niemożliwa.,Vous ne pouvez pas passer sur ce canal pour le moment.,server message (chat/system line),done
+e:7961ebc42f45,Please wait a moment. Changing channel...,Zaczekaj chwilę. Trwa zmiana kanału...,Patientez un instant. Changement de canal...,server message (chat/system line),done
+e:d4402cb99c08,%d seconds till channel change.,%d sekund do zmiany kanału.,%d secondes avant le changement de canal.,server message (chat/system line) | keep: %d,done
+e:ccb792c6aace,You cannot sell equiped items.,Nie możesz sprzedawać założonych przedmiotów.,Vous ne pouvez pas vendre des objets équipés.,server message (chat/system line),done
+e:73c437bab210,You cannot sell locked items.,Nie możesz sprzedawać zablokowanych przedmiotów.,Vous ne pouvez pas vendre des objets verrouillés.,server message (chat/system line),done
+e:98cc54f08ad8,%d Stamina required,Wymagane %d Staminy,%d d'endurance requise,server message (chat/system line) | keep: %d,done
+e:28e6b4107e39,You cannot sprint on foot at your movement speed (>= %d),Sprint pieszo jest niemożliwy przy posiadanej szybkości ruchu (>= %d),Vous ne pouvez pas sprinter à pied à votre vitesse de déplacement (>= %d),server message (chat/system line) | keep: %d,done
+e:99eeb891c78b,It looks like %s is on the hook.,"Wygląda na to, że na haczyku jest %s.",On dirait que %s est au bout de l'hameçon.,server message (chat/system line) | keep: %s,done
+e:004a1d1a4d88,It looked like %s was hanging on the hook.,"Wyglądało na to, że %s wisi na haku.",On aurait dit que %s était au bout de l'hameçon.,server message (chat/system line) | keep: %s,done
+e:a19a0ca2e240,You got %s!,Zdobyłeś %s!,Vous avez obtenu %s !,server message (chat/system line) | keep: %s,done
+e:82ecea10367f,You caught %s!,Wyłowiłeś %s!,Vous avez attrapé %s !,server message (chat/system line) | keep: %s,done
+e:d0e9846ad5bc,"Something took the hook, but you can't see what it is.","Coś nadziało się na haczyk, ale nie widzisz, co to jest.","Quelque chose a mordu, mais vous ne voyez pas ce que c'est.",server message (chat/system line),done
+e:5a8e1e7915de,You cannot ride while fishing.,Nie możesz jeździć konno podczas łowienia.,Vous ne pouvez pas monter à cheval en pêchant.,server message (chat/system line),done
+e:06cbcb2a0f0f,You can only fish in M1.,Możesz łowić tylko w M1.,Vous ne pouvez pêcher qu'en M1.,server message (chat/system line),done
+e:3df70b4e7b1b,A Fishing Pole can only be upgraded by the Fisherman.,Wędka może zostać ulepszona tylko u Rybaka.,Seul le pêcheur peut améliorer une canne à pêche.,server message (chat/system line),done
+e:de104d2f6fdf,A Herbalist's Knife can only be upgraded by the Herbalist.,Nożyk Zielarza może zostać ulepszony tylko u Zielarza.,Seul l'herboriste peut améliorer un couteau d'herboriste.,server message (chat/system line),done
+e:33f2215a5ccb,A Pickaxe can only be upgraded by Deokbae.,Kilof może zostać ulepszony tylko u Deokbae.,Seul Deokbae peut améliorer une pioche.,server message (chat/system line),done
+e:23cd4497e468,You are too far away from the Blacksmith.,Jesteś za daleko od Kowala.,Vous êtes trop loin du forgeron.,server message (chat/system line),done
+e:696ca48b9fa8,You have no room in your inventory. The item has been sent to your ItemShop storage.,Nie masz miejsca w ekwipunku. Przedmiot nadano do magazynu ItemShop.,Vous n'avez plus de place dans votre inventaire. L'objet a été envoyé dans votre entrepôt de l'ItemShop.,server message (chat/system line),done
+e:5ff06c619580,This auction is no longer available.,Ta aukcja nie jest już dostępna.,Cette enchère n'est plus disponible.,server message (chat/system line),done
+e:1fb924fb52b8,You do not have enough Dragon Coins.,Niewystarczająca ilość Smoczych Monet.,Vous n'avez pas assez de Pièces du Dragon.,server message (chat/system line),done
+e:4fb7cf6d0fc4,You do not have enough Dragon Marks.,Niewystarczająca ilość Smoczych Znaków.,Vous n'avez pas assez de Marques du Dragon.,server message (chat/system line),done
+e:d77011b829ad,Wait %d seconds before your next action.,"Zaczekaj %d sekund, przed kolejną akcją.",Attendez %d secondes avant votre prochaine action.,server message (chat/system line) | keep: %d,done
+e:72f88aec55ee,Wait a moment before your next action.,"Zaczekaj chwilę, przed kolejną akcją.",Attendez un moment avant votre prochaine action.,server message (chat/system line),done
+e:364f6a326251,This account has used up its purchases of this auction (%d at most).,Wykorzystano limit zakupu aukcji na tym koncie (max %d zakupów).,Ce compte a épuisé ses achats pour cette enchère (%d au maximum).,server message (chat/system line) | keep: %d,done
+e:b4cc31ba99ce,This purchase would go over the limit an account may buy. Buy fewer.,Ten zakup przekroczyłby dozwolony limit zakupów na konto. Kup mniej sztuk.,Cet achat dépasserait la limite par compte. Achetez moins.,server message (chat/system line),done
+e:ae0f4c7a4733,Log in again for the VIP effect to be applied properly.,"Przeloguj się, aby efekt VIP został poprawnie nadany.",Reconnectez-vous pour que l'effet VIP soit bien appliqué.,server message (chat/system line),done
+e:52c56557fdda,Your character must be at least level %u to buy this item.,"Aby zakupić ten przedmiot, postać musi posiadać przynajmniej %u poziom.",Votre personnage doit être au moins niveau %u pour acheter cet objet.,server message (chat/system line) | keep: %u,done
+e:e5d6528b8729,You cannot do that while you are dead.,Nie możesz wykonać tej akcji będąc martwy.,Vous ne pouvez pas faire cela pendant que vous êtes mort.,server message (chat/system line),done
+e:256bce1b2787,You cannot ride while carrying an item.,Nie możesz jeździć nosząc przedmiot.,Vous ne pouvez pas monter à cheval en portant un objet.,server message (chat/system line),done
+e:3aeca3b8c523,You cannot teleport while carrying an item.,Nie możesz teleportować się nosząc przedmiot.,Vous ne pouvez pas vous téléporter en portant un objet.,server message (chat/system line),done
+e:7cc5e5cb3687,You cannot sprint while carrying an item.,Nie możesz sprintować nosząc przedmiot.,Vous ne pouvez pas sprinter en portant un objet.,server message (chat/system line),done
+e:cd87674f3c64,You cannot sprint while you are slowed.,Nie możesz sprintować będąc spowolnionym.,Vous ne pouvez pas sprinter pendant que vous êtes ralenti.,server message (chat/system line),done
+e:2c814bd3aeb1,This skill is already at its highest level (%d).,Szkolona umiejętność posiada już maksymalny poziom (%d).,Cette compétence est déjà à son niveau maximal (%d).,server message (chat/system line) | keep: %d,done
+e:46527e7455ac,Despite the training you do not feel tired.,Pomimo treningu nie czujesz się zmęczony.,"Malgré l'entraînement, vous ne vous sentez pas fatigué.",server message (chat/system line),done
+e:d1c7054bc59b,You must wait %d min. before using it again.,Musisz zaczekać %d min. przed ponownym użyciem.,Vous devez attendre %d min avant de l'utiliser à nouveau.,server message (chat/system line) | keep: %d,done
+e:90772aa18123,You must wait %d sec. before using it again.,Musisz zaczekać %d sek. przed ponownym użyciem.,Vous devez attendre %d s avant de l'utiliser à nouveau.,server message (chat/system line) | keep: %d,done
+e:d25c9529d65d,These waters are very poor and there are hardly any fish here. Talk to the Fisherman.,"Te wody są bardzo słabej jakości, nie ma tu prawie ryb, porozmawiaj z Rybakiem.","Ces eaux sont très pauvres, il n'y a presque pas de poissons. Parlez au pêcheur.",server message (chat/system line),done
+e:a90ab687124e,You cannot open a shop here. You are too close to another shop.,Nie możesz otworzyć tutaj sklepu. Jesteś zbyt blisko innego sklepu.,Vous ne pouvez pas ouvrir d'étal ici. Vous êtes trop près d'un autre étal.,server message (chat/system line),done
+e:0f778b8e6162,This place is free of the plague of Metin Stones.,To miejsce jest wolne od plagi Kamieni Metin.,Cet endroit est libéré du fléau des pierres Metin.,server message (chat/system line),done
+e:9b9272ffb511,Your Horse is starving and cannot exert itself in this state.,"Twój Koń jest wygłodzony, nie może się w tym stanie przemęczać.",Votre cheval est affamé et ne peut pas fournir d'effort dans cet état.,server message (chat/system line),done
+e:691eac7bd86d,This channel is only open to Premium accounts.,Wskazany kanał dostępny jest tylko dla kont Premium.,Ce canal est réservé aux comptes Premium.,server message (chat/system line),done
+e:b9fcc2d2edf1,VIP effects do not stack with a Premium Subscription. You cannot make this purchase.,Efekty VIP nie łączą się z Subskrypcją Premium. Nie możesz dokonać zakupu.,Les effets VIP ne se cumulent pas avec un abonnement Premium. Vous ne pouvez pas faire cet achat.,server message (chat/system line),done
+e:2028147a5261,You cannot take out the stone that has been set.,Nie możesz wyjąć umieszczonego kamienia.,Vous ne pouvez pas retirer la pierre sertie.,server message (chat/system line),done
+e:0732889ea220,You cannot wear this item on horseback.,Nie możesz nosić tego przedmiotu konno.,Vous ne pouvez pas porter cet objet à cheval.,server message (chat/system line),done
+e:03b389b89802,You cannot use this item on horseback.,Nie możesz użyć tego przedmiotu konno.,Vous ne pouvez pas utiliser cet objet à cheval.,server message (chat/system line),done
+e:552b544ffb7e,You cannot dismount right now.,Nie możesz teraz zejść z wierzchowca.,Vous ne pouvez pas descendre de cheval pour le moment.,server message (chat/system line),done
+e:74c49b41868f,You rolled %d. (%d-%d),Rzuciłeś %d. (%d-%d),Vous avez obtenu %d. (%d-%d),server message (chat/system line) | keep: %d %d %d,done
+e:2f8afcb425b5,%s rolled %d. (%d-%d),%s rzucił %d. (%d-%d),%s a obtenu %d. (%d-%d),server message (chat/system line) | keep: %s %d %d %d,done
+e:abf23483e049,[Guild] %d units of Dragon Ghost have been charged.,[Gildia] Naładowano %d Energii Ducha Smoka.,[Guilde] %d unités d'esprit du dragon ont été chargées.,server message (chat/system line) | keep: %d,done
+e:d696afdd2206,[Guild] The person you invited is busy right now.,[Gildia] Zaproszona osoba jest w tym momencie zajęta.,[Guilde] La personne invitée est occupée.,server message (chat/system line),done
+e:3049f83ee22f,[Guild] The guild is at war.,[Gildia] Gildia jest w trakcie wojny.,[Guilde] La guilde est en guerre.,server message (chat/system line),done
+e:7f6b216caf72,[Guild] You cannot remove a guild member during a war.,[Gildia] Nie możesz usunąć członka gildii w trakcie wojny.,[Guilde] Vous ne pouvez pas retirer un membre de la guilde pendant une guerre.,server message (chat/system line),done
+e:7e0a4f7a4a61,[Guild] The guild has reached its limit of invitations.,[Gildia] Gildia osiągnęła limit zaproszeń.,[Guilde] La guilde a atteint sa limite d'invitations.,server message (chat/system line),done
+e:5ac623ec7fb2,"The guild is at its highest level, but it will accept your gift.","Gildia jest na maksymalnym poziomie, jednak przyjmie Twój podarunek.","La guilde est à son niveau maximal, mais elle accepte votre don.",server message (chat/system line),done
+e:534e57cff64c,You cannot sell an item you are wearing.,Nie możesz sprzedać założonego przedmiotu.,Vous ne pouvez pas vendre un objet que vous portez.,server message (chat/system line),done
+e:b1bd019f231b,The player you invited is busy right now.,Zaproszony gracz jest w tym momencie zajęty.,Le joueur invité est occupé.,server message (chat/system line),done
+e:b07842a8d9a3,Wait another %s before your next training.,Odczekaj jeszcze %s przed kolejnym szkoleniem.,Attendez encore %s avant votre prochain entraînement.,server message (chat/system line) | keep: %s,done
+e:2c0e32f9e0d7,%d days %d hours,%d dni %d godzin,%d jours %d heures,server message (chat/system line) | keep: %d %d,done
+e:3d7c47f9c450,%d days %d hours and %d minutes,%d dni %d godzin i %d minut,%d jours %d heures et %d minutes,server message (chat/system line) | keep: %d %d %d,done
+e:57ddaf0b0c24,%d hours and %d minutes,%d godzin i %d minut,%d heures et %d minutes,server message (chat/system line) | keep: %d %d,done
+e:25a8c03b57e8,%d minutes,%d minut,%d minutes,server message (chat/system line) | keep: %d,check
+e:7452f54afc21,An ominous rustling fills the forest... the Ghost Tree Lord wakes from his sleep!,W lesie słychać złowieszczy szum... Władca Duchów Drzew budzi się ze snu!,Un bruissement inquiétant emplit la forêt... le Seigneur de l'arbre fantôme s'éveille !,server message (chat/system line),done
+e:e84ed88a8bcd,The Red Forest hides many secrets you never knew of.,"Czerwony Las skrywa wiele sekretów, o których nie wiedzieliście.",La Forêt rouge cache bien des secrets que vous ignoriez.,server message (chat/system line),done
+e:e525e132fe85,"Death is not the end, but rather the beginning of a new path.","Śmierć nie jest końcem, a raczej początkiem nowej drogi.","La mort n'est pas la fin, mais le début d'un nouveau chemin.",server message (chat/system line),done
+e:681d431ee686,Something is left that I must set right... something that should never have happened.,"Zostało coś, co muszę naprawić... coś, co nigdy nie powinno się wydarzyć.",Il reste une chose que je dois réparer... une chose qui n'aurait jamais dû arriver.,server message (chat/system line),done
+e:347346289117,"It was not me... but they chose you. We will meet again, sooner than you think.","To nie ja... ale oni cię wybrali. Zobaczymy się ponownie, szybciej, niż myślicie.","Ce n'était pas moi... mais ils vous ont choisi. Nous nous reverrons, plus tôt que vous ne le pensez.",server message (chat/system line),done
+e:7a617e7f050a,Me show you not to bother me!,"Ja ci pokazać, że mi nie przeszkadzać!",Moi vous montrer de pas me déranger !,server message (chat/system line),done
+e:2350c8bcf200,You cannot fish here.,Nie możesz tutaj łowić.,Vous ne pouvez pas pêcher ici.,server message (chat/system line),done
+e:d5e2c912c439,You cannot sell items you have equipped.,"Nie możesz sprzedać przedmiotów, które nosisz.",Vous ne pouvez pas vendre les objets équipés.,server message (chat/system line),done
+e:ad62b5545443,%s[%d]s Attack Position: %d %d,%s[%d]s Attack Position: %d %d,Position d'attaque de %s[%d] : %d %d,server message (chat/system line) | keep: %s %d %d %d,done
+e:6262b2014ffb,You cannot ride while falling.,"Nie możesz jeździć konno, gdy jesteś powalony.",Vous ne pouvez pas monter à cheval pendant une chute.,server message (chat/system line),done
+e:01962794ab7b,Charged for %d seconds,Naładowany na %d sekund.,Chargé pendant %d secondes,server message (chat/system line) | keep: %d,done
+e:e58aae885250,+3 spirit stones can not be upgraded by this item.,Kamienie Duszy +3 nie mogą być ulepszone tym przedmiotem.,Les pierres spirituelles +3 ne peuvent pas être améliorées avec cet objet.,server message (chat/system line),done
+e:269f6ecb83b5,You cannot open a warehouse in this area.,Nie możesz tutaj otworzyć depozytu.,Vous ne pouvez pas ouvrir d'entrepôt dans cette zone.,server message (chat/system line),done
+e:8630555b78fa,Not available.,Niedostępne.,Non disponible.,server message (chat/system line),done
+e:84b8eb55c0be,The item will disappear in %d minutes.,Przedmiot zniknie za %d minut.,L'objet disparaîtra dans %d minutes.,server message (chat/system line) | keep: %d,done
+e:6f3c4014927c,You cannot wear Tuxido on a horse.,Nie możesz nosić Smokingu na koniu.,Vous ne pouvez pas porter de smoking à cheval.,server message (chat/system line),done
+e:6849ba074b2e,This item cannot be used on accesories.,Przedmiot nie może być użyty na akcesoriach.,Cet objet ne peut pas être utilisé sur les bijoux.,server message (chat/system line),done
+e:db4bb1e3997b,You cannot read books while transformed.,Nie możesz czytać ksiąg będąć przemieniony.,Vous ne pouvez pas lire de livres pendant que vous êtes transformé.,server message (chat/system line),done
+e:05e8acc7c07a,No metin stone to take out.,Brak kamienia do wyjęcia.,Aucune pierre Metin à retirer.,server message (chat/system line),done
+e:fbbf75f1c08c,Your rank cannot raise any more.,Twoja ranga nie może już wzrosnąć.,Votre rang ne peut plus augmenter.,server message (chat/system line),done
+e:1b8746f005ac,You can only drop gold once in every 10 seconds.,Możesz wyrzucić Yang co 10 sekund.,Vous ne pouvez jeter du Yang que toutes les 10 secondes.,server message (chat/system line),done
+e:968b529896d2,You can only drop item once in every %d seconds.,Możesz wyrzucić przedmioty co %d sekund.,Vous ne pouvez jeter un objet que toutes les %d secondes.,server message (chat/system line) | keep: %d,done
+e:b1c5cdab8178,You cannot use it now.,Nie możesz tego teraz użyć.,Vous ne pouvez pas l'utiliser maintenant.,server message (chat/system line),done
+e:2cde871a9027,The spirit stone can not be advanced by this item.,Kamień Duszy nie może być ulepszony tym przedmiotem.,La pierre spirituelle ne peut pas être améliorée avec cet objet.,server message (chat/system line),done
+e:db027c77e2a2,You cannot upgrade this item.,Nie możesz ulepszyć tego przedmiotu.,Vous ne pouvez pas améliorer cet objet.,server message (chat/system line),done
+e:875611b4dd38,This item can only be used on weapons or armor up to level 40.,Przedmiot może być użyty tylko na bronie i zbroje do 40 poziomu.,Cet objet ne peut être utilisé que sur les armes ou armures jusqu'au niveau 40.,server message (chat/system line),done
+e:b117f7df73aa,Test server time limit passed,Test server time limit passed,Limite de temps du serveur de test dépassée,server message (chat/system line),done
+e:0031f72e6fc2,Your inventory is full.,Twój ekwipunek jest pełny.,Votre inventaire est plein.,server message (chat/system line),done
+e:7c5e9ad22bb8,%s rolled dice and got %d. (%d-%d),%s rzucił kostką i uzyskał %d. (%d-%d),%s a lancé les dés et obtenu %d. (%d-%d),server message (chat/system line) | keep: %s %d %d %d,done
+e:3698c00feb29,You rolled dice and got %d. (%d-%d),Rzuciłeś kostką i uzyskałeś %d. (%d-%d),Vous avez lancé les dés et obtenu %d. (%d-%d),server message (chat/system line) | keep: %d %d %d,done
+e:154cc01ca837,Lack of Taxes. Current Capital : %u Needed Capital : %u,Brak podatków. Bieżący kapitał: %u Potrzebny kapitał: %u,Taxes insuffisantes. Capital actuel : %u Capital nécessaire : %u,server message (chat/system line) | keep: %u %u,done
+e:8de10cd2c8bb,You can use this skill only in your land.,Możesz użyć tej umiejętności tylko w swoim Królestwie.,Vous ne pouvez utiliser cette compétence que sur vos terres.,server message (chat/system line),done
+e:e02787d4f299,Failed to craft.,Nie udało się wytworzyć.,La fabrication a échoué.,server message (chat/system line),done
+e:0eab636a4396,You managed to defeat the dragon in %d seconds!,Udało ci się pokonać smoka w %d sekund!,Vous avez vaincu le dragon en %d secondes !,server message (chat/system line) | keep: %d,done
+e:9f7a71a3b4d5,<Guild> The Guild is at war.,[Gildia] Gildia jest w trakcie wojny.,<Guilde> La guilde est en guerre.,server message (chat/system line),done
+e:ec8ee40d1fb3,"<Guild> %d Skills used (%d, %d) to %u","<Guild> %d Skills used (%d, %d) to %u","<Guilde> %d compétences utilisées (%d, %d) sur %u",server message (chat/system line) | keep: %d %d %d %u,done
+e:85687c2f4262,<Guild> %u Dragon ghost restored.,[Gildia] Zregenerowano %u Ducha Smoka.,<Guilde> %u d'esprit du dragon restauré.,server message (chat/system line) | keep: %u,done
+e:ee0d8f791ebb,<Guild> The Guild has already reached maximum level.,[Gildia] Gildia osiągnęła maksymalny poziom.,<Guilde> La guilde a déjà atteint le niveau maximal.,server message (chat/system line),done
+e:f7b0883c66b1,"<Guild> During a guild war, you cannot kick out other guild members.",[Gildia] W trakcie wojny gildii nie możesz usunąć członka gildii.,"<Guilde> Pendant une guerre de guilde, vous ne pouvez pas exclure d'autres membres.",server message (chat/system line),done
+e:b0e5a4ecddee,<Storage> Cannot move items in safebox.,[Magazyn] Nie możesz przenosić przedmiotów w magazynie.,<Entrepôt> Impossible de déplacer les objets dans l'entrepôt.,server message (chat/system line),done
+e:36d1749fbe25,Time remaining %d seconds.,Pozostały czas %d sekund.,Temps restant %d secondes.,server message (chat/system line) | keep: %d,done
+e:2e1bc6453cbc,The recipient cannot receive friend invitation.,Odbiorca nie może otrzymać zaproszenia do znajomych.,Le destinataire ne peut pas recevoir d'invitation d'ami.,server message (chat/system line),done
+e:21b529c2796b,%s is connected on %d channel. (current channel:%d),%s jest połączony na kanale %d. (bieżący kanał: %d),%s est connecté sur le canal %d. (Canal actuel : %d),server message (chat/system line) | keep: %s %d %d,done
+e:973155fb7a05,%s is near you.,%s jest blisko Ciebie.,%s est près de vous.,server message (chat/system line) | keep: %s,done
+e:04d7d046c0a0,Summon request has been sent.,Prośba o wezwanie została wysłana.,La demande d'invocation a été envoyée.,server message (chat/system line),done
+e:9cd351b342cc,You cannot sell items you are already equipped.,Nie możesz sprzedawać noszonych przedmiotów.,Vous ne pouvez pas vendre des objets que vous avez déjà équipés.,server message (chat/system line),done
+e:adf09305fd85,Items you are using cannot be sold in your personal shop.,"Przedmiotów, których używasz, nie można sprzedać w Twoim sklepie osobistym.",Les objets que vous utilisez ne peuvent pas être vendus dans votre étal privé.,server message (chat/system line),done
+e:6aa7c47d2ba9,The Dragon Soul Stone box is not activated.,Skrzynia z Kamieniami Duszy Smoka nie jest aktywowana.,Le coffre de pierres du dragon n'est pas activé.,server message (chat/system line),done
+e:31988f8b56b6,"The detector was activated, but no spirit stones were detected.","Detektor został uruchomiony, ale nie wykryto żadnych kamieni duszy.","Le détecteur a été activé, mais aucune pierre spirituelle n'a été détectée.",server message (chat/system line),done
+e:ce550abdaa92,Cannot charge.,Nie można ładować.,Impossible de charger.,server message (chat/system line),done
+e:9c3e902477ed,You cannot summon to that area.,Nie możesz przywołać do tego obszaru.,Vous ne pouvez pas invoquer dans cette zone.,server message (chat/system line),done
+e:1353c1760dd2,<Guild> New membership is currently restricted.,[Gildia] Nowi członkowie są obecnie ograniczeni.,<Guilde> Les nouvelles adhésions sont actuellement limitées.,server message (chat/system line),done
+e:7a47d71aff67,There may be forced battles on this map.,Na tej mapie mogą odbywać się wymuszone bitwy.,Des combats forcés peuvent avoir lieu sur cette carte.,server message (chat/system line),done
+e:acac9572b2c3,If you do not agree to these terms,Jeżeli nie zgadzasz się z niniejszymi warunkami,Si vous n'acceptez pas ces conditions,server message (chat/system line),done
+e:fd267c751700,Please return to your original state and original location.,Prosimy o powrót do pierwotnej lokalizacji.,Revenez à votre état et à votre emplacement d'origine.,server message (chat/system line),done
+e:bc621c8c5acb,<Party> The party cannot be disbanded because there are party members inside the dungeon.,"[Grupa] Drużyny nie można rozwiązać, ponieważ w lochu znajdują się członkowie drużyny.",<Groupe> Le groupe ne peut pas être dissous car des membres sont dans le donjon.,server message (chat/system line),done
+e:51a2bba53d4e,You cannot move to that area.,Nie możesz przenieść się do tego obszaru.,Vous ne pouvez pas aller dans cette zone.,server message (chat/system line),done
+e:9188b26803c2,The server will be closed in 10 minutes due to the maintenance.,Serwer zostanie zamknięty za 10 minut z powodu prac konserwacyjnych.,Le serveur fermera dans 10 minutes pour maintenance.,server message (chat/system line),done
+e:a7acae0bd3fb,This feature is not available for the time being.,Funkcja tymczasowo niedostępna.,Cette fonction est momentanément indisponible.,server message (chat/system line),done
+e:1ab9d99aa977,You have no shop on this channel. (Found on channel %d.),Nie masz sklepu na tym kanale. (Znaleziono na kanale %d).,Vous n'avez pas d'étal sur ce canal. (Trouvé sur le canal %d.),server message (chat/system line) | keep: %d,done
+e:381263307aa3,You have no shop on this map.,Nie masz sklepu na tej mapie.,Vous n'avez pas d'étal sur cette carte.,server message (chat/system line),done
+e:b48c016ab5f3,You don't have an open shop.,Nie posiadasz otwartego sklepu.,Vous n'avez pas d'étal ouvert.,server message (chat/system line),done
+e:26057bde6dbb,Your shop's position is marked with an arrow.,Pozycja sklepu została oznaczona strzałką.,La position de votre étal est indiquée par une flèche.,server message (chat/system line),done
+e:0551e7648681,"You already have an open shop, or your shop's deposit holds items.",Posiadasz otwarty sklep lub depozyt sklepu zawiera przedmioty.,"Vous avez déjà un étal ouvert, ou le dépôt de votre étal contient des objets.",server message (chat/system line),done
+e:e761e8f8134f,You don't meet the requirements to open your own shop.,Nie spełniasz wymagań do otwarcia własnego sklepu.,Vous ne remplissez pas les conditions pour ouvrir votre propre étal.,server message (chat/system line),done
+e:c0136965b470,You cannot use this item if you're using quests,Nie możesz użyć tego przedmiotu kiedy okno misji jest aktywne.,Vous ne pouvez pas utiliser cet objet pendant une quête,server message (chat/system line),done
+e:6eb8ab072e83,Wait a moment after a trade.,Odczekaj chwilę po zakończeniu handlu.,Attendez un moment après un échange.,server message (chat/system line),done
+e:41b1f4a41bf8,You cannot continue while another window is open.,Nie możesz kontynuować kiedy inne okno jest aktywne.,Vous ne pouvez pas continuer tant qu'une autre fenêtre est ouverte.,server message (chat/system line),done
+e:cec59a1ce7c8,You cannot perform this operation right now.,Nie możesz teraz wykonać tej operacji.,Vous ne pouvez pas effectuer cette opération maintenant.,server message (chat/system line),done
+e:28bf2d47cf30,You need a minimum level of %d to buy this item.,Musisz mieć co najmniej %d poziom aby kupić ten przedmiot.,Il vous faut au moins le niveau %d pour acheter cet objet.,server message (chat/system line) | keep: %d,done
+e:f6f413714164,You need certain items to buy this item.,Nie posiadasz wymaganych przedmiotów do zakupu.,Il vous faut certains objets pour acheter cet objet.,server message (chat/system line),done
+e:2d5f92ad9c94,Not enough inventory space.,Brak miejsca w ekwipunku.,Pas assez de place dans l'inventaire.,server message (chat/system line),done
+e:dd755bab916e,This purchase needs more reputation.,Zakup wymaga odpowiedniej reputacji.,Cet achat nécessite plus de réputation.,server message (chat/system line),done
+e:c845dd780f60,Wait another %s before buying.,Odczekaj jeszcze %s przed zakupem.,Attendez encore %s avant d'acheter.,server message (chat/system line) | keep: %s,done
+e:6a0e466231cf,This account has bought this item as many times as it may.,Osiągnięto maksymalną ilość zakupów tego przedmiotu na tym koncie.,Ce compte a acheté cet objet autant de fois que permis.,server message (chat/system line),done
+e:35bca90112ec,You don't have enough reputation.,Nie posiadasz wystarczająco dużo reputacji.,Vous n'avez pas assez de réputation.,server message (chat/system line),done
+e:43ac1b237895,You need a target.,Musisz posiadać cel.,Il vous faut une cible.,server message (chat/system line),done
+e:f09a1f941fbf,This cannot be used on another player.,Nie można użyć na innym graczu.,Ceci ne peut pas être utilisé sur un autre joueur.,server message (chat/system line),done
+e:861a3ca7b9f7,The poison can only be used on the Giant Tortoise.,Trucizna może zostać użyta tylko na Olbrzymim Żółwiu.,Le poison ne peut être utilisé que sur la Tortue géante.,server message (chat/system line),done
+e:c020dfcb3599,You received %d reputation (Sons of the Desert),Otrzymałeś %d reputacji (Synowie Pustyni),Vous avez reçu %d de réputation (Fils du désert),server message (chat/system line) | keep: %d,done
+e:f9fe52a927ff,You received %d reputation (Royal Guard),Otrzymałeś %d reputacji (Królewska Gwardia),Vous avez reçu %d de réputation (Garde royale),server message (chat/system line) | keep: %d,done
+e:ccd15e466435,Wait %d seconds before using this item.,Zaczekaj %d sekund przed użyciem tego przedmiotu.,Attendez %d secondes avant d'utiliser cet objet.,server message (chat/system line) | keep: %d,done
+e:174c2f43b650,You can use the White Flag every %d minutes.,Możesz używać Białej Flagi co %d minut.,Vous pouvez utiliser le Drapeau blanc toutes les %d minutes.,server message (chat/system line) | keep: %d,done
+e:55079d12d1a1,You cannot teleport right now.,Nie możesz się teraz teleportować.,Vous ne pouvez pas vous téléporter maintenant.,server message (chat/system line),done
+e:43297833ad01,Your character is dead and cannot do that.,"Twoja postać nie żyje, nie możesz tego zrobić.",Votre personnage est mort et ne peut pas faire cela.,server message (chat/system line),done
+e:f556e90db524,[Guild] You cannot use guild skills outside the guild war arena.,[Gildia] Nie możesz użyć umiejętności gildyjnych poza areną.,[Guilde] Vous ne pouvez pas utiliser les compétences de guilde hors de l'arène de guerre.,server message (chat/system line),done
+e:495cdc946590,The war between %s and %s will start after %d minutes!,Wojna pomiędzy %s a %s zacznie się za %d minut!,La guerre entre %s et %s commencera dans %d minutes !,server message (chat/system line) | keep: %s %s %d,done
+e:93a051d6ea8e,"Your group consists of each class, which you will recieve an experience bonus.","Twoja grupa składa się z każdej klasy, dzięki czemu otrzymujesz bonus doświadczenia.","Votre groupe compte toutes les classes, vous recevez donc un bonus d'expérience.",server message (chat/system line),done
+e:665fd7cded76,You need room for atleast 3 slot item to open the box.,"Potrzebujesz miejsca na minimum 3 slotowy przedmiot, aby otworzyć skrzynie.",Il vous faut de la place pour au moins un objet de 3 cases pour ouvrir le coffre.,server message (chat/system line),done
+e:fbdebd06e40e,In 5 minutes the spots will be reset automatically!,Za 5 min zostanie wykonany automatyczny reset spotów!,"Dans 5 minutes, les emplacements seront réinitialisés automatiquement !",server message (chat/system line),done
+e:7e37473f7c84,All monsters on the maps have been killed!,Wszystkie potwory na mapach zostały zabite!,Tous les monstres des cartes ont été tués !,server message (chat/system line),done
+e:b8f5ec495149,The shop's offer has changed.,Oferta sklepu zmieniła się.,L'offre de l'étal a changé.,server message (chat/system line),done
+e:6aa86744cc11,You cannot pickup this item if you're using quests,Nie możesz podności przedmiotów jeżeli jesteś w oknie misji.,Vous ne pouvez pas ramasser cet objet pendant une quête,server message (chat/system line),done
+e:5053d4ec0751,You cannot pickup item while busy.,Nie możesz teraz podnosić przedmiotów.,Vous ne pouvez pas ramasser d'objet quand vous êtes occupé.,server message (chat/system line),done
+e:51c75643ce7f,You cannot open this shop. Collect all its items first.,Nie możesz otworzyć tego sklepu. Odbierz wszystkie przedmioty.,Vous ne pouvez pas ouvrir cet étal. Récupérez d'abord tous ses objets.,server message (chat/system line),done
+e:1a53a990a010,You cannot open an empty shop.,Nie możesz otworzyć pustego sklepu.,Vous ne pouvez pas ouvrir un étal vide.,server message (chat/system line),done
+e:a06db5015cf1,The shop's management window must be open.,Okno zarządzania sklepem musi być otwarte.,La fenêtre de gestion de l'étal doit être ouverte.,server message (chat/system line),done
+e:f60a72f6f5f6,The shop is closed.,Sklep jest zamknięty.,L'étal est fermé.,server message (chat/system line),done
+e:e9e7501e57ca,An item error occurred while opening the shop.,Bład przedmiotu przy próbie otwarcia sklepu.,Une erreur d'objet s'est produite à l'ouverture de l'étal.,server message (chat/system line),done
+e:a4085e0bcee9,One of the items is in a place it is not allowed.,Jeden z przedmiotów znajduje się na niedozwolonej pozycji.,L'un des objets se trouve à un emplacement non autorisé.,server message (chat/system line),done
+e:46c579ea71ca,One of the items has a price that is not allowed (%s).,Jeden z przedmiotów posiada niedozwoloną cenę (%s).,L'un des objets a un prix non autorisé (%s).,server message (chat/system line) | keep: %s,done
+e:f65cf4607daf,You need a Bundle to open a shop.,Aby otworzyć sklep potrzebujesz Tobół.,Il vous faut un Baluchon pour ouvrir un étal.,server message (chat/system line),done
+e:b31951bc32d0,You can't advance this skill further. Use Skill Reset Scroll or Band of Oblivion.,Nie możesz dalej rozwijać tej umiejętności. Użyj Zwoju Powrotu Um. lub Księgi Zapomnienia.,Vous ne pouvez pas monter cette compétence davantage. Utilisez un parchemin de réinitialisation ou le Bandeau de l'oubli.,server message (chat/system line),done
+e:53ccb775797f,You have to wait few seconds before changing channel.,Musisz odczekać kilka sekund zanim zmienisz kanał.,Vous devez attendre quelques secondes avant de changer de canal.,server message (chat/system line),done
+e:acf1f87049ea,You cannot warp to this person.,Nie możesz przenieść się do tej osoby.,Vous ne pouvez pas vous téléporter vers cette personne.,server message (chat/system line),done
+e:10b9da3caa5a,The elixir is empty. Have it refilled by the Alchemist.,Eliksir jest pusty. Napełnij go u Alchemika.,L'élixir est vide. Faites-le remplir par l'alchimiste.,server message (chat/system line),done
+e:0d7ec7ab2445,You won the duel with %d/%d (%d%%) HP!,Wygrałeś pojedynek z %d/%d (%d%%) PŻ!,Vous avez gagné le duel avec %d/%d (%d%%) PV !,server message (chat/system line) | keep: %d %d %d,done
+e:856e5c9f6f81,No player of that name was found.,Nie znaleziono gracza o podanej nazwie.,Aucun joueur de ce nom n'a été trouvé.,server message (chat/system line),done
+e:62526436a7e0,You cannot block yourself.,Nie możesz zablokować samego siebie.,Vous ne pouvez pas vous bloquer vous-même.,server message (chat/system line),done
+e:d8de0de5981e,This person is on your friends list.,Podana osoba jest na liście Twoich przyjaciół.,Cette personne est dans votre liste d'amis.,server message (chat/system line),done
+e:49eff7a6f4a2,You cannot add a blocked person to your friends.,Nie możesz zaprosić do przyjaciół zablokowanej osoby.,Vous ne pouvez pas ajouter une personne bloquée à vos amis.,server message (chat/system line),done
+e:084d2aca1f55,You cannot block more than %d people.,Nie możesz zablokować więcej niż %d osób.,Vous ne pouvez pas bloquer plus de %d personnes.,server message (chat/system line) | keep: %d,done
+e:97a154ed4a2c,You cannot have more than %d friends.,Nie możesz mieć więcej niż %d przyjaciół.,Vous ne pouvez pas avoir plus de %d amis.,server message (chat/system line) | keep: %d,done
+e:3461298cae92,Player %s has been added to your block list.,Gracz %s został dodany do listy zablokowanych.,Le joueur %s a été ajouté à votre liste de blocage.,server message (chat/system line) | keep: %s,done
+e:549f66b7044f,Player %s has been removed from your block list.,Gracz %s został usunięty z listy zablokowanych.,Le joueur %s a été retiré de votre liste de blocage.,server message (chat/system line) | keep: %s,done
+e:2d026ff61576,The shop was recently edited by the owner. Please wait a while.,Sklep został niedawno edytowany przez właściciela. Odczekaj chwilę przed zakupem.,L'étal vient d'être modifié par son propriétaire. Patientez un peu.,server message (chat/system line),done
+e:e96ac95a4ce8,You have to wait %d minutes to use this option again.,Musisz odczekać %d min. przed ponownym użyciem tej opcji.,Vous devez attendre %d minutes pour réutiliser cette option.,server message (chat/system line) | keep: %d,done
+e:2a7298d24b91,You have to wait a while after combat before using this option.,Musisz odczekać chwilę po walce przed użyciem tej opcji.,"Après un combat, vous devez attendre un peu avant d'utiliser cette option.",server message (chat/system line),done
+e:7dd288dd49db,You have successfully freed yourself.,Uwolniłeś się!,Vous vous êtes libéré avec succès.,server message (chat/system line),done
+e:337d9abc4147,You are not stuck.,Nie jesteś zablokowany.,Vous n'êtes pas coincé.,server message (chat/system line),done
+e:e45191213b34,Searching was stopped. Found above %d shops with specified item.,Wyszukiwanie zatrzymane. Znaleziono ponad %d sklepów z podanym przedmiotem.,Recherche arrêtée. Plus de %d étals avec l'objet indiqué trouvés.,server message (chat/system line) | keep: %d,done
+e:20499e166bc0,Searching ended. Found %d shops.,Wyszukiwanie zakończone. Znaleziono %d sklepów.,Recherche terminée. %d étals trouvés.,server message (chat/system line) | keep: %d,done
+e:8448e1d33d6a,Wait %s before using the scroll again.,Zaczekaj %s zanim ponownie użyjesz zwoju.,Attendez %s avant de réutiliser le parchemin.,server message (chat/system line) | keep: %s,done
+e:004cb77c3e21,You are already friends with %s.,Jesteś już przyjacielem gracza %s.,Vous êtes déjà ami avec %s.,server message (chat/system line) | keep: %s,done
+e:677aa3a772af,<Party> The party leader is inside a dungeon.,<Grupa> Lider grupy jest w lochu.,<Groupe> Le chef de groupe est dans un donjon.,server message (chat/system line),done
+e:230224fde27b,<Party> The party can't invite people if members are inside a dungeon.,<Grupa> Grupa nie może przyjmować innych kiedy członkowe są w lochu.,<Groupe> Le groupe ne peut inviter personne si des membres sont dans un donjon.,server message (chat/system line),done
+e:e18616e447cf,You cannot change PvP mode on war.,Nie możesz zmienić trybu PvP na wojnie.,Vous ne pouvez pas changer de mode JcJ en guerre.,server message (chat/system line),done
+e:4ece7d11c903,Remaining time: %.2f,Pozostały czas: %.2f sek.,Temps restant : %.2f,server message (chat/system line) | keep: %.2f,done
+e:df5465127c50,Remaining time: %.1f,Pozostały czas: %.1f sek.,Temps restant : %.1f,server message (chat/system line) | keep: %.1f,done
+e:a4ee08820871,Wedding is still ongoing!,Wesele dalej trwa!,Le mariage est toujours en cours !,server message (chat/system line),done
+e:0a23428c37b0,One of the wedding quests is not ready to leave the wedding.,Jeden z uczestników wesela jest zajęty lub niedawno zakończył handel.,Une des quêtes du mariage n'est pas prête à quitter le mariage.,server message (chat/system line),done
+e:261d3d21013e,Please wait a moment. Leaving the map.,Zaczekaj chwilę. Trwa wyjście z mapy.,Patientez un instant. Sortie de la carte.,server message (chat/system line),done
+e:b0737ed3feb5,Exit map was interrupted.,Wyjście z mapy zostało przerwane.,La sortie de la carte a été interrompue.,server message (chat/system line),done
+e:f0d4adc0bbaa,%d seconds till map exit.,%d sekund do wyjścia z mapy.,%d secondes avant de quitter la carte.,server message (chat/system line) | keep: %d,done
+e:fd06f927b2b5,You have to wait few seconds before exiting the map.,Musisz odczekać kilka sekund zanim wyjdziesz z mapy.,Vous devez attendre quelques secondes avant de quitter la carte.,server message (chat/system line),done
+e:598b7802cea0,You cannot do that on special channel.,Nie możesz tego zrobić na kanale specjalnym.,Vous ne pouvez pas faire cela sur un canal spécial.,server message (chat/system line),done
+e:c605caa9d3e1,You must wear a wedding dress to equip a bouquet.,"Musisz nosić suknie ślubną, aby założyć bukiet.",Vous devez porter une robe de mariée pour équiper un bouquet.,server message (chat/system line),done
+e:8623537ab4e4,You must unequip bouquet first.,Musisz zdjąć bukiet.,Vous devez d'abord retirer le bouquet.,server message (chat/system line),done
+e:a6502611f6aa,Summon your horse to get access to horse inventory.,"Przywołaj konia, aby uzyskać dostęp do przedmiotów w jukach konnych.",Appelez votre cheval pour accéder à son inventaire.,server message (chat/system line),done
+e:336f63c294f3,You cannot add items from horse inventory to normal shop.,Nie możesz włożyć przedmiotów z juków konnych do zwykłego sklepu.,Vous ne pouvez pas ajouter d'objets de l'inventaire du cheval à un étal normal.,server message (chat/system line),done
+e:96851e64133f,Affects are not loaded yet!,"Nie możesz teraz nadać efektu, zaczekaj chwilę.",Les effets ne sont pas encore chargés !,server message (chat/system line),done
+e:baa14e2cd61b,This feature is temporarily unavailable.,Ta opcja jest tymczasowo niedostępna.,Cette fonction est temporairement indisponible.,server message (chat/system line),done
+e:a1a211aa9050,The shop is not in edit mode.,Sklep nie jest w trybie edycji.,L'étal n'est pas en mode édition.,server message (chat/system line),done
+e:c072b23fd9ce,The shop is in edit mode.,Sklep jest w trybie edycji.,L'étal est en mode édition.,server message (chat/system line),done
+e:d713b629aeee,The shop is open.,Sklep jest otwarty.,L'étal est ouvert.,server message (chat/system line),done
+e:50368b8269c4,Item price edited successfully.,Cena przedmiotu została zmieniona.,Le prix de l'objet a été modifié avec succès.,server message (chat/system line),done

@@ -1,0 +1,701 @@
+id,english,polski,translation,notes,status
+c:locale_game:AFF_LOVE_POINT,Love points: %d%%,Punkty Miłosne: %d%%,Sevgi puanı: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:ALIGNMENT_NAME,Rank points:,Punkty Rangi:,Rütbe Puanı:,client: game texts (localeInfo),done
+c:locale_game:ATTACK_ERROR_UNKNOWN,Unknown attack error: %s,Nieznany błąd podczas ataku: %s,Bilinmeyen Saldırı Hatası: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CANNOT_ATTACK_DEST_IN_SAFE,The combatant is too far away.,Przeciwnik jest za daleko.,Savaşan kişi çok uzakta.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_ATTACK_SELF_IN_SAFE,I cannot attack my opponent from here.,Nie mogę zaatakować.,Saldıramıyorum.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_EQUIP_IN_EXCHANGE,You cannot change your equipment whilst trading.,Nie możesz zmienić zbroi podczas handlu.,Ticaret yaparken ekipman değiştiremezsiniz.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_EQUIP_IN_SHOP,You cannot change your equipment whilst trading.,Nie możesz zmienić zbroi podczas handlu.,Ticaret yaparken ekipman değiştiremezsiniz.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_OPEN_PRIVATE_SHOP_IN_SAFE_AREA,You cannot open a private shop in a public area.,Nie możesz otworzyć Prywatnego Magazynu w miejscu publicznym.,Genel alanda özel depo açamazsın.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SHOOT_DEST_IN_SAFE,The enemy is too far away.,Wróg jest za daleko.,Düşman çok uzakta.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SHOOT_EMPTY_ARROW,I need an arrow.,Potrzebuję Strzały.,Bir oka ihtiyacım var.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SHOOT_SELF_IN_SAFE,I cannot attack my opponent from here. ,Nie mogę tego zrobić.,Bunu yapamam.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_APPROACH,I am sure that I cannot get any closer.,"Jestem pewny, że nie mogę podejść bliżej.",Eminim daha fazla yaklaşamam.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_ATTACK,I cannot attack that.,Nie mogę zaatakować..,Saldıramıyorum.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_DEST_IN_SAFE,The opponent is too far away.,Wróg jest za daleko.,Düşman çok uzakta.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_EQUIP_FISHING_ROD,I need a Fishing Pole.,Potrzebuję Wędki.,Bir çubuğa ihtiyacım var.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_HAVE_TO_RIDE,I need a Horse to be able to use this. ,"Najpierw potrzebuję Konia, zanim użyję tego.",Bunu kullanmadan önce bir ata ihtiyacım var.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NEED_EMPTY_BOTTLE,I do not have an empty bottle.,Nie mam Pustej Butelki.,Boş şişem yok.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NEED_POISON_BOTTLE,I do not have a Poison Bottle.,Nie mam Butelki Z Trucizną.,Zehirli şişem yok.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NEED_TARGET,Who is the target?,Kto jest celem?,Hedef kim?,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_ENOUGH_HP,I do not have enough HP!,Nie mam wystarczającej ilości PŻ!,Yeterli HP yok!,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_ENOUGH_SP,I do not have enough SP!,Nie mam wystarczającej ilości PE!,Yeterli SP yok!,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_HORSE_SKILL,I cannot use this whilst riding.,Nie mogę tego użyć podczas jazdy konnej.,Bunu sürerken kullanamam.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_MATCHABLE_WEAPON,I cannot use this skill with this weapon.,Nie mogę użyć tej Umiejętności używając tej broni,Bu yeteneği bu silahla kullanamam.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_NOT_YET_LEARN,I have not learned this skill.,Nie opanowałem tej umiejętności.,Bu beceriyi öğrenmedim.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_ONLY_FOR_ALLIANCE,This only affects group members.,To działa tylko na członków grupy.,Bu yalnızca grup üyelerini etkiler.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_ONLY_FOR_CORPSE,This only affects dead people.,To działa tylko na martwych ludzi.,Bu sadece ölüleri etkiler.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_REMOVE_FISHING_ROD,I cannot use this skill with a Fishing Pole.,Nie mogę użyć tej umiejętności z Wędką.,Bu beceriyi bir çubukla kullanamam.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_SELF_IN_SAFE,I cannot attack from here.,Nie mogę zaatakować z tego miejsca.,Buradan saldıramam.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_USE_SELF,I cannot use this on myself.,Nie mogę tego użyć na sobie.,Bunu kendimde kullanamam.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_SKILL_WAIT_COOLTIME,I cannot use this skill yet.,Nie mogę jeszcze użyć tej Umiejętności.,Bu beceriyi henüz kullanamıyorum.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_USE,You cannot use this.,Nie możesz go użyć.,Onu kullanamazsın.,client: game texts (localeInfo),done
+c:locale_game:CANNOT_WHISPER_DEST_REFUSE,%s has blocked whispering.,%s zablokował szeptanie całkowicie.,%s fısıldamayı blokladı.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CANNOT_WHISPER_NOT_LOGON,%s is not online.,%s nie jest zalogowany.,%s bağlı değil.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:CANNOT_WHISPER_SELF_REFUSE,You cannot whisper something to someone when you have completely blocked whispering. ,Nie możesz szeptać do nikogo gdy szeptanie jest całkowicie zablokowane.,Fısıldamayı blokladığında birine birşey fısıldayamazsın.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL,Channel,Kanał,Kanal,client: game texts (localeInfo),done
+c:locale_game:CHANNELING_CANNOT_LOGOUT,You cannot go back to the login screen.,Nie możesz wrócić do okna logowania.,Kaydolma ekranına tekrar dönemezsiniz.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_EMPTY_SERVER,No server,Brak Serwera,Sunucu yok,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_NORMAL,Channel %d,Kanał %d,Kanal %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:CHANNEL_NOTIFY_FULL,This channel is full! Please choose another one.,Ten Kanał jest pełny! Proszę wybrać inny.,Bu kanal dolu! Lütfen başka bir kanal seçiniz.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_NOT_FIND_INFO,No information found via the Channel.,Brak informacji o tym kanale.,Kanal üzerinden herhangi bir bilgiye ulaşılamadı.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_PVP,Free duel,Wolny pojedynek,Serbest düello,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_SELECT_CHANNEL,Choose the channel,Wybierz Kanał,Kanal Seç,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_SELECT_REGION,Choose region.,Wybierz region.,Bölge seç.,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_SELECT_SERVER,Choose server,Wybierz serwer,Sunucu seç,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_TEST_SERVER,Test server,Test server,Sunucuyu test et,client: game texts (localeInfo),done
+c:locale_game:CHANNEL_TEST_SERVER_ADDR,Test %s:%d,Test %s:%d,Test %s:%d,client: game texts (localeInfo) | keep: %s %d,check
+c:locale_game:CHAT_ALL,All,Wszystko,Genel,client: game texts (localeInfo),done
+c:locale_game:CHAT_BLOCK,Block,Blok,Blok,client: game texts (localeInfo),done
+c:locale_game:CHAT_GUILD,Guild,Gildia,Lonca,client: game texts (localeInfo),done
+c:locale_game:CHAT_INFORMATION,Info,Info,Bilgi,client: game texts (localeInfo),done
+c:locale_game:CHAT_INSULT_STRING,This sentence has invalid words in it.,To zdanie zawiera niepoprawne słowa.,Bu cümle yanlış kelimeler içeriyor.,client: game texts (localeInfo),done
+c:locale_game:CHAT_LOG,Show old messages [L],Pokaż stare wiadomości [L],Eski mesajı göster[L],client: game texts (localeInfo),done
+c:locale_game:CHAT_LOG_TITLE,Chat-log,Protokół wiadomości,Sohbet Protokolü,client: game texts (localeInfo),done
+c:locale_game:CHAT_NORMAL,Normal,Normalne,Normal,client: game texts (localeInfo),check
+c:locale_game:CHAT_NOTICE,Announcement,Ogłoszenia,Sunucu,client: game texts (localeInfo),done
+c:locale_game:CHAT_PARTY,Group,Grupa,Grup,client: game texts (localeInfo),done
+c:locale_game:CHAT_SEND_CHAT,Send chat,Wyślij wiadomość,Sohbet yolla,client: game texts (localeInfo),done
+c:locale_game:CHAT_SEND_MEMO,Send whisper[Shift+Enter],Wyślij szept [Shift+Enter],Fısıltı gönder[Shift+Enter],client: game texts (localeInfo),done
+c:locale_game:CHAT_SHOUT,Call,Wołaj,Bağırmak,client: game texts (localeInfo),done
+c:locale_game:CHAT_SHOUT_LIMIT,You can only call every 15 seconds.,Możesz wołać tylko co 15 sekund.,15 saniyede bir bağırabilirsiniz.,client: game texts (localeInfo),done
+c:locale_game:CHAT_WHISPER,Whispering,Szeptanie,Fısıldama,client: game texts (localeInfo),done
+c:locale_game:CREATE_ERROR_GM_NAME,You are not allowed to use 'GM' in your character name.,"Nie jesteś upoważniony do użycia ,GM‘ w swojej nazwie postaci.","Karakter isminizde, GM ismini kullanamazsiniz.",client: game texts (localeInfo),done
+c:locale_game:CREATE_ERROR_INSULT_NAME,This name is invalid.,Ta nazwa jest niepoprawna.,Bu isim hatalı.,client: game texts (localeInfo),done
+c:locale_game:CREATE_EXIST_SAME_NAME,Another character already has this name.,Inna postać już ma tą nazwę.,Bu ismi zaten başka bir karakter kullanıyor.,client: game texts (localeInfo),done
+c:locale_game:CREATE_FAILURE,You cannot create the character,Nie możesz stworzyć postaci,Karakteri yaratamazsın.,client: game texts (localeInfo),done
+c:locale_game:CREATE_GM_NAME,GM,GM,GM,client: game texts (localeInfo),done
+c:locale_game:CREATE_INPUT_NAME,Enter the name.,Wybierz nazwę.,İsmi gir.,client: game texts (localeInfo),done
+c:locale_game:CREATE_PLUS_STAT,There are still status points available. ,Nadal pozostały punkty statusu.,Hala statü puanın var. ,client: game texts (localeInfo),done
+c:locale_game:DAY,Days,Dni,gün,client: game texts (localeInfo),done
+c:locale_game:DO_YOU_BUY_ITEM1,Do you want to buy %s for %s?,Czy chcesz kupić %s za %s?,%s için %s satın almak istiyor musunuz?,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:DO_YOU_BUY_ITEM2,Do you want to buy %s %s for %s?,Czy chcesz kupić %s %s za %s?,%s %s için %s satın almak istiyor musunuz?,client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:DO_YOU_DROP_MONEY,Do you want to drop %d Yang?,Czy chcesz upuścić %d Yang?,%d Yang bırakmak istiyor musunuz?,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:DO_YOU_SELL_ITEM1,Do you want to sell %s for %s?,Czy chcesz sprzedać %s za %s?,%s için %s satmak istiyor musunuz?,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:DO_YOU_SELL_ITEM2,Do you want to sell %s %s for %s?,Czy chcesz sprzedać %s %s za %s?,%s %s'i %s karşılığında satmak istiyor musunuz?,client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:DRAGON_SOUL_CANNOT_REFINE,This Dragon Stone cannot be refined.,Nie możesz uszlachetnić tego Smoczego Kamienia.,Bu ejderha taşı arındırılamaz.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_CANNOT_REFINE_MORE,This Dragon Stone has already reached the highest level.,Ten Smoczy Kamień osiągnął już najwyższy poziom.,Bu ejderha taşı en yüksek seviyeye ulaştı bile.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_EQUIP_WARNING1,It is difficult to remove a Dragon Stone once it is attached.,Usunięcie Smoczego Kamienia nie jest prostą sprawą.,Bir ejderha taşını tekrar çıkartmak zor.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_EQUIP_WARNING2,Would you still like to continue?,Chcesz mimo to kontynuować?,Yine de devam etmek istiyor musun?,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_EXPIRED,Expired Dragon Stone,Wygasły Smoczy Kamień,Süresi geçmiş ejderha taşı,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_INVALID_DRAGON_SOUL,That is the wrong Dragon Stone.,To nieprawidłowy Smoczy Kamień.,Yanlış ejderha taşı.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_IS_NOT_DRAGON_SOUL,That is not a Dragon Stone.,To nie jest Smoczy Kamień.,Bu ejderha taşı değil.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_NOT_DRAGON_SOUL_REFINE_STONE,That is not the right Dragon Stone.,To nieprawidłowy Smoczy Kamień.,Bu doğru ejderha taşı değil.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_NOT_ENOUGH_MATERIAL,You do not have enough material to refine.,Nie posiadasz wystarczająco materiału do uszlachetnienia.,Arındırma için yeterli malzemen yok.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_NOT_MATCHED_SLOT,The Dragon Stone does not fit in this slot.,Ten Smoczy Kamień nie pasuje do tego slotu.,Ejderha taşı bu boşluğa sığmıyor.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL1,"Clarity: matt,","Jakość: matowy,","Saflık: mat,",client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL2,"Clarity: clear,","Jakość: przejrzysty,","Saflık: parlak,",client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL3,"Clarity: flawless,","Jakość: bez skazy,","Saflık: tertemiz,",client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL4,"Clarity: brilliant,","Jakość: znakomity,","Saflık: mükemmel,",client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STEP_LEVEL5,"Clarity: excellent,","Jakość: wyborny,","Saflık: kusursuz,",client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_STRENGTH,Level: +%d,Poziom: +%d,Seviye +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:DRAGON_SOUL_UNEQUIP_WARNING1,The Dragon Stone may be destroyed in the process.,Smoczy Kamień może ulec zniszczeniu.,Ejderha taşı kırılabilir.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_UNEQUIP_WARNING2,Would you still like to continue?,Chcesz mimo to kontynuować?,Yine de devam etmek istiyor musun?,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_UNMATCHED_SLOT,That is the wrong slot.,To nieprawidłowy slot.,Bu yanlış boşluk.,client: game texts (localeInfo),done
+c:locale_game:DRAGON_SOUL_UNQUALIFIED,You cannot yet use Dragon Stone alchemy.,Nie możesz jeszcze użyć alchemii Smoczych Kamieni.,Ejderha taşı simyasını henüz kullanamazsın.,client: game texts (localeInfo),done
+c:locale_game:DROP_ITEM_FAILURE_EQUIP_ITEM,You cannot drop equipped items.,Nie możesz upuścić założonych przedmiotów.,Giyilen eşyayı bırakamazsın.,client: game texts (localeInfo),done
+c:locale_game:DROP_ITEM_FAILURE_PRIVATE_SHOP,You cannot drop any items as long as a private shop is open.,Nie możesz upuścić Przedmiotu z ekwipunku jeśli otworzyłeś prywatny Magazyn.,Özel dükkan açtığın sürece nesne düşüremiyorsun.,client: game texts (localeInfo),done
+c:locale_game:DROP_MONEY_FAILURE_1000_OVER,You can drop a maximum of 999 Yang.,Możesz upuścić maksimum 999 Yang.,En fazla 999 Yang bırakabilirsin.,client: game texts (localeInfo),done
+c:locale_game:EMOTION_ANGRY,Aggravating,Denerwować,Can Sıkıcı,client: game texts (localeInfo),done
+c:locale_game:EMOTION_ATTRACTIVE,Seduction,Uwodzić,Baştan Çıkarma,client: game texts (localeInfo),done
+c:locale_game:EMOTION_BANTER,Sneering,Drwić,Küçümseme,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CHEERS_1,Cheers 1,Powitanie 1,Hoşça Kal 1,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CHEERS_2,Cheers 2,Powitanie 2,Hoşça Kal 2,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CHEERUP,Cheer,Rozweselać,Alkış,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CHOOSE_ONE,Choose a target.,Wybierz cel,Bir hedef seç.,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CLAP,Claps,Klaszcz,Alkışlar,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CLAP_KISS,Kiss,Pocałunek,Öpücük,client: game texts (localeInfo),done
+c:locale_game:EMOTION_CONGRATULATION,Approval,Zgoda,Onaylama,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_1,Dance 1,Taniec 1,Dans 1,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_2,Dance 2,Taniec 2,Dans 2,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_3,Dance 3,Taniec 3,Dans 3,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_4,Dance 4,Taniec 4,Dans 4,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_5,Dance 5,Taniec 5,Dans 5,client: game texts (localeInfo),done
+c:locale_game:EMOTION_DANCE_6,Gumsan Style,Gumsan Style,Gumsan Style,client: game texts (localeInfo),check
+c:locale_game:EMOTION_FORGIVE,Forgiveness,Wybaczyć,Affetme,client: game texts (localeInfo),done
+c:locale_game:EMOTION_FRENCH_KISS,French Kiss,Francuski pocałunek,Fransız öpücüğü,client: game texts (localeInfo),done
+c:locale_game:EMOTION_JOY,Joy,Radość,Neşe,client: game texts (localeInfo),done
+c:locale_game:EMOTION_SAD,Sad,Smutek,Üzgün,client: game texts (localeInfo),done
+c:locale_game:EMOTION_SHY,Rejection,Odmowa,Reddetme,client: game texts (localeInfo),done
+c:locale_game:EMOTION_SLAP,Hit,Uderzenie,Çak,client: game texts (localeInfo),done
+c:locale_game:EMPIRE_A,Shinsoo Kingdom,Królestwo Shinsoo,Shinsoo Krallığı,client: game texts (localeInfo),done
+c:locale_game:EMPIRE_B,Chunjo Kingdom,Królestwo Chunjo,Chunjo Krallığı,client: game texts (localeInfo),done
+c:locale_game:EMPIRE_C,Jinno Kingdom,Królestwo Jinno,Jinno Krallığı,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_CANNOT_GIVE,This item cannot be traded.,Nie możesz handlować tym przedmiotem.,Bu nesneyi alışverişte kullanamazsın.,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_CANT_EDIT_MONEY,You cannot change the sum now.,Nie możesz teraz zmienić kwoty.,Toplamı şu anda değiştiremezsin.,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_FAILURE_EQUIP_ITEM,You cannot exchange equipped Items.,Nie możesz wymienić ubranych przedmiotów.,Giyilen eşyayı takas edemezsin.,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_MONEY,Sum,Kwota,Toplam,client: game texts (localeInfo),done
+c:locale_game:EXCHANGE_TITLE,Trade with %s,Handluj z %s,%s ile ticaret,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_FAILURE,You lost the Bait.,Straciłeś przynętę.,Yemi kaybettin.,client: game texts (localeInfo),done
+c:locale_game:FISHING_NOTIFY1,It looks like  %s is hooked.,,%s oltaya takılmış gibi görünüyor.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_NOTIFY2,It looks like %s is on the hook.,,Oltaya %s takılmış gibi görünüyor.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_SUCCESS1,You captured %s!,,%s !,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_SUCCESS2,You have pulled %s out of the water!,,Suda %s tuttun!,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:FISHING_UNKNOWN,Something has taken the bait but you can't see what it is.,,Oltaya birşey takıldı ama ne olduğu belli değil.,client: game texts (localeInfo),done
+c:locale_game:FISHING_WRONG_PLACE,You cannot go fishing here.,Nie możesz tu łowić ryb.,Burada balık tutamazsın.,client: game texts (localeInfo),done
+c:locale_game:FOR_FEMALE,for female,dla kobiet,kadın için,client: game texts (localeInfo),done
+c:locale_game:FOR_MALE,for male,dla mężczyzn,erkek için,client: game texts (localeInfo),done
+c:locale_game:GAME_CANNOT_MINING,You cannot mine Ore while riding.,Nie możesz wydobywać surowców podczas jazdy konnej.,At üstündeyken madencilik yapamazsın.,client: game texts (localeInfo),done
+c:locale_game:GAME_CANNOT_PICK_ITEM,You cannot collect this Item as you did not win it.,"Nie możesz podnieść tego Przedmiotu, nie ty go zdobyłeś.",Kazanmadığın için bu nesneyi toplayamazsın.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_CURSOR,The cursor could not be established.,Kursor nie może zostać utworzony.,imleç tanımlanamadı.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_DIRECTX,DirectX 8.1 must be installed so that the game can run.\nInstall DirectX 8.1 or higher.,Aby gra mogła ruszyć musi być zainstalowany DirectX 8.1 .\nZainstaluj DirectX 8.1 lub nowszy.,Oyunun çalisabilmesi için DirectX 8.1 kurulu olması gerekiyor.\nDirectX 8.1 veya daha yüksek bir sürümünü kur.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_GRAPHICS_BAD_PERFORMANCE,No graphic device could be found. \nCheck if your VGA card is correctly installed.,"Żadne graficzne urządzenie nie zostało znalezione.\nSprawdź, czy twoja karta VGA jest aktualnie zainstalowana.","Grafik kartı bulunamadı.\nEğer mevcutsa, VGA kart sürücünüzün doğru yüklenmiş olup olmadığını kontrol edin.",client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_GRAPHICS_NOT_EXIST,"Graphic device could not be established. \nCheck if you have a VGA card. \nAlternatively, you can active the hardware accelerator.\n(Set hardware accelerator to max \nControl Panel->Display->Settings->Advanced->Troubleshoot tab)",Nie można było uruchomić karty graficznej.\nSprawdź czy masz kartę VGA.\nAlternatywniem możesz aktywować akcelerację sprzętową.\n(Ustaw suwak akceleracji sprzętowej na maks. \nPanel Sterowania->Ekran->Ustawienia->Zaawansowane->Rozwiązywanie Problemów),"Grafik kartı kurulamadı. \n Eğer VGA kartınız varsa kontrol edin. \n Alternatif olarak, donanım hızlandırıcınızı aktif edebilirsiniz. \n (Donanım Hızlandırıcınızı maximuma ayarlayın \n Control Panel->Display->Settings->Advanced->Troubleshoot)",client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_GRAPHICS_NOT_SUPPORT_32BIT,The graphics card of the computer does not support the window mode in 32bit Mode. \nChange to 16bit Mode or use Full Screen Mode.,Karta graficzna w komputerze nie obsługuje trybu ekranowego w trybie 32bit.\nUstaw tryb 16 bitowy lub użyj trybu pełnoekranowego.,Bilgisayarınızdaki grafik kartı Windows 32bit Modunu desteklemiyor.\n16bit Modunu veya tam ekran seçeneğini kullanınız.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_ITEM_PROTO,No Item data there.\nInstall the game again.,Brak danych o Przedmiotach.\nZainstaluj grę jeszcze raz.,Nesne bilgileri yok.\nOyunu tekrar yükleyiniz.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_MAIN_WINDOW,Mainframe could not be established,Gra nie mogła zostać uruchomiona w okienku,Anayapı oluşturulamıyor.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_MOB_PROTO,No Monster Data there.\nInstall the game again.,Brak danych o Potworach.\nZainstaluj grę jeszcze raz.,Canavar bilgileri yok.\nOyunu tekrar yükleyiniz.,client: game texts (localeInfo),done
+c:locale_game:GAME_INIT_ERROR_NETWORK,Network devices could not be established.\nCheck your internet connection.,Nie można było uruchomić urządzeń sieciowych.\nSprawdź swoje ustawienia internetowe.,Bağlantı kurulamıyor.\ninternet bağlantınızı kontrol ediniz.,client: game texts (localeInfo),done
+c:locale_game:GAME_PICK_MONEY,You received %s.,Otrzymałeś %s.,%s Kazandın.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_128_HEIGHT,Height is not 128 Pixel,Wysokość nie ma 128px.,Yükseklik 128 Pixel değil,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_12_HEIGHT,Height is not 12 Pixel,Wysokość nie ma 12px.,Yükseklik 12 Pixel değil,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_16_WIDTH,Width is not 16 Pixel,Szerokość nie ma 16px.,Genislik 16 Pixel değil,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_64_WIDTH,Width is not 64 Pixel,Szerokość nie ma 64px.,Genişlik 64 Pixel değil,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_FILE_FORMAT,The game does not support this picture.,Gra nie obsługuje tego obrazka.,Oyun bu resmi desteklemiyor.,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_PATH,Move the data into the folder metin2/upload.,Przenieś plik do folderu upload/ w głównym katalogu gry Metin2.,Bilgiyi metin2/upload klasörüne taşı.,client: game texts (localeInfo),done
+c:locale_game:GUILDMARK_UPLOADER_ERROR_SELECT,No picture file chosen.,Plik z obrazkiem nie został wybrany.,Resim dosyası seçilmedi.,client: game texts (localeInfo),done
+c:locale_game:GUILDWAR_CTF_TITLE,Flag captured.,Flaga zdobyta.,Bayrak Savaşı,client: game texts (localeInfo),done
+c:locale_game:GUILDWAR_NORMAL_TITLE,Field Battle,Pole Bitwy,Meydan Savaşı,client: game texts (localeInfo),done
+c:locale_game:GUILDWAR_QUESTION_LINE_1,The Guild %s  declared war on your Guild.,Gildia %s wypowiedziała wojnę twojej Gildii.,"%s loncası, senin loncana savaş ilan etti.",client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GUILDWAR_QUESTION_LINE_2,Do you accept? (%s),Akceptujesz? (%s),kabul ediyor musun? (%s),client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GUILDWAR_UNKNOWN_TITLE,...,...,,client: game texts (localeInfo),new
+c:locale_game:GUILDWAR_WARP_TITLE,Arena Battle,Walka na arenie,Arena Savaşı,client: game texts (localeInfo),done
+c:locale_game:GUILD_BUILDING_GRADE,Rank,Ranga,Sıralama,client: game texts (localeInfo),done
+c:locale_game:GUILD_BUILDING_NAME,Name of building,Nazwa Budynku,Binanin ismi,client: game texts (localeInfo),done
+c:locale_game:GUILD_CANNOT_HEAL_GSP_ANYMORE,The Dragon Ghost Energy is already fully restored.,Energia Ducha Smoka jest już w pełni zregenerowana.,Ejderha Hayaleti Enerjisi tamamen yüklenmiş durumda.,client: game texts (localeInfo),done
+c:locale_game:GUILD_COMMENT,Write,Napisz,Yaz,client: game texts (localeInfo),done
+c:locale_game:GUILD_CREATE_ERROR_INSULT_NAME,Guildname is not valid.,Nazwa Gildii jest niepoprawna.,Lonca adı hatalı,client: game texts (localeInfo),done
+c:locale_game:GUILD_DEFAULT_GRADE,Guild members,Członkowie Gildii,Lonca üyeleri,client: game texts (localeInfo),done
+c:locale_game:GUILD_DELETE,Delete,Usuń,Sil,client: game texts (localeInfo),done
+c:locale_game:GUILD_DEPOSIT,Deposit,Depozyt,Depozit,client: game texts (localeInfo),done
+c:locale_game:GUILD_DO_YOU_HEAL_GSP,Do you want to spend %s Yang to restore %d units of Dragon Ghost?,Czy chcesz odnowić za %s Yang %d Ducha Smoka?,%s Yang kullanarak %d Ejderha Hayaleti yüklemek ister misin?,client: game texts (localeInfo) | keep: %s %d,done
+c:locale_game:GUILD_DO_YOU_JOIN, has invited you. Do you want to join the guild?,  zaprasza Cię do swojej Gildii. Chcesz do niej dołączyć?, seni davet ediyor. Loncaya katılmak istiyor musun?,client: game texts (localeInfo),done
+c:locale_game:GUILD_EMPTY_AREA,Empty land,Wolna Ziemia,Boş alan,client: game texts (localeInfo),done
+c:locale_game:GUILD_ENEMY_GUILD_NAME,Guild name of the enemy,Nazwa Gildii wroga,Düşmanın Lonca adı,client: game texts (localeInfo),done
+c:locale_game:GUILD_FACILITY,Outbuilding,Przybudówka,Ek bina,client: game texts (localeInfo),done
+c:locale_game:GUILD_GEM,Gem,Klejnot,Değerli taş,client: game texts (localeInfo),done
+c:locale_game:GUILD_HEADQUARTER,Main Building,Budynek Główny,Ana bina,client: game texts (localeInfo),done
+c:locale_game:GUILD_HEAL_GSP,Restore Dragon ghost,Regeneracja Ducha Smoka,Ejderha Hayaleti Yükle,client: game texts (localeInfo),done
+c:locale_game:GUILD_INFO_ENEMY_GUILD_EMPTY,None,Nikt,Boş,client: game texts (localeInfo),done
+c:locale_game:GUILD_MARK_NOT_ENOUGH_LEVEL,Minimum level of 3 required,Potrzebny przynajmniej 3 poziom,En az 3. seviye gerekir,client: game texts (localeInfo),done
+c:locale_game:GUILD_NAME,Guild name,Nazwa Gildii,Lonca adı,client: game texts (localeInfo),done
+c:locale_game:GUILD_NOT_ENOUGH_MATERIAL,Not enough building material for this building.,Nie masz wystarczającej ilości surowców na tą budowlę.,Bu bina için yeterli inşaat malzemesine sahip değilsin.,client: game texts (localeInfo),done
+c:locale_game:GUILD_NOT_ENOUGH_MONEY,Not enough Yang for this building.,Nie masz wystarczającej ilości Yang na tą budowlę.,Bu bina için yeterli Yang'a sahip değilsin.,client: game texts (localeInfo),done
+c:locale_game:GUILD_NO_NOTICE_PERMISSION,You do not have the rights to make an announcement.,Nie masz praw do tworzenia ogłoszeń.,Duyuru yapmak için gerekli iznin yok.,client: game texts (localeInfo),done
+c:locale_game:GUILD_OBJECT,Objects,Obiekty,Nesne,client: game texts (localeInfo),done
+c:locale_game:GUILD_OFFER_EXP,Invest experience,PD do przekazania,Tecrübe yatır,client: game texts (localeInfo),done
+c:locale_game:GUILD_SHORT_EXP,Not enough experience points.,Za mało Punktów Doświadczenia.,Yeterli Tecrübe Puanı yok.,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_BASEINFO,Basic Information,Podstawowa Informacja,Bölge bilgileri,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_BOARD,Blackboard,Tablica,Lonca notları,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_GRADE,Rights Administration,Zarządzanie Prawami,Yönetici Pozisyonu,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_INFO,Guild Information,Informacje o Gildii,Lonca bilgileri,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_MEMBER,Guild Members,Członkowie Gildii,Üyeler,client: game texts (localeInfo),done
+c:locale_game:GUILD_TILE_SKILL,Guild Skills,Umiejętności Gildii,Lonca becerisi,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_LIMIT_30MIN,Time: 30 Minutes,Czas: 30 Minut,Zaman: 30 dakika,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_REWARD_POTION,Reward: The winner receives a Potion,Nagroda: Zwycięzca otrzymuje Miksturę,Ödül: Yenen iksir kazanacak,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_USE_BATTLE_MAP,Location: Guild War Arena,Miejsce: Teatr Wojny Gildii,Yer: Lonca Savaşı Arenası,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_USE_NORMAL_MAP,Location: Normal Map,Miejsce: Normalna Mapa,Yer: Normal Harita,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_WIN_CHECK_SCORE,The highest result wins the war.,Najlepszy wynik wygrywa Wojnę.,Savaşı en yüksek skor kazanır,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_WIN_TAKE_AWAY_FLAG1,Capture the flag of your enemy,Zdobądź Flagę przeciwnika,Düşmanın bayrağını ele geçir,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_WIN_TAKE_AWAY_FLAG2,and carry it to your base.,i dostarcz ją do swojej bazy.,ve kendi üssüne götür.,client: game texts (localeInfo),done
+c:locale_game:GUILD_WAR_WIN_WIPE_OUT_GUILD,Defeat all enemies to win.,Pokonaj wszystkich wrogów by wygrać.,Kazanmak için tüm düşmanları öldür.,client: game texts (localeInfo),done
+c:locale_game:GUILD_WITHDRAW,Fallback,Wycofaj się,Geri çekil.,client: game texts (localeInfo),done
+c:locale_game:GUILD_YOU_DO_NOT_JOIN,You are not a member of any Guild.,Nie jesteś członkiem żadnej Gildii.,Bir Loncaya üye değilsin.,client: game texts (localeInfo),done
+c:locale_game:HORSE_HEALTH0,Dead,Na skraju śmierci,Ölü,client: game texts (localeInfo),done
+c:locale_game:HORSE_HEALTH1,Starving,Głodny,Aç kalmış halde,client: game texts (localeInfo),done
+c:locale_game:HORSE_HEALTH2,Hungry,Wygłodzony,Acıkmış halde,client: game texts (localeInfo),done
+c:locale_game:HORSE_HEALTH3,Full,Pełny,Tok,client: game texts (localeInfo),done
+c:locale_game:HORSE_LEVEL1,Normal Horse,Normalny Koń,Normal at,client: game texts (localeInfo),done
+c:locale_game:HORSE_LEVEL2,Battle Horse,Opancerzony Koń,Savaş Atı,client: game texts (localeInfo),done
+c:locale_game:HORSE_LEVEL3,Military Horse,Wojskowy Koń,Asker at,client: game texts (localeInfo),done
+c:locale_game:HOUR,Hours,Godzin,sa.,client: game texts (localeInfo),done
+c:locale_game:HOW_MANY_ITEM_DO_YOU_DROP1,Do you want to drop %s?,Czy chcesz upuścić %s?,%s atmak istiyor musun?,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:HOW_MANY_ITEM_DO_YOU_DROP2,Do you want to drop %s %d?,Czy chcesz upuścić %s %d?,%s %d atmak istiyor musun?,client: game texts (localeInfo) | keep: %s %d,done
+c:locale_game:INPUT_MATRIX_CARD_NUMBER,Enter Matrix Cardnumber.,Wpisz numer karty Matrix.,Matrix Kart Numaranı gir.,client: game texts (localeInfo),done
+c:locale_game:INPUT_MATRIX_CARD_TITLE,Matrix Card,Karta Matrix,Matrix Kart,client: game texts (localeInfo),done
+c:locale_game:INPUT_PRIVATE_CODE_DIALOG_DESCRIPTION,Enter deletion-code from your account settings here.,Wprowadź kod usunięcia z zarządzania kontem.,Hesap ayarlarınızdaki silme-kodunu buraya giriniz.,client: game texts (localeInfo),done
+c:locale_game:INPUT_PRIVATE_CODE_DIALOG_TITLE,Delete character,Usuwanie postaci,Karakteri sil,client: game texts (localeInfo),done
+c:locale_game:INVENTORY_DO_NOT_PACK_WARP_SCROLL,Role of Return cannot be combined.,Zwoje powrotu nie mogą być łączone.,Dönüş Rolesi,client: game texts (localeInfo),done
+c:locale_game:INVENTORY_REALLY_USE_ITEM,Do you want to use this Item?,Czy chcesz użyć tego Przedmiotu?,Bu eşyayı kullanmak istiyor musun?,client: game texts (localeInfo),done
+c:locale_game:JOB_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),check
+c:locale_game:JOB_ASSASSIN0,Amateur Ninja,Amator Ninja,Yok,client: game texts (localeInfo),done
+c:locale_game:JOB_ASSASSIN1,Power of the Ninjas,Moc Zabójcy,Yakın Ninja,client: game texts (localeInfo),done
+c:locale_game:JOB_ASSASSIN2,Undead,Moc Łucznika,Uzak Ninja,client: game texts (localeInfo),done
+c:locale_game:JOB_SHAMAN,Shaman,Szaman,Şaman,client: game texts (localeInfo),done
+c:locale_game:JOB_SHAMAN0,Amateur Shaman,Amator Shaman,Yok,client: game texts (localeInfo),done
+c:locale_game:JOB_SHAMAN1,Power of the Dragon,Moc Smoka,Ejderha Şamanı,client: game texts (localeInfo),done
+c:locale_game:JOB_SHAMAN2,Lightning Power,Moc Błyskawicy,Şifacı Şaman,client: game texts (localeInfo),done
+c:locale_game:JOB_SURA,Sura,Sura,Sura,client: game texts (localeInfo),check
+c:locale_game:JOB_SURA0,Amateur Sura,Amator Sura,Yok,client: game texts (localeInfo),done
+c:locale_game:JOB_SURA1,Power of the Fata Morgana,Moc Ostrza,Silah Surası,client: game texts (localeInfo),done
+c:locale_game:JOB_SURA2,Power of Black Magic,Moc Czarnej Magii,Büyü Surası,client: game texts (localeInfo),done
+c:locale_game:JOB_WARRIOR,Warrior,Wojownik,Savaşçı,client: game texts (localeInfo),done
+c:locale_game:JOB_WARRIOR0,Amateur Warrior,Amator Wojownik,Yok,client: game texts (localeInfo),done
+c:locale_game:JOB_WARRIOR1,Power of Arahan,Moc Ciała,Bedensel Savaşçı,client: game texts (localeInfo),done
+c:locale_game:JOB_WARRIOR2,Power of Partisans,Moc Umysłu,Zihinsel Savaşçı,client: game texts (localeInfo),done
+c:locale_game:LEFT_TIME,Time Remaining,Pozostały Czas,Kalan Süre,client: game texts (localeInfo),done
+c:locale_game:LOGIN_CONNECT_FAILURE,Error while connecting to the server.,Błąd podczas łączenia się z serwerem.,Sunucuya bağlanırken hata,client: game texts (localeInfo),done
+c:locale_game:LOGIN_CONNECT_SUCCESS,You have been connected to the server.,Jesteś połączony z serwerem.,Sunucuya bağlandın.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_CONNETING,You will be connected to the server...,Zostaniesz połączony z serwerem.,Lütfen bekle. Sunucuya bağlanıyorsun.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_ALREAY,Your account is already connected.,Twoje konto jest już połączone.,Hesabın zaten bağlı.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_BE_SAME_KEY,Registration problem.,Problem z rejestracją.,Kayıt problemi,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_BLOCK_ID,Your account is banned.,Twoje konto jest zablokowane.,Bu hesap engellendi.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_BLOCK_LOGIN,Please choose one of the other servers!,Serwer Zamknięty - proszę wybrać inny!,Kapalı sunucu: Lütfen başka server seç!,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_NOBILL,Your account had no play time.,Twoje konto nie ma czasu gry.,Bu hesabın oyun süresi yok.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_NOT_AVAIL,Your account cannot be used.,Twoje konto nie może być użyte.,Bu hesap kullanılamıyor.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_NOT_EXIST_ID,Account name or password incorrect.,Nieprawidłowa nazwa konta lub hasło.,Hesap ismi veya şifre yanlış.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_REPAIR_ID,Items have been restored for this account.,Przedmioty zostały przywrócone dla tego konta.,Bu hesap için şu an nesneler yenileniyor.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_SHUTDOWN,The server is not open yet.,Serwer nie jest jeszcze otwarty.,Sunucu henüz açılmadı.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_TOO_MANY_USER,You could not connect because too many players are online.,"Nie możesz się połączyć, ponieważ za dużo graczy jest online.",Çok fazla kullanıcı bağlı olduğu için bağlanamazsınız.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_UNKNOWN,You could not register for unknown reasons.,Nie możesz się zarejestrować z nieznanych powodów.,Bilinmeyen bir nedenle kaydolamadınız.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_WEB_BLOCK,You have been blocked at the website. Please check your EMails.,Twoje konto zostało zablokowane na stronie www. Proszę sprawdzić swoją pocztę e-mail.,Web sitesine erişiminiz engellendi. Lütfen E-Postanızı kontrol ediniz.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER,You entered a wrong number.,Wpisałeś nieprawidłowy numer.,Yanlış numara girdiniz.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER_TRIPLE,You entered a wrong number three times. /n Your connection will be disabled.,Wybrałeś zły numer trzy razy. /n Twoje połączenie zostanie zerwane.,3 kere yanlış numara girdiniz. Bağlantınız kesildi.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_FAILURE_WRONG_PASSWORD,Account name or password incorrect.,"Nieprawidłowa nazwa konta, hasło lub PIN.",Hesap ismi veya şifre yanlış.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_INPUT_ID,Enter the ID.,Podaj swoje ID.,ID nizi yazın.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_INPUT_PASSWORD,Enter the password.,Wpisz swoje hasło.,Şifreyi gir.,client: game texts (localeInfo),done
+c:locale_game:LOGIN_PROCESSING,Logging in...,Logowanie...,Giriş işlemi yapılıyor...,client: game texts (localeInfo),done
+c:locale_game:MALL_CANNOT_INSERT,You cannot place the Item.,Nie możesz umieścić Przedmiotu.,Nesne için yeriniz yok.,client: game texts (localeInfo),done
+c:locale_game:MALL_PASSWORD_TITLE,Password,Hasło,Şifre,client: game texts (localeInfo),done
+c:locale_game:MAP_A1,Yongan Area,Strefa Yongan,Yongan Bölgesi,client: game texts (localeInfo),done
+c:locale_game:MAP_A2,Valley of Seungryong,Dolina Seungryong,Seungryong Vadisi,client: game texts (localeInfo),done
+c:locale_game:MAP_A3,Yayang Area,Strefa Yayang,Yayang Bölgesi,client: game texts (localeInfo),done
+c:locale_game:MAP_AG,Jungrang,Jungrang,Jungrang,client: game texts (localeInfo),check
+c:locale_game:MAP_B1,Joan Area,Strefa Joan,Joan Bölgesi,client: game texts (localeInfo),done
+c:locale_game:MAP_B2,Valley of Imji,Dolina Imji,Imji Vadisi,client: game texts (localeInfo),done
+c:locale_game:MAP_B3,Bokjung Area,Strefa Bokjung,Bokjung Bölgesi,client: game texts (localeInfo),done
+c:locale_game:MAP_BAY,Nephrite Bay,Nefrytowa Zatoka,Nefrit Körfezi,client: game texts (localeInfo),done
+c:locale_game:MAP_BG,Waryong,Waryong,Waryong,client: game texts (localeInfo),check
+c:locale_game:MAP_C1,Pyungmoo Area,Strefa Pyungmoo,Pyungmoo Bölgesi,client: game texts (localeInfo),done
+c:locale_game:MAP_C2,Valley of Bangsan,Dolina Bangsan,Bangsan Vadisi,client: game texts (localeInfo),done
+c:locale_game:MAP_C3,Bakra Area,Strefa Bakra,Bakra Bölgesi,client: game texts (localeInfo),done
+c:locale_game:MAP_CAPE,Cape Dragon Fire,Przylądek Smoczego Ognia,Ejderha Ateşi Burnu,client: game texts (localeInfo),done
+c:locale_game:MAP_CG,Imha,Imha,Imha,client: game texts (localeInfo),check
+c:locale_game:MAP_DAWN,Gautama Cliff,Klif Gautama,Gautama Uçurumu,client: game texts (localeInfo),done
+c:locale_game:MAP_DESERT,Yongbi Desert,Pustynia Yongbi,Yongbi Çölü,client: game texts (localeInfo),done
+c:locale_game:MAP_FLAME,Doyyumhwan,Doyyumhwan,Doyyumhwan,client: game texts (localeInfo),check
+c:locale_game:MAP_NUSLUCK,Land of Giants,Kraina Gigantów,Devler Diyarı,client: game texts (localeInfo),done
+c:locale_game:MAP_SKELTOWER,Gumsan Tower,Wieża Gumsan,Gumsan Kulesi,client: game texts (localeInfo),done
+c:locale_game:MAP_SNOW,Mount Sohan,Góra Sohan,Sohan Dağı,client: game texts (localeInfo),done
+c:locale_game:MAP_SPIDER,Kuahlo Dong,Kuahlo Dong,Kuahlo Dong,client: game texts (localeInfo),check
+c:locale_game:MAP_TEMPLE,Hwang Temple,Świątynia Hwang,Hwang Tapınağı,client: game texts (localeInfo),done
+c:locale_game:MAP_THUNDER,Thunder Mountains,Gromiste Góry,Yıldırım Dağları,client: game texts (localeInfo),done
+c:locale_game:MAP_TREE,Lungsam,Lungsam,Lungsam,client: game texts (localeInfo),check
+c:locale_game:MAP_TRENT02,Red Forest,Czerwony Las,Kırmızı Orman,client: game texts (localeInfo),done
+c:locale_game:MAP_WL,Snakefield,Wężowe Pole,Yılan Vadisi,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_ADD_FRIEND,Add Friend,Dodaj Przyjaciela,Arkadaş ekle,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_1,%s added you as a friend.,%s dodał Cię jako przyjaciela.,%s seni arkadaş olarak ekledi.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_2,Accept?,Zaakceptować?,Kabul et?,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_DO_YOU_DELETE,Delete?,Usunąć?,Sil?,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_DO_YOU_DELETE_PHONE_NUMBER,Do you want to delete the cell phone number?,Czy chcesz usunąć numer telefonu komórkowego?,Cep telefonu numaranızı silmek istiyor musunuz?,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_DO_YOU_MOVE,Do you want to go on?,Czy chcesz kontynuować?,Devam etmek istiyor musun?,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_EMPTY_LIST,Empty,Pusto,Boş,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_FAMILY,Family,Rodzina,Aile,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_FRIEND,Friends,Przyjaciel,Arkadaşlar,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_GUILD,Guild,Gildia,Lonca,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_AUTHORITY_DESCRIPTION,Enter the confirmation number that was sent to your cell phone.,"Wprowadź numer potwierdzający, który został wysłany na twój telefon komórkowy.",Cep telefonunuza gönderilen onay numarasını giriniz.,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_AUTHORITY_TITLE,Enter confirmation number,Wprowadź numer potwierdzający,Onaylama kodunu gir.,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_PHONE_NUMBER_1,Enter the cell phone number for the Text message sending.,Wprowadź numer telefonu komórkowego do wysyłania wiadomości tekstowych.,Text mesajlarının gönderilmesi için cep telefonu numaranızı giriniz.,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_PHONE_NUMBER_2,Do you want to enter the number now?,Czy chcesz teraz wprowadzić numer?,Numarayı şimdi girmek istiyor musun?,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_INPUT_MOBILE_PHONE_NUMBER_TITLE,Enter cell phone number.,Wprowadź numer telefonu komórkowego.,Cep telefonu numaranızı giriniz.,client: game texts (localeInfo),done
+c:locale_game:MESSENGER_SEND_MOBILE_MESSAGE_TITLE,Send message.,Wyślij wiadomość.,Mesaj gönder.,client: game texts (localeInfo),done
+c:locale_game:MINIMAP,Open Mini Map,Otwórz Mini Mapę,Küçük Haritayı aç,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_CANNOT_SEE,Mini Map cannot be seen.,Nie można zobaczyć Mini Mapy.,Küçük Haritayi göremezsiniz.,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_CAN_NOT_SHOW_AREAMAP,Large Map cannot be shown.,Mini Mapa nie może zostać pokazana.,Küçük Harita görüntülenemiyor.,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_DEC_SCALE,Zoom out,Oddal,Uzaklaştır,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_INC_SCALE,Zoom in,Przybliż,Yakınlaştır,client: game texts (localeInfo),done
+c:locale_game:MINIMAP_OBSERVER_COUNT,%d observers,%d obserwatorów,%d izleyici,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:MINIMAP_SHOW_AREAMAP,Open Large Map,Otwórz Dużą Mapę,Genel Görünüm Haritası'nı aç,client: game texts (localeInfo),done
+c:locale_game:MINUTE,Minutes,Minut,dk.,client: game texts (localeInfo),done
+c:locale_game:MONETARY_UNIT0,Yang,Yang,Yang,client: game texts (localeInfo),check
+c:locale_game:MONETARY_UNIT1,Ten Thousand,Dziesięć Tysięcy,On Bin,client: game texts (localeInfo),done
+c:locale_game:MONETARY_UNIT2,Hundred Billion,Sto Miliardów,Yüz Milyon,client: game texts (localeInfo),done
+c:locale_game:MONEY_INPUT_DIALOG_SELLPRICE,Sales Price:,Cena sprzedaży:,Satış fiyatı:,client: game texts (localeInfo),done
+c:locale_game:MOVE_ITEM_FAILURE_PRIVATE_SHOP,You cannot move items while you have a private shop open.,"Nie możesz przesuwać przedmiotów, jeśli masz otwarty prywatny Magazyn.",Özel depo açtığın sürece nesneleri başka yere taşıyamazsın.,client: game texts (localeInfo),done
+c:locale_game:MUSIC_EMPTY_MUSIC_LIST,No Backgroundmusic.,Brak muzyki w tle.,Fon müziği yok,client: game texts (localeInfo),done
+c:locale_game:MUSIC_METIN2_DEFAULT_THEMA,Metin2 Standard music,Standardowa muzyka Metin2,Vidra II Standart Müziği,client: game texts (localeInfo),done
+c:locale_game:MUSIC_NOT_SELECT_MUSIC,No Music file chosen.,Plik z muzyką nie został wybrany.,Hiç Müzik dosyası seçilmedi.,client: game texts (localeInfo),done
+c:locale_game:NEEFD_REST,You must rest first.,Musisz najpierw odpocząć.,Önce dinlenmelisin.,client: game texts (localeInfo),done
+c:locale_game:NOT_YET_SUPPORT,Not yer supported,Nie jest obsługiwany,Henüz desteklenmiyor,client: game texts (localeInfo),done
+c:locale_game:OPTION_PVPMODE_CANNOT_SET_GUILD_MODE,You cannot activate Guild Mode when you do not belong to a Guild.,Nie możesz aktywować Trybu Gildii kiedy nie należysz do żadnej Gildii.,Herhangi bir Loncada değilken Lonca Modunu aktif edemezsiniz.,client: game texts (localeInfo),done
+c:locale_game:OPTION_PVPMODE_NOT_SUPPORT,You cannot choose this configuration in PvP Mode.,Nie możesz wybrać tej konfiguracji w Trybie PvP.,PvP Modunda bu biçimi seçemezsiniz.,client: game texts (localeInfo),done
+c:locale_game:OPTION_PVPMODE_PROTECT,You need to have at least Level %d to be able to change the PvP Mode.,Potrzebujesz conajmniej Poziomu %d aby móć używać Trybu PvP.,PvP-Modu'nu değiştirmek için ulaşmış olman gereken asgari seviye: %d.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_ATTACKER,Attack Value: +%d,Wartość Ataku: +%d,Saldırı Değeri: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_BERSERKER,Attck Speed: +%d,Szybkość Ataku: +%d,Saldırı Hızı: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_BUFFER,Skill Duration: +%d,Czas Trwania: +%d,Beceri Süresi: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_DEFENDER,Defence: +%d,Obrona: +%d,Savunma: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_EXP,Bonus EXP: %d%%,Bonus DOŚ: %d%%,EXP: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_SKILL_MASTER,Max. SP: +%d,Siła magii w potwory: +%d%%,Maks. SP: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BONUS_TANKER,Max. HP: +%d,Maks. PŻ: +%d,Maks. HP: +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_BREAK_UP,Delete Group,Usuń Grupę,Grubu sil,client: game texts (localeInfo),done
+c:locale_game:PARTY_DO_YOU_ACCEPT, would like to join the Group., chce dołączyć do grupy., grubunuza katılmak istiyor.,client: game texts (localeInfo),done
+c:locale_game:PARTY_DO_YOU_JOIN, has invited you to join his group. Accept?,",  zaprasza Cię do swojej grupy. Czy chcesz przyjąć zaproszenie?", seni bir gruba davet etti. Kabul et?,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE,EXP Distribution,Podział DOŚ,EXP paylaşımı,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_LEVEL,Level dependant,zależy od poziomu,seviyeye bağlı,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_LEVEL_TOOLTIP,Higher level group members receive more EXP.,Członkowie grupy o wyższym poziomie otrzymują więcej PD.,Yüksek seviyeli grup üyeleri daha fazla EXP kazanıyor.,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_PARITY,even,równo,eşit,client: game texts (localeInfo),done
+c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_PARITY_TOOLTIP,All Group members receive the same EXP.,Wszyscy otrzymują taką samą ilość PD.,Tüm grup üyeleri aynı EXP i alır.,client: game texts (localeInfo),done
+c:locale_game:PARTY_HEAL_ALL_MEMBER,Restore everything.,Odnów wszystko.,Her şeyi yükle.,client: game texts (localeInfo),done
+c:locale_game:PARTY_INCREASE_AREA_150,Range of the group heightened of the factor 1.5 .,"Zasięg grupy zwiększony o współczynnik 1,5.","Grup kuruluş faktör aralığı 1,5.",client: game texts (localeInfo),done
+c:locale_game:PARTY_INCREASE_AREA_200,Range of the group heightened of the factor 2.,Zasięg grupy zwiększony o współczynnik 2.,Grup kuruluş faktör aralığı 2.,client: game texts (localeInfo),done
+c:locale_game:PARTY_LEAVE,Leave group,Opuść grupę,Grubu terket,client: game texts (localeInfo),done
+c:locale_game:PARTY_LONGTIME_BONUS_EXP,Bonus EXP for a long group game: +%d%%,Bonus DOŚ za długą grę grupową: +%d%%,Uzun bir grup oyunu için kazanılan EXP: +%%%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_MEMBER_OFFLINE,[Offline],[Offline],[Çevrimdışı],client: game texts (localeInfo),done
+c:locale_game:PARTY_RECALL_MEMBER,Call group member.,Wezwij członka grupy.,Grup üyesini çağır.,client: game texts (localeInfo),done
+c:locale_game:PARTY_REGEN_BONUS,Bonus for HP- + SP regeneration: +%d%%,Bonus za PŻ- + PE regeneracja: +%d%%,Yeniden oluşum HP- + SP primi: +%%%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_REQUEST_DENIED,Your request has been declined.,Odrzucono zaproszenie.,Başvurun reddedildi.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_ATTACKER,Constitute as Attacker.,Ustanów jako Atakującego.,Saldırı gücü olarak belirle,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_BERSERKER,Constitute as Berserker.,Ustanów jako Berserker.,Berserker olarak belirle.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_BUFFER,Constitute as Blocker.,Ustanów jako Blokującego.,Tampon olarak belirle.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_DEFENDER,Constitute as Defender.,Ustanów jako Obrońcę.,Savunma gücü olarak belirle.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_NORMAL,Withdraw settings.,Wycofaj bonus.,Geri Çekilme Ayarları.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_SKILL_MASTER,Constitute as Skill Master.,Ustanów jako Mistrza Umiejętności.,Beceri Master i olarak ayarla.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SET_TANKER,Constitute as blade fighter.,Ustanów jako Walczącego W Zwarciu.,Yakın Dövüş Savasçısı olarak belirle.,client: game texts (localeInfo),done
+c:locale_game:PARTY_SKILL_ATTACKER,Base Attack Value Attacker +%.0f,Podstawowa Wartość Ataku +%.0f,Saldırı gücü olarak temel saldırı değeri +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_BERSERKER,Attack Speed Berserker +%.0f,Szybkość Ataku +%.0f,Berserker saldırı hızı +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_BUFFER,Skill Duration Blocker +%.0f,Czas trwania +%.0f,Tampon Beceri Süresi +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_DEFENDER,Defence Defender +%.0f,Obrona +%.0f,Savunmacıların Savunması +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_HP_REGEN,HP Regeneration +%.0f%%,Regeneracja PŻ +%.0f%%,HP üretimi +%.0f%%,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_PARTY_AREA,Group range +%d%%,Zasięg Grupy +%d%%,Grup sırası +%%%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:PARTY_SKILL_SKILL_MASTER,Max. SP Skill Master +%.0f,Siła magii na potwory +%.0f%%,Maks. SP Beceri Ustası +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_SP_REGEN,SP Regeneration +%.0f%%,Regeneracja PE +%.0f%%,SP üretimi +%.0f%%,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_TANKER,Max. HP blade fighter +%.0f,Max PŻ +%.0f,Max. HP Yakın Dövüş Saldırı Gücü +%.0f,client: game texts (localeInfo) | keep: %.0f,done
+c:locale_game:PARTY_SKILL_WARP,Possible to call group members.,Możliwe wezwanie członków grupy.,Grup üyelerini çağırmak mümkün.,client: game texts (localeInfo),done
+c:locale_game:PASSWORD_TITLE,Storeroom password,Hasło do magazynu,Depo Şifresi,client: game texts (localeInfo),done
+c:locale_game:PICK_ITEM_TITLE,Item Number,Numer Przedmiotu,Eşya No,client: game texts (localeInfo),done
+c:locale_game:PICK_MONEY_TITLE,Sum,Kwota,Toplam,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_CANNOT_SELL_ITEM,You cannot sell this item in a private shop.,Nie możesz sprzedać tego Przedmiotu w prywatnym Magazynie.,Bu eşyayı özel dükkanda satamazsınız.,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_CLOSE_QUESTION,Do you want to close the private shop?,Czy chcesz zamknąć prywatny Magazyn?,Özel dükkanı kapatmak istiyor musunuz?,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_INPUT_NAME_DIALOG_TITLE,Name of the private shop.,Wpisz nazwę swojego Sklepu.,Özel deponun ismi,client: game texts (localeInfo),done
+c:locale_game:PRIVATE_SHOP_INPUT_PRICE_DIALOG_TITLE,Price,Cena,Fiyat,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL0,Chivalric,Rycerski,Kahraman,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL1,Noble,Szlachetny,Soylu,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL2,Good,Dobry,İyi,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL3,Friendly,Przyjazny,Arkadaşça,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL4,Neutral,Neutralny,Tarafsız,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL5,Aggressive,Agresywny,Agresif,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL6,Fraudulent,Nieuczciwy,Hileli,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL7,Malicious,Złośliwy,Kötü Niyetli,client: game texts (localeInfo),done
+c:locale_game:PVP_LEVEL8,Cruel,Okrutny,Zalim,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_GUILD,PvP - Guild activated,PvP - gildia aktywowana,PvP - Lonca etkinleştirildi,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_KILL,PvP - Free activated,PvP - tryb wolny aktywowany,PvP - Serbest etkinleştirildi,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_NORMAL,PvP - Peace activated,PvP - tryb pokojowy aktywowany.,PvP - Barış etkinleştirildi.,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_PROTECT,PvP - Protection activated,Aktywowano ochronę przed PvP,PvP - Koruma etkinleştirildi.,client: game texts (localeInfo),done
+c:locale_game:PVP_MODE_REVENGE,PvP - Hostile activated,PvP - tryb wrogi aktywowany,PvP - Düşman etkinleştirildi,client: game texts (localeInfo),done
+c:locale_game:PVP_OPTION_KILL,Free,Wolny,Serbest,client: game texts (localeInfo),done
+c:locale_game:PVP_OPTION_NORMAL,Peace,Pokojowy,Barış,client: game texts (localeInfo),done
+c:locale_game:PVP_OPTION_PROTECT,Protection,Ochrona,Koruma,client: game texts (localeInfo),done
+c:locale_game:PVP_OPTION_REVENGE,Hostile,Wrogi,Düşmanca,client: game texts (localeInfo),done
+c:locale_game:QUEST_APPEND,New Quest acquired.,Otrzymano Nową Misję.,Yeni görev geldi.,client: game texts (localeInfo),done
+c:locale_game:QUEST_MIN,Min.,Min.,Dk.,client: game texts (localeInfo),done
+c:locale_game:QUEST_SEC,Sec.,Sek.,Sn.,client: game texts (localeInfo),done
+c:locale_game:QUEST_TIMEOVER,Time Expired,Koniec czasu,Zaman doldu.,client: game texts (localeInfo),done
+c:locale_game:QUEST_UNLIMITED_TIME,No time limit.,Brak limitu czasowego.,Zaman sınırı yok.,client: game texts (localeInfo),done
+c:locale_game:QUEST_ZEROSEC,0 Sec.,0 Sek.,0 sn.,client: game texts (localeInfo),done
+c:locale_game:QUICKSLOT_REGISTER_DISABLE_ITEM,This Item cannot be added to the Fast Access Field.,Ten Przedmiot nie może zostać dodany do Szybkiego Pola Dostępu.,Bu nesne hızlı erişim alanına eklenemez.,client: game texts (localeInfo),done
+c:locale_game:RECEIVE_MESSAGE,%s sent you a message.,%s wysłał Ci wiadomość.,%s mesaj gönderdi.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_COST,Upgrade cost: %s,Cena za Ulepszenie: %s,Yükseltme bedeli: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_DESTROY_WARNING,This Item could be destroyed while upgrading.,Ten Przedmiot może zostać zniszczony podczas ulepszania.,Bu eşya yükseltme sırasında yok edilebilir.,client: game texts (localeInfo),done
+c:locale_game:REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_1,"This will improve the chance for upgrading,","To zwiększy szanse na ulepszenie,",Bu nesneyi gerçekten yükseltmek istiyor musun?,client: game texts (localeInfo),done
+c:locale_game:REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_2,but if you fail the Item could be destroyed. /n Do you want to continue?,"ale jeśli zawiedziesz, Przedmiot zostanie zniszczony. Czy chcesz kontynuować?",Hata vermesi durumunda nesne yok olur. Devam etmek istiyor musun?,client: game texts (localeInfo),done
+c:locale_game:REFINE_DOWN_GRADE_WARNING,The Item could be down graded this way.,Przedmiot może zostać zdegradowany w ten sposób.,Eşyanın arındırılırken değeri düşebilir.,client: game texts (localeInfo),done
+c:locale_game:REFINE_DO_YOU_SEPARATE_METIN,Do you want to remove all available spirit stones?,Czy chcesz usunąć wszystkie Kamienie Duszy?,Mevcut olan tüm zihin taşları çıkarılsın mı?,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE,You failed.,Zawiodłeś.,"Tüh, olmadı. Beceremedik.",client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_CAN_NOT_ATTACH,%s cannot be included in that Item.,%s nie może zostać uwzględniony w tym Przedmiocie.,Bu nesneye %s katamazsın.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_FAILURE_EQUIP_ITEM,You cannot upgrade equipped Items.,Nie możesz ulepszyć założonego Przedmiotu.,Kullanılmakta olan nesneleri geliştiremezsin.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_METIN_INSEPARABLE_ITEM,No spirit stone can be taken away.,Żaden Kamień Duszy nie może zostać wyjęty.,Çıkarabileceğiniz zihin taşı yok.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_NEED_BETTER_SCROLL,You need a better Advancement Scroll.,Potrzebujesz lepszego Zwoju.,Daha iyi bir yükseltme Rolesine ihtiyacınız var.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_NO_GOLD_SOCKET,There is no Gold socket to include %s .,Nie ma Złotej Kieszeni by uwzględnić %s .,Burada %s eklemek için altın yuva yok.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_FAILURE_NO_MORE_SOCKET,You cannot make more Sockets.,Nie możesz zrobić więcej Kieszeni.,Daha fazla slot ekleyemezsin.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_NO_SOCKET0,There is no Socket to include the %s.,"Nie ma slotu, w którym można umieścić %s.",%s eklemek için boş slot yok.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:REFINE_FAILURE_SOCKET_DISABLE_ITEM,You cannot make any Sockets on this Item.,Nie możesz zrobić żadnych Kieszeni w tym Przedmiocie.,Bu nesneye slot ekleyemezsin.,client: game texts (localeInfo),done
+c:locale_game:REFINE_FAILURE_UPGRADE_DISABLE_ITEM,This Item cannot be upgraded.,Ten Przedmiot nie może zostać ulepszony.,Bu nesne yükseltilemez.,client: game texts (localeInfo),done
+c:locale_game:REFINE_SUCCESS,The advancement of the Item was successful.,Pomyślne Ulepszenie Przedmiotu.,Nesnenin yükseltilmesi başarıyla tamamlandı.,client: game texts (localeInfo),done
+c:locale_game:REFINE_SUCCESS_PROBALITY,Chance for Advancement %d%%,Szansa na Ulepszenie %d%%,Yükseltme şansı %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:REFINE_WARNING2,Do you want to continue?,Czy chcesz kontynuować?,Devam etmek istiyor musun?,client: game texts (localeInfo),done
+c:locale_game:SAFEBOX_ERROR,You entered the wrong password.,Wprowadziłeś złe hasło.,Yanlış şifre girdin.,client: game texts (localeInfo),done
+c:locale_game:SAFEBOX_SELL_DISABLE_SAFEITEM,You cannot sell any of the saved Items.,Nie możesz sprzedać żadnego z zachowanych Przedmiotów.,Korumalı nesneleri satamazsınız.,client: game texts (localeInfo),done
+c:locale_game:SAFEBOX_WRONG_PASSWORD,The passwords have to be identical.,Hasła muszą być identyczne.,Şifre aynı olmalı.,client: game texts (localeInfo),done
+c:locale_game:SCREENSHOT_SAVE1,Screenshot saved to '%s'.,Zrzut ekranu zapisano w '%s'.,Ekran görüntüsü '%s' olarak kaydedildi.,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SCREENSHOT_SAVE2,Screenshot File,Plik ze zrzutem obrazu,Dosyası Kaydedildi,client: game texts (localeInfo),done
+c:locale_game:SCREENSHOT_SAVE_FAILURE,Saving of Screenshot failed.,Niepomyślny zapis zrzutu obrazu.,Ekran görüntüsü kaydı yapılamadı.,client: game texts (localeInfo),done
+c:locale_game:SECOND,Sec,Sek,sn,client: game texts (localeInfo),done
+c:locale_game:SELECT_CAN_NOT_DELETE,You cannot delete the character.,Nie możesz usunąć postaci.,Karakteri silemezsin.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGED_NAME,You changed the name of the character.,Zmieniłeś nazwę postaci.,Karakterin adını değiştirdin,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_FAILURE_ALREADY_EXIST_NAME,The character name is already existing.,Ta nazwa postaci już istnieje.,Bu karakter adı kullanılıyor,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_FAILURE_STRANGE_INDEX,Try again.,Spróbuj ponownie.,Tekrar dene.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_FAILURE_STRANGE_NAME,That,Nazwa jest niewłaściwa.,Bu karakter adı yanlış.,client: game texts (localeInfo),done
+c:locale_game:SELECT_CHANGE_NAME_TITLE,Change character name.,Zmień nazwę postaci.,Karakter adını değiştir,client: game texts (localeInfo),done
+c:locale_game:SELECT_DELEING,Character will be deleted.,Postać zostanie usunięta.,Silme işlemi başlatılıyor...,client: game texts (localeInfo),done
+c:locale_game:SELECT_DELETED,Deletion successful.,Usuwanie pomyślne.,Başarıyla silindi.,client: game texts (localeInfo),done
+c:locale_game:SELECT_DO_YOU_DELETE_REALLY,Do you want to continue?,Czy chcesz kontynuować?,Devam etmek istiyor musun?,client: game texts (localeInfo),done
+c:locale_game:SELECT_EMPTY_SLOT,This is an empty field.,To jest wolne pole.,Bu boş bir alan.,client: game texts (localeInfo),done
+c:locale_game:SELECT_GM_NAME,GM,GM,,client: game texts (localeInfo),new
+c:locale_game:SELECT_INPUT_CHANGING_NAME,Enter a new character name.,Wprowadź nową nazwę postaci.,Yeni karakter adı gir.,client: game texts (localeInfo),done
+c:locale_game:SELECT_NOT_JOIN_GUILD,No Guild,Brak Gildii,Lonca yok,client: game texts (localeInfo),done
+c:locale_game:SHOP_BUY_INFO,Choose the Item you want to buy in the shop window.,"Wybierz z wystawy przedmiot, który chcesz kupić.",Market penceresinden satın almak istediğin nesneyi seç.,client: game texts (localeInfo),done
+c:locale_game:SHOP_CANNOT_SELL_EQUIPMENT,You cannot sell  equipped Items.,Nie możesz sprzedawać ubranych przedmiotów.,Kullanılmakta olan nesneleri satamazsın.,client: game texts (localeInfo),done
+c:locale_game:SHOP_CANNOT_SELL_ITEM,This Item cannot be sold.,Ten Przedmiot nie może zostać sprzedany.,Bu eşya satılamaz.,client: game texts (localeInfo),done
+c:locale_game:SHOP_ERROR_UNKNOWN,Unknown Shop Error: %s,Nieznany Błąd Sklepu: %s,Bilinmeyen market hatası: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SHOP_INVALID_POS,This Item cannot be used here.,Ten Przedmiot nie może zostać tu użyty.,Bu eşya burada kullanılamaz.,client: game texts (localeInfo),done
+c:locale_game:SHOP_INVENTORY_FULL,Your inventory is full.,Nie ma miejsca w ekwipunku.,Envanterde boş alan yok.,client: game texts (localeInfo),done
+c:locale_game:SHOP_NOT_ENOUGH_MONEY,Not enough Yang,Niewystarczająca ilość Yang,Yeterli Won veya Yang yok,client: game texts (localeInfo),done
+c:locale_game:SHOP_NOT_ENOUGH_MONEY_EX,You do not have enough Yang.,Nie posiadasz wystarczająco Yang.,Yeterli Yang'a sahip değilsin.,client: game texts (localeInfo),done
+c:locale_game:SHOP_SELL_INFO,Choose the Item you want to sell  in your inventory window.,"Wybierz w oknie ekwipunku przedmiot, który chcesz sprzedać.",Envanter penceresinden satmak istediğin nesneyi seç.,client: game texts (localeInfo),done
+c:locale_game:SHOP_SOLDOUT,Sold Out,Wyprzedany,Satıldı,client: game texts (localeInfo),done
+c:locale_game:SHOT_ERROR_UNKNOWN,Unknown Error during Long Distance Attack: %s,Nieznany błąd podczas ataku z dystansu: %s,Uzaktan saldırı esnasında belirsiz hata: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SKILL_BOHO,Reflect,Odbicie,Yansıtma,client: game texts (localeInfo),done
+c:locale_game:SKILL_BUDONG,is not used anymore,nie jest już używany,artık kullanılmıyor,client: game texts (localeInfo),done
+c:locale_game:SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_BOOK,You need EXP to learn this Skill.,Potrzebujesz DOŚ do nauki tej Umiejętności.,Bu beceriyi öğrenmek için EXP e ihtiyacın var.,client: game texts (localeInfo),done
+c:locale_game:SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_STAT,You need a Book to learn this Skill.,Potrzebujesz Księgi do nauki tej Umiejętności.,Bu beceriyi ögrenmek için bir kitaba ihtiyacın var.,client: game texts (localeInfo),done
+c:locale_game:SKILL_CHEONGEUN,Strong Body,,Güçlü Beden,client: game texts (localeInfo),done
+c:locale_game:SKILL_CRITICAL,Critical hit,Cios Krytyczny,Kritik Vuruş,client: game texts (localeInfo),done
+c:locale_game:SKILL_ENCHANT_POISON,Apply Poison,Dodaj Truciznę,Zehir Uygulama,client: game texts (localeInfo),done
+c:locale_game:SKILL_EUNHYEONG,Camouflage,,Kamuflaj,client: game texts (localeInfo),done
+c:locale_game:SKILL_FAINT,Blackout,Omdlenie,Sersemletme,client: game texts (localeInfo),done
+c:locale_game:SKILL_FIND_TRAP,Find Trap,Szukaj Pułapki,Tuzak Kurma,client: game texts (localeInfo),done
+c:locale_game:SKILL_FIRE,Permanent Fire,Podpalenie,Sürekli Ateş,client: game texts (localeInfo),done
+c:locale_game:SKILL_FISHMIND,Fishing Marble is active,Marmur Rybaka jest aktywny,Balıkçılık Küresi etkin,client: game texts (localeInfo),done
+c:locale_game:SKILL_GAMJI,Capture,Złap,Yakalama,client: game texts (localeInfo),done
+c:locale_game:SKILL_GEOMGYEONG,Aura of the Sword,,Hava Kılıcı,client: game texts (localeInfo),done
+c:locale_game:SKILL_GEONGON,SKILL_GEONGON Not used anymore,SKILL_GEONGON Niewykorzystany,SKILL_GEONGON Artık kullanılmıyor,client: game texts (localeInfo),done
+c:locale_game:SKILL_GICHEON,Dragon's Aid,,Ejderha Yardımı,client: game texts (localeInfo),done
+c:locale_game:SKILL_GIGONG,Chi Rotation,Rotacja Chi,Chi Dönüşü,client: game texts (localeInfo),done
+c:locale_game:SKILL_GONGPO,Fear,,Dehşet,client: game texts (localeInfo),done
+c:locale_game:SKILL_GRADE_NAME_GRAND_MASTER,%s Grand Master,%s Wielki Mistrz,%s Grand Master,client: game texts (localeInfo) | keep: %s,check
+c:locale_game:SKILL_GRADE_NAME_MASTER,%s Master,%s Mistrz,%s Master,client: game texts (localeInfo) | keep: %s,check
+c:locale_game:SKILL_GRADE_NAME_PERFECT_MASTER,%s Perfect Master,%s Perfekcyjny Mistrz,%s Perfect Master,client: game texts (localeInfo) | keep: %s,check
+c:locale_game:SKILL_GROUP_ASSASSIN_1,Blade,Ostrze,Bıçak,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_ASSASSIN_2,Arc,Łuk,Ok,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_HORSE,Riding,Jazda,Binicilik,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_SHAMAN_1,Dragon,Smok,Ejderha,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_SHAMAN_2,Healing,Leczenie,Şifa,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_SURA_1,Weapon,Broń,Silah,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_SURA_2,Magic,Magia,Büyü,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_WARRIOR_1,Body,Ciało,Bedensel,client: game texts (localeInfo),done
+c:locale_game:SKILL_GROUP_WARRIOR_2,Mental,Umysł,Zihinsel,client: game texts (localeInfo),done
+c:locale_game:SKILL_GWIGEOM,Enchanted Blade,,Büyülü Silah,client: game texts (localeInfo),done
+c:locale_game:SKILL_GYEONGGONG,Feather Walking,,Hafif Adım,client: game texts (localeInfo),done
+c:locale_game:SKILL_HEUKSIN,Dark Protection,,Karanlık Koruma,client: game texts (localeInfo),done
+c:locale_game:SKILL_HOSIN,Blessing,,Kutsama,client: game texts (localeInfo),done
+c:locale_game:SKILL_HWAYEOM,SKILL_HWAYEOM Not used anymore,SKILL_HWAYEOM Niewykorzystany,SKILL_HWAYEOM Artık kullanılmıyor,client: game texts (localeInfo),done
+c:locale_game:SKILL_HYEOLMA,SKILL_HYEOLMA Not used anymore,SKILL_HYEOLMA Niewykorzystany,SKILL_HYEOLMA Artık kullanılmıyor,client: game texts (localeInfo),done
+c:locale_game:SKILL_INC_ATKSPD,Attack speed raised,Zwiększona Szybkość Ataku,Saldırı hızı arttırıldı,client: game texts (localeInfo),done
+c:locale_game:SKILL_INC_MOVSPD,Moving speed raised,Zwiększona Szybkość Ruchu,Hareket hızı arttırıldı,client: game texts (localeInfo),done
+c:locale_game:SKILL_INMA,SKILL_INMA Not used anymore,SKILL_INMA niewykorzystany,SKILL_INMA Artık kullanılmıyor,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEOJU,Curse,Klątwa,Lanet,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEONGEOP,Healing,Leczenie,İyileştirme,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEONGWI,Battle Flush,,Öfke,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEONSINBANGEO,Full Defence,Całkowita Obrona,Maksimum Defans,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEONSINGONGGYEOK,Full Attack,Całkowity Atak,Maksimum Saldırı,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEUNGCHE,SKILL_JEUNGCHE Not used anymore,SKILL_JEUNGCHE Niewykorzystany,SKILL_JEUNGCHE Artık kullanılmıyor,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEUNGHON,SKILL_JEUNGHON Not used anymore,SKILL_JEUNGHON Niewykorzystany,SKILL_JEUNGHON Artık kullanılmıyor,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEUNGRYEOK,Attack +,,Atak +,client: game texts (localeInfo),done
+c:locale_game:SKILL_JEUNGSOK,Speed +,Szybkość +,Hız +,client: game texts (localeInfo),done
+c:locale_game:SKILL_JIGAM,SKILL_JIGAM Not used anymore,SKILL_JIGAM Niewykorzystany,SKILL_JIGAM Artık kullanılmıyor,client: game texts (localeInfo),done
+c:locale_game:SKILL_JIPJUNG,SKILL_JIPJUNG Not used anymore,SKILL_JIPJUNG Niewykorzystany,SKILL_JIPJUNG Artık kullanılmıyor,client: game texts (localeInfo),done
+c:locale_game:SKILL_JUMAGAP,Enchanted Armour,,Büyülü Zırh,client: game texts (localeInfo),done
+c:locale_game:SKILL_JUMAGEOM,SKILL_JUMAGEOM Not used anymore,SKILL_JUMAGEOM Niewykorzystany,SKILL_JUMAGEOM Artık kullanılmıyor,client: game texts (localeInfo),done
+c:locale_game:SKILL_KWAEGEOM,SKILL_KWAEGEOM Not used anymore,SKILL_KWAEGEOM Niewykorzystany,SKILL_KWAEGEOM Artık kullanılmıyor,client: game texts (localeInfo),done
+c:locale_game:SKILL_KWAESOK,Speed,,Hız,client: game texts (localeInfo),done
+c:locale_game:SKILL_LEGBOUND,SKILL_LEGBOUND Not used anymore,SKILL_LEGBOUND Niewykorzystany,SKILL_LEGBOUND Artık kullanılmıyor,client: game texts (localeInfo),done
+c:locale_game:SKILL_MUSA,SKILL_MUSA Not used anymore,SKILL_MUSA Niewykorzystany,SKILL_MUSA Artık kullanılmıyor,client: game texts (localeInfo),done
+c:locale_game:SKILL_MUYEONG,Ghost of the Flame,,Ateş Hayaleti,client: game texts (localeInfo),done
+c:locale_game:SKILL_NEED_EMPTY_BOTTLE,I do not have an Empty Bottle.,Nie mam Pustej Butelki.,Boş şişem yok.,client: game texts (localeInfo),done
+c:locale_game:SKILL_NEED_POISON_BOTTLE,I do not have a Poison Bottle,Nie mam Butelki z Trucizną,Zehir şişem yok.,client: game texts (localeInfo),done
+c:locale_game:SKILL_ONLY_FOR_GUILD_WAR,You can use this Skill during a Guild War only.,Możesz używać tej Umiejętności tylko podczas Wojny Gildii.,Bu beceriyi sadece Lonca Savaşı sırasında kullanabilirsin.,client: game texts (localeInfo),done
+c:locale_game:SKILL_PABEOP,Neutralize Spell,,Büyü Çözme,client: game texts (localeInfo),done
+c:locale_game:SKILL_POWERFUL_STRIKE,Dazing Attack,Atak Oszałamiający,Sersemletici Saldırı,client: game texts (localeInfo),done
+c:locale_game:SKILL_SEOMGWANG,Lightning Bomb,Bomba Błyskawic,Şimşek Bombası,client: game texts (localeInfo),done
+c:locale_game:SKILL_SINCHAK,SKILL_SINCHAK Not used anymore,SKILL_SINCHAK Niewykorzystany,SKILL_SINCHAK Artık kullanılmıyor,client: game texts (localeInfo),done
+c:locale_game:SKILL_SLEEP,Sleep,Uśpienie,Uyku,client: game texts (localeInfo),done
+c:locale_game:SKILL_SLOW,Slow,Spowolnienie,Yavaş,client: game texts (localeInfo),done
+c:locale_game:SKILL_STUN,Daze,Ogłuszenie,Sersemletme,client: game texts (localeInfo),done
+c:locale_game:SKILL_SUHO,Guard,Strażnik,Koruma,client: game texts (localeInfo),done
+c:locale_game:SKILL_SUMMON_DESCRIPTION,Chance of the Evocation: %d%%,Szansa na Przywołanie: %d%%,Çağırma şansı: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:SKILL_TOOLTIP_INT,Intelligence,Inteligencja,Zeka,client: game texts (localeInfo),done
+c:locale_game:SKILL_TOOLTIP_LEVEL,Level,Poziom,Seviye,client: game texts (localeInfo),done
+c:locale_game:SKILL_TOXICDIE,Poisoning,Otrucie,Zehirleme,client: game texts (localeInfo),done
+c:locale_game:SKILL_TOXICPOWER,Poison attack value increased,Zwiększona Wartość Ataku Trucizną,Zehirleme saldırısı yükseltildi.,client: game texts (localeInfo),done
+c:locale_game:SKILL_TUSOK,Ghost Hit,Uderzenie Ducha,Hayalet Vuruş,client: game texts (localeInfo),done
+c:locale_game:SKILL_WONSIN,SKILL_WONSIN Not used anymore,SKILL_WONSIN Niewykorzystany,SKILL_WONSIN Artık kullanılmıyor,client: game texts (localeInfo),done
+c:locale_game:SKILL_YONGSIN,SKILL_YONGSIN Not used anymore,SKILL_YONGSIN Niewykorzystany,SKILL_YONGSIN Artık kullanılmıyor,client: game texts (localeInfo),done
+c:locale_game:STAT_MINUS_CON,Vitality Adjustment (Remaining chance: %d),Dostosowanie Witalności (Pozostała szansa: %d),Canlılık Ayarı (kalan: %d),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:STAT_MINUS_DEX,Dexterity Adjustment (Remaining Chance: %d),Dostosowanie Zręczności (Pozostała Szansa: %d),Çeviklik Ayarı (kalan: %d),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:STAT_MINUS_INT,Intelligence Adjustment (Rest of Chance: %d),Dostosowanie Inteligencji (Pozostałą szansa: %d),Zeka Ayarı (kalan: %d),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:STAT_MINUS_STR,Strength Adjustment (Rest of Chance: %d),Dostosowanie Siły (Pozostałą szansa: %d),Güç Ayarı (kalan: %d),client: game texts (localeInfo) | keep: %d,done
+c:locale_game:STAT_TOOLTIP_CON,Increases HP and defence,Podwyższa PŻ i Obronę,HP ve Savunma'yı arttırıyor,client: game texts (localeInfo),done
+c:locale_game:STAT_TOOLTIP_DEX,Increases attack and evasion,Podwyższa atak i uniki,Saldırı ve Savuşturma'yı arttıryor,client: game texts (localeInfo),done
+c:locale_game:STAT_TOOLTIP_INT,"Increases SP, magic attack and defence","Podwyższa PE, magiczny atak i obronę.","SP, Büyülü Saldırı ve Savunma'yı artırıyor",client: game texts (localeInfo),done
+c:locale_game:STAT_TOOLTIP_STR,Increases attack value and damage,Podwyższa Wartość Ataku i Uszkodzeń,Saldırı Değeri'ni ve Hasarı arttırıyor,client: game texts (localeInfo),done
+c:locale_game:SYMBOLLIST_TITLE,Register Guild flag,Zarejestruj Flagę Gildii,Lonca Bayrağı kaydedildi.,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_CPU_TILING_1,CPU Tiling Mode can upgrade the speed of a weaker PC.,CPU TNL może ulepszyć szybkość słabszego PC.,"CPU çakışmayan modu, daha zayıf bir bilgisayarın hızını artırabilir.",client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_CPU_TILING_2,"If there are problem with the graphics choose either ,Systemoption‘ or ,CONFIG.exe‘","Jeśli jest problem z grafiką, wybierz ,Opcje System lub ,CONFIG.exe;",Grafik sorunları varsa 'Sistem Seçeneği' veya 'CONFIG.exe'yi seçin,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_CPU_TILING_3,and change to GPU Tiling Mode.,i zmień na GPU TNL.,ve Yer Paylaşımsız GPU Moduna geçin.,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_GPU_TILING_1,GPU Tiling Mode can run slow on a weaker PC.,GPU TNL może działać wolniej na słabszych PC.,"GPU Yer Paylaşımsız Mod, zayıf bir bilgisayarda yavaş olabilir.",client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_GPU_TILING_2,If there are problems with the graphics choose either 'System Options' or 'CONFIG.exe',"Jeśli zaistnieją problem z grafiką, wybierz 'Opcje Systemu' lub 'CONFIG.exe'","Grafiklerle ilgili sorunlarınız varsa, 'Sistem Seçenekleri'ni veya 'CONFIG.exe'yi seçin.",client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_GPU_TILING_3,and change to GPU Tiling Mode.,i zmień na GPU TNL,ve Yer Paylaşımsız GPU Moduna geçin,client: game texts (localeInfo),done
+c:locale_game:SYSTEM_OPTION_TILING_EXIT,"To change to Tiling mode, the game has to be restarted.",Aby zmienić tryb TNL trzeba zrestartować grę.,Tiling moduna geçmek için oyunun yeniden başlatılması gerekir.,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_ACCEPT_FIGHT,Agree,Zgoda,Anlaşma,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_AVENGE,Revenge,Zemsta,İntikam,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_BUILDING_DESTROY,Destroy,Zniszcz,Yıkmak,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_DISMOUNT,Dismount,Zsiądź,İnmek,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_EMOTION_ALLOW,Emotions,Emocje,Duygular,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_EXCHANGE,Trading,Handel,Ticaret,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_EXCLUDE,Exclude,Wyklucz,Reddetmek,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_EXIT_OBSERVER,End Observer Mode,Zakończ Tryb Obserwatora,İzlemeyi Bitir,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_FIGHT,Duel,Pojedynek,Düello,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_FRIEND,Friend,Przyjaciel,Dost,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_INVITE_GUILD,Guild Invitation,Zapr. Gildii,Loncaya al,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_INVITE_PARTY,Group Invitation,Zapr. Grupy,Grup daveti,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_LEAVE_PARTY,Leave Group,Opuść Grupę,Gruptan çık,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_REQUEST_ENTER_PARTY,Join Group,Dołącz do Grupy,Gruba katıl,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_VIEW_EQUIPMENT,Equipment,Zbroja,Zırh,client: game texts (localeInfo),done
+c:locale_game:TARGET_BUTTON_WHISPER,Whispering,Szept,Fısıldama,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_BOSS,Boss,Boss,Patron,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_KING,Level 5.,Stopień 5.,5.Seviye,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_KNIGHT,Level 3.,Stopień 3.,3.Seviye,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_PAWN,Level 1.,Stopień 1.,1.Seviye,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_S_KNIGHT,Level 4.,Stopień 4.,4.Seviye,client: game texts (localeInfo),done
+c:locale_game:TARGET_LEVEL_S_PAWN,Level 2.,Stopień 2.,2.Seviye,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_ATTACK,Attack,Atak,Saldırı,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_AUTO,Attack automatically,atakuj automatycznie,Otomatik Saldırı,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_CAMERA,Camera,Kamera,Kamera,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_EXP,Experience,Doświadczenie,Deneyim,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_HP,HP,PŻ,HP,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_MOVE,Move,Ruch,ilerle,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_SKILL,Skill,Umiejętność,Beceri,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_SP,SP,PE,SP,client: game texts (localeInfo),done
+c:locale_game:TASKBAR_ST,ST,ST,ST,client: game texts (localeInfo),done
+c:locale_game:THING_COUNT,all,wszystko,hepsi,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ANTI_CRITICAL_PCT,Resistance against critical hits +%d%%,Odporność na cios krytyczny +%d%%,Kritik Vuruş Direnci +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ANTI_PENETRATE_PCT,Resistance against piercing hits +%d%%,Odporność na przeszywający cios +%d%%,Delici Vuruş Direnci +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ANTI_SELL,Cannot be sold in the shop.,Nie może zostać sprzedany w Magazynie,Depoda satılamaz,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_ANIMAL,Strong against Animals +%d%%,Silny przeciwko Zwierzętom +%d%%,Hayvanlara karşı güçlü +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_ASSASSIN,Strong against Ninjas +%d%%,Silny przeciwko Ninja +%d%%,Ninjalara karşı güçlü +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_DEVIL,Strong against Devils +%d%%,Silny przeciwko Diabłom +%d%%,Şeytanlara karşı güçlü +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_HUMAN,Strong against Half Humans +%d%%,Silny przeciwko Ludziom +%d%%,Yarı insanlara karşı güçlü +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_MILGYO,Strong against Mystics +%d%%,Silny przeciwko Mistykom +%d%%,Mistiklere karşı güçlü +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_MONSTER,Strength against monsters +%d%%,Silny przeciwko Potworom +%d%%,Canavarlara karşı güçlü +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_ORC,Strong against Orcs +%d%%,Silny przeciwko Orkom +%d%%,Orklara karşı güçlü +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_SHAMAN,Strong against Shamans +%d%%,Silny przeciwko Szamanom +%d%%,Şamanlara karşı güçlü +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_SURA,Strong against Sura +%d%%,Silny przeciwko Sura +%d%%,Suralara karşı güçlü +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_UNDEAD,Strong against Undead +%d%%,Silny przeciwko Nieumarłym +%d%%,Ölümsüzlere karşı güçlü +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_ATTBONUS_WARRIOR,Strong against Warriorr +%d%%,Silny przeciwko Wojownikom +%d%%,Savasçılara karşı güçlü +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_BLOCK,Chance to block a close-combat attack %d%% ,Szansa na blok ciosów %d%%,Yakın dövüş saldırıları bloklama şansı: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_COMBAT_SP_RECOVER,Recover SP all 5 seconds in a Battle %d,Odzyskiwanie PE przez 5 sekund podczas Bitwy %d,Savaşta her 5 saniyede SP yenile %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_CRITICAL_PCT,Chance of critical hit +%d%% ,Szansa na cios krytyczny +%d%%,Kritik Vuruş Şansı: +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_DAMAGE_SP_RECOVER,%d%% Chance to get back SP when hit,Szansa na transfer %d%% otrzymanych obrażeń do PE,Vuruş yapıldığında Sp geri kazanım şansı %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_DODGE,Chance to avoid Arrows %d%%,Szansa na uniknięcie Strzały: %d%%,Oklardan korunma şansı %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_EXP_DOUBLE_BONUS,%d%% Chance for EXP Bonus,Szansa na Bonus DOŚ: %d%%,EXP Bonus şansı %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_GOLD_DOUBLE_BONUS,%d%% Chance to drop double Yang,Szansa na podwójną ilość Yang: %d%%,İki kat Yang düşme şansı %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_IMMUNE_FALL,Immune against falling down,Niewrażliwy na Upadek,Yere düşme karşısında bağışıklık,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_IMMUNE_SLOW,Defence against slowing,Niewrażliwy na spowolnienie,Yavaşlama karşısında bağışıklık,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_IMMUNE_STUN,Defence against blackouts,Niewrażliwy na omdlenia,Sersemlik karşısında bağışıklık,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_ITEM_DROP_BONUS,%d%% Chance to drop double the Items,Szansa na podwójną ilość Przedmiotów: %d%%,İki Kat eşya düşme şansı %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_KILL_HP_RECOVER,"%d%% Chance, to restore HP",Szansa na odzyskanie PŻ: %d%%,HP yenileme şansı %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_KILL_SP_RECOVER,%d%% Chance to restore SP,Szansa na odzyskanie PE: %d%%,SP yenileme şansı %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_MANA_BURN_PCT,%d%% chance to rob SP,%d%% Szansa na kradzież PE,SP çalma şansı %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ +%d%%,Maks. HP %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_MAX_SP_PCT,Max. SP +%d%% ,Maks. PE +%d%% ,Maks. SP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_NOAFFECT,No effect,Brak efektu,Efekt yok.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_NO_DEATH_PENALTY,No experience points will be lost if your character is revived at the place of his death. ,Nie tracisz Punktów Doświadczenia podczas wznawiania gry w miejscu śmierci.,Karakter ölüp burada başla dediğinde deneyim kaybetmeyecek.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_PENETRATE_PCT,%d%% Chance for piercing Hits,Szansa na przeszywające Uderzenie: %d%% ,Delici Vuruş için şansı %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_POISON_PCT,Poisoning chance %d%%,Szansa na Otrucie %d%%,Zehirleme şansı %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_POISON_REDUCE,Poison Resistance %d%%,Odporność na Trucizny: %d%%,Zehre karşı koyma %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_POTION_BONUS,Potion %d%% effect raise,Objętość mikstur PŻ/PE powiększona o %d%%,İksir etkisi %d%% yükseldi,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_REFLECT_CURSE,Chance to reflect Curse: %d%%,,Lanet Yansıtılması: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_REFLECT_MELEE,%d%% Chance to reflect close combat hits  ,%d%% Szansa na odbicie Ciosu,Yakın dövüş vuruşlarını yansıtma şansı: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_ASSASSIN,Defence chance against ninja attacks: %d%%,Odporność na Ninja: %d%%,Ninja saldırılarına karşı savunma şansı %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_BELL,Bell Defence %d%%,Odporność na Dzwony: %d%%,Çan Savunması %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_DAGGER,Dagger Defence %d%%,Odporność na Sztylety: %d%%,Bıçak Savunması %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_FAN,Fan Defence %d%%,Odporność na Wachlarze: %d%%,Yelpaze Savunması %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_SHAMAN,Defence chance against shaman attacks: %d%%,Odporność na Szamanów: %d%%,Şaman saldırılarına karşı savunma şansı: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_SURA,Defence chance against sura attacks: %d%%,Odporność na Sura: %d%%,Sura saldırılarına karşı savunma şansı: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_SWORD,Sword Defence %d%%,Odporność na Miecze: %d%%,Kılıç Savunması %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_TWOHAND,Two-Handed Defence %d%%,Odporność na Broń Dwuręczną: %d%%,Çift-El Savunma %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_WARRIOR,Defence chance against warrior attacks: %d%%,Odporność na Wojowników: %d%%,Savaşçı saldırılarına karşı savunma şansı: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_RESIST_WIND,Wind Resistance %d%%,Odporność na Wiatr: %d%%,Rüzgar Dayanıklılığı %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_SKILL_BOOK_BONUS,Chance to learn from books upgraded by factor 2.5 .,Rada Pustelnika,"Kitaptan öğrenme şansı 2,5 arttı",client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_SKILL_BOOK_NO_DELAY,If learning fails you immediately have another try for free,"Jeśli trening się nie powiedzie, możesz od razu spróbować ponownie.","Öğrenme başarısız olursa, anında bir kere daha deneme şansına sahipsin.",client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_SLOW_PCT,Slowing chance %d%%,Szansa na Spowolnienie %d%%,Yavaşlama şansı: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_STEAL_HP,%d%% damage  will be absorbed by HP,%d%% obrażeń będzie dodanych do PŻ,"%d%% hasar, HP ile absorbe edilecek",client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_STEAL_SP,%d%% damage will be absorbed by SP,%d%% obrażeń będzie dodanych do PE,"%d%% hasar, SP ile absorbe edilecek.",client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_STUN_PCT,Blackout chance %d%%,Szansa na Omdlenie %d%%,Bayılma şansı: %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ARMOR,Armor,Zbroja,Zırh,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ARROW,Arrow,Strzała,Ok,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ASSASSIN,Ninja,Ninja,Ninja,client: game texts (localeInfo),check
+c:locale_game:TOOLTIP_ATT_GRADE,Attack Value +%d,Wartość Ataku +%d,Saldırı Değeri +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ATT_SPEED,Attack Speed +%d%%,Szybkość Ataku +%d%%,Saldırı Hızı +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_AUTO_POTION_HP,Sun Elixir,Eliksir Słońca,HP İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_AUTO_POTION_REST,Remainder: %.2f%%,Pozostało: %.2f%%,Kalan miktar: %.2f%%,client: game texts (localeInfo) | keep: %.2f,done
+c:locale_game:TOOLTIP_AUTO_POTION_SP,Moon Elixir,Eliksir Księżyca,SP İksir,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_AUTO_POTION_USING,Active,Aktywny,Etkinleştir,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_BOW_DISTANCE,Arc Range +%dm,Zasięg Łuku +%dm,Menzil +%d m,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_BUYPRICE,Price: %s,Cena: %s,Fiyatı: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_CAST_SPEED,Casting Speed +%d%%,Szybkość Zaklęcia +%d%%,Büyü Hızı +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_CON,Vitality +%d,Witalność +%d,Canlılık +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_COSTUME_ATTR_BONUS,Costume bonus %d%% ,Bonus kostiumu %d%% ,Kostüm bonusu %d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_DEF_GRADE,Defence +%d,Obrona +%d,Savunma +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_DEX,Dexterity +%d,Zręczność +%d,Çeviklik +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_DRAGON_SOUL_DECK1,Earth,Ziemia,Gökyüzü,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_DRAGON_SOUL_DECK2,Sky,Niebo,Dünya,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_EAR,Earring,Kolczyki,Küpe,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ENERGY,Energy %d ,Energia %d,Enerji %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ETC,And so on,I tak dalej,v.b.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_FISHINGROD_EXP,Points %d / %d,Punkty %d / %d,Puanlar %d / %d,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_FISHINGROD_LEVEL,Level: %d,Poziom: %d,Seviye: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_FISHINGROD_UPGRADE1,Give to the Fisherman,"Daj Rybakowi,",Onu balıkçıya ver;,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_FISHINGROD_UPGRADE2,to get a better,aby dostać,daha iyi,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_FISHINGROD_UPGRADE3,Fishing Pole.,Ulepszoną Wędkę.,bir olta almak için.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_FISH_LEN,Lenght: %.2fcm,Długość: %.2fcm,Uzunluk: %.2fcm,client: game texts (localeInfo) | keep: %.2f,done
+c:locale_game:TOOLTIP_HELMET,Helmet,Hełm,Kask,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_HP_REGEN,HP Regeneration +%d%%,Regeneracja Mikstur PŻ: +%d%%,HP Üretimi +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_INT,Intelligence +%d,Inteligencja +%d,Zeka +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_GRADE,Attack Value %d,Wartość Ataku: %d,Saldırı değeri %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_POWER,Attack Value %d - %d,Wartość Ataku: %d - %d,Saldırı değeri %d - %d,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_POWER_ONE_ARG,Attack Value %d,Wartość Ataku: %d,Saldırı değeri %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_POWER_REFINE,Attack Value %d - %d (+%d),Wartość Ataku: %d - %d (+%d),Saldırı değeri %d - %d (+%d),client: game texts (localeInfo) | keep: %d %d %d,done
+c:locale_game:TOOLTIP_ITEM_ATT_SPEED,Attacking Speed %s,Szybkość Ataku: %s,Saldırı hızı %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_ITEM_DEF_GRADE,Defence %d,Obrona %d,Defans %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_FAST,Fast,Szybki,Hızlı,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_LIMIT_CON,Vitality Upper Limit: %d,Górna granica Witalności: %d,Canlılık üst limiti: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_LIMIT_DEX,Dexterity Upper Limit: %d,Górny limit Zręczności: %d,Çeviklik üst limiti: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_LIMIT_INT,Intelligence Upper Limit: %d,Górna granica Inteligencji: %d,Zeka üst limiti: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_LIMIT_LEVEL,From Level: %d,Od Poziomu: %d,Seviye: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_LIMIT_STR,Strenght Upper Limit: %d,Górna granica Siły: %d,Güç üst limiti: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_MAGIC_ATT_POWER,Magical Attack Value %d - %d,Wartość Magicznego Ataku: %d - %d,Büyülü saldırı değeri %d - %d,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_ITEM_MAGIC_ATT_POWER_ONE_ARG,Magical Attack Value %d,Wartość Magicznego Ataku: %d,Büyülü saldırı değeri %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_MAGIC_DEF_POWER,Magical Defence %d,Magiczna Obrona %d,Büyü Savunması %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ITEM_NORMAL,Normal,Normalny,Normal,client: game texts (localeInfo),check
+c:locale_game:TOOLTIP_ITEM_SLOW,Slow,Wolny,Yavaş,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_VERY_FAST,Very fast,Bardzo szybki,Çok Hızlı,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_VERY_SLOW,Very slow,Bardzo wolny,Çok Yavaş,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_WEARABLE_JOB,[ Wearable ],[ Do ubrania ],[Giyilebilir],client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_LOTTERY_STEP_NUMBER,%d,%d,%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_LOTTO_NUMBER,Lucky Number: %d,Szczęśliwy Numer: %d,Şans Numarası: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_ATTBONUS_PER,Magic attack +%d%%,Magiczny atak +%d%%,Büyü Saldırı +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_ATT_GRADE,Magical Attack Value +%d,Wartość Magicznego Ataku: +%d,Büyülü Saldırı Değeri +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_DEF_GRADE,Magical Defence +%d,Magiczna Obrona: +%d,Büyü Savunması +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_ATTBONUS,Attack Value +%d%%,Wartość Ataku: +%d%%,Saldırı Değeri +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_ATTBONUS_STATIC,Attack Value +12~15%,Wartość Ataku: +12~15%,Saldırı değeri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_AUTOLOOT,A hand that picks up dropped Yang automatically,"Ręka, która automatycznie podnosi upuszczone Yang.",Yerdeki mevcut Yang`ın otomatik olarak toplanmasını sağlayan el.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_DEFBONUS,Defence +%d%%,Obrona: +%d%%,Savunma +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_DEFBONUS_STATIC,Defence +12~15%,Obrona +12~15%,Savunma,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_EXPBONUS,EXP +%d%%,Punkty Doświadczenia: +%d%%,EXP +%d%%,client: game texts (localeInfo) | keep: %d,check
+c:locale_game:TOOLTIP_MALL_EXPBONUS_P_STATIC,iCafe EXP Bonus +%d%%,iCafe DOŚ Bonus +%d%%,iCafe EXP bonusu +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MALL_EXPBONUS_STATIC,Increases gaining EXP by 50%,Zwiększa zdobywanie PD o 50%,EXP artışını %50 arttırır,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_FISH_MIND,Your chance of catching a rare fish is doubled.,Szansa schwytania rzadkiej ryby zostanie podwojona.,Balık yakalama şansını ikiye katlar.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_GOLDBONUS,Chance of capturing Yang multiplied with %.1f,Szansa na zdobycie Yang pomnożona o %.1f,Yang düşürme şansı %.1f ile çarpılır,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_MALL_GOLDBONUS_STATIC,Doubles your chance to capture Yang,Szansa znalezienia Yang zostanie podwojona,İki katı Yang düşürme şansı,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_ITEMBONUS,Chance of capturing Items multiplied with %.1f,Szansa na zdobycie Przedmiotów pomnożona o %.1f,Eşya düşürme şansı %.1f ile çarpılır,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_MALL_ITEMBONUS_P_STATIC,iCafe Chance of capturing Items plus %.1f%%,iCafe Szansa na zdobycie Przedmiotów plus %.1f%%,Eşya ele geçirmede iCafe şansı için %%%.1f artış,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_MALL_ITEMBONUS_STATIC,Doubles your chances of capturing items,Podwojona szansa na zdobycie przedmiotu,Nesne düşürme şansı %200 arttı.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_MARRIAGE_FAST,Lovepoints raise faster.,Punkty Miłości szybciej się regenerują.,Sevgi Puanı daha hızlı artar.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MALL_SAFEBOX,Your Storeroom gets 2 storage rooms,Zwiększona pojemność Magazynu,Depoya fazladan 2 oda daha eklenir,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_MAX_HP,Max. HP +%d,Maks. PŻ: +%d,Maks. HP +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ: +%d%%,Maks. HP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_SP,Max. SP +%d,Maks. PE: +%d,Maks. SP +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_SP_PCT,Max. SP +%d%%,Maks. PE: +%d%%,Maks. SP +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAX_STAMINA,Max. Endurance +%d,Maks. Stamina: +%d,Max. Dayanıklılık +%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MELEE_MAGIC_ATTBONUS_PER,Magic/melee attack +%d%%,Magiczny/krótkodystansowy atak +%d%%,Büyü Saldırı / Yakın Dövüş Saldırı +%d%%,client: game texts (localeInfo) | keep: %d,done

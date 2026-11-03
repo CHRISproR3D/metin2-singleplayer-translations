@@ -1,0 +1,701 @@
+id,english,polski,translation,notes,status
+c:locale_game:SKILL_DISPEL_DESC,Removes all of an opponent's support skills.,Usuwa wszystkie umiejętności wspomagające przeciwnika.,Rakibin tüm destek becerilerini kaldırır.,client: game texts (localeInfo),done
+c:locale_game:SKILL_DRAGON_HELP_DESC,Raises the chance of a critical hit. Can be given to another player. Bonus when used on yourself.,Zwiększa szanse na krytyczne uderzenie. Możliwość zbuffowania innego gracza. Bonus użycia na samym sobie.,Kritik vuruş şansını artırır. Başka bir oyuncu üzerinde kullanılabilir. Kendine uygulamada bonus.,client: game texts (localeInfo),done
+c:locale_game:SKILL_DRAGON_ROAR_DESC,Area attack. Using it activates Dragon's Wrath.,Atak obszarowy. Użycie aktywuje Smoczy Gniew.,"Alan saldırısı. Kullanımı, Ejderha öfkesini etkinleştirir.",client: game texts (localeInfo),done
+c:locale_game:SKILL_DRAGON_SWIRL_DESC,Attacks every opponent around you.,Atakuje wszystkich przeciwników wokół siebie.,Çevrendeki tüm rakiplere saldırır.,client: game texts (localeInfo),done
+c:locale_game:SKILL_ENCHANTED_ARMOR_DESC,Raises defence and has a chance to reflect a physical blow.,Zwiększa obronę oraz posiada szansę na odbicie ciosu fizycznego.,Savunmayı artırır ve fiziki bir darbeyi yansıtma şansı vardır.,client: game texts (localeInfo),done
+c:locale_game:SKILL_ENCHANTED_BLADE_DESC,Raises physical damage dealt and steals HP from the opponent. ,Zwiększa zadawane obrażenia fizyczne oraz kradnie PŻ od przeciwnika. ,Verilen fiziki hasarı artırır ve rakipten HP çalar. ,client: game texts (localeInfo),done
+c:locale_game:SKILL_FAST_ATTACK_DESC,A fast area attack that teleports you. ,Szybki atak obszarowy i teleportujący. ,Seni ışınlayan hızlı bir alan saldırısı. ,client: game texts (localeInfo),done
+c:locale_game:SKILL_FEATHER_WALK_DESC,Raises movement speed. Raises stamina regeneration in combat. Weaker monsters do not hear your steps.,Zwiększa szybkość poruszania się. Zwiększa regenerację staminy w walce. Słabsze potwory nie słyszą twoich kroków.,Hareket hızını artırır. Savaşta dayanıklılık yenilenmesini artırır. Daha zayıf canavarlar adımlarını duymaz.,client: game texts (localeInfo),done
+c:locale_game:SKILL_FINGER_STRIKE_DESC,An attack that bypasses the opponent's defence.,Atak umożliwiający ominięcie obrony przeciwnika.,Rakibin savunmasını yok sayan bir saldırı.,client: game texts (localeInfo),done
+c:locale_game:SKILL_FIRE_ARROW_DESC,Area attack with a chance to set on fire.,"Atak obszarowy, szansa na podpalenie.",Tutuşturma şansı olan alan saldırısı.,client: game texts (localeInfo),done
+c:locale_game:SKILL_FLAME_SPIRIT_DESC,Fireballs attack the marked target; the damage can splash onto monsters beside it.,"Atak ognistych kul na zaznaczony cel, obrażenia mogą rozprysnąć na potwory stojące obok.",Ateş topları işaretli hedefe saldırır; hasar yanındaki canavarlara sıçrayabilir.,client: game texts (localeInfo),done
+c:locale_game:SKILL_FLAME_STRIKE_DESC,Area attack on every opponent around the character. ,Atak obszarowy we wszystkich przeciwników wokół postaci. ,Karakterin çevresindeki tüm rakiplere alan saldırısı. ,client: game texts (localeInfo),done
+c:locale_game:SKILL_FLYING_TALISMAN_DESC,"A long-range attack that can splash onto opponents beside it, with a chance to slow.","Atak długodystansowy, może rozprysnąć się na przeciwników obok, szansa na spowolnienie.","Yanındaki rakiplere sıçrayabilen, yavaşlatma şansı olan uzaktan saldırı.",client: game texts (localeInfo),done
+c:locale_game:SKILL_LIGHTNING_CLAW_DESC,Sets off a chain reaction. Attacks several targets.,Wywołuje reakcję łańcuchową. Atakuje wiele celów.,Zincirleme saldırı başlatır. Birden çok hedefe saldırır.,client: game texts (localeInfo),done
+c:locale_game:SKILL_LIGHTNING_THROW_DESC,A long-range attack that hits one opponent or several standing together.,"Atak z dystansu o dużym zasięgu, atakuje jednego przeciwnika, lub kilku stojących obok siebie.",Bir rakibe veya yan yana duran birkaç rakibe isabet eden uzaktan saldırı.,client: game texts (localeInfo),done
+c:locale_game:SKILL_MANASHIELD_DESC,Redirects damage from HP to SP.,Przekierowuje obrażenia z PŻ na PE.,Hasarı HP'den SP'ye yönlendirir.,client: game texts (localeInfo),done
+c:locale_game:SKILL_POISON_ARROW_DESC,Has a chance to poison the opponent and stuns it.,Posiada szansę na otrucie przeciwnika oraz zawiera w sobie omdlenie.,Rakibi zehirleme şansı vardır ve rakibi bayıltır.,client: game texts (localeInfo),done
+c:locale_game:SKILL_POISON_CLOUD_DESC,Has a chance to poison the opponent.,Posiada szanse na otrucie przeciwnika.,Rakibi zehirleme şansı vardır.,client: game texts (localeInfo),done
+c:locale_game:SKILL_REFLECT_DESC,Reflects physical attacks. Can be given to another player. Bonus when used on yourself.,Odbija ataki fizyczne. Możliwość zbuffowania innego gracza. Bonus użycia na samym sobie.,Fiziki saldırıları yansıtır. Başka bir oyuncu üzerinde kullanılabilir. Kendine uygulamada bonus.,client: game texts (localeInfo),done
+c:locale_game:SKILL_REPETITIVE_SHOT_DESC,Shoots several arrows in a row. Chance of a piercing shot.,Wystrzał kilku strzał pod rząd. Szansa na przeszywający strzał.,Art arda birkaç ok atar. Delici atış şansı vardır.,client: game texts (localeInfo),done
+c:locale_game:SKILL_ROLLING_DAGGER_DESC,A spinning attack with three chances to hit and a chance to poison the opponent. ,Atak obrotowy posiadający trzy szanse na trafienie oraz szansę na otrucie przeciwnika. ,Üç isabet şansı olan ve rakibi zehirleme şansı bulunan dönen bir saldırı. ,client: game texts (localeInfo),done
+c:locale_game:SKILL_SHAMAN_FIRE_RAGE,Dragon's Wrath,Smoczy Gniew,Ejderha öfkesi,client: game texts (localeInfo),done
+c:locale_game:SKILL_SHAMAN_FIRE_RAGE_DESC,Activates with Dragon's Roar. Raises physical attack power.,Aktywuje się razem z użyciem um. Smoczy Skowyt. Zwiększa siłę ataku fizycznego.,Ejderha kükremesi ile birlikte etkinleşir. Fiziki saldırı gücünü artırır.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SHAMAN_HEAVEN_PROTECTION,Heavenly Shield,Niebiańska Tarcza,Göksel kalkan,client: game texts (localeInfo),done
+c:locale_game:SKILL_SHAMAN_HEAVEN_PROTECTION_DESC,Activates with Cure. Absorbs damage dealt by monsters.,Aktywuje się razem z użyciem um. Leczenie. Absorbuje obrażenia zadane od potworów.,Şifa ile birlikte etkinleşir. Canavarların verdiği hasarı emer.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SHOOTING_DRAGON_DESC,A ranged area attack. Has a chance to set the target on fire. ,Atak dystansowo-obszarowy. Posiada szansę na podpalenie celu. ,Uzaktan alan saldırısı. Hedefi tutuşturma şansı vardır. ,client: game texts (localeInfo),done
+c:locale_game:SKILL_SPIRIT_ORB_DESC,A long-range attack on several targets. Has a chance to slow the opponent.,"Atak długodystansowy, atakuje wiele celów. Posiada szansę na spowolnienie przeciwika.",Birden çok hedefe uzaktan saldırı. Rakibi yavaşlatma şansı vardır.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SPIRIT_STRIKE_DESC,A strong frontal area blow.,Silne frontowe uderzenie obszarowe.,Güçlü bir ön alan darbesi.,client: game texts (localeInfo),done
+c:locale_game:SKILL_STEALTH_DESC,Hides the character; attack from an Ambush.,"Powoduje ukrycie się postaci, atak z Zasadzki.",Karakteri gizler; Suikast ile saldırılabilir.,client: game texts (localeInfo),done
+c:locale_game:SKILL_STRONG_BODY_DESC,Raises defence and lowers movement speed. From grade G the character does not fall and gains Piercing Strike resistance.,"Zwiększa obronę, zmniejsza szybkość poruszania się. Od poziomu G postać nie upada oraz zwiększa Odporność na Przeszywające Uderzenie.","Savunmayı artırır, hareket hızını düşürür. G seviyesinden itibaren karakter düşmez ve Delici Vuruş direnci kazanır.",client: game texts (localeInfo),done
+c:locale_game:SKILL_STUMP_DESC,"Attacks the opponents around you, with a chance to stun them.","Atakuje przeciwników wokół siebie, posiada szansę na omdlenie przeciwnika.",Çevrendeki rakiplere saldırır ve onları bayıltma şansı vardır.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SUMMON_LIGHTNING_DESC,Area attack. Has a chance to stun the opponent.,Atak obszarowy. Posiada szansę na omdlenie przeciwinika.,Alan saldırısı. Rakibi bayıltma şansı vardır.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SWIFTNESS_DESC,Raises movement speed and speeds up skill cooldowns. Can be given to another player. Bonus when used on yourself.,Zwiększa prędkość poruszania się oraz przyspiesza tempo odnowienia umiejętności. Możliwość zbuffowania innego gracza. Bonus użycia na samym sobie.,Hareket hızını artırır ve becerilerin yüklenme süresini düşürür. Başka bir oyuncu üzerinde kullanılabilir. Kendine uygulamada bonus.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SWORD_AURA_DESC,Raises attack power.,Zwiększa siłę ataku.,Saldırı gücünü artırır.,client: game texts (localeInfo),done
+c:locale_game:SKILL_SWORD_STRIKE_DESC,A long-range attack that stuns the opponent.,"Atak długodystansowy, omdlewa przeciwnika.",Rakibi bayıltan uzaktan saldırı.,client: game texts (localeInfo),done
+c:locale_game:SKILL_TERROR_DESC,Lowers the physical damage opponents deal.,Zmniejsza obrażenia fizyczne zadawane przez przeciwników.,Rakiplerin verdiği fiziki hasarı düşürür.,client: game texts (localeInfo),done
+c:locale_game:SKILL_THREEWAY_CUT_DESC,An attack of three blows in a row.,Atak trzema ciosami pod rząd.,Art arda üç darbelik bir saldırı.,client: game texts (localeInfo),done
+c:locale_game:SKILL_WHIRLWIND_DESC,Attacks every opponent around you.,Atakuje wszystkich przeciwników wokół siebie.,Çevrendeki tüm rakiplere saldırır.,client: game texts (localeInfo),done
+c:locale_game:SOCKET_EXTRACT_QUESTION,Do you want to take this stone out of the item?,Czy chcesz wyjąć ten Kamień z Przedmiotu?,Bu taşı eşyadan çıkarmak istiyor musun?,client: game texts (localeInfo),done
+c:locale_game:SPECIAL_SHOP_ACCOUNT_LIMIT,Purchase limit per account: %d,Limit zakupów na konto: %d,Hesap başına satın alma sınırı: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:SPECIAL_SHOP_LIMIT_LEVEL,Level required to buy: %d,Wymagany poziom do zakupu: %d,Satın almak için gereken seviye: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:SPECIAL_SHOP_LIMIT_REPUTATION,Reputation required: %s,Wymagana reputacja: %s,Gereken itibar: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SPECIAL_SHOP_LIMIT_TIME,One purchase every %s,Zakup raz na %s,Her %s bir kez satın alınabilir,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:SPECIAL_SHOP_REQ_ITEMS,Items required:,Wymagane przedmioty:,Gereken eşyalar:,client: game texts (localeInfo),done
+c:locale_game:SPECIAL_SHOP_UPDATE_POPUP,The shop's offer has changed.,Oferta sklepu zmieniła się.,Dükkanın sunduğu ürünler değişti.,client: game texts (localeInfo),done
+c:locale_game:STATUS_PLUS_LABEL,|cffbc893aavailable [|r%d|cffbc893a]|r,|cffbc893adostępne [|r%d|cffbc893a]|r,|cffbc893amevcut [|r%d|cffbc893a]|r,client: game texts (localeInfo) | keep: %d; |c...|r colour codes,done
+c:locale_game:SUBSCRIPTION_BENEFIT_CHANNEL,Access to the Premium channel[ENTER]Your spouse can be teleported to the Premium channel.,Dostęp do kanału Premium[ENTER]Możliwe jest teleportowanie małżonka na kanał Premium.,Premium kanala erişim[ENTER]Eşin Premium kanala ışınlanabilir.,client: game texts (localeInfo) | keep: [ENTER] = new line,done
+c:locale_game:SUBSCRIPTION_BENEFIT_DEPOSIT,45 more storeroom slots.,Dodatkowe 45 slotów w magazynie.,Depoda 45 yuva daha.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_DROP,Double item drop chance,Podwojona szansa na drop przedmiotów,İki kat eşya düşme şansı,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_EMOTION,Use of Emotions,Możliwość korzystania z Emocji,Duygu ifadelerini kullanabilme,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_EXP,50% more experience,50% więcej doświadczenia,Tecrübe kazancı +%50,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_FISH,A better chance to catch a fish.,Dodatkowa szansa na pomyślne wyłowienie ryby.,Balık yakalama şansı daha yüksek.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_GOLD,Double Yang drop chance.,Podwojona szansa na drop Yang.,İki kat Yang düşme şansı.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_ITEM_VIEW,Item previews in the chat.,Możliwość wysyłania podglądu przedmiotów na czacie.,Sohbette eşya önizlemesi gönderebilme.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_LOVE,Double love point regeneration.,Podwojona regeneracja punktów miłości.,Sevgi puanı iki kat hızlı yenilenir.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_ONLY_SUB,Premium only,Dostępne tylko dla Premium,Sadece Premium,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_PASSAGE,Free entry to Spider Dungeon V2.,Darmowy dostęp do Lochu Pająków V2.,Örümcek Zindanı 2'ye ücretsiz giriş.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_PICKUP,Yang is picked up automatically.,Automatyczne podnoszenie Yang.,Yang otomatik olarak toplanır.,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_BENEFIT_SHOP,20 more shop slots[ENTER]Shops open for up to 48h[ENTER]Rename an open shop[ENTER]Skips the free shop limit per channel.,Dodatkowe 20 slotów w sklepie[ENTER]Możliwość wystawienia sklepu do 48h[ENTER]Edycja nazwy otwartego sklepu[ENTER]Omija darmowy limit sklepów na kanale.,Dükkanda 20 yuva daha[ENTER]Dükkanlar 48 saate kadar açık kalabilir[ENTER]Açık bir dükkanın adını değiştirebilme[ENTER]Kanal başına ücretsiz dükkan sınırı uygulanmaz.,client: game texts (localeInfo) | keep: [ENTER] = new line,done
+c:locale_game:SUBSCRIPTION_BUTTON,Buy!,Kup!,Satın al!,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_PRES_DESC1,"It is a way to support the project regularly and the best package for a player,[ENTER]with the best price for the value you get when you join the Premium players.","Jest to sposób na regularne wspieranie projektu, a także najlepszy pakiet dla gracza,[ENTER]z najlepszą ceną do wartości jakie otrzymasz, po dołączeniu do graczy premium.","Projeyi düzenli olarak desteklemenin bir yoludur ve bir oyuncu için en iyi pakettir,[ENTER]Premium oyunculara katıldığında aldığın değere göre en iyi fiyatla.",client: game texts (localeInfo) | keep: [ENTER] = new line,done
+c:locale_game:SUBSCRIPTION_PRES_DESC2,The main bonuses are:,Najważniejsze bonusy to:,Başlıca bonuslar:,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_PRES_DESC3,You also get %d other benefits.[ENTER](Hover over an icon to see its description),"Dodatkowo otrzymasz %d innych benefitów.[ENTER](Najedź myszką na ikonę, aby zobaczyć opis)",Ayrıca %d başka avantaj kazanırsın.[ENTER](Açıklamasını görmek için simgenin üzerine gel),client: game texts (localeInfo) | keep: %d; [ENTER] = new line,done
+c:locale_game:SUBSCRIPTION_PRES_DESC4,All of it for 50 PLN a month!,Wszystko to za 50 zł na miesiąc!,Tüm bunlar ayda sadece 50 PLN!,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_PRES_TITLE1,What is a Premium Account?,Czym jest Konto Premium?,Premium Hesap nedir?,client: game texts (localeInfo),done
+c:locale_game:SUBSCRIPTION_PRES_TITLE2,What benefits do I get?,Jakie otrzymam benefity?,Hangi avantajları kazanırım?,client: game texts (localeInfo),done
+c:locale_game:SUMMER_RING_LEFT,Extensions left: %d,Pozostałe możliwe przedłużenia: %d,Kalan uzatma hakkı: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ABSORB,Absorbs %d damage,Absorpcja %d obr.,%d hasarı emer,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_AFFECT_NO_FRIENDLY_KILL_PENALTY,You do not lose rank if you kill a friendly player.,Nie stracisz rangi jeżeli zabijesz przyjaznego gracza.,Dost bir oyuncuyu öldürürsen rütbe kaybetmezsin.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ANTIFLAG_GIVE,Cannot be given to other players.,Niezdatny do przekazania innym graczom.,Diğer oyunculara verilemez.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ANTIFLAG_MYSHOP,Cannot be sold in a shop.,Niezdatny do handlu w sklepie.,Dükkanda satılamaz.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ANTIFLAG_NO_TRADE,Cannot be traded with players.,Niezdatny do handlu z graczami.,Oyuncularla ticaret yapılamaz.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_APPLY_ACCEDRAIN_RATE,Absorption rate: %d%%,Stopień absorpcji: %d%%,Emiş oranı: %%%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_BLEEDING_PCT,Bleeding attack + %d%%,Atak krwawienia + %d%%,Kanama Saldırısı +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_APPLY_BLEEDING_REDUCE,Bleeding attack resistance + %d%%,Odporność na Atak Krwawienia + %d%%,Kanama saldırılarında direnç +%d%%,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_ARROW_DAMAGE_REDUCTION,Max. damage reduction: %d%% (monsters %d%%),Maks. redukcja obrażeń: %d%% (potwory %d%%),Maks. hasar azaltma: %%%d (canavarlar %%%d),client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_ARROW_MAX_RADIUS,Poor shot quality: from %.1fm,Słaba jakość strzału: od %.1fm,Zayıf atış kalitesi: %.1fm mesafeden itibaren,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_ARROW_MIN_RADIUS,Best shooting distance: up to %.1fm,Optymalny dystans strzału: do %.1fm,En iyi atış mesafesi: %.1fm mesafeye kadar,client: game texts (localeInfo) | keep: %.1f,done
+c:locale_game:TOOLTIP_BUYPRICE_CURRENCY,Price: %s %s,Cena: %s %s,Fiyat: %s %s,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:TOOLTIP_BUYPRICE_REPUTATION,Price: %s reputation,Cena: %s reputacji,Fiyat: %s itibar,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_BUYPRICE_STACK,Price per piece: %s,Cena za 1 szt.: %s,Adet fiyatı: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:TOOLTIP_DEF_GRADE_CHARACTER_WINDOW,Base defence: %d (+%d%% boost),Bazowa obrona: %d (+%d%% wzmocnienie),Temel savunma: %d (+%%%d artış),client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:TOOLTIP_FAST_STAT_ADD,|Eshortcut/ctrl|e + |Eshortcut/mleft|e - quick stat allocation,|Eshortcut/ctrl|e + |Eshortcut/mleft|e - szybkie rozdanie statystyk,|Eshortcut/ctrl|e + |Eshortcut/mleft|e - hızlı statü dağıtımı,client: game texts (localeInfo) | keep: |c...|r colour codes,done
+c:locale_game:TOOLTIP_HERB_KNIFE_UPGRADE1,Give it to Yu-Hwan,Daj to Yu-Hwan'owi,"Bunu Yu-Hwan'a ver,",client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_HERB_KNIFE_UPGRADE2,to get an,aby dostać,karşılığında,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_HERB_KNIFE_UPGRADE3,improved Knife.,ulepszony Nóż.,geliştirilmiş Bıçak al.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_ITEM_QUALITY,Quality +%d%%,Jakość +%d%%,Kalite +%%%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_BONUS_SP,Bonus SP: %d ,Bonusowe PE: %d ,Bonus SP: %d ,client: game texts (localeInfo) | keep: %d,check
+c:locale_game:TOOLTIP_MAGIC_DAMAGE_BONUS,Magic damage against monsters +%d%% ,Magiczne Obrażenia w potwory +%d%% ,Canavarlara karşı büyü hasarı +%%%d ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_MAGIC_DAMAGE_BONUS_PC,Magic damage bonus +%d%% ,Bonus Magicznych obrażeń +%d%% ,Büyü hasarı bonusu +%%%d ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_OPEN_SHOP_REQ_LEVEL,Level 15 required.,Wymagany 15 poziom.,15. seviye gerekli.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_OPEN_SHOP_REQ_MONSTER,800 monsters killed required.,Wymagane 800 zabitych potworów.,800 canavar öldürmek gerekli.,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_PARTY_NEXT_SKILL_LEVEL,Next level,Następny poziom,Sonraki seviye,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POINT_DEATH_PENALTY,Charges: %d,Ilość Ładunków: %d,Şarj: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_POTION_ATTBONUS_HUMAN,Slayer's Potion,Mikstura Pogromcy,Katleden İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_ATT_GRADE,Potion of Attack,Mikstura Ataku,Saldırı İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_CAST_SPEED,Potion of Casting Speed,Mikstura Szybkości Zaklęcia,Büyü Hızı İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_CRIT,Potion of Critical Hit,Mikstura Krytycznego Ciosu,Kritik Vuruş İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_DEF_GRADE,Potion of Defence,Mikstura Obrony,Savunma İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_DX,Potion of Dexterity,Mikstura Zręczności,Çeviklik İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_HP_REGEN,Potion of Life Regeneration,Mikstura Regeneracji Życia,Hayat Yenileme İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_HT,Potion of Vitality,Mikstura Witalności,Canlılık İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_IQ,Potion of Intelligence,Mikstura Inteligencji,Zeka İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_MAGIC_ATT_MOB,Potion of Magic Power,Mikstura Siły Magii,Büyü Gücü İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_MAX_HP,Potion of Life,Mikstura Życia,Hayat İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_NORMAL_HIT_DEFEND,Potion of Invulnerability,Mikstura Nietykalności,Dokunulmazlık İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_PENET,Potion of Piercing Strike,Mikstura Przeszywającego Ciosu,Delici Vuruş İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_RESIST_HUMAN,Potion of the Dragon's Scale,Mikstura Łuski Smoka,Ejderha Pulu İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_RESIST_MAGIC,Potion of Magic Defence,Mikstura Magicznej Obrony,Büyü Savunması İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_RESIST_NORMAL_DAMAGE,Potion of Physical Resistance,Mikstura Odporności Fizycznej,Fiziki Direnç İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_SKILL_DAMAGE_BONUS,Potion of Might,Mikstura Potęgi,Kudret İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_SKILL_DEFEND,Potion of Insensitivity,Mikstura Niewrażliwości,Duyarsızlık İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_SKILL_DURATION,Potion of Endurance,Mikstura Trwałości,Dayanıklılık İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_SP_REGEN,Potion of Energy Regeneration,Mikstura Regeneracji Energii,Enerji Yenileme İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_ST,Potion of Strength,Mikstura Siły,Güç İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_POTION_ST_REGEN,Potion of Stamina Regeneration,Mikstura Regeneracji Staminy,Dayanıklılık Yenileme İksiri,client: game texts (localeInfo),done
+c:locale_game:TOOLTIP_REAL_CAST_SPEED,Skill cast time shortened by %d%% ,Skrócenie ładowania um. o %d%% ,Beceri yüklenme süresi %%%d kısalır ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:TOOLTIP_REFINE_BONUS_ITEM_TYPE,Item type: %s,Typ przedmiotu: %s,Eşya türü: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:UI_DEFAULT_FONT_NAME,Tahoma,Tahoma,,client: game texts (localeInfo),new
+c:locale_game:UI_FONT_SIZE_DEFAULT,12,12,,client: game texts (localeInfo),new
+c:locale_game:USE_VOUCHER_ALREADY_USED,The code has already been used.,Kod został już wykorzystany.,Kod zaten kullanıldı.,client: game texts (localeInfo),done
+c:locale_game:USE_VOUCHER_NO_CODE,Invalid code.,Niepoprawny kod.,Geçersiz kod.,client: game texts (localeInfo),done
+c:locale_game:USE_VOUCHER_SUCCESS,The voucher was redeemed!,Pomyślnie wykorzystano kupon!,Kupon başarıyla kullanıldı!,client: game texts (localeInfo),done
+c:locale_game:USE_VOUCHER_TRY_AGAIN_LATER,Try again later.,Spróbuj później.,Daha sonra tekrar dene.,client: game texts (localeInfo),done
+c:locale_game:WHAT_ACTION_WITH_ITEM1,What do you want to do with %s?,Co chcesz zrobić z %s?,%s ile ne yapmak istiyorsun?,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:WHAT_ACTION_WITH_ITEM2,What do you want to do with %dx %s?,Co chcesz zrobić z %dx %s?,%dx %s ile ne yapmak istiyorsun?,client: game texts (localeInfo) | keep: %d %s,done
+c:locale_game:WHISPER_ANOTHER_EMPIRE_WARNING,This player is from another kingdom - without knowing their language you will not understand each other.,"Gracz jest z innego królestwa, bez znajomości drugiego języka nie porozumiecie się.",Bu oyuncu başka bir krallıktan - dilini bilmeden birbirinizi anlayamazsınız.,client: game texts (localeInfo),done
+c:locale_game:WHISPER_UNBAN,Unblock,Odblokuj,Engeli kaldır,client: game texts (localeInfo),done
+c:locale_game:SECONDS_LESS_THAN_MINUTE,Less than 1 min.,,1 dakikadan az.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CLASS,Class:,,Sınıf:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STR,STR:,,STR:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_VIT,VIT:,,VIT:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_DEX,DEX:,,DEX:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_INT,INT:,,INT:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_STAT_POINTS,Status points:,,Statü puanı:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SKILL_POINTS,Skill points:,,Beceri puanı:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SUPPORT_SKILL_POINTS,Support skill points:,,Destek becerisi puanı:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MAP_INDEX,Map (index):,,Harita (indeks):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_LAST_ONLINE,Last online:,,Son çevrimiçi:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_HORSE_LEVEL,Horse level:,,At seviyesi:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_HORSE_POINTS,Horse points:,,At puanı:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ACCOUNT,Account:,,Hesap:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PLAYTIME,Play time (min):,,Oynama süresi (dk):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RANK_POINTS,Rank points:,,Rütbe puanı:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_WARRIOR_M,Warrior (M),,Savaşçı (E),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_WARRIOR_F,Warrior (F),,Savaşçı (K),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_NINJA_F,Ninja (F),,Ninja (K),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_SURA_F,Sura (F),,Sura (K),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_SHAMAN_M,Shaman (M),,Şaman (E),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_JOB_SHAMAN_F,Shaman (F),,Şaman (K),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_MAIN,Main Panel,,Ana Panel,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ADD_GM,Add GM,,GM ekle,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_LOOKUP,Check Player,,Oyuncu Sorgula,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_CREATE_ITEM,Create Item,,Eşya Oluştur,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_BAN,Account Ban,,Hesap Yasağı,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_SPAWN_BOTS,Spawn Bots,,Bot Oluştur,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_SPAWN_MOBS,Spawn Mobs,,Canavar Oluştur,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TAB_SERVER,Server Control,,Sunucu Kontrolü,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RATE_EXP,Experience:,,Tecrübe oranı:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RATE_DROP,Item drop:,,Eşya drop oranı:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RATE_YANG,Yang drop:,,Yang drop oranı:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_CHAT,Bots talk over their heads,,Botlar başlarının üstünde konuşur,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_CHAT_HELP,"The line over a bot's head (hunting, off to the blacksmith, fishing). Switch it off for players who mind it. The shout on the world chat about a +7/+8/+9 upgrade stays either way.",,"Botun başının üstündeki satır (avlanıyor, demirciye gidiyor, balık tutuyor). Bundan rahatsız olan oyuncular için kapat. Genel sohbetteki +7/+8/+9 yükseltme duyurusu her iki durumda da kalır.",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_BOOKS,Skill books without the day's wait,,Günlük bekleme olmadan beceri kitapları,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_BOOKS_HELP,"The game makes a character wait about a day between two reads of the same skill, so a bot needs a month to read a skill from M1 to G1, and the books pile up in its bag meanwhile. On: a bot reads a book the moment it has one - the game itself is the only brake. Off: the game's daily wait, unchanged.",,"Oyun, aynı becerinin iki kitap okuması arasında karakteri yaklaşık bir gün bekletir. Bu yüzden bir botun bir beceriyi M1'den G1'e çıkarması bir ay sürer ve bu sürede kitaplar envanterinde birikir. Açık: bot elinde kitap olur olmaz okur - tek sınır oyunun kendisidir. Kapalı: oyunun günlük beklemesi olduğu gibi kalır.",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_NIGHT,Night/snow after 22:00,,22:00'den sonra gece/kar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_SCRAP,Scrap keepers,,Hurda tezgâhları,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_SCRAP_HELP,"The share of stall keepers that put their weak upgrades (+0 to +3) on the counter for pennies instead of selling them to an NPC - scrap for burning at the blacksmith, as on hard servers. Off by default.",,Zayıf yükseltmelerini (+0 ile +3 arası) bir NPC'ye satmak yerine birkaç kuruşa tezgâha koyan tezgâh sahiplerinin oranı - zor sunucularda olduğu gibi demircide yükseltmeye feda edilecek hurda. Varsayılan olarak kapalı.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_REST,Resting in town,,Şehirde dinlenme,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_REST_HELP,"The share of bots that stay by the stalls for a while after an errand in town instead of going straight back to hunting. At 100 percent the town is lively, at 0 everyone is out in the field.",,"Şehirdeki bir işten sonra doğrudan ava dönmek yerine bir süre tezgâhların yanında kalan botların oranı. Yüzde 100'de şehir hareketli olur, 0'da herkes sahada olur.",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_CHEST,Moonlight Chest - from a killed monster,,Ayışığı Define Sandığı - öldürülen canavardan,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_CHEST_HELP,"How often a chest drops: from a killed monster and from a broken Metin. The game default is 1 and 30 percent; more chests mean more bonus scrolls, speed potions and Blessing Scrolls for the bots. Applies within five seconds, to bots and players alike.",,"Sandığın ne sıklıkla düştüğü: öldürülen canavardan ve kırılan Metin Taşı'ndan. Oyunun varsayılanı yüzde 1 ve yüzde 30'dur; daha fazla sandık, botlar için daha fazla bonus kağıdı, hız iksiri ve Kutsama Kağıdı demektir. Beş saniye içinde uygulanır, botlara ve oyunculara aynı şekilde.",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_CHEST_STONE,Moonlight Chest - from a broken Metin,,Ayışığı Define Sandığı - kırılan Metin Taşı'ndan,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_CHEST_STONE_HELP,"The second half of the setting above - its own chance, rolled when a Metin stone breaks instead of when a common monster dies.",,"Yukarıdaki ayarın ikinci yarısı - sıradan bir canavar ölünce değil, bir Metin Taşı kırılınca atılan kendi şansı.",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_RESTOCK,Buying potions,,İksir alma,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_RESTOCK_HELP,Back to town as soon as the red potions run out.,,Kırmızı iksirler biter bitmez şehre dönüş.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_REFINE,The blacksmith,,Demirci,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_REFINE_HELP,Upgrading weapons and armour instead of hunting.,,Avlanmak yerine silah ve zırh yükseltme.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_SKILL,Skill books,,Beceri kitapları,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_SKILL_HELP,Reading books to push a skill from M towards G.,,Bir becerisini M'den G'ye yükseltmek için kitap okuma.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_HORSE,The horse,,At,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_HORSE_HELP,The stable and hunting medals in the Monkey Dungeon.,,Seyis ve Maymun Zindanı'nda madalya avı.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_BIOLOG,The Biologist,,Biyolog,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_BIOLOG_HELP,Collecting for the Biologist instead of levelling.,,Seviye kasmak yerine Biyolog için eşya toplama.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_METIN,Metin stones,,Metin Taşları,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_METIN_HELP,Hunting Metins instead of common monsters.,,Sıradan canavarlar yerine Metin avı.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_PARTY,Parties,,Gruplar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_PARTY_HELP,"Fighting together, not every bot on its own.",,"Her bot kendi başına değil, birlikte savaşmak.",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_HUNTING,Hunting missions,,Av görevleri,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_HUNTING_HELP,Hunting for the level-up on the map the mission names.,,Görevde adı geçen haritada seviye atlamak için av.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_LEVEL,Plain grinding,,Sade seviye kasma,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_LEVEL_HELP,What a bot does when nothing else asks for it. Raise it and the errands lose.,,Başka hiçbir şey istenmediğinde botun yaptığı iş. Artırırsan diğer işler geri planda kalır.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_FISHING,Fishing,,Balık tutma,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_FISHING_HELP,"How many bots fish at all. Decided once per bot, so a change reaches the next generation of anglers.",,"Kaç botun balık tuttuğu. Her bot için bir kez belirlenir, bu yüzden bir değişiklik balıkçıların bir sonraki neslini etkiler.",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_TRADE,Market stalls,,Pazar tezgâhları,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AI_TRADE_HELP,"How many bots keep a stall open. Merchants always do, whatever this slider says.",,Kaç botun tezgâh açık tuttuğu. Tüccarlar bu kaydırıcı ne olursa olsun her zaman açık tutar.,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_ITEM,/item - adds an item,,/item - eşya ekler,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_ITEM_2,/item - adds several pieces of an item,,/item - bir eşyadan birkaç adet ekler,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_M,/m - summons a monster or an NPC,,/m - bir canavar veya NPC çağırır,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_P,/p - turns you into a monster or an NPC,,/p - seni bir canavara veya NPC'ye dönüştürür,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_ALIGN_200000,/set align 200000 - Chivalric rank,,/set align 200000 - Şövalye rütbesi,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_WEAK,"/weak - right-click a monster first, then type the command and the monster has 1 HP",,"/weak - önce bir canavara sağ tıkla, sonra komutu yaz, canavarın 1 HP'si kalır",client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SKI_121,/ski 121 - Leadership,,/ski 121 - Liderlik,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SKI_131,/ski 131 - Call Horse,,/ski 131 - At Çağırma,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SKI_124,/ski 124 - Mining,,/ski 124 - Madencilik,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SKI_125,/ski 125 - Item Creation,,/ski 125 - Nesne Yaratma,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_INV,/inv - invisibility,,/inv - görünmezlik,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_DC,/dc - kicks someone from the server,,/dc - birini sunucudan atar,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_WARP,/warp - moves the GM to a player,,/warp - GM'yi bir oyuncunun yanına ışınlar,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_TRANSFER,/transfer - moves a player to the GM,,/transfer - bir oyuncuyu GM'nin yanına ışınlar,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_X_Y,/go x y - moves to the coordinates x y,,/go x y - x y koordinatlarına gider,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_S,/go s - teleport to Mount Sohan,,/go s - Sohan Dağı'na ışınlan,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_T,/go t - teleport to Orc Valley,,/go t - Seungryong Vadisi'ne ışınlan,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_M,/go m - teleport to Hwang Temple,,/go m - Hwang Tapınağı'na ışınlan,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_F,/go f - teleport to Doyyumhwan,,/go f - Doyyumhwan'a ışınlan,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_TR,/go tr - teleport to Ghost Wood,,/go tr - Hayalet Ormanı'na ışınlan,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_TRENT2,/go trent2 - teleport to Red Forest,,/go trent2 - Kırmızı Orman'a ışınlan,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_MAX_HP,/set max_hp - raises HP,,/set max_hp - HP'yi artırır,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_MAX_SP,/set max_sp - raises SP,,/set max_sp - SP'yi artırır,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_N,/n - a message at the top of the screen,,/n - ekranın üstünde bir mesaj,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_BLOCK_CHAT,/block_chat - blocks the chat for a while,,/block_chat - sohbeti bir süreliğine engeller,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_BLOCK_CHAT_LIST,/block_chat_list - players blocked from chatting,,/block_chat_list - sohbeti engellenen oyuncular,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_KILL,/kill - kills a player,,/kill - bir oyuncuyu öldürür,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_STUN,/stun - stuns a player,,/stun - bir oyuncuyu sersemletir,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SLOW,/slow - slows a player,,/slow - bir oyuncuyu yavaşlatır,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_HORSE_LEVEL,/horse_level - raises the horse level,,/horse_level - at seviyesini yükseltir,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_RESET,/reset - restores HP and SP,,/reset - HP ve SP'yi doldurur,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_D,/go d - teleport to the desert,,/go d - çöle ışınlan,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PURGE,"/purge - removes monsters, NPCs etc. around you",,"/purge - çevrendeki canavarları, NPC'leri vb. kaldırır",client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_LEVEL,/level - changes the character's level,,/level - karakterin seviyesini değiştirir,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GO_O,/go o - teleport to the OX arena,,/go o - OX arenasına ışınlan,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_WARP_400_600,/warp 400 600 - teleport to the GM arena,,/warp 400 600 - GM arenasına ışınlan,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_WARP_200_100,/warp 200 100 - snow island (the GMs' home),,/warp 200 100 - kar adası (GM'lerin yuvası),client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_WARP_7032_5225,/warp 7032 5225 - teleport to V2,,/warp 7032 5225 - Örümcek Zindanı 2'ye ışınlan (V2),client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_RESP_ALL,/resp all - when /purge has removed an NPC,,/resp all - /purge bir NPC'yi kaldırdığında,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_REPEAT,/ - repeats the last command,,/ - son komutu tekrarlar,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GWLIST,/gwlist - shows the guild wars,,/gwlist - lonca savaşlarını gösterir,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GWCANCEL,/gwcancel - ends the war between the given guilds,,/gwcancel - belirtilen loncalar arasındaki savaşı bitirir,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_HORSE_RIDE,/horse_ride - calls the horse,,/horse_ride - atı çağırır,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_121_59,/setsk 121 59 - Leadership P,,/setsk 121 59 - Liderlik P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_124_59,/setsk 124 59 - Mining P,,/setsk 124 59 - Madencilik P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_125_59,/setsk 125 59 - Item Creation P,,/setsk 125 59 - Nesne Yaratma P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_126_59,/setsk 126 59 - Shinsoo Language P,,/setsk 126 59 - Shinsoo Lisanı P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_127_59,/setsk 127 59 - Chunjo Language P,,/setsk 127 59 - Chunjo Lisanı P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_128_59,/setsk 128 59 - Jinno Language P,,/setsk 128 59 - Jinno Lisanı P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_129_59,/setsk 129 59 - Polymorph P,,/setsk 129 59 - Dönüşüm P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_130_30,/setsk 130 30 - horse level 30,,/setsk 130 30 - at seviyesi 30,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_131_10,/setsk 131 10 - Call Horse 100%,,/setsk 131 10 - At Çağırma 100%,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_B,/b - an announcement in a frame,,/b - çerçeve içinde duyuru,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_X,/x - day,,/x - gündüz,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_H,/h - horse information,,/h - at bilgisi,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_O,/o - observer mode,,/o - gözlemci modu,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_F,/f - ...unknown...,,/f - ...bilinmiyor...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_U,/u - number of players online,,/u - çevrimiçi oyuncu sayısı,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_W,/w - number of players online,,/w - çevrimiçi oyuncu sayısı,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_137_59,/setsk 137 59 - Horseback Slash P,,/setsk 137 59 - At Üzerinde Savaş P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_138_59,/setsk 138 59 - Horse Stump P,,/setsk 138 59 - At Yürüyüşü P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_139_59,/setsk 139 59 - Power Wave P,,/setsk 139 59 - Güç Dalgası P,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_140_59,/setsk 140 59 - 4th military horse skill,,/setsk 140 59 - 4. asker atı becerisi,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_POLY_0_3,/poly 0-3 - your character,,/poly 0-3 - kendi karakterin,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_POLY_4,/poly 4 - Warrior,,/poly 4 - Savaşçı,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_POLY_6,/poly 6 - Sura (female),,/poly 6 - Sura (kadın),client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_POLY_7,/poly 7 - Shaman,,/poly 7 - Şaman,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PRIV_EMPIRE_0_1_ITEM_DROP,/priv_empire 0 1:item_drop - raises the item drop by a percentage for a while,,/priv_empire 0 1:item_drop - eşya düşme oranını bir süreliğine yüzde olarak artırır,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PRIV_EMPIRE_0_2_GOLD_DROP,/priv_empire 0 2:gold_drop - raises the Yang drop by a percentage for a while,,/priv_empire 0 2:gold_drop - Yang düşme oranını bir süreliğine yüzde olarak artırır,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PRIV_EMPIRE_0_3_GOLD10_DROP,"/priv_empire 0 3:gold10_drop - raises the Yang drop by a percentage for a while, times 10",,"/priv_empire 0 3:gold10_drop - Yang düşme oranını bir süreliğine yüzde olarak artırır, 10 kat",client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PRIV_EMPIRE_0_4EXP,/priv_empire 0:4exp - raises exp by a percentage for a while,,/priv_empire 0:4exp - EXP'yi bir süreliğine yüzde olarak artırır,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_SURA_BM,-- Sura BM - P skills --,,-- Büyü Surası (BM) - P becerileri --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_SURA_WP,-- Sura WP - P skills --,,-- Silah Surası (WP) - P becerileri --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_WOJOWNIK_BODY,-- Warrior Body - P skills --,,-- Bedensel Savaşçı - P becerileri --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_WOJOWNIK_MENTAL,-- Warrior Mental - P skills --,,-- Zihinsel Savaşçı - P becerileri --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_SZAMAN_SMOK,-- Shaman Dragon - P skills --,,-- Ejderha Şamanı - P becerileri --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_SZAMAN_HEALER,-- Shaman Healer - P skills --,,-- Şifacı Şaman - P becerileri --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_NINJA_DAGGER,-- Ninja Dagger - P skills --,,-- Yakın Ninja - P becerileri --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SECTION_NINJA_ARCHER,-- Ninja Archer - P skills --,,-- Uzak Ninja - P becerileri --,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_EXP,/set exp - gives the given amount of exp,,/set exp - belirtilen miktarda EXP verir,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_GOLD,/set gold - gives the given amount of Yang,,/set gold - belirtilen miktarda Yang verir,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PKMODE_0,/pkmode 0 - PvP mode Peaceful,,/pkmode 0 - PvP modu: Barışçıl,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PKMODE_1,/pkmode 1 - PvP mode Aggressive,,/pkmode 1 - PvP modu: Saldırgan,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_PKMODE_2,/pkmode 2 - PvP mode Free,,/pkmode 2 - PvP modu: Serbest,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_SKILL,/set skill - adds the given number of skill points,,/set skill - belirtilen sayıda beceri puanı ekler,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSKILLOTHER_59,/setskillother 59 - gives someone the given skill at P,,/setskillother 59 - birine belirtilen beceriyi P seviyesinde verir,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_R,/r - restores all SP and HP,,/r - tüm SP ve HP'yi doldurur,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_A,/a - gives someone the given level,,/a - birine belirtilen seviyeyi verir,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_OPEN,/open - starts the OX event,,/open - OX etkinliğini başlatır,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_MSPD_0,/mspd 0 - 1000 - walking speed,,/mspd 0 - 1000 - yürüme hızı,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_MAXHP,/set_maxhp - refills HP,,/set_maxhp - HP'yi doldurur,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_MAXSP,/set_maxsp - refills SP,,/set_maxsp - SP'yi doldurur,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_A_LEVEL,/a level - changes a player's level,,/a level - bir oyuncunun seviyesini değiştirir,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_POLYITEM,/polyitem - adds a polymorph marble of the given monster,,/polyitem - belirtilen canavarın Dönüşüm Küresi'ni ekler,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_151_7,/setsk 151 7 - Blood of Dragon God,,/setsk 151 7 - Ejderha Tanrısı Kanı,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_152_7,/setsk 152 7 - Benediction of Dragon God,,/setsk 152 7 - Ejderha Tanrısı Kutsaması,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_153_7,/setsk 153 7 - Holy Armour,,/setsk 153 7 - Kutsal Zırh,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_154_7,/setsk 154 7 - Acceleration,,/setsk 154 7 - Hızlandırma,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_155_7,/setsk 155 7 - Rage of Dragon God,,/setsk 155 7 - Ejderha Tanrısı Öfkesi,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_156_7,/setsk 156 7 - Dragon's Wish,,/setsk 156 7 - Ejderha Dileği,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SETSK_157_7,/setsk 157 7 - ...unknown...,,/setsk 157 7 - ...bilinmiyor...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_STATE_RUN,/set_state run - ...unknown...,,/set_state run - ...bilinmiyor...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_STATE_START,/set_state start - ...unknown...,,/set_state start - ...bilinmiyor...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_SET_STATE_INFORMATION,/set_state information - ...unknown...,,/set_state information - ...bilinmiyor...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_E_LOTTO_ROUND,/e lotto_round - ...unknown...,,/e lotto_round - ...bilinmiyor...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_E_LOTTO_DROP,/e lotto-drop - ...unknown...,,/e lotto-drop - ...bilinmiyor...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GETE,/gete - ...unknown...,,/gete - ...bilinmiyor...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_GETQ,/getq - ...unknown...,,/getq - ...bilinmiyor...,client: game texts (localeInfo),done
+c:locale_game:GM_COMMAND_RELOAD_Q,/reload q - ...unknown...,,/reload q - ...bilinmiyor...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_WEAPON,Weapon,,Silah,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_ARMOUR,Armour,,Zırh,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_EARRINGS,Earrings,,Küpeler,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_BRACELETS,Bracelets,,Bilezikler,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_NECKLACES,Necklaces,,Kolyeler,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_SHOES,Shoes,,Ayakkabı,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_HELMET,Helmet,,Kask,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_SHIELD,Shield,,Kalkan,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_MATERIAL,Upgrade items,,Malzemeler,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY_OTHER,Other items,,Diğer eşyalar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PLACE_INVENTORY,Inventory,,Envanter,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PLACE_STOREROOM,Storeroom,,Depo,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_DESERT,Yongbi Desert,,Yongbi Çölü,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_ORC_VALLEY,Orc Valley,,Seungryong Vadisi,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_SOHAN,Mount Sohan,,Sohan Dağı,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_FIRE_LAND,Doyyumhwan,,Doyyumhwan,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_TELEPORT_SPIDER_V1,Spider Dungeon V1,,Örümcek Zindanı 1,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_SPIDER_V2,Spider Dungeon V2,,Örümcek Zindanı 2,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_MONKEY_EASY,Easy Monkey Dungeon,,Kolay Maymun Zindanı,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_MONKEY_NORMAL,Normal Monkey Dungeon,,Normal Maymun Zindanı,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_MONKEY_HARD,Hard Monkey Dungeon,,Zor Maymun Zindanı,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_HWANG,Hwang Temple,,Hwang Tapınağı,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_GHOST_WOOD,Ghost Wood,,Hayalet Ormanı,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_TELEPORT_RED_FOREST,Red Forest,,Kırmızı Orman,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NONE,(none),,(yok),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_ANSWER_RETRY,"No answer from the server, try again.",,"Sunucudan yanıt yok, tekrar dene.",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_ANSWER_REOPEN,No answer from the server - open the tab again.,,Sunucudan yanıt yok - sekmeyi tekrar aç.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_EMPTY,(empty),,(boş),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ADMIN_TITLE,GM Administration Panel,,GM Yönetim Paneli,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MAIN_LINE1,Choose a tab above. Every action is,,Yukarıdan bir sekme seç. Her işlem,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MAIN_LINE2,checked again on the server.,,sunucuda tekrar kontrol edilir.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MAIN_LINE3,"The panel is a BETA. If you notice bugs,",,"Panel BETA aşamasındadır. Hata fark edersen,",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MAIN_LINE4,write to OskarPWA on Discord.,,Discord'dan OskarPWA'ya yaz.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_COMING_SOON,Coming soon.,,Çok yakında.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CHECK,Check,,Kontrol et,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SKILLS,Skills:,,Beceriler:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GIVE_YANG,Give Yang,,Yang ver,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GIVE_DC,Give Dragon Coins,,Ejderha Parası ver,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SET_HORSE_LEVEL,Change horse level,,At seviyesini değiştir,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SET_RANK,Change rank,,Rütbeyi değiştir,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ADD_STATS,Add stats,,Statü ekle,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SET_SKILLS,Change skills,,Becerileri değiştir,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CHOOSE,(choose),,(seç),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BACK,Back,,Geri,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEXT,Next,,İleri,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OWNER,Owner:,,Sahip:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CATEGORY,Category:,,Kategori:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ITEM,Item:,,Eşya:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_COUNT,Amount:,,Miktar:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_DESTINATION,Put into:,,Şuraya koy:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STONES,Spirit Stones (0 = empty):,,Zihin Taşları (0 = boş):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BONUSES,Bonuses (type 0 = empty):,,Bonuslar (tür 0 = boş):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_VALUE,Value:,,Değer:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CREATE,Create,,Oluştur,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_POLY_MARBLE,Poly Marble:,,Dönüşüm Küresi:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CHOOSE_CREATURE,(choose a creature),,(bir yaratık seç),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEED_OWNER_ITEM,Enter the owner and choose an item.,,Sahibini gir ve bir eşya seç.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_CHAR_FIELD,A forbidden character in a field.,,Bir alanda yasak bir karakter var.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CREATING,Creating...,,Oluşturuluyor...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ITEM_CREATED,Item created.,,Eşya oluşturuldu.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PLAYER_OFFLINE,The player is not online.,,Oyuncu çevrimiçi değil.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_VNUM,Wrong item vnum.,,Yanlış eşya vnum'u.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_ROOM_TARGET,No room at the destination.,,Hedefte yer yok.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAFEBOX_CLOSED,The player has not opened the Storeroom this session.,,Oyuncu bu oturumda Depo'yu açmadı.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MALL_CLOSED,The player has not opened the Item Shop Storage this session.,,Oyuncu bu oturumda Nesne Marketi Deposu'nu açmadı.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_DATA,Data error.,,Veri hatası.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ERROR,Error: %s,,Hata: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_NEED_CREATURE,Choose a creature.,,Bir yaratık seç.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MARBLE_ADDED,Marble added to the inventory.,,Dönüşüm Küresi envantere eklendi.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_UNKNOWN_CREATURE,Unknown creature.,,Bilinmeyen yaratık.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_ROOM_INVENTORY,No room in the inventory.,,Envanterde yer yok.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MARBLE_FAILED,Error: the marble could not be created.,,Hata: Dönüşüm Küresi oluşturulamadı.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ACTION,Action:,,İşlem:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_CHECK,Check status,,Durumu kontrol et,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_TEMP,Temporary ban,,Geçici yasak,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_PERM,Permanent ban,,Kalıcı yasak,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_UNBAN,Unban,,Yasağı kaldır,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_DAYS,Days (temporary ban only):,,Gün (yalnızca geçici yasak):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_EXECUTE,Execute,,Çalıştır,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_KICK,Kick from server,,Sunucudan at,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_NOTE1,A ban takes effect at the NEXT login to the account - it does,,"Yasak, hesaba SONRAKİ girişte etkili olur - zaten",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_NOTE2,not end a session already logged in. Kick from server works,,açık olan bir oturumu sonlandırmaz. Sunucudan atma,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAN_NOTE3,only while the player is online RIGHT NOW.,,yalnızca oyuncu ŞU AN çevrimiçiyken çalışır.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEED_NICK,Enter a nick.,,Bir nick gir.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_KICKING,Kicking...,,Atılıyor...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SENDING,Sending...,,Gönderiliyor...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_SAVED,Saved. Refreshing GM ranks...,,Kaydedildi. GM yetkileri yenileniyor...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_PERMISSION,Only an IMPLEMENTOR can change other characters' GM ranks.,,Diğer karakterlerin GM yetkisini yalnızca bir IMPLEMENTOR değiştirebilir.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_SELF_NOTE,A GM can remove their own rank.,,Bir GM kendi yetkisini kaldırabilir.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_EMPTY,GM removed. Check the next server start!,,GM kaldırıldı. Bir sonraki sunucu başlangıcına dikkat!,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_EMPTY_NOTE1,The GM list is empty: the next start may grant,,GM listesi boş: bir sonraki başlangıç,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_EMPTY_NOTE2,IMPLEMENTOR to the admin account's oldest character.,,admin hesabının en eski karakterine IMPLEMENTOR verebilir.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_RESTART_UNKNOWN,GM removed. Rank recovery on restart was not checked.,,GM kaldırıldı. Yeniden başlatmada yetkinin geri gelip gelmeyeceği kontrol edilmedi.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_NO_ANSWER,No reply. Check the rank in the web panel.,,Yanıt yok. Yetkiyi web panelinden kontrol et.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_TESTSERVER,test_server mode grants GM to everyone.,,test_server modu herkese GM verir.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ACCOUNT_STATUS,"Account status: %s, access: %s",,"Hesap durumu: %s, erişim: %s",client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GM_PANEL_BAD_ANSWER,Bad answer from the server.,,Sunucudan hatalı yanıt geldi.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_DONE,Done.,,Tamamlandı.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_SUCH_PLAYER,The player does not exist.,,Böyle bir oyuncu yok.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_CHAR_ACCOUNT,A forbidden character in the account name.,,Hesap adında yasak bir karakter var.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_DB_ERROR,Database query error.,,Veritabanı sorgu hatası.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_KICK_SELF,You cannot kick yourself.,,Kendini atamazsın.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_RANK,Rank:,,Yetki:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RANK_IMPLEMENTOR,Implementor (Owner),,Implementor (Sahip),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_REMOVE_GM,Remove GM,,GM'yi kaldır,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ADD_GM_NOTE1,Works at once (no server restart) - refreshes the GM list,,Hemen etki eder (sunucuyu yeniden başlatmaya gerek yok) - GM listesini,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_ADD_GM_NOTE2,on every character already logged in.,,zaten giriş yapmış her karakterde yeniler.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_CHAR_NICK,A forbidden character in the nick.,,Karakter adında yasak bir karakter var.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_RANK,Invalid rank.,,Geçersiz yetki.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BOT_ID,Bot ID:,,Bot ID:,client: game texts (localeInfo),check
+c:locale_game:GM_PANEL_EMPIRE,Kingdom:,,Krallık:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_REFRESH_LIST,Refresh list,,Listeyi yenile,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BOTS_TO_SPAWN,Bots to spawn,,Spawn edilecek botlar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVED_PLACES,Saved places,,Kayıtlı konumlar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVE,Save,,Kaydet,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_LOAD,Load,,Yükle,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_UNKNOWN_PLACE,Unknown,,Bilinmiyor,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVING_PLACE,Saving place %d...,,Konum %d kaydediliyor...,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GM_PANEL_LOADING_PLACE,Loading place %d...,,Konum %d yükleniyor...,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GM_PANEL_TELEPORTING,Teleporting to: %s,,Işınlanıyor: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_NEED_PID_COUNT,Enter a PID and an amount.,,Bir PID ve bir miktar gir.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SPAWN_DONE,Done %s/%s. Active in total: %s,,Tamamlandı %s/%s. Toplam aktif: %s,client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:GM_PANEL_BAD_PID_COUNT,Data error - check the PID and the amount.,,Veri hatası - PID'yi ve miktarı kontrol et.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_EMPIRE,Invalid kingdom.,,Geçersiz krallık.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SEARCHING,Searching...,,Aranıyor...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PLAYER_NOT_FOUND,Player not found.,,Oyuncu bulunamadı.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SKILLS_OFFLINE,(character offline - no skill preview),,(karakter çevrimdışı - beceri önizlemesi yok),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MOBS,Mobs:,,Canavarlar:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CHOOSE_FROM_LIST,(choose from the list),,(listeden seç),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_METINS_LABEL,Metins:,,Metin Taşları:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_COMMANDS,GM commands,,GM komutları,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_PURGE,Remove mobs,,Canavarları sil,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_WEAKEN,Mobs 1 hit,,Canavarlar 1 vuruşta ölür,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BOSSES,Bosses,,Patronlar,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_METINS,Metins,,Metin Taşları,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SPAWNING,Spawning...,,Oluşturuluyor...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BOSSES_SPAWNED,Bosses spawned: %s/%s.,,Spawn edilen patronlar: %s/%s.,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GM_PANEL_METINS_SPAWNED,Metins spawned: %s/%s.,,Spawn edilen Metin Taşları: %s/%s.,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GM_PANEL_NEED_ID_COUNT,Enter an ID and an amount.,,Bir ID ve bir miktar gir.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SPAWNED,Spawned %s/%s.,,%s/%s oluşturuldu.,client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GM_PANEL_BAD_ID_COUNT,Data error - check the ID and the amount.,,Veri hatası - ID'yi ve miktarı kontrol et.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NO_SUCH_MOB,No mob or Metin with that ID.,,Bu ID'ye sahip canavar veya Metin yok.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RATES_NOTE,(The changes take effect after a server restart (nothing is deleted)),,(Değişiklikler sunucu yeniden başlatıldıktan sonra geçerli olur (hiçbir şey silinmez)),client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_FETCH_RATES,Fetch the current rates,,Güncel oranları getir,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RESTART,Restart the server,,Sunucuyu yeniden başlat,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BOT_BEHAVIOUR,Bot behaviour,,Bot davranışı,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_WEIGHT_CAPTION,%d - rarely      100 - as in the game      %d - often,,%d - nadir      100 - oyundaki gibi      %d - sık,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:GM_PANEL_SCRAP_CAPTION,%d - off      %d - every stall keeper,,%d - kapalı      %d - tüm tezgâh sahipleri,client: game texts (localeInfo) | keep: %d %d,done
+c:locale_game:GM_PANEL_NEED_NUMBER,Enter a number 1-10000.,,1-10000 arasında bir sayı gir.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVING,Saving...,,Kaydediliyor...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVED_PCT,Saved (%s%%).,,Kaydedildi (%%%s).,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_VALUE_REFUSED,The server refused the value (1-10000).,,Sunucu değeri reddetti (1-10000).,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_LOADING,Loading...,,Yükleniyor...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_REQUESTING_RESTART,Requesting a restart...,,Yeniden başlatma isteniyor...,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RESTART_REQUESTED,Requested - the server restarts its cores itself within several seconds.,,İstendi - sunucu birkaç saniye içinde çekirdeklerini kendisi yeniden başlatır.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RESTART_FAILED,Error: the restart request could not be saved.,,Hata: yeniden başlatma isteği kaydedilemedi.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_LOADED,Loaded.,,Yüklendi.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GM_COMMANDS_TITLE,GM commands:,,GM komutları:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AMOUNT,Amount:,,Miktar:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_GIVE,Give,,Ver,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_CANCEL,Cancel,,İptal,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AMOUNT_YANG,Yang amount:,,Yang miktarı:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_AMOUNT_DC,DC amount:,,EP miktarı:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEED_AMOUNT,Enter an amount.,,Bir miktar gir.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OK_OFFLINE,"OK (player offline, saved in the database).",,"Tamam (oyuncu çevrimdışı, veritabanına kaydedildi).",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OK_NEW_YANG,OK. New Yang balance: %s,,Tamam. Yeni Yang bakiyesi: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_BAD_AMOUNT,Data error - check the amount.,,Veri hatası - miktarı kontrol et.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OK_DC_ADDED,OK. Dragon Coins added.,,Tamam. Ejderha Parası eklendi.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEW_VALUE,New value:,,Yeni değer:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEW_HORSE_LEVEL,New horse level (0-30):,,Yeni at seviyesi (0-30):,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEW_RANK_POINTS,New rank points:,,Yeni rütbe puanı:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_NEED_VALUE,Enter a value.,,Bir değer gir.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OK_HORSE_LEVEL,OK. Horse level: %s,,Tamam. At seviyesi: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_BAD_VALUE,Data error - check the value.,,Veri hatası - değeri kontrol et.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_OK_RANK_POINTS,OK. Rank points: %s,,Tamam. Rütbe puanı: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GM_PANEL_STAT,Stat:,,Statü:,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STAT_STR,Strength,,Güç,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STAT_VIT,Vitality,,Canlılık,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STAT_DEX,Dexterity,,Çeviklik,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_STAT_INT,Intelligence,,Zeka,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_UNKNOWN_STAT,Unknown stat.,,Bilinmeyen statü.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_RETURN,Back,,Geri,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SKILL_ROW,%s (now %s/%s):,,%s (şimdi %s/%s):,client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:GM_PANEL_NEED_LEVEL,Enter a level.,,Bir seviye gir.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_BAD_FORMAT,"Wrong format (e.g. 18, M5, G1, P).",,"Yanlış biçim (örn. 18, M5, G1, P).",client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_SAVED,Saved.,,Kaydedildi.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_MUST_BE_ONLINE,The player must be online.,,Oyuncu çevrimiçi olmalı.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_UNKNOWN_SKILL,Unknown skill.,,Bilinmeyen beceri.,client: game texts (localeInfo),done
+c:locale_game:GM_PANEL_LOAD_FAILED,The GM panel did not load in this client - see syserr.txt,,GM paneli bu istemcide yüklenemedi - syserr.txt dosyasına bak,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_FIRST_30,First to level 30,,30. seviyeye ilk ulaşan,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_FIRST_60,First to level 60,,60. seviyeye ilk ulaşan,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_FIRST_90,First to level 90,,90. seviyeye ilk ulaşan,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_TITLE,Bot Management [GM],,Bot Yönetimi [GM],client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_TAB_GENERAL,General,,Genel,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_TAB_LIVE,Bot actions,,Bot eylemleri,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_TAB_MANAGE,Management,,Yönetim,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_TAB_ACHIEVEMENTS,Achievements,,Başarımlar,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_ACTIVE_BOTS,Active bots,,Aktif botlar,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_ACTIVE_BOTS_NONE,Active bots: -,,Aktif botlar: -,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_IN_PARTY_NONE,In a party: -,,Grupta: -,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_STALLS_NONE,Keeping a stall: -,,Tezgâh işletiyor: -,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_REFRESH,Refresh,,Yenile,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_CHOOSE_BOT,Choose a bot from the list on the left,,Soldaki listeden bir bot seç,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_REFRESH_LOG,Refresh log,,Günlüğü yenile,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_KICK,Kick the bot,,Botu at,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_RESPAWN,Respawn,,Yeniden canlandır,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_GIVE_ITEM,Give an item (vnum / amount):,,Eşya ver (vnum / adet):,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_SEND,Send,,Gönder,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_ACTIVE_BOTS_COUNT,Active bots: %s,,Aktif botlar: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:BOT_ADMIN_IN_PARTY,In a party: %s,,Grupta: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:BOT_ADMIN_STALLS,Keeping a stall: %s,,Tezgâh işletiyor: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:BOT_ADMIN_BOT_DETAILS,"%s (Lv %d) - pid %d, pos (%d, %d), kingdom %d",,"%s (Sv. %d) - pid %d, konum (%d, %d), krallık %d",client: game texts (localeInfo) | keep: %s %d %d %d %d %d,done
+c:locale_game:BOT_ADMIN_NOTHING_SAID,(this bot has not said anything yet),,(bu bot henüz bir şey söylemedi),client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_ACHIEVEMENT_N,Achievement #%d,,Başarım #%d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:BOT_ADMIN_WON_BY,Won by: %s,,Kazanan: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:BOT_ADMIN_NOBODY_YET,Nobody yet,,Henüz kimse yok,client: game texts (localeInfo),done
+c:locale_game:BOT_ADMIN_LOAD_FAILED,The bot admin window did not load in this client - see syserr.txt,,Bot yönetim penceresi bu istemcide yüklenemedi - syserr.txt dosyasına bak,client: game texts (localeInfo),done
+c:locale_game:GM_BAN_NEED_REASON,Enter a reason (min. 3 characters),,Bir neden gir (en az 3 karakter),client: game texts (localeInfo),done
+c:locale_game:GM_BAN_NEED_DAYS,Enter the length of the ban in days.,,Yasağın süresini gün olarak gir.,client: game texts (localeInfo),done
+c:locale_game:GM_CAPTCHA_CODE,Code: |cffffa826%s|r,,Kod: |cffffa826%s|r,client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:GM_CAPTCHA_TIME_LEFT,Time left: %ds,,Kalan süre: %d sn,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GM_CAPTCHA_SOLVED,The code was right. It took %d seconds.,,Kod doğruydu. %d saniye sürdü.,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:GM_CAPTCHA_NO_ATTEMPTS,Every attempt to enter the code was used. (|cffffa826%s|r),,Kodu girmek için tüm denemeler kullanıldı. (|cffffa826%s|r),client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:GM_CAPTCHA_WRONG_CODE,Wrong code (|cffffa826%s|r),,Yanlış kod (|cffffa826%s|r),client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:GM_CAPTCHA_TIMEOUT,Time is up.,,Süre doldu.,client: game texts (localeInfo),done
+c:locale_game:GM_CAPTCHA_CODE_CHANGED,Code changed (|cffffa826%s|r),,Kod değişti (|cffffa826%s|r),client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:GM_CAPTCHA_LOGGED_OUT,The player logged out.,,Oyuncu çıkış yaptı.,client: game texts (localeInfo),done
+c:locale_game:GM_CAPTCHA_STARTED,Started with the code |cffffa826%s|r,,Şu kodla başlatıldı: |cffffa826%s|r,client: game texts (localeInfo) | keep: %s; |c...|r colour codes,done
+c:locale_game:GM_CAPTCHA_CHECKING,"Checking player %s (pid %s), code: %s",,"%s oyuncusu kontrol ediliyor (pid %s), kod: %s",client: game texts (localeInfo) | keep: %s %s %s,done
+c:locale_game:TARGET_BUTTON_GM_CHECK,Check,,Kontrol,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_NAME_30_DAYS,$ITEM_NAME (30 days),,$ITEM_NAME (30 gün),client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_NAME_PACK_25,$ITEM_NAME (Pack of 25),,$ITEM_NAME (25'li Paket),client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_NAME_30_HOURS,$ITEM_NAME (30 hours),,$ITEM_NAME (30 saat),client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_NAME_7_DAYS,$ITEM_NAME (7 days),,$ITEM_NAME (7 gün),client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_PIECES,Pieces: %d,,Adet: %d,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:ITEMSHOP_CURRENCY_DC,DC,,EP,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_CURRENCY_DM,DM,,EM,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_STARTS_IN,Starts in %s  ,,Başlamasına %s kaldı  ,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:ITEMSHOP_ENDS_IN,Ends in %s  ,,Bitmesine %s kaldı  ,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:ITEMSHOP_PIECES_BAR,Pieces: %d | ,,Adet: %d | ,client: game texts (localeInfo) | keep: %d,done
+c:locale_game:ITEMSHOP_PRICE_LABEL,Price: ,,Fiyat: ,client: game texts (localeInfo),done
+c:locale_game:ITEMSHOP_PROMOTION_ENDS,Promotion ends in %s | ,,Promosyon: %s kaldı | ,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:MYSHOP_WHISPER_NAME,[Shop],,[Dükkan],client: game texts (localeInfo),done
+c:locale_game:BUSY_ACTION_GATHERING,Gathering,,Toplanıyor,client: game texts (localeInfo),done
+c:locale_game:BUSY_ACTION_IN_PROGRESS,In progress,,Sürüyor,client: game texts (localeInfo),done
+c:locale_game:BUSY_ACTION_INTERRUPTED,Interrupted,,Yarıda kesildi,client: game texts (localeInfo),done
+c:locale_game:BUSY_ACTION_FAILED,Failed,,Başarısız,client: game texts (localeInfo),done
+c:locale_game:BUSY_ACTION_SUCCESS,Success,,Başarılı,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_UNTRADEABLE,Untradeable,,Ticareti yapılamaz,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_TRADEABLE,Tradeable,,Ticareti yapılabilir,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_WEAPONS,Weapons,,Silahlar,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_ARMOUR,Armour,,Zırh,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_OTHER,Other,,Diğer,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_SCROLLS_MARBLES,Scrolls and Marbles,,Parşömenler ve Küreler,client: game texts (localeInfo),done
+c:locale_game:CRAFT_CATEGORY_EXCHANGES,Exchanges,,Takaslar,client: game texts (localeInfo),done
+c:locale_game:REPORT_PLAYER_CHOOSE,Choose,,Seç,client: game texts (localeInfo),done
+c:locale_game:CONFIG_RESOLUTION_CUSTOM,Custom,,Özel,client: game texts (localeInfo),done
+c:locale_game:CONFIG_SCALE_VALUE,Scale (%s),,Ölçek (%s),client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_TITLE,GM Panel by Kiciamol,,Kiciamol'un GM Paneli,client: game texts (localeInfo),done
+c:locale_game:GMP_WINDOW_SIZE,Window size:,,Pencere boyutu:,client: game texts (localeInfo),done
+c:locale_game:GMP_READY,Ready,,Hazır,client: game texts (localeInfo),done
+c:locale_game:GMP_WAITING,Waiting for the server...,,Sunucu bekleniyor...,client: game texts (localeInfo),done
+c:locale_game:GMP_NO_ANSWER,No answer from the server,,Sunucudan yanıt yok,client: game texts (localeInfo),done
+c:locale_game:GMP_SENT,Sent: %s,,Gönderildi: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_SAVED,Saved,,Kaydedildi,client: game texts (localeInfo),done
+c:locale_game:GMP_SAVED_OFFLINE,Saved (player offline),,Kaydedildi (oyuncu çevrimdışı),client: game texts (localeInfo),done
+c:locale_game:GMP_ERR,Error: %s,,Hata: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_ON,ON,,AÇIK,client: game texts (localeInfo),done
+c:locale_game:GMP_OFF,OFF,,KAPALI,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_PLAYER,Player,,Oyuncu,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_SELF,Me (GM),,Ben (GM),client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_WORLD,World & events,,Dünya ve etkinlikler,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_ITEMS,Items,,Eşyalar,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_ACCOUNTS,Accounts,,Hesaplar,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_SPAWN,Spawn,,Spawn,client: game texts (localeInfo),check
+c:locale_game:GMP_MENU_TELEPORT,Teleport,,Işınlan,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_SERVER,Server,,Sunucu,client: game texts (localeInfo),done
+c:locale_game:GMP_MENU_CMDS,GM commands,,GM komutları,client: game texts (localeInfo),done
+c:locale_game:GMP_NICK,Name:,,Ad:,client: game texts (localeInfo),done
+c:locale_game:GMP_SEARCH,Search,,Ara,client: game texts (localeInfo),done
+c:locale_game:GMP_SEARCH_LABEL,Search:,,Ara:,client: game texts (localeInfo),done
+c:locale_game:GMP_SEARCH_BONUS,Search bonus:,,Bonus ara:,client: game texts (localeInfo),done
+c:locale_game:GMP_SEARCH_STONE,Search stone:,,Taş ara:,client: game texts (localeInfo),done
+c:locale_game:GMP_BACK,Back,,Geri,client: game texts (localeInfo),done
+c:locale_game:GMP_MY_TARGET,My target,,Hedefim,client: game texts (localeInfo),done
+c:locale_game:GMP_SEARCHING,Searching...,,Aranıyor...,client: game texts (localeInfo),done
+c:locale_game:GMP_FOUND,Found: %s,,Bulunan: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_NOT_FOUND,No such character,,Böyle bir karakter yok,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_BAD_NICK,Invalid name,,Geçersiz ad,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NO_NICK,Enter a player name,,Bir oyuncu adı gir,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NO_TARGET,Select a player in the game first,,Önce oyunda bir oyuncu seç,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NUMBER,Enter a valid number,,Geçerli bir sayı gir,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_OFFLINE,The player is offline,,Oyuncu çevrimdışı,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NOT_ONLINE,The player is not online,,Oyuncu çevrimiçi değil,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_EQ_TARGET,Equipment: click the player in the game and choose EQ,,Ekipman: oyunda oyuncuya tıkla ve EQ'yu seç,client: game texts (localeInfo),done
+c:locale_game:GMP_ONLINE,Online,,Çevrimiçi,client: game texts (localeInfo),done
+c:locale_game:GMP_OFFLINE_SINCE,Offline since %s,,Çevrimdışı: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_MAP,Map: %s,,Harita: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_HPMP,HP/SP: %s / %s,,,client: game texts (localeInfo) | keep: %s %s,new
+c:locale_game:GMP_INFO_YANG,Yang: %s,,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:GMP_INFO_ACCOUNT,Account: %s,,Hesap: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_STATS,STR %s  VIT %s  DEX %s  INT %s,,STR %s VIT %s DEX %s INT %s,client: game texts (localeInfo) | keep: %s %s %s %s,done
+c:locale_game:GMP_INFO_POINTS,"Stat points %s, skill %s",,"Statü p. %s, beceri p. %s",client: game texts (localeInfo) | keep: %s %s,done
+c:locale_game:GMP_INFO_IP,IP: %s,,,client: game texts (localeInfo) | keep: %s,new
+c:locale_game:GMP_INFO_HORSE,Horse: level %s,,At: seviye %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_RANK,Rank: %s,,Rütbe: %s,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_INFO_EXP,Exp: %s,,Exp: %s,client: game texts (localeInfo) | keep: %s,check
+c:locale_game:GMP_JOB_WARRIOR,Warrior,,Savaşçı,client: game texts (localeInfo),done
+c:locale_game:GMP_JOB_NINJA,Ninja,,,client: game texts (localeInfo),new
+c:locale_game:GMP_JOB_SURA,Sura,,,client: game texts (localeInfo),new
+c:locale_game:GMP_JOB_SHAMAN,Shaman,,Şaman,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_MOVE,Movement,,Hareket,client: game texts (localeInfo),done
+c:locale_game:GMP_GOTO_PLAYER,Go to,,Yanına git,client: game texts (localeInfo),done
+c:locale_game:GMP_SUMMON,Summon,,Çağır,client: game texts (localeInfo),done
+c:locale_game:GMP_STATE,State (chat),,Durum (sohbet),client: game texts (localeInfo),done
+c:locale_game:GMP_AFFECTS,Effects (chat),,Etkiler (sohbet),client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_CHAR,Character,,Karakter,client: game texts (localeInfo),done
+c:locale_game:GMP_VIEW_EQ,View EQ,,Ekipmanı gör,client: game texts (localeInfo),done
+c:locale_game:GMP_GIVE_ITEM,Give item,,Eşya ver,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_M,All to M1,,Tümü M1'e,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_G,All to G1,,Tümü G1'e,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_P,All to P,,Tümü P'ye,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_YANG,Yang,,,client: game texts (localeInfo),new
+c:locale_game:GMP_VAL_CASH,Dragon Coins,,Ejderha Parası,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_LEVEL,Level,,Seviye,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_RANK,Rank,,Rütbe,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_HORSE,Horse level,,At seviyesi,client: game texts (localeInfo),done
+c:locale_game:GMP_VAL_SKILLPT,+ Skill points,,+ Beceri puanı,client: game texts (localeInfo),done
+c:locale_game:GMP_STAT_STR,Strength,,Güç,client: game texts (localeInfo),done
+c:locale_game:GMP_STAT_VIT,Vitality,,Canlılık,client: game texts (localeInfo),done
+c:locale_game:GMP_STAT_DEX,Dexterity,,Çeviklik,client: game texts (localeInfo),done
+c:locale_game:GMP_STAT_INT,Intelligence,,Zeka,client: game texts (localeInfo),done
+c:locale_game:GMP_GIVE,Give,,Ver,client: game texts (localeInfo),done
+c:locale_game:GMP_SET,Set,,Ayarla,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_SKILLS,Skills,,Beceriler,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_HINT,Search an online player to see the skills,,Becerileri görmek için çevrimiçi bir oyuncu ara,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_EDIT,"Level: 1-19, M1-M10, G1-G10 or P",,"Seviye: 1-19, M1-M10, G1-G10 veya P",client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_NONE,No skills learned,,Öğrenilmiş beceri yok,client: game texts (localeInfo),done
+c:locale_game:GMP_SKILLS_OFFLINE,Skills are shown only for online players,,Beceriler yalnızca çevrimiçi oyuncular için gösterilir,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_SKILL_LEVEL,"Level: 1-19, M1-M10, G1-G10 or P",,"Seviye: 1-19, M1-M10, G1-G10 veya P",client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_PUNISH,Punishments,,Cezalar,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE_FOR,Mute for:,,Susturma süresi:,client: game texts (localeInfo),done
+c:locale_game:GMP_MUTE,Mute,,Sustur,client: game texts (localeInfo),done
+c:locale_game:GMP_UNMUTE,Unmute,,Susturmayı bitir,client: game texts (localeInfo),done
+c:locale_game:GMP_STUN,Stun,,Sersemlet,client: game texts (localeInfo),done
+c:locale_game:GMP_SLOW,Slow,,Yavaşlat,client: game texts (localeInfo),done
+c:locale_game:GMP_KILL,Kill...,,Öldür...,client: game texts (localeInfo),done
+c:locale_game:GMP_KICK,Kick...,,At...,client: game texts (localeInfo),done
+c:locale_game:GMP_BAN_DOTS,Ban...,,Yasakla...,client: game texts (localeInfo),done
+c:locale_game:GMP_Q_KILL,Kill %s?,,%s öldürülsün mü?,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_Q_KICK,Kick %s from the game?,,%s oyundan atılsın mı?,client: game texts (localeInfo) | keep: %s,done
+c:locale_game:GMP_HDR_ME,My character,,Karakterim,client: game texts (localeInfo),done
+c:locale_game:GMP_INVISIBLE,Invisibility,,Görünmezlik,client: game texts (localeInfo),done
+c:locale_game:GMP_SPY,Spy mode,,Casus modu,client: game texts (localeInfo),done
+c:locale_game:GMP_NO_COOLDOWN,No cooldowns,,Soğuma süresi yok,client: game texts (localeInfo),done
+c:locale_game:GMP_IMMORTAL_ON,Immortal ON,,Ölümsüzlük AÇIK,client: game texts (localeInfo),done
+c:locale_game:GMP_IMMORTAL_OFF,Immortal OFF,,Ölümsüzlük KAPALI,client: game texts (localeInfo),done
+c:locale_game:GMP_FULL_HPMP,Full HP/SP,,Tam HP/SP,client: game texts (localeInfo),done
+c:locale_game:GMP_FULL_SET,Full set,,Tam set,client: game texts (localeInfo),done
+c:locale_game:GMP_MAX_BONUS,Max bonuses,,Maks. bonuslar,client: game texts (localeInfo),done
+c:locale_game:GMP_ALL_SKILLS,All skills P,,Tüm beceriler P,client: game texts (localeInfo),done
+c:locale_game:GMP_CLEAR_MY_AFFECT,Clear effects,,Etkileri temizle,client: game texts (localeInfo),done
+c:locale_game:GMP_HORSE_MAX,Max horse,,Atı maksimuma çıkar,client: game texts (localeInfo),done
+c:locale_game:GMP_REWARP,Rewarp,,Yeniden ışınla,client: game texts (localeInfo),done
+c:locale_game:GMP_POLY,Polymorph (vnum):,,Dönüşüm (vnum):,client: game texts (localeInfo),done
+c:locale_game:GMP_POLY_ON,Transform,,Dönüştür,client: game texts (localeInfo),done
+c:locale_game:GMP_POLY_OFF,Revert,,Eski hale dön,client: game texts (localeInfo),done
+c:locale_game:GMP_POLY_MARBLE,Give marble,,Dönüşüm Küresi ver,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_AROUND,Around me,,Çevremde,client: game texts (localeInfo),done
+c:locale_game:GMP_PURGE,Purge mobs,,Canavarları sil,client: game texts (localeInfo),done
+c:locale_game:GMP_PURGE_ALL,Purge all,,Hepsini sil,client: game texts (localeInfo),done
+c:locale_game:GMP_WEAKEN,Weaken mobs,,Canavarları zayıflat,client: game texts (localeInfo),done
+c:locale_game:GMP_PULL,Pull mobs,,Canavarları çek,client: game texts (localeInfo),done
+c:locale_game:GMP_MOB_COUNT,Count mobs,,Canavarları say,client: game texts (localeInfo),done
+c:locale_game:GMP_RESPAWN,Respawn,,Yeniden doğur,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_NOTICE,Notice,,Duyuru,client: game texts (localeInfo),done
+c:locale_game:GMP_NOTICE_CHAT,In chat,,Sohbette,client: game texts (localeInfo),done
+c:locale_game:GMP_NOTICE_GM,As GM,,GM olarak,client: game texts (localeInfo),done
+c:locale_game:GMP_NOTICE_BIG,Big,,Büyük,client: game texts (localeInfo),done
+c:locale_game:GMP_NOTICE_MAP,This map only,,Yalnızca bu harita,client: game texts (localeInfo),done
+c:locale_game:GMP_ERR_NO_TEXT,Enter the notice text,,Duyuru metnini gir,client: game texts (localeInfo),done
+c:locale_game:GMP_HDR_EVENTS,Events (empire bonus),,Etkinlikler (krallık bonusu),client: game texts (localeInfo),done
+c:locale_game:GMP_EV_EXP,Exp %,,Exp %,client: game texts (localeInfo),check
+c:locale_game:GMP_EV_DROP,Drop %,,Drop %,client: game texts (localeInfo),check
+c:locale_game:GMP_EV_YANG,Yang %,,,client: game texts (localeInfo),new
+c:locale_game:GMP_EV_HOURS,Hours,,Saat,client: game texts (localeInfo),done
+c:locale_game:GMP_EMPIRE_ALL,All,,Tümü,client: game texts (localeInfo),done
+c:locale_game:GMP_EMPIRE_SHINSOO,Shinsoo,,,client: game texts (localeInfo),new
+c:locale_game:GMP_EMPIRE_CHUNJO,Chunjo,,,client: game texts (localeInfo),new
+c:locale_game:GMP_EMPIRE_JINNO,Jinno,,,client: game texts (localeInfo),new
+c:locale_game:GMP_EV_START,Start event,,Etkinliği başlat,client: game texts (localeInfo),done
+c:locale_game:GMP_EV_STOP,Stop events,,Etkinlikleri durdur,client: game texts (localeInfo),done
+c:locale_game:GMP_EV_HINT,"Extra percent, e.g. 100 = double. Empty/0 = unchanged.",,"Ek yüzde, örn. 100 = iki katı. Boş/0 = değişmez.",client: game texts (localeInfo),done
+c:locale_game:GMP_EV_STARTED,Event started,,Etkinlik başladı,client: game texts (localeInfo),done
+c:locale_game:GMP_EV_STOPPED,Events stopped,,Etkinlikler durduruldu,client: game texts (localeInfo),done

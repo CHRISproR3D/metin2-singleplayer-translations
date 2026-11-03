@@ -1,0 +1,701 @@
+id,english,polski,translation,notes,status
+e:c8e0b8ccf6a5,Everyone will be teleported into the city shortly.,Wszyscy ludzie zostaną przeniesieni do miasta.,Toti vor fi teleportati in oras in curand.,server message (chat/system line),done
+e:b32cf8d62f22,This item does not exist.,Ta rzecz nie istnieje.,Acest obiect nu exista.,server message (chat/system line),done
+e:20be2b2200c0,The box suddenly exploded! You have lost Hit Points (HP).,Skrzynia niespodziewanie wybuchła! Straciłeś Punkty Życia.,Cutia a explodat brusc! Ati pierdut Puncte de Viata (PV).,server message (chat/system line),done
+e:4221a13459cc,"If you inhale the green smoke that is coming out of the box, the poison will spread through your body!","Jeśli będziesz wdychać zielony dym ze skrzyni, rozprzestrzenisz truciznę w swoim ciele!","Daca inspirati fumul verde care iese din cutie, otrava se va raspandi in corpul dvs.!",server message (chat/system line),done
+e:f4ecc9c6ff82,"You have received %s, %d units.","Otrzymano %s, %d sztuk.","Ati primit %s, %d unitati.",server message (chat/system line) | keep: %s %d,done
+e:240440726eee,The box contains %s.,Ze skrzyni wypadł następujący przedmiot: %s.,Cutia contine %s.,server message (chat/system line) | keep: %s,done
+e:6d96d48ec294,This key does not seem to fit the lock.,Ten klucz chyba nie pasuje do zamka.,Aceasta cheie nu pare sa se potriveasca in broasca.,server message (chat/system line),done
+e:765f56dbc5b6,You have not received anything.,Nic nie dostałeś.,Nu ati primit nimic.,server message (chat/system line),done
+e:a92ac25d0b2c,You do not have enough Yang to use this item.,"Masz za mało Yang, aby móc użyć tego przedmiotu.",Nu aveti destul Yang pentru a folosi acest obiect.,server message (chat/system line),done
+e:0df5e8444c0c,You have lowered your Skill Level.,Obniżyłeś swój poziom umiejętności.,V-ati redus nivelul abilitatii.,server message (chat/system line),done
+e:03a897c5c4aa,You cannot lower your Skill Level.,Nie możesz obniżyć swojego poziomu umiejętności.,Nu va puteti reduce nivelul abilitatii.,server message (chat/system line),done
+e:e11ffc50cf29,This effect is already activated.,Ten efekt jest już aktywny.,Acest efect este deja activat.,server message (chat/system line),done
+e:642ca381ca0e,This item can only be used in an Internet cafe.,Ten przedmiot może być użyty tylko w kafejce internetowej.,Acest obiect poate fi folosit doar intr-un internet cafe.,server message (chat/system line),done
+e:b2378e492ab2,That is over the limit.,To jest powyżej limitu.,Asta depaseste limita.,server message (chat/system line),done
+e:4c35f6e4eba5,Unfortunately you don't have enough space in your inventory.,Masz za mało miejsca w swoim ekwipunku.,Din pacate nu aveti destul loc in inventar.,server message (chat/system line),done
+e:a8fbe3e39d1c,Used Moon Cake or Seed.,Użyto Księżycowego Torcika lub Nasionka.,Ati folosit o Prajitura a Lunii sau o Samanta.,server message (chat/system line),done
+e:eab4dd07645d,You cannot wear a Wedding Ring if you are not married.,Nie możesz nosić obrączki jeśli nie jesteś w związku małżeńskim.,Nu puteti purta un Inel de nunta daca nu sunteti casatorit.,server message (chat/system line),done
+e:54422baa26ba,You cannot use the Event Detector from this position.,Nie możesz użyć wykrawacza zdarzeń z tej pozycji.,Nu puteti folosi Detectorul de evenimente din aceasta pozitie.,server message (chat/system line),done
+e:7e55ff15a0b5,This item cannot be absorbed.,Ten przedmiot nie może być absorbowany.,Acest obiect nu poate fi absorbit.,server message (chat/system line),done
+e:f90a0cfabe5f,The Event Detector vanished in a mysterious light.,Wykrywacz zdarzeń zniknął w rozbłysku tajemniczego światła.,Detectorul de evenimente a disparut intr-o lumina misterioasa.,server message (chat/system line),done
+e:a0d056399927,The Event Detector has vanished.,Wykrywacz eventów zniknął.,Detectorul de evenimente a disparut.,server message (chat/system line),done
+e:591c2c64e101,The Compass for Metin Stones does not work in dungeons.,Kompas Kamieni Metin nie funkcjonuje w Lochach.,Busola pentru Pietre Metin nu functioneaza in temnite.,server message (chat/system line),done
+e:a0e2eba8d164,The Compass for Metin Stones has vanished in the mysterious light.,Kompas Kamieni Metin zniknął wraz z tajemniczym światłem.,Busola pentru Pietre Metin a disparut in lumina misterioasa.,server message (chat/system line),done
+e:ee69c0eb6cc8,Receive: %s - %d,Otrzymaj: %s - %d,Primit: %s - %d,server message (chat/system line) | keep: %s %d,done
+e:fc3535e57048,The Compass for Metin Stones has vanished.,Kompas Kamieni Metin zniknął.,Busola pentru Pietre Metin a disparut.,server message (chat/system line),done
+e:1d31a66fa345,You find a simple Piece of Stone in the Clam.,W muszli znajdujesz jedynie zwyczajny Kawałek Kamienia.,Gasiti in scoica o simpla bucata de piatra.,server message (chat/system line),done
+e:741ecff6eafe,The Clam has vanished.,Muszla zniknęła.,Scoica a disparut.,server message (chat/system line),done
+e:08be6f24723e,There is a White Pearl inside the Clam.,W muszli jest Biała Perła.,In scoica este o Perla Alba.,server message (chat/system line),done
+e:1f3b4bb71009,There is a Blue Pearl inside the Clam.,W muszli jest Niebieska Perła.,In scoica este o Perla Albastra.,server message (chat/system line),done
+e:ce8ccc7cd5be,There is a Blood-Red Pearl inside the Clam.,W muszli jest Krwawa Perła.,In scoica este o Perla Rosie ca Sangele.,server message (chat/system line),done
+e:cd1267f0c175,It isn't easy to understand this book.,Nie jest łatwo zrozumieć tę książkę.,Nu este usor de inteles aceasta carte.,server message (chat/system line),done
+e:80575f6f366e,This book will not help you.,Ta książka Ci nie pomoże.,Aceasta carte nu va va ajuta.,server message (chat/system line),done
+e:4edb3001122e,You need to have a minimum level of 30 to understand this book.,"Musisz być na 30 poziomie, aby zrozumieć tą Księge.",Aveti nevoie de cel putin nivelul 30 pentru a intelege aceasta carte.,server message (chat/system line),done
+e:c36787afbfc9,You need a minimum level of 50 to understand this book.,"Musisz być na 50 poziomie, aby zrozumieć tą Księgę.",Aveti nevoie de cel putin nivelul 50 pentru a intelege aceasta carte.,server message (chat/system line),done
+e:7ff8f76fa3e0,You need a minimum level of %d to understand this book.,"Musisz być na %d poziomie, aby zrozumieć tą Księgę.",Aveti nevoie de cel putin nivelul %d pentru a intelege aceasta carte.,server message (chat/system line) | keep: %d,done
+e:dba29ff2ab0a,You can't train any more Combos.,Nie możesz wytrenować więcej kombinacji.,Nu mai puteti antrena Combo-uri.,server message (chat/system line),done
+e:db095a7e27a8,%s has captured the flag of %s!,Gildia %s przejęła flagę Gildii %s!,%s a capturat steagul lui %s!,server message (chat/system line) | keep: %s %s,done
+e:3ef9d265582c,You already understand this language.,Już mówisz płynnie tym językiem.,Intelegeti deja aceasta limba.,server message (chat/system line),done
+e:ce06e408e940,You have to improve your Level to read this Book.,"Musisz podnieść swój poziom, aby zrozumieć tę książkę.",Trebuie sa va cresteti nivelul pentru a citi aceasta carte.,server message (chat/system line),done
+e:e1cafac356ce,The book is too hard for practising.,Książka jest za trudna do nauki.,Cartea este prea grea pentru exersare.,server message (chat/system line),done
+e:3caa00f2cebf,You cannot train with this Book any more.,Nie możesz już trenować z tą książką.,Nu va mai puteti antrena cu aceasta carte.,server message (chat/system line),done
+e:8f0a9bb9a10c,Taxes are set to %d%%.,Podatki ustawione na %d%%.,Taxele sunt setate la %d%%.,server message (chat/system line) | keep: %d,done
+e:e9a9e3c7c398,You need a minimum level of 50 to get riding training.,Trening Jeździectwa jest dostępny dopiero od poziomu 50.,Aveti nevoie de cel putin nivelul 50 pentru antrenamentul de calarie.,server message (chat/system line),done
+e:6110e3aa701c,You have escaped the evil ghost curse with the help of an Exorcism Scroll.,Uniknąłeś klątwy Złego Ducha przy pomocy Zwoju Egzorcyzmu.,Ati scapat de blestemul spiritului malefic cu ajutorul unui Pergament al Exorcizarii.,server message (chat/system line),done
+e:6395b247c1fa,You cannot read any more Riding Guides.,Nie możesz czytać więcej przewodników Jeździectwa.,Nu mai puteti citi Ghiduri de calarie.,server message (chat/system line),done
+e:2334d70e0113,You read the Horse Riding Manual and received a Riding Point.,Otrzymałeś punkt jeździectwa po przeczytaniu przewodnika jeździectwa.,Ati citit Manualul de calarie si ati primit un Punct de calarie.,server message (chat/system line),done
+e:476d7d108438,You can use this point to improve your riding skill!,Możesz podnieść swoje umiejętności jeździeckie poprzez otrzymany punkt.,Puteti folosi acest punct pentru a va imbunatati abilitatea de calarie!,server message (chat/system line),done
+e:445ae6ef7f67,The guild %s's flag has been stolen by player %s.,Flaga Gildii %s została ukradziona przez gracza %s.,Steagul breslei %s a fost furat de jucatorul %s.,server message (chat/system line) | keep: %s %s,done
+e:d39d1b076f9b,You did not understand the riding guide.,Nie zrozumiałeś Przewodnika Jeździectwa.,Nu ati inteles ghidul de calarie.,server message (chat/system line),done
+e:f220a52179da,Your mind is clear. You can concentrate really well now.,Twój umysł jest czysty. Możesz się skoncentrować.,Mintea va este limpede. Va puteti concentra foarte bine acum.,server message (chat/system line),done
+e:30018f4669b5,Your rank has increased by %d points.,Twoja Ranga została zwiększona o %d punktów.,Rangul dvs. a crescut cu %d puncte.,server message (chat/system line) | keep: %d,done
+e:8852235d44ca,You cannot dye or bleach your current hairstyle.,"Nie możesz pofarbować swojej aktualnej fryzury. Użyj wybielacza, aby ją zmienić.",Nu puteti vopsi sau decolora coafura actuala.,server message (chat/system line),done
+e:e9f6ef8de8a8,You need to have reached level %d to be able to dye your hair again.,"Musisz osiągnąć poziom %d, aby móc ponownie zmienić kolor fryzury.",Trebuie sa fi atins nivelul %d pentru a va putea vopsi din nou parul.,server message (chat/system line) | keep: %d,done
+e:a63b46229956,This item can only be opened by the another gender.,Ten przedmiot może zostać otwarty tylko przez inną płeć.,Acest obiect poate fi deschis doar de celalalt sex.,server message (chat/system line),done
+e:4c8bd969bb89,You cannot use this from your current position.,Nie możesz tego użyć z Twojego aktualnego położenia.,Nu puteti folosi asta din pozitia actuala.,server message (chat/system line),done
+e:b6ff5f54e965,"You are ready to warp, so you cannot use the Scroll of the Location.","Jesteś gotowy do przeniesienia, więc nie możesz skorzystać ze zwoju powrotu.","Sunteti gata de teleportare, deci nu puteti folosi Pergamentul Locatiei.",server message (chat/system line),done
+e:9a80a78942f1,You are being brought back to the place of origin.,Wróciłeś do punktu wyjścia.,Sunteti adus inapoi la locul de origine.,server message (chat/system line),done
+e:9c4771cf2cca,%s%s cannot be used in a dungeon.,%s%s nie może być użyty w lochu.,%s%s nu poate fi folosit intr-o temnita.,server message (chat/system line) | keep: %s %s,done
+e:3bdf0ba57a9f,[Quest] You have already received your reward.,[Misja] Odebrałeś już swoją nagrodę.,[Misiune] Ati primit deja recompensa.,server message (chat/system line),done
+e:bbccdf2efb33,the,the,the,server message (chat/system line),check
+e:2c55caf19c26,There aren't any Soul Stones available for extraction.,Przedmiot nie posiada Kamienia Duszy do wyjęcia.,Nu exista Pietre de suflet disponibile pentru extragere.,server message (chat/system line),done
+e:112b47bc7a42,There aren't any Pieces of Broken Stone available for removal.,Przedmiot nie posiada Odłamku Kamienia do usuwania.,Nu exista bucati de piatra sparta disponibile pentru scoatere.,server message (chat/system line),done
+e:00354e039be2,You cannot change the upgrade of this item.,Nie możesz zmienić ulepszenia tego Przedmiotu.,Nu puteti schimba imbunatatirea acestui obiect.,server message (chat/system line),done
+e:99bea21aca90,There is no upgrade that you can change.,"Nie masz ulepszenia, które mógłbyś zmienić.",Nu exista nicio imbunatatire pe care sa o puteti schimba.,server message (chat/system line),done
+e:c99f65b8df90,You can only do this %d minutes after an upgrade. (%d minutes left),Możesz tego dokonać tylko w %d minut po ulepszeniu. (Zostało %d minut),Puteti face asta doar la %d minute dupa o imbunatatire. (mai sunt %d minute),server message (chat/system line) | keep: %d %d,done
+e:7ccf1848f542,You have changed the upgrade.,Zmieniłeś ulepszenie.,Ati schimbat imbunatatirea.,server message (chat/system line),done
+e:8ecb1a7815b3,Upgrade successfully added.,Ulepszenie dodane pomyślnie.,Imbunatatire adaugata.,server message (chat/system line),done
+e:0ca757573a55,No upgrade added.,Ulepszenie nie zostało dodane.,Nicio imbunatatire adaugata.,server message (chat/system line),done
+e:22c0ef906b04,You must use the Blessing Marble in order to add another bonus to this item.,"Aby dodać kolejny bonus do tego przedmiotu, musisz użyć kuli błogosławieństwa.",Trebuie sa folositi Marmura Binecuvantarii pentru a adauga inca un bonus acestui obiect.,server message (chat/system line),done
+e:94db8dfa9c81,You cannot use this on war map.,Nie możesz użyć tego na wojnie.,Nu puteti folosi asta pe harta de razboi.,server message (chat/system line),done
+e:eb47f1e6a7cd,You cannot summon horse here.,Nie możesz przywołać konia w tym miejscu.,Nu va puteti chema calul aici.,server message (chat/system line),done
+e:2cc38766f4aa,You cannot use this in the duel arena.,Nie możesz użyć tego na arenie.,Nu puteti folosi asta in arena de duel.,server message (chat/system line),done
+e:ab329f0ee8cd,This item can no longer be improved. The maximum number of bonuses has been reached.,Tego przedmiotu nie można już ulepszać w ten sposób. Maksymalna ilość bonusów została osiągnięta.,Acest obiect nu mai poate fi imbunatatit. S-a atins numarul maxim de bonusuri.,server message (chat/system line),done
+e:fe57dce12be8,You can only use the Blessing Marble with an item which already has 4 bonuses.,"Kula błogosławieństwa może zostać użyty tylko na przedmiotach, które już mają 4 bonusy.",Puteti folosi Marmura Binecuvantarii doar pe un obiect care are deja 4 bonusuri.,server message (chat/system line),done
+e:cae6485e4c64,Socket successfully added.,Slot dodano pomyślnie.,Soclu adaugat.,server message (chat/system line),done
+e:1dc117a3c3ca,No socket added.,Slot nie został dodany.,Niciun soclu adaugat.,server message (chat/system line),done
+e:837868557f33,No additional sockets could be added to this item.,Do tego przedmiotu nie możesz dodać więcej nowych slotów.,Nu s-au mai putut adauga socluri acestui obiect.,server message (chat/system line),done
+e:6fb694ac9e8e,You cannot add a socket to this item.,Nie możesz przydzielić slotu dla tego przedmiotu.,Nu puteti adauga un soclu acestui obiect.,server message (chat/system line),done
+e:724b623eda0c,Arming successful.,Uzbrajanie pomyślne.,Montare reusita.,server message (chat/system line),done
+e:dce909473458,Arming has failed.,Uzbrajanie niepomyślne.,Montarea a esuat.,server message (chat/system line),done
+e:89a0c06a847e,You have to add a socket first. Use a diamond in order to do this.,Musisz wpierw dodać slot. Użyj do tego Diamentu.,Trebuie mai intai sa adaugati un soclu. Folositi un diamant pentru asta.,server message (chat/system line),done
+e:070f08dbef52,There are no sockets for gemstones in this item.,Nie ma tu slotu z Klejnotami.,Acest obiect nu are socluri pentru nestemate.,server message (chat/system line),done
+e:17dcf482d10d,You can do this when you wear an Emotion Mask.,Możesz to zrobić jedynie z założoną Maską Uczuć.,Puteti face asta cand purtati o Masca a emotiilor.,server message (chat/system line),done
+e:09191511c73d,Emotions are only available to Premium Subscribers.,Emocje są dostepne tylko dla Subskrybentów Premium.,Emotiile sunt disponibile doar abonatilor Premium.,server message (chat/system line),done
+e:54d315b41fae,You have to add a socket if you want to use a Diamond.,"Musisz dodać slot, jeśli chcesz użyć Diamentu.",Trebuie sa adaugati un soclu daca vreti sa folositi un Diamant.,server message (chat/system line),done
+e:23f8c8b86cd0,No more gems can be added to this item.,Do tego przedmiotu nie można dodać więcej klejnotów.,Nu se mai pot adauga nestemate acestui obiect.,server message (chat/system line),done
+e:8d59c32c7e44,These items cannot be used together.,Te przedmioty nie mogą zostać użyte razem.,Aceste obiecte nu pot fi folosite impreuna.,server message (chat/system line),done
+e:32ed1f605c79,You cannot change the Bait whilst fishing.,Nie możesz zmienić przynęty podczas wędkowania.,Nu puteti schimba momeala in timp ce pescuiti.,server message (chat/system line),done
+e:a9448a06adce,You are exchanging the current Bait for %s.,Zmieniłeś aktualną przynętę na %s.,Schimbati momeala actuala cu %s.,server message (chat/system line) | keep: %s,done
+e:35033929febb,You attached %s to the hook as bait.,Umieściłeś %s jako przynętę na haczyku.,Ati pus %s in carlig ca momeala.,server message (chat/system line) | keep: %s,done
+e:906a41e0bcf2,You are missing some ingredients to make the potion.,Nie masz wszystkich materiałów potrzebnych do zrobienia mikstury.,Va lipsesc unele ingrediente pentru a face potiunea.,server message (chat/system line),done
+e:f21dededa565,You do not have enough material (%s).,Nie masz wystarczająco materiałów (%s).,Nu aveti destul material (%s).,server message (chat/system line) | keep: %s,done
+e:debcff434a9b,You do not have enough empty bottles.,Nie masz wystarczającej liczby pustych butelek.,Nu aveti destule sticle goale.,server message (chat/system line),done
+e:cad88239570d,The potion production has failed.,Mieszanie napoju nie powiodło się.,Prepararea potiunii a esuat.,server message (chat/system line),done
+e:346ca6bb5cfa,Only women can do this.,Tylko kobiety mogą to zrobić.,Doar femeile pot face asta.,server message (chat/system line),done
+e:4e1d4c4f7613,You cannot attach several stones of the same type.,Nie możesz umieścić kilku Kamieni Duszy tego samego rodzaju.,Nu puteti monta mai multe pietre de acelasi tip.,server message (chat/system line),done
+e:2e4bb1dfddff,This Spirit Stone cannot be attached to this type of item.,Ten Kamień Duszy nie może zostać umieszczony w przedmiocie tego rodzaju.,Aceasta Piatra Spirituala nu poate fi montata pe acest tip de obiect.,server message (chat/system line),done
+e:80b7dee540ea,You cannot attach this Spirit Stone to a weapon.,Nie możesz umieścić tego Kamienia Duszy w broni.,Nu puteti monta aceasta Piatra Spirituala pe o arma.,server message (chat/system line),done
+e:297baa2985da,You have attached the Spirit Stone successfully.,Pomyślnie umieściłeś Kamień Duszy.,Ati montat Piatra Spirituala cu succes.,server message (chat/system line),done
+e:4e1a07682143,The Spirit Stone broke while being attached.,Kamień Duszy pękł podczas umieszczania.,Piatra Spirituala s-a spart in timpul montarii.,server message (chat/system line),done
+e:dafae93580d4,No slot free.,Brak wolnych miejsc.,Niciun slot liber.,server message (chat/system line),done
+e:0b05adc35799,This function is not available right now.,Ta funkcja jest teraz niedostępna.,Aceasta functie nu este disponibila acum.,server message (chat/system line),done
+e:af9a5e1eff2a,You cannot teleport your partner currently.,Nie możesz teleportować twojego partnera w tym momencie.,Momentan nu va puteti teleporta partenerul.,server message (chat/system line),done
+e:6ad7ed9d49b6,You cannot save position here.,Nie możesz zapisać pozycji w tym miejscu.,Nu puteti salva pozitia aici.,server message (chat/system line),done
+e:36a98711c7c3,You cannot use this item here.,Nie możesz użyć tego przedmiotu w tym miejscu.,Nu puteti folosi acest obiect aici.,server message (chat/system line),done
+e:cbefeb6e25db,You cannot use a Scroll of the Location whilst taking part in a kingdom battle.,Nie możesz użyć zwoju powrotu podczas Bitwy Królestw.,Nu puteti folosi un Pergament al Locatiei cat timp participati la o batalie a regatelor.,server message (chat/system line),done
+e:dc9f9097e5bd,After opening the Storeroom you cannot use a Scroll of the Location for %d seconds.,Nie możesz użyć zwoju powrotu przez %d sek. po otwarciu magazynu.,Dupa deschiderea Depozitului nu puteti folosi un Pergament al Locatiei timp de %d secunde.,server message (chat/system line) | keep: %d,done
+e:48a6155e6aaa,You cannot use a Scroll of the Location while another window is open.,"Nie możesz skorzystać ze zwoju powrotu, gdy masz otwarte inne okno.",Nu puteti folosi un Pergament al Locatiei cat timp este deschisa alta fereastra.,server message (chat/system line),done
+e:e2ab7c8e8478,This person does not exist.,Ta osoba nie istnieje.,Aceasta persoana nu exista.,server message (chat/system line),done
+e:5f09539ad8f2,Wait a moment before the next upgrade.,Odczekaj przed następnym ulepszeniem.,Asteptati putin inainte de urmatoarea imbunatatire.,server message (chat/system line),done
+e:f5f87d75ef7c,"After a trade, you cannot use a scroll for another %d seconds.",Nie możesz użyć Zwoju przez %d sek. po handlu.,Dupa un schimb nu puteti folosi un pergament inca %d secunde.,server message (chat/system line) | keep: %d,done
+e:e94bdd43e899,After opening a storeroom you cannot use a Scroll of the Location for another %d seconds.,Nie możesz użyć zwoju powrotu przez %d sek. po otwarciu magazynu.,Dupa deschiderea unui depozit nu puteti folosi un Pergament al Locatiei inca %d secunde.,server message (chat/system line) | keep: %d,done
+e:588cdc7fd211,You cannot use the Scroll of the Location because the distance is too small.,"Nie możesz użyć zwoju powrotu, ponieważ odległość jest zbyt mała.","Nu puteti folosi Pergamentul Locatiei, deoarece distanta este prea mica.",server message (chat/system line),done
+e:1d4f88d60501,After a trade you cannot use a Scroll of the Location for %d seconds.,Po dokonaniu handlu nie możesz skorzystać ze zwoju powrotu przez %d sek.,Dupa un schimb nu puteti folosi un Pergament al Locatiei timp de %d secunde.,server message (chat/system line) | keep: %d,done
+e:c45cd9228012,You cannot open the Storeroom if another window is already open.,"Nie możesz otworzyć Magazynu, jeśli otwarte jest inne okno.",Nu puteti deschide Depozitul daca este deja deschisa alta fereastra.,server message (chat/system line),done
+e:a6cab805884e,You cannot drop this item.,Nie możesz wyrzucić tego przedmiotu.,Nu puteti arunca acest obiect.,server message (chat/system line),done
+e:d106c1f010e0,The dropped item will vanish in %d minutes.,Upuszczony przedmiot zniknie za %d minut.,Obiectul aruncat va disparea in %d minute.,server message (chat/system line) | keep: %d,done
+e:fca9608c450b,%s received,Otrzymałeś %s,%s primit,server message (chat/system line) | keep: %s,done
+e:0d6fc0164b1a,%s %d received,Otrzymałeś %s (szt. %d),%s %d primit,server message (chat/system line) | keep: %s %d,done
+e:4b7391adf983,%s received (Horse Inventory),Otrzymałeś %s (Juki Konne),%s primit (inventarul calului),server message (chat/system line) | keep: %s,done
+e:59e150e5230e,%s %d received (Horse Inventory),Otrzymałeś %s (szt. %d) (Juki Konne),%s %d primit (inventarul calului),server message (chat/system line) | keep: %s %d,done
+e:2b8b89721e42,Owner has too many items in his inventory.,Właściciel przedmiotu ma za dużo przedmiotów w ekwipunku.,Proprietarul are prea multe obiecte in inventar.,server message (chat/system line),done
+e:1e10b2cf5dd6,You have too many items in your inventory.,Masz za dużo przedmiotów w ekwipunku.,Aveti prea multe obiecte in inventar.,server message (chat/system line),done
+e:3c85b4a8b3ca,%s receives %s.,%s otrzymuje %s.,%s primeste %s.,server message (chat/system line) | keep: %s %s,done
+e:9db091f4d03e,You are too near.,Jesteś za blisko.,Sunteti prea aproape.,server message (chat/system line),done
+e:fab75b642173,"Item Trade: %s, %s",%s otrzymał: %s,"Schimb de obiecte: %s, %s",server message (chat/system line) | keep: %s %s,done
+e:5e6fae4d9f02,You cannot change the equipped item while you are transformed.,"Nie możesz zmienić używanych przedmiotów, gdy jesteś przemieniony.",Nu puteti schimba obiectul echipat cat timp sunteti transformat.,server message (chat/system line),done
+e:44a6627e4f76,You have to stand still to equip the item.,"Musisz stać w miejscu, aby wyposażyć się w ten przedmiot.",Trebuie sa stati pe loc pentru a echipa obiectul.,server message (chat/system line),done
+e:55c191f67eeb,Monkey Herbs cannot be fed to living horses. It is used to revive dead horses.,Zioło z małp nie nadaje się na karmę. Służy ożywianiu martwych koni.,Plantele maimutei nu pot fi date cailor vii. Se folosesc pentru a reinvia caii morti.,server message (chat/system line),done
+e:d0a6a508b81d,You cannot feed a dead Horse.,Nie możesz karmić martwego konia.,Nu puteti hrani un cal mort.,server message (chat/system line),done
+e:37f4e2b0a132,You fed the Horse with Herbs.,Nakarmiłeś konia ziołami.,Ati hranit calul cu plante.,server message (chat/system line),done
+e:3db19afa593e,You have fed the Horse.,Nakarmiłeś konia.,Ati hranit calul.,server message (chat/system line),done
+e:f68e85eef065,Your level is too low to wear this Hairstyle.,"Twój poziom jest za niski, aby móc nosić tą fryzurę.",Nivelul dvs. este prea mic pentru a purta aceasta coafura.,server message (chat/system line),done
+e:50b9d6ab5383,You already have this Hairstyle.,Masz już taką fryzurę.,Aveti deja aceasta coafura.,server message (chat/system line),done
+e:d5facc0e5088,You have already transformed.,Jesteś już przemieniony.,Sunteti deja transformat.,server message (chat/system line),done
+e:979f21e59328,You are too far away.,Jesteś za daleko.,Sunteti prea departe.,server message (chat/system line),done
+e:d010294a5d33,That's the wrong trading item.,To jest zły przedmiot na handel.,Acesta este obiectul de schimb gresit.,server message (chat/system line),done
+e:75d54faed3cd,You cannot transform into a monster who has a higher level than you.,"Nie możesz się przemienić w postać, która ma wyższy poziom od Ciebie.",Nu va puteti transforma intr-un monstru cu nivel mai mare decat al dvs.,server message (chat/system line),done
+e:e00b5387b4b2,Your level is too low to equip this item.,"Twój poziom jest za niski, aby wyposażyć się w ten przedmiot.",Nivelul dvs. este prea mic pentru a echipa acest obiect.,server message (chat/system line),done
+e:7b87362202ee,You are not strong enough to equip yourself with this item.,"Nie jesteś wystarczająco silny, aby wyposażyć się w ten przedmiot.",Nu sunteti destul de puternic pentru a va echipa cu acest obiect.,server message (chat/system line),done
+e:7db577781fd8,Your intelligence is too low to equip yourself with this item.,"Twój poziom Inteligencji jest za niski, aby wyposażyć się w ten przedmiot.",Inteligenta dvs. este prea mica pentru a va echipa cu acest obiect.,server message (chat/system line),done
+e:ddd1a3beef5e,Your dexterity is too low to equip yourself with this item.,"Masz za niską Zręczność, aby wyposażyć się w ten przedmiot.",Dexteritatea dvs. este prea mica pentru a va echipa cu acest obiect.,server message (chat/system line),done
+e:4f4861bd5881,Your vitality is too low to equip yourself with this item.,"Twoja Witalność jest za niska, aby wyposażyć się w ten przedmiot.",Vitalitatea dvs. este prea mica pentru a va echipa cu acest obiect.,server message (chat/system line),done
+e:32858b5cb67d,You cannot use this item because you are not married.,"Nie możesz użyć tego przedmiotu, ponieważ nie jesteś w związku małżeńskim.","Nu puteti folosi acest obiect, deoarece nu sunteti casatorit.",server message (chat/system line),done
+e:3597b0f7c96c,You cannot equip this item twice.,Nie możesz założyć tego przedmiotu dwukrotnie.,Nu puteti echipa acest obiect de doua ori.,server message (chat/system line),done
+e:3a97a7b9b257,Time left until the removal of the socket of %s: %d,Pozostały czas do usunięcia Kieszeni %s: %d,Timp ramas pana la eliminarea soclului de pe %s: %d,server message (chat/system line) | keep: %s %d,done
+e:9917986dd5da,This action can only be done with another gender.,Ta akcja może zostać wykonana tylko z inną płcią.,Aceasta actiune poate fi facuta doar cu celalalt sex.,server message (chat/system line),done
+e:19f43199798c,A gem socketed in the %s has vanished.,Z %s zniknął klejnot.,O nestemata montata in %s a disparut.,server message (chat/system line) | keep: %s,done
+e:26c1d6a54ced,[Guild] This guild name is invalid.,[Gildia] Nazwa gildii jest niepoprawna.,[Breasla] Acest nume de breasla este invalid.,server message (chat/system line),done
+e:182407145e9c,[Guild] This guild name is already taken.,[Gildia] Ta nazwa jest już zajęta.,[Breasla] Acest nume de breasla este deja luat.,server message (chat/system line),done
+e:b2f185a3531c,[Guild] You cannot found a guild.,[Gildia] Nie możesz stworzyć gildii.,[Breasla] Nu puteti infiinta o breasla.,server message (chat/system line),done
+e:870d7e69c481,The guild %s has declared war on %s!,Gildia %s wypowiedziała wojnę Gildii %s!,Breasla %s a declarat razboi breslei %s!,server message (chat/system line) | keep: %s %s,done
+e:61960a83b420,[Guild] %s has refused the Guild war.,[Gildia] %s odrzuciła wojnę gildii.,[Breasla] %s a refuzat razboiul de breasla.,server message (chat/system line) | keep: %s,done
+e:7e45e95e8aab,<Guild> The player is busy.,<Gildia> Wskazany gracz jest zajęty.,<Breasla> Jucatorul este ocupat.,server message (chat/system line),done
+e:a7e258701b9f,The guild war between %s and %s will start in a few seconds!,Wojna pomiędzy gildiami %s i %s rozpocznie się za kilka sekund!,Razboiul de breasla dintre %s si %s va incepe in cateva secunde!,server message (chat/system line) | keep: %s %s,done
+e:5204661675dd,The guild war between %s and %s has begun!,Wojna pomiędzy Gildiami %s oraz %s rozpoczęta!,Razboiul de breasla dintre %s si %s a inceput!,server message (chat/system line) | keep: %s %s,done
+e:7ffff93eeb48,The guild war between %s and %s has ended in a draw.,Wojna pomiędzy Gildiami %s oraz %s zakończona remisem.,Razboiul de breasla dintre %s si %s s-a incheiat la egalitate.,server message (chat/system line) | keep: %s %s,done
+e:34fb932aa106,%s has won the guild war against %s.,Gildia %s wygrała wojnę przeciwko Gildii %s.,%s a castigat razboiul de breasla impotriva lui %s.,server message (chat/system line) | keep: %s %s,done
+e:985d411b38fa,You need your fellow player's approval for this.,Potrzebujesz potwierdzenia partnera do tego.,Aveti nevoie de acordul celuilalt jucator pentru asta.,server message (chat/system line),done
+e:67c226b29674,[Guild] The guild war has been cancelled.,[Gildia] Wojna gildii została anulowana.,[Breasla] Razboiul de breasla a fost anulat.,server message (chat/system line),done
+e:e2997ab1eb82,The guild war between %s and %s has been cancelled.,Wojna pomiędzy Gildiami %s oraz %s została anulowana.,Razboiul de breasla dintre %s si %s a fost anulat.,server message (chat/system line) | keep: %s %s,done
+e:bbfa773e5a63,Close,Zamknij,Inchide,server message (chat/system line),done
+e:95816e42ee92,Action cancelled. You have entered a battle.,Akcja anulowana. Bitwa została rozpoczęta.,Actiune anulata. Ati intrat intr-o lupta.,server message (chat/system line),done
+e:14958b431e2c,Someone has logged into your account. You will be disconnected from the server.,Ktoś zalogował się na Twoje konto. Zostaniesz rozłączony.,Cineva s-a conectat la contul dvs. Veti fi deconectat de la server.,server message (chat/system line),done
+e:e25cfd524d0c,A mysterious light appears from the tree.,Tajemnicze światło dobiega z drzewa.,O lumina misterioasa apare din copac.,server message (chat/system line),done
+e:b9f827477d06,%d Playtime added to your account. (Payment number %d),Czas gry ( %d ) dodany do Twojego konta. (Numer płatności %d),%d timp de joc adaugat in cont. (Numarul platii %d),server message (chat/system line) | keep: %d %d,done
+e:cf522c287df7,You can participate in the guild battle in viewer mode.,Możesz uczestniczyć w Bitwie Gildii jako Obserwator.,Puteti participa la batalia breslelor in modul observator.,server message (chat/system line),done
+e:75a624c3a537,"While choosing a character, an icon appears.",Po zaznaczeniu postaci pojawi się guzik do Zakończenia Obserwacji.,"Cand alegeti un personaj, apare o pictograma.",server message (chat/system line),done
+e:92aaa470e947,There are no opponents.,Nie ma żadnych przeciwników.,Nu exista adversari.,server message (chat/system line),done
+e:aa5358c0eed6,The battle with %s has begun!,Pojedynek z %s rozpoczęty!,Lupta cu %s a inceput!,server message (chat/system line) | keep: %s,done
+e:d260f6e4b1ba,"If no enemy can be found, the guild war will be ended automatically.","Jeśli nie ma przeciwników, wojna Gildii zakończy się automatycznie.","Daca nu se gaseste niciun inamic, razboiul de breasla se va incheia automat.",server message (chat/system line),done
+e:80a3c04ee7d8,"Because the guild war finished early, the result will judged as a draw.","Jako że wojna Gildii zakończyła się przed czasem, zostanie uznana jako remis.","Deoarece razboiul de breasla s-a terminat devreme, rezultatul va fi considerat egalitate.",server message (chat/system line),done
+e:715158479280,The energy is reflected because of the Emperors Blessing.,Energia została odbita z powodu Błogosławieństwa Imperatora.,Energia este reflectata datorita Binecuvantarii Imparatului.,server message (chat/system line),done
+e:c3215a871bef,After %d seconds you can use the Emperors Blessing.,Po %d sekundach możesz użyć Błogosławieństwa Imperatora.,Dupa %d secunde puteti folosi Binecuvantarea Imparatului.,server message (chat/system line) | keep: %d,done
+e:257dffd4276a,Not enough tax income : %d.,Za mały przychód z podatków : %d,Venituri din taxe insuficiente: %d.,server message (chat/system line) | keep: %d,done
+e:903e31d00221,[TEST_ONLY]Tax : %d,[TEST_ONLY] Podatek: %d,[TEST_ONLY]Taxa : %d,server message (chat/system line) | keep: %d; [TEST_ONLY],done
+e:aad22af7ad92,Transformation error.,Błąd podczas przemiany.,Eroare de transformare.,server message (chat/system line),done
+e:dc28d4987817,You learned the transmutation completely.,Całkowicie nauczyłeś się przekształcania.,Ati invatat complet transmutatia.,server message (chat/system line),done
+e:560e96798a85,Please call your Horse first.,Najpierw zawołaj swojego konia.,Chemati mai intai calul.,server message (chat/system line),done
+e:40abc6ba313a,You have sent your horse away.,Odesłałeś swojego konia.,V-ati trimis calul de acolo.,server message (chat/system line),done
+e:a9ea0106f225,%s challenged you to a battle!,%s wyzwał Cię na pojedynek!,%s v-a provocat la lupta!,server message (chat/system line) | keep: %s,done
+e:89cbdb94746b,You have to get off your Horse.,Musisz zejść z konia.,Trebuie sa coborati de pe cal.,server message (chat/system line),done
+e:2f4f9943a278,You cannot feed your Horse whilst sitting on it.,Nie możesz karmić konia podczas siedzenia na nim.,Nu va puteti hrani calul cat timp stati pe el.,server message (chat/system line),done
+e:9816d598bd59,You have fed the Horse with %s%s.,Nakarmiłeś konia (%s%s).,Ati hranit calul cu %s%s.,server message (chat/system line) | keep: %s %s,done
+e:90bc7347a8ff,You need %s.,Potrzebujesz %s.,Aveti nevoie de %s.,server message (chat/system line) | keep: %s,done
+e:f925ba25facf,%d seconds until Exit.,%d sekund do wyłączenia.,%d secunde pana la iesire.,server message (chat/system line) | keep: %d,done
+e:ef6cca6c6851,The game will be closed in %d seconds.,Gra zostanie zamknięta po %d sekundach.,Jocul se va inchide in %d secunde.,server message (chat/system line) | keep: %d,done
+e:8f67c035ce45,Your logout has been cancelled.,Wylogowanie zostało anulowane.,Deconectarea a fost anulata.,server message (chat/system line),done
+e:4a55d6f2056e,Back to login window. Please wait.,Powrót do okna logowania. Proszę czekać.,Inapoi la fereastra de autentificare. Asteptati.,server message (chat/system line),done
+e:0ddd6fcdb489,You have been disconnected from the server. Please wait.,Zostaniesz rozłączony z serwerem. Proszę czekać.,Ati fost deconectat de la server. Asteptati.,server message (chat/system line),done
+e:89db753fda4c,You have challenged %s to a battle.,Wyzwałeś %s na pojedynek.,L-ati provocat pe %s la lupta.,server message (chat/system line) | keep: %s,done
+e:52d3b0c878f7,You are changing character. Please wait.,Zmieniłeś postać. Proszę czekać.,Schimbati personajul. Asteptati.,server message (chat/system line),done
+e:06fdc000f360,A new start is not possible at the moment. Please wait %d seconds.,Wznowienie jeszcze nie jest możliwe. Odczekaj %d sekund.,Un nou start nu este posibil momentan. Asteptati %d secunde.,server message (chat/system line) | keep: %d,done
+e:0b5910b3515f,You cannot restart yet. Please wait another %d seconds.,Wznowienie jeszcze nie jest możliwe. Odczekaj %d sekund.,Nu puteti reporni inca. Mai asteptati %d secunde.,server message (chat/system line) | keep: %d,done
+e:08c048186426,You cannot restart in the city yet. Wait another %d seconds.,Wznowienie w mieście jeszcze nie jest możliwe. Odczekaj %d sekund.,Nu puteti reporni inca in oras. Mai asteptati %d secunde.,server message (chat/system line) | keep: %d,done
+e:8f30bc49ffb5,The waiting time has expired. You will be revived in the city.,Minął czas oczekiwania. Zostaniesz wskrzeszony w mieście.,Timpul de asteptare a expirat. Veti fi reinviat in oras.,server message (chat/system line),done
+e:0600ae617e59,You cannot change your status while you are transformed.,"Nie możesz zmienić swojego stanu, gdy jesteś przemieniony.",Nu va puteti schimba statutul cat timp sunteti transformat.,server message (chat/system line),done
+e:e11c9dfbbcd2,You cannot learn while you are transformed.,Nie możesz uczyć się będąc przemienionym.,Nu puteti invata cat timp sunteti transformat.,server message (chat/system line),done
+e:7415c395f435,This player is currently fighting.,Gracz bierze udział w walce.,Acest jucator lupta momentan.,server message (chat/system line),done
+e:6e2e9ab27e65,[Guild] It does not belong to the guild.,[Gildia] To nie należy do gildii.,[Breasla] Nu apartine breslei.,server message (chat/system line),done
+e:271faa35ade6,[Guild] You do not have the authority to change the level of the guild skills.,[Gildia] Nie możesz zmienić poziomu umiejętności gildii.,[Breasla] Nu aveti autoritatea de a schimba nivelul abilitatilor breslei.,server message (chat/system line),done
+e:e8652f27d39b,Your choice is incorrect.,Twój wybór jest błędny.,Alegerea dvs. este incorecta.,server message (chat/system line),done
+e:8142233eaace,[Storeroom] You have entered an incorrect password.,[Magazyn] Podałeś złe hasło.,[Depozit] Ati introdus o parola gresita.,server message (chat/system line),done
+e:73e19a091307,[Storeroom] The Storeroom is already open.,[Magazyn] Magazyn jest już otwarty.,[Depozit] Depozitul este deja deschis.,server message (chat/system line),done
+e:4c8a4a51c400,[Storeroom] You have to wait 10 seconds before you can open the Storeroom again.,[Magazyn] Musisz odczekać 10 sekund zanim otworzysz Magazyn ponownie.,[Depozit] Trebuie sa asteptati 10 secunde inainte de a putea deschide din nou Depozitul.,server message (chat/system line),done
+e:cc44006a9370,[Storeroom] You are too far away to open the storeroom.,"[Magazyn] Odległość pomiędzy Tobą a magazynem jest zbyt duża, aby go otworzyć.",[Depozit] Sunteti prea departe pentru a deschide depozitul.,server message (chat/system line),done
+e:4ad3de6135c7,[Group] The server cannot execute this group request.,[Grupa] Serwer nie może wykonać żądania Grupy.,[Grup] Serverul nu poate executa aceasta cerere de grup.,server message (chat/system line),done
+e:2c4369d3c44d,[Group] You cannot leave a group while you are in a dungeon.,[Grupa] Nie możesz opuścić Grupy podczas przebywania w Lochu.,[Grup] Nu puteti parasi un grup cat timp sunteti intr-o temnita.,server message (chat/system line),done
+e:d16744cc2e7f,[Group] You have left the group.,[Grupa] Opuściłeś grupę.,[Grup] Ati parasit grupul.,server message (chat/system line),done
+e:3983b1aa6a05,[Guild] Your guild is already participating in another war.,[Gildia] Twoja gildia w tym momencie jest zaangażowana w inną wojnę.,[Breasla] Breasla dvs. participa deja la alt razboi.,server message (chat/system line),done
+e:027d29fb0700,[Guild] No one is entitled to a guild war.,[Gildia] Nikt nie ma uprawnień do wojen gildii.,[Breasla] Nimeni nu are dreptul la un razboi de breasla.,server message (chat/system line),done
+e:19d24e3a2251,[Guild] No guild with this name exists.,[Gildia] Gildia o tej nazwie nie istnieje.,[Breasla] Nu exista nicio breasla cu acest nume.,server message (chat/system line),done
+e:20bb97966318,There already is a candidacy.,Już jest kandydatura,Exista deja o candidatura.,server message (chat/system line),done
+e:bda5c8a1dcf4,[Guild] This guild is already participating in a war.,[Gildia] Ta gildia jest już zaangażowana w inną wojnę.,[Breasla] Aceasta breasla participa deja la un razboi.,server message (chat/system line),done
+e:d1f8c1a53ddb,[Guild] Not enough Yang to participate in a guild war.,"[Gildia] Nie ma wystarczającej ilości Yang, aby uczestniczyć w wojnie gildii.",[Breasla] Nu este destul Yang pentru a participa la un razboi de breasla.,server message (chat/system line),done
+e:271cb5e3cbc2,[Guild] The guild does not have enough Yang to participate in a guild war.,[Gildia] Gildia nie posiada wystarczającej ilości Yang by uczestniczyć w wojnie gildii.,[Breasla] Breasla nu are destul Yang pentru a participa la un razboi de breasla.,server message (chat/system line),done
+e:a95d1d8f5d55,[Guild] This Guild is already scheduled for another war.,[Gildia] Ta gildia jest już zapisana do innej wojny gildii.,[Breasla] Aceasta breasla este deja programata pentru alt razboi.,server message (chat/system line),done
+e:64f1754d6e16,[Guild] This guild is already participating in another war.,[Gildia] Ta gildia aktualnie uczestniczy w innej wojnie.,[Breasla] Aceasta breasla participa deja la alt razboi.,server message (chat/system line),done
+e:dd52f4e0ddcc,[Guild] A minimum of %d players are needed to participate in a guild war.,[Gildia] Przynajmniej %d graczy musi uczestniczyć w wojnie gildii.,[Breasla] Sunt necesari minimum %d jucatori pentru a participa la un razboi de breasla.,server message (chat/system line) | keep: %d,done
+e:03b46f063a45,[Guild] The guild does not have enough points to participate in a guild war.,"[Gildia] Ta gildia nie posiada wystarczającej liczby punktów rankingu, aby uczestniczyć w wojnie gildii.",[Breasla] Breasla nu are destule puncte pentru a participa la un razboi de breasla.,server message (chat/system line),done
+e:63ca8aa170ee,[Guild] The guild does not have enough members to participate in a guild war.,"[Gildia] Gildia nie posiada wystarczająco dużo członków, aby uczestniczyć w wojnie gildii.",[Breasla] Breasla nu are destui membri pentru a participa la un razboi de breasla.,server message (chat/system line),done
+e:89b1ee468851,Your level has to be higher than 20 to register a cell phone number.,"Twój poziom musi być wyższy niż 20, aby zapisać numer telefonu komórkowego.",Nivelul dvs. trebuie sa fie mai mare de 20 pentru a inregistra un numar de telefon mobil.,server message (chat/system line),done
+e:3ec0c5fab3b6,You do not have the emperor qualification.,Nie nadajesz się na Imperatora.,Nu aveti calificarea de imparat.,server message (chat/system line),done
+e:1893cf5bc39c,%s declined the invitation.,%s odrzucił zaproszenie.,%s a refuzat invitatia.,server message (chat/system line) | keep: %s,done
+e:af7e317bd1ad,You cannot accept the invitation because you are already in the group.,"Nie możesz przyjąć zaproszenia, ponieważ jesteś już w Grupie.","Nu puteti accepta invitatia, deoarece sunteti deja in grup.",server message (chat/system line),done
+e:78b688757702,Only the emperor can use this.,Tylko Imperator może tego użyć.,Doar imparatul poate folosi asta.,server message (chat/system line),done
+e:62320c6d6903,Cooldown time for approximately %d seconds,Regeneracja około %d sekund.,Timp de reincarcare aproximativ %d secunde,server message (chat/system line) | keep: %d,done
+e:fe90abad0eb7,Lack of Taxes. Current Capital : %u Missing Capital : %u,Brakuje podatków. Aktualny kapitał : %u Brakujący kapitał : %u,Taxe insuficiente. Capital actual: %u Capital lipsa: %u,server message (chat/system line) | keep: %u %u,done
+e:4076f43e9042,Command: warpto <character name>,Rozkaz: warpto <character name>,Comanda: warpto <numele personajului>,server message (chat/system line),done
+e:8d004d4302bd,You cannot be warped to an unknown player.,Nie możesz przenieść się do nieznanego gracza.,Nu puteti fi teleportat la un jucator necunoscut.,server message (chat/system line),done
+e:2321ec8cef39,Adding player %d into the channel. (Present channel %d),Dodawanie gracza %d do kanału. (Aktualny kanał %d),Se adauga jucatorul %d in canal. (Canalul actual %d),server message (chat/system line) | keep: %d %d,done
+e:a9c52ebb2d28,Warp to player %s.,Teleport do %s.,Teleportare la jucatorul %s.,server message (chat/system line) | keep: %s,done
+e:992410a58b02,You cannot call unknown players.,Nie możesz przenosić nieznanych graczy.,Nu puteti chema jucatori necunoscuti.,server message (chat/system line),done
+e:1e2d5afae4a1,[Guild] There are no experience points for hunting during a guild war.,[Gildia] Podczas wojny gildii nie otrzymuje się Punktów Doświadczenia z polowania.,[Breasla] In timpul unui razboi de breasla nu se primesc puncte de experienta din vanatoare.,server message (chat/system line),done
+e:54c171964b96,When the Blessing of the Emperor is used %s the HP and SP are restored again.,"Gdy Błogosławieństwo Imperatora jest użyte, przywraca ponownie %s punktów PŻ i PE.","Cand se foloseste Binecuvantarea Imparatului %s, PV si PM se refac din nou.",server message (chat/system line) | keep: %s,done
+e:779c656e26f6,My information about the emperor,Informacje Mojego Imperatora,Informatiile mele despre imparat,server message (chat/system line),done
+e:f378ea6e2201,[%sMonarch] : %s Yang owned %lld,[Monarcha %s] : %s Posiadanie Yang %lld,[%sMonarh] : %s detine %lld Yang,server message (chat/system line) | keep: %s %s %lld,done
+e:1d3b8a6d2aa1,[%sMonarch] : %s,[Monarcha %s] : %s,[%sMonarh] : %s,server message (chat/system line) | keep: %s %s,done
+e:8c95a4ee38b4,Information about the emperor,Informacje Imperatora,Informatii despre imparat,server message (chat/system line),done
+e:dc0675834279,Only an emperor can use this.,Tylko Imperator może tego użyć,Doar un imparat poate folosi asta.,server message (chat/system line),done
+e:19696a4c4101,Choose a number between 1 and 50.,Wybierz liczbę pomiędzy 1 a 50.,Alegeti un numar intre 1 si 50.,server message (chat/system line),done
+e:3ee082f018a1,The Monster cannot be called. Check the Mob Number.,Potwór nie może być przywołany. Sprawdź numer Potwora.,Monstrul nu poate fi chemat. Verificati numarul mobului.,server message (chat/system line),done
+e:bbc18462d679,Hit Points +%d,Punkty Życia +%d,Puncte de viata +%d,server message (chat/system line) | keep: %d,done
+e:6771da5b45cf,Spell Points +%d,Punkty Energii +%d,Puncte de magie +%d,server message (chat/system line) | keep: %d,done
+e:c4d19bad2df8,The Emperor Blessing is activated.,Błogosławieństwo Imperatora jest aktywne.,Binecuvantarea Imparatului este activata.,server message (chat/system line),done
+e:9b7015a4cca0,Endurance +%d,Wytrzymałość +%d,Rezistenta +%d,server message (chat/system line) | keep: %d,done
+e:06b936cc9821,Intelligence +%d,Inteligencja +%d,Inteligenta +%d,server message (chat/system line) | keep: %d,done
+e:88be89e0b9e3,Strength +%d,Siła +%d,Forta +%d,server message (chat/system line) | keep: %d,done
+e:b99aeffd5948,Dexterity +%d,Zręczność +%d,Dexteritate +%d,server message (chat/system line) | keep: %d,done
+e:d1c3c6028379,Attack Speed +%d,Szybkość Ataku +%d,Viteza de atac +%d,server message (chat/system line) | keep: %d,done
+e:d5bbd65fa47c,Movement Speed %d,Szybkość Ruchu %d,Viteza de miscare %d,server message (chat/system line) | keep: %d,done
+e:c2b6f1f8b551,Cooldown Time -%d,Czas wypoczynku -%d,Timp de reincarcare -%d,server message (chat/system line) | keep: %d,done
+e:6e8142a454d2,Energy Recovery +%d,Odnawianie Energii +%d,Refacerea energiei +%d,server message (chat/system line) | keep: %d,done
+e:c46f8241ac99,Spell Point Recovery +%d,Odnawianie Many +%d,Refacerea punctelor de magie +%d,server message (chat/system line) | keep: %d,done
+e:8c2fcd197e84,Poison Attack %d,Atak Trucizny %d,Atac cu otrava %d,server message (chat/system line) | keep: %d,done
+e:50f6081bfc88,Star +%d,Gwiazda +%d,Stea +%d,server message (chat/system line) | keep: %d,done
+e:41d36cb5c752,Speed Reduction +%d,Redukcja Szybkości +%d,Reducerea vitezei +%d,server message (chat/system line) | keep: %d,done
+e:65c4833e4ff3,Critical Attack with a chance of %d%%,Szansa na Krytyczny Atak %d%%,Atac critic cu o sansa de %d%%,server message (chat/system line) | keep: %d,done
+e:8fe871dc7401,Chance of a Speared Attack of %d%%,Szansa na Przeszywający Atak od %d%%,Sansa unui atac strapungator de %d%%,server message (chat/system line) | keep: %d,done
+e:72b97cde3af4,Player's Attack Power against Monsters +%d%%,Siła Ataku Gracza przeciwko Potworom +%d%%,Puterea de atac a jucatorului impotriva monstrilor +%d%%,server message (chat/system line) | keep: %d,done
+e:d1b00edef259,Horse's Attack Power against Monsters +%d%%,Siła Ataku Konia przeciwko Potworom +%d%%,Puterea de atac a calului impotriva monstrilor +%d%%,server message (chat/system line) | keep: %d,done
+e:f026388876ae,Attack Boost against Wonggui + %d%%,Wzmocnienie ataku przeciwko Wonggui + %d%%,Atac marit impotriva Wonggui + %d%%,server message (chat/system line) | keep: %d,done
+e:26f16b0611ba,Attack Boost against Milgyo + %d%%,Wzmocnienie ataku przeciwko Mistykom + %d%%,Atac marit impotriva Milgyo + %d%%,server message (chat/system line) | keep: %d,done
+e:5c182c51f053,Attack boost against zombies + %d%%,Wzmocnienie ataku przeciwko Nieumarłym + %d%%,Atac marit impotriva zombilor + %d%%,server message (chat/system line) | keep: %d,done
+e:3c1fca8d3687,Attack boost against devils + %d%%,Wzmocnienie ataku przeciwko Diabłom + %d%%,Atac marit impotriva diavolilor + %d%%,server message (chat/system line) | keep: %d,done
+e:15f9b09298ea,"Due to Emperor Sa-Za-Hu, the player %s will receive an attack power increase of 10 %% for 3 minutes in this area.","Dzięki Imperatorowi Sa-Za-Hu, gracz %s otrzymuje 10%% więcej siły ataku przez 3 minuty.","Datorita Imparatului Sa-Za-Hu, jucatorul %s primeste o crestere a puterii de atac de 10 %% timp de 3 minute in aceasta zona.",server message (chat/system line) | keep: %s,done
+e:fb0a6aa3169a,Absorbing of Energy %d%% while attacking.,Pochłanianie Energii %d%% podczas ataku.,Absorbtia energiei %d%% in timpul atacului.,server message (chat/system line) | keep: %d,done
+e:a94f39566308,Absorption of Spell Points (SP) %d%% while attacking.,Pochłanianie Many %d%% podczas ataku.,Absorbtia punctelor de magie (PM) %d%% in timpul atacului.,server message (chat/system line) | keep: %d,done
+e:3e716c220142,With a chance of %d%% Spell Points (SP) will be taken from the enemy.,Z szansą %d%% Many zostanie zabranej od wroga.,"Cu o sansa de %d%%, punctele de magie (PM) vor fi luate de la inamic.",server message (chat/system line) | keep: %d,done
+e:a716bc2781ef,Absorbing of Spell Points (SP) with a chance of %d%%,Absorbowanie Many z szansą %d%% .,Absorbtia punctelor de magie (PM) cu o sansa de %d%%,server message (chat/system line) | keep: %d,done
+e:cbd8cb7723c7,%d%% Chance of blocking a close-combat attack,%d%% szans na blok ataku z bliskiej odległości.,%d%% sansa de a bloca un atac corp la corp,server message (chat/system line) | keep: %d,done
+e:b7cae0de4b02,%d%% Chance of blocking a long range attack,%d%% szans na blok ataku dystansowego,%d%% sansa de a bloca un atac de la distanta,server message (chat/system line) | keep: %d,done
+e:a7aa1c7872cf,One-Handed Sword defence %d%%,Odporność na Miecze %d%%,Aparare impotriva sabiei cu o mana %d%%,server message (chat/system line) | keep: %d,done
+e:474a9cbbc799,Two-Handed Sword Defence %d%%,Odporność na Broń Dwuręczną %d%%,Aparare impotriva sabiei cu doua maini %d%%,server message (chat/system line) | keep: %d,done
+e:bebc2be33d06,Bell Defence %d%%,Odporność na Dzwony %d%%,Aparare impotriva clopotului %d%%,server message (chat/system line) | keep: %d,done
+e:0946b2ce34a5,By the Emperor Geum-Gang-Gwon the player %s gets 10 %% more armour for 3 minutes.,"Dzięki Imperatorowi Geum-Gang-Gwon, gracz %s otrzymuje 10%% więcej obrony przez 3 minuty.","Prin Imparatul Geum-Gang-Gwon, jucatorul %s primeste cu 10 %% mai multa armura timp de 3 minute.",server message (chat/system line) | keep: %s,done
+e:2feed1f2fa5f,Fan Defence %d%%,Odporność na Wachlarze %d%%,Aparare impotriva evantaiului %d%%,server message (chat/system line) | keep: %d,done
+e:628f60d010d0,Distant Attack Resistance %d%%,Odporność na Atak z odległości %d%%,Rezistenta la atacuri de la distanta %d%%,server message (chat/system line) | keep: %d,done
+e:1d70f00f2aee,Fire Resistance %d%%,Odporność na Ogień %d%%,Rezistenta la foc %d%%,server message (chat/system line) | keep: %d,done
+e:c7c688cc4f80,Lightning Resistance %d%%,Odporność na Błyskawice %d%%,Rezistenta la fulger %d%%,server message (chat/system line) | keep: %d,done
+e:1d603dfca381,Magic Resistance %d%%,Odporność na Magię %d%%,Rezistenta la magie %d%%,server message (chat/system line) | keep: %d,done
+e:e6b87ccfa057,Wind Resistance %d%%,Odporność na Wiatr %d%%,Rezistenta la vant %d%%,server message (chat/system line) | keep: %d,done
+e:d44509e4742b,Reflect Direct Hit: %d%%,Odbicie bezpośredniego uderzenia: %d%%,Reflectarea loviturii directe: %d%%,server message (chat/system line) | keep: %d,done
+e:54b51ce9158d,Reflect Curse: %d%%,Odbicie Klątwy: %d%%,Reflectarea blestemului: %d%%,server message (chat/system line) | keep: %d,done
+e:b01517d2a159,Poison Resistance %d%%,Odporność na Trucizny %d%%,Rezistenta la otrava %d%%,server message (chat/system line) | keep: %d,done
+e:2be872d13a98,Spell Points (SP) will be increased by %d%% if you win.,"Jeśli wygrasz, Mana zostanie podniesiona do %d%%",Punctele de magie (PM) vor creste cu %d%% daca invingeti.,server message (chat/system line) | keep: %d,done
+e:916f628da4a7,The event is already running. (Flag: %d),Wydarzenie już trwa. (Flag: %d),Evenimentul ruleaza deja. (Flag: %d),server message (chat/system line) | keep: %d,done
+e:289f483f1bc1,Experience increases by %d%% if you win against an opponent.,"Jeśli wygrasz, Doświadczenie wzrośnie do %d%%.",Experienta creste cu %d%% daca invingeti un adversar.,server message (chat/system line) | keep: %d,done
+e:76516fec1680,Increase of Yang up to %d%% if you win.,"Jeśli wygrasz, Yang wzrosną do %d%%.",Cresterea Yang-ului cu pana la %d%% daca invingeti.,server message (chat/system line) | keep: %d,done
+e:18dca5ab0815,Increase of captured Items up to %d%% if you win.,"Jeśli wygrasz, Ilość przejętych przedmiotów wzrośnie do %d%%.",Cresterea obiectelor obtinute cu pana la %d%% daca invingeti.,server message (chat/system line) | keep: %d,done
+e:4d840f542337,Power increase of up to %d%% after taking the potion.,"Gdy weźmiesz miksturę, Moc wzrośnie do %d%%.",Cresterea puterii cu pana la %d%% dupa luarea potiunii.,server message (chat/system line) | keep: %d,done
+e:6c5ed87f99b1,%d%% Chance of filling up Hit Points after a victory.,%d%% szansa na uzupełnienie Punktów Energii po zwycięstwie.,%d%% sansa de a umple punctele de viata dupa o victorie.,server message (chat/system line) | keep: %d,done
+e:288c17c95eab,No Dizziness %d%%,Brak Ogłuszenia %d%%,Fara ameteala %d%%,server message (chat/system line) | keep: %d,done
+e:768dc23fcc5f,No Slowing Down %d%%,Brak Spowolnienia %d%%,Fara incetinire %d%%,server message (chat/system line) | keep: %d,done
+e:be829aae593c,No falling down %d%%,Brak Upadku %d%%,Fara cadere %d%%,server message (chat/system line) | keep: %d,done
+e:3dc4f11fa718,Attack Power + %d,Siła Ataku +%d,Putere de atac + %d,server message (chat/system line) | keep: %d,done
+e:a2d238dd077e,Armour + %d,Obrona +%d,Armura + %d,server message (chat/system line) | keep: %d,done
+e:8e466ccbabfd,OX quiz script could not be loaded.,Pytanie OX nie zostało załadowane.,Scriptul quizului OX nu a putut fi incarcat.,server message (chat/system line),done
+e:33528ef638cd,Magical Attack + %d,Atak Magiczny +%d,Atac magic + %d,server message (chat/system line) | keep: %d,done
+e:55ff451d45f8,Magical Defence + %d,Obrona Magiczna +%d,Aparare magica + %d,server message (chat/system line) | keep: %d,done
+e:9b11589050b2,Maximum Endurance + %d,Maksymalna Wytrzymałość +%d,Rezistenta maxima + %d,server message (chat/system line) | keep: %d,done
+e:c00682bb75a9,Strong against Warriors + %d%%,Silny przeciwko Wojownikom +%d%%,Puternic impotriva razboinicilor + %d%%,server message (chat/system line) | keep: %d,done
+e:f220d793df6f,Strong against Ninjas + %d%%,Silny przeciwko Ninja +%d%%,Puternic impotriva ninja + %d%%,server message (chat/system line) | keep: %d,done
+e:7c5f75ce5ffe,Strong against Sura + %d%%,Silny przeciwko Sura +%d%%,Puternic impotriva sura + %d%%,server message (chat/system line) | keep: %d,done
+e:3673e432fa37,Strong against Shamans + %d%%,Silny przeciwko Szamanom +%d%%,Puternic impotriva samanilor + %d%%,server message (chat/system line) | keep: %d,done
+e:6309a47d430d,Strength against monsters + %d%%,Silny przeciwko Potworom +%d%%,Putere impotriva monstrilor + %d%%,server message (chat/system line) | keep: %d,done
+e:50b8ceb53e49,Attack + %d%%,Atak +%d%%,Atac + %d%%,server message (chat/system line) | keep: %d,done
+e:3f55c6dc0fd5,Defence + %d%%,Obrona +%d%%,Aparare + %d%%,server message (chat/system line) | keep: %d,done
+e:ad28be964478,OX quiz script has loaded.,OX Quiz został załadowany.,Scriptul quizului OX a fost incarcat.,server message (chat/system line),done
+e:ec2e4f9e3e0a,Experience %d%%,Doświadczenie %d%%,Experienta %d%%,server message (chat/system line) | keep: %d,done
+e:995ba8ae30b5,Chance to find an item %.1f,Szansa na znalezienie przedmiotu %.1f,Sansa de a gasi un obiect %.1f,server message (chat/system line) | keep: %.1f,done
+e:136606dc4cac,Chance to find Yang %.1f,Szansa na znalezienie Yang %.1f,Sansa de a gasi Yang %.1f,server message (chat/system line) | keep: %.1f,done
+e:f1a388d120ba,Maximum Energy +%d%%,Górny limit Energii +%d%%,Energie maxima +%d%%,server message (chat/system line) | keep: %d,done
+e:3b6bb7980c8c,Skill Damage %d%%,Obrażenia Umiejętności %d%%,Daune abilitati %d%%,server message (chat/system line) | keep: %d,done
+e:263728155c5c,Hit Damage %d%%,Obrażenia Uderzeń %d%%,Daune lovituri %d%%,server message (chat/system line) | keep: %d,done
+e:90e58488ac03,Resistance against Skill Damage %d%%,Odporność na Obrażenia Umiejętności %d%%,Rezistenta la daunele abilitatilor %d%%,server message (chat/system line) | keep: %d,done
+e:34c3da0aaa76,Resistance against Hits %d%%,Odporność na Trafienia %d%%,Rezistenta la lovituri %d%%,server message (chat/system line) | keep: %d,done
+e:f71c209db30a,%d%% Resistance against Warrior Attacks,%d%% Odporność na Ataki Wojownika,%d%% rezistenta la atacurile razboinicilor,server message (chat/system line) | keep: %d,done
+e:d7aaef4d79d0,Welcome to Metin2.,Witamy w Metin2.,Bun venit in Metin2.,server message (chat/system line),done
+e:46b896725f58,%d%% Resistance against Ninja Attacks,%d%% Odporność na Ataki Ninja,%d%% rezistenta la atacurile ninja,server message (chat/system line) | keep: %d,done
+e:16faf99c870c,%d%% Resistance against Sura Attacks,%d%% Odporność na Ataki Sura,%d%% rezistenta la atacurile sura,server message (chat/system line) | keep: %d,done
+e:4623e717bc40,%d%% Resistance against Shaman Attacks,%d%% Odporność na Ataki Szamana,%d%% rezistenta la atacurile samanilor,server message (chat/system line) | keep: %d,done
+e:88bcf894acc7,(Procedure: %d y- %d m - %d d),(Procedura: %d y- %d m - %d d),(Procedura: %d a- %d l - %d z),server message (chat/system line) | keep: %d %d %d,done
+e:e86213505d1d,Your chat is blocked.,Twój Chat jest zablokowany.,Chatul dvs. este blocat.,server message (chat/system line),done
+e:bff610651372,You need a higher level to be able to call.,"Aby móc wołać, musisz mieć wyższy poziom postaci.",Aveti nevoie de un nivel mai mare pentru a putea striga.,server message (chat/system line),done
+e:d0ee48b6b84e,You need a minimum level of %d to be able to call.,Musisz mieć co najmniej %d poziom aby móc wołać.,Aveti nevoie de cel putin nivelul %d pentru a putea striga.,server message (chat/system line) | keep: %d,done
+e:fc002b59bfed,You are not in this Group.,Nie jesteś w tej Grupie.,Nu sunteti in acest grup.,server message (chat/system line),done
+e:e9f9a0cee0fa,You did not join this Guild.,Nie dołączyłeś do tej Gildii.,Nu v-ati alaturat acestei bresle.,server message (chat/system line),done
+e:6e6483caf82e,The player has rejected your request to add him to your friend list.,Gracz odrzucił twoje zaproszenie do Listy Przyjaciół.,Jucatorul a refuzat cererea de a-l adauga in lista de prieteni.,server message (chat/system line),done
+e:38970cc53dbd,OX Event has started.,Konkurs OX rozpoczęty.,Evenimentul OX a inceput.,server message (chat/system line),done
+e:6d76f67b9238,[Friends] You cannot add a GM to your list.,[Przyjaciele] Nie możesz dodać GM do Listy Przyjaciół.,[Prieteni] Nu puteti adauga un GM in lista.,server message (chat/system line),done
+e:0e4ebce697e6,%s is not online.,%s nie jest online.,%s nu este online.,server message (chat/system line) | keep: %s,done
+e:ec386a8b7932,"After a trade, you have to wait %d seconds before you can open a shop.","Po dokonaniu handlu musisz odczekać %d sekund, zanim będziesz mógł otworzyć Magazyn.",Dupa un schimb trebuie sa asteptati %d secunde inainte de a putea deschide un magazin.,server message (chat/system line) | keep: %d,done
+e:1b9a78cf4f86,You can trade again in %d seconds.,Możesz handlować ponownie za %d sekund.,Puteti face din nou schimburi peste %d secunde.,server message (chat/system line) | keep: %d,done
+e:dc3ad16c53f7,You have more than 2 Billion Yang. You cannot trade.,Masz więcej niż 2 miliardy Yang. Nie możesz handlować.,Aveti mai mult de 2 miliarde Yang. Nu puteti face schimburi.,server message (chat/system line),done
+e:cc476177c8f6,You cannot open a private shop while another window is open.,"Nie możesz otworzyć prywatnego sklepu, dopóki otwarte jest inne okno.",Nu puteti deschide un magazin privat cat timp este deschisa alta fereastra.,server message (chat/system line),done
+e:8c456fcc3c89,The player has more than 2 Billion Yang. You cannot trade with him.,Ten gracz posiada więcej niż 2 miliardy Yang. Nie możesz z nim handlować.,Jucatorul are mai mult de 2 miliarde Yang. Nu puteti face schimb cu el.,server message (chat/system line),done
+e:9c2c33dda5d0,[Storeroom] No movement possible.,[Magazyn] Ruch niemożliwy.,[Depozit] Nicio mutare posibila.,server message (chat/system line),done
+e:eafc298ad4c5,[Storeroom] The item cannot be stored.,[Magazyn] Ten przedmiot nie może być przechowany.,[Depozit] Obiectul nu poate fi depozitat.,server message (chat/system line),done
+e:4119aa6b63c4,[Group] The player who invited you is not online.,[Grupa] Zaproszony gracz jest offline.,[Grup] Jucatorul care v-a invitat nu este online.,server message (chat/system line),done
+e:63e4540574b7,Uriel allowed to enter.,Uriel zezwolił na wejście.,Uriel a permis intrarea.,server message (chat/system line),done
+e:ed9a700fb6c0,[Group] Only the group leader can change this.,[Grupa] Tylko lider grupy może to zmienić.,[Grup] Doar liderul grupului poate schimba asta.,server message (chat/system line),done
+e:664d36534bdc,[Group] The target is not a member of your group.,[Grupa] Wskazany cel nie jest członkiem twojej grupy.,[Grup] Tinta nu este membru al grupului dvs.,server message (chat/system line),done
+e:2b1e0897c8ff,[Group] You cannot kick out a player while you are in a dungeon.,[Grupa] Nie możesz wyrzucić gracza jeśli jesteś w lochu.,[Grup] Nu puteti da afara un jucator cat timp sunteti intr-o temnita.,server message (chat/system line),done
+e:7b82d89d1b6d,[Group] You have been out kicked of the group.,[Grupa] Zostałeś usunięty z Grupy.,[Grup] Ati fost dat afara din grup.,server message (chat/system line),done
+e:c367184a4c5d,[Group] You cannot kick out group members.,[Grupa] Nie możesz wyrzucać członków grupy.,[Grup] Nu puteti da afara membrii grupului.,server message (chat/system line),done
+e:580992feca6a,"[Guild] After disbanding a guild, you cannot create a new one for %d days.","[Gildia] Po usunięciu gildii, nie możesz stworzyć nowej przez %d dni.",[Breasla] Dupa desfiintarea unei bresle nu puteti crea alta timp de %d zile.,server message (chat/system line) | keep: %d,done
+e:c04f9e587de2,"[Guild] After leaving a guild, you cannot create a new one for %d days.","[Gildia] Po opuszczeniu gildii, nie możesz stworzyć nowej przez %d dni.",[Breasla] Dupa parasirea unei bresle nu puteti crea alta timp de %d zile.,server message (chat/system line) | keep: %d,done
+e:f7de04fccf33,This guild name is invalid.,Nazwa Gildii jest błędna.,Acest nume de breasla este invalid.,server message (chat/system line),done
+e:dc1988fbce15,We request the participation of a lot of players.,Prosimy o liczny udział graczy.,Solicitam participarea multor jucatori.,server message (chat/system line),done
+e:39c713de5dac,[Guild] [%s] guild has been created.,[Gildia] [%s] Gildia została stworzona.,[Breasla] Breasla [%s] a fost creata.,server message (chat/system line) | keep: %s,done
+e:61a1b6986c1e,[Guild] Creation of the guild has failed.,[Gildia] Zakładanie gildii nieudane.,[Breasla] Crearea breslei a esuat.,server message (chat/system line),done
+e:abce6b641aa8,[Group] Only the group leader can use group skills.,[Grupa] Tylko lider grupy może używać zdolności grupy.,[Grup] Doar liderul grupului poate folosi abilitatile grupului.,server message (chat/system line),done
+e:97da0751f419,[Group] The target has not been found.,[Grupy] Cel nie został znaleziony.,[Grup] Tinta nu a fost gasita.,server message (chat/system line),done
+e:2f8a944ff24c,[Guild] That is not the correct amount of Yang.,[Gildia] To nie jest poprawna ilość Yang.,[Breasla] Aceasta nu este suma corecta de Yang.,server message (chat/system line),done
+e:726771a37ae2,[Guild] You do not have enough Yang.,[Gildia] Nie masz wystarczającej liczby Yang.,[Breasla] Nu aveti destul Yang.,server message (chat/system line),done
+e:a6d3af62ea54,[Guild] The person you were searching for cannot be found.,[Gildia] Poszukiwana osoba nie została odnaleziona.,[Breasla] Persoana cautata nu poate fi gasita.,server message (chat/system line),done
+e:b812fa985964,[Guild] This person is not in the same guild.,[Gildia] Ta osoba nie jest w tej samej gildii.,[Breasla] Aceasta persoana nu este in aceeasi breasla.,server message (chat/system line),done
+e:5fe21f1abde9,[Guild] You do not have the authority to kick out guild members.,[Gildia] Nie możesz wyrzucać członków gildii.,[Breasla] Nu aveti autoritatea de a da afara membrii breslei.,server message (chat/system line),done
+e:85893895d637,[Guild] The guild member %s has been kicked out of the Guild.,[Gildia] Członek Gildii %s został usunięty.,[Breasla] Membrul breslei %s a fost dat afara din breasla.,server message (chat/system line) | keep: %s,done
+e:21152ce0dd77,OX The Event has not ended yet. An error has occurred. (flag: %d),"Konkurs OX nie został jeszcze zakończony, wystąpiły błędy. (Flag: %d)",OX Evenimentul nu s-a terminat inca. A aparut o eroare. (flag: %d),server message (chat/system line) | keep: %d,done
+e:dae76c02657d,[Guild] You have kicked a guild member out.,[Gildia] Członek Gildii został usunięty.,[Breasla] Ati dat afara un membru al breslei.,server message (chat/system line),done
+e:2b037c7e5983,[Guild] You do not have the authority to change your rank name.,[Gildia] Nie możesz zmienić swojej rangi.,[Breasla] Nu aveti autoritatea de a schimba numele rangului.,server message (chat/system line),done
+e:2c5329caf72d,[Guild] The guild leader's rights cannot be changed.,[Gildia] Moce Mistrza Gildii nie mogą być zmienione.,[Breasla] Drepturile liderului breslei nu pot fi schimbate.,server message (chat/system line),done
+e:3139983ce6fa,[Guild] This rank name is invalid.,[Gildia] Ranga jest niepoprawna.,[Breasla] Acest nume de rang este invalid.,server message (chat/system line),done
+e:d656da9d95fe,[Guild] You do not have the authority to change your position.,[Gildia] Nie możesz zmienić swojej pozycji.,[Breasla] Nu aveti autoritatea de a va schimba pozitia.,server message (chat/system line),done
+e:9cada697d35e,[Guild] The rights of the guild leader cannot be changed.,[Gildia] Prawa Lidera Gildii nie mogą zostać zmienione.,[Breasla] Drepturile liderului breslei nu pot fi schimbate.,server message (chat/system line),done
+e:d1181e757b89,[Guild] %u experience points used.,[Gildia] Wykorzystane Punkty Doświadczenia: %u.,[Breasla] %u puncte de experienta folosite.,server message (chat/system line) | keep: %u,done
+e:ad28dfd74520,[Guild] Experience usage has failed.,[Gildia] Przekazanie Punktów Doświadczenia nieudane.,[Breasla] Folosirea experientei a esuat.,server message (chat/system line),done
+e:96e1291f0cf2,[Guild] Insufficient Yang in the guild treasury.,[Gildia] Za mało Yang w kasie gildii.,[Breasla] Yang insuficient in tezaurul breslei.,server message (chat/system line),done
+e:69244c344f57,[Guild] Dragon ghost was not restored.,[Gildia] Duch Smoka nie został zregenerowany.,[Breasla] Dragonul fantoma nu a fost refacut.,server message (chat/system line),done
+e:2fa738a80312,The OX Event will be restarted shortly.,Za chwilę wydarzenie OX zostanie zrestartowane.,Evenimentul OX va fi repornit in curand.,server message (chat/system line),done
+e:9d70fb3df23a,[Guild] You do not have the authority to make an announcement.,[Gildia] Nie możesz umieszczać ogłoszeń.,[Breasla] Nu aveti autoritatea de a face un anunt.,server message (chat/system line),done
+e:d9bf1c9643bf,[Guild] You do not have the authority to change the position.,[Gildia] Nie możesz zmieniać pozycji.,[Breasla] Nu aveti autoritatea de a schimba pozitia.,server message (chat/system line),done
+e:cf489dcd40d2,[Guild] The guild leader's position cannot be changed.,[Gildia] Ranga Mistrza Gildii nie może być zmieniona.,[Breasla] Pozitia liderului breslei nu poate fi schimbata.,server message (chat/system line),done
+e:43171009eb8d,[Guild] You cannot make yourself guild leader.,[Gildia] Nie możesz sam siebie mianować mistrzem gildii.,[Breasla] Nu va puteti face singur lider al breslei.,server message (chat/system line),done
+e:97f2364dcf5f,[Guild] You do not have the authority to choose the guild leader.,[Gildia] Nie możesz wybrać Lidera.,[Breasla] Nu aveti autoritatea de a alege liderul breslei.,server message (chat/system line),done
+e:94637e3a356a,[Guild] You cannot choose any more guild leaders.,[Gildia] Nie możesz wybrać więcej Liderów.,[Breasla] Nu mai puteti alege alti lideri ai breslei.,server message (chat/system line),done
+e:082bcc66cf37,You cannot trade this item.,Nie możesz sprzedać tego przedmiotu.,Nu puteti schimba acest obiect.,server message (chat/system line),done
+e:af5ee42c48f6,Illegal software has been detected. The game is being shut down.,Wykryto niedozwolone oprogramowanie. Gra zostanie zakończona.,A fost detectat un software ilegal. Jocul se inchide.,server message (chat/system line),done
+e:08eef5476679,You have more than 2 Billion Yang with you. You cannot trade.,Masz więcej niż 2 miliardy Yang. Nie możesz handlować.,Aveti la dvs. mai mult de 2 miliarde Yang. Nu puteti face schimburi.,server message (chat/system line),done
+e:beec47823dec,Invalid Yang.,Błędny Yang.,Yang invalid.,server message (chat/system line),done
+e:ed5c91ff973b,The present event is limited to one area.,Aktualny Wydarzenie jest ograniczone tylko do jednego obszaru.,Evenimentul actual este limitat la o singura zona.,server message (chat/system line),done
+e:1c2421481235,Start Item Roulette.,Rozpocznij Ruletkę Przedmiotów.,Porneste ruleta de obiecte.,server message (chat/system line),done
+e:94272150e02a,Start Yang Roulette.,Rozpocznij Ruletkę Yang.,Porneste ruleta de Yang.,server message (chat/system line),done
+e:c3046c63083d,The player is online. Please use whisper to chat.,Gracz jest dostępny. Proszę skorzystać z szeptów.,Jucatorul este online. Folositi soapta pentru chat.,server message (chat/system line),done
+e:8c4d32062b40,The cell phone number is not registered.,Numer telefonu komórkowego nie jest zapisany.,Numarul de telefon mobil nu este inregistrat.,server message (chat/system line),done
+e:f61b4ea0e1ae,You need to be at least on level 20 to be able to send text messages.,"Musisz być co najmniej na poziomie 20, aby wysyłać wiadomości tekstowe.",Trebuie sa aveti cel putin nivelul 20 pentru a putea trimite SMS-uri.,server message (chat/system line),done
+e:c9964b5425af,You need 2000 DT to send a text message.,"Potrzebujesz 2000 Yang, aby wysłać wiadomość tekstową.",Aveti nevoie de 2000 DT pentru a trimite un SMS.,server message (chat/system line),done
+e:1a5347c9f690,Your text message has been sent.,Twoja wiadomość została wysłana.,SMS-ul dvs. a fost trimis.,server message (chat/system line),done
+e:475010f9cef7,%s of the Guild %s raised up to %d%% !,%s Gildii %s wzrósł do %d%%!,%s al breslei %s a crescut pana la %d%% !,server message (chat/system line) | keep: %s %s %d,done
+e:5f58d33f1c5f,%s of the Guild %s normal again.,%s Gildii %s jest ponownie normalny.,%s al breslei %s este din nou normal.,server message (chat/system line) | keep: %s %s,done
+e:23fa7e8c2562,%s: %s has increased by %d%%!,%s: %s wzrósł o %d%%!,%s: %s a crescut cu %d%%!,server message (chat/system line) | keep: %s %s %d,done
+e:7d6bc15597e5,%s 's %s normal again.,%s %s jest ponownie normalny.,%s al lui %s este din nou normal.,server message (chat/system line) | keep: %s %s,done
+e:a31057fca263,Your mining points have reached their maximum. (%d),Twoje Punkty Wydobycia osiągnęły limit. (%d),Punctele de minerit au atins maximul. (%d),server message (chat/system line) | keep: %d,done
+e:6905005c9f72,Your mining points have reached their maximum level.,Twoje punkty Wydobycia osiągnęły najwyższy poziom.,Punctele de minerit au atins nivelul maxim.,server message (chat/system line),done
+e:f856696559d0,You can get lumberjack Deokbae to upgrade your Pickaxe.,Możesz ulepszyć swój Kilof u Drwala Deokbae.,Taietorul de lemne Deokbae va poate imbunatati tarnacopul.,server message (chat/system line),done
+e:b8cb27dd4843,Your Mining Points have increased! (%d/%d),Twoje Punkty Wydobycia wzrosły! (%d/%d),Punctele de minerit au crescut! (%d/%d),server message (chat/system line) | keep: %d %d,done
+e:5325ffd89bc6,You cannot mine without a Pick.,Nie możesz wydobywać bez kilofu.,Nu puteti extrage minereu fara tarnacop.,server message (chat/system line),done
+e:bd590399e1cf,Nothing to mine here.,Nie ma tu nic do wydobycia.,Nu este nimic de extras aici.,server message (chat/system line),done
+e:d15b980631ab,The mining has been successful.,Wydobycie zakończone pomyślnie.,Extragerea a reusit.,server message (chat/system line),done
+e:6a6e546cbdbf,The mining has failed.,Wydobycie niepomyślne.,Extragerea a esuat.,server message (chat/system line),done
+e:f29459354693,[Friends] You have added %s as a friend.,[Przyjaciele] Dodałeś %s do Listy Przyjaciół.,[Prieteni] L-ati adaugat pe %s ca prieten.,server message (chat/system line) | keep: %s,done
+e:98b2f12818c6,The player will be teleported into the city shortly.,Za chwilę gracze zostaną przeniesieni do miasta.,Jucatorul va fi teleportat in oras in curand.,server message (chat/system line),done
+e:fdfd01f13ec9,[Friends] You have deleted %s from the list.,[Przyjaciele] Usunąłeś %s z listy.,[Prieteni] L-ati sters pe %s din lista.,server message (chat/system line) | keep: %s,done
+e:c3b1437f000b,A critical server error has occurred. The server will restart automatically.,Krytyczny błąd serwera. Serwer zostanie uruchomiony ponownie.,A aparut o eroare critica a serverului. Serverul va reporni automat.,server message (chat/system line),done
+e:b7a0c1b4a9a1,You will be disconnected automatically in 10 seconds.,Zostaniesz rozłączony za 10 sekund.,Veti fi deconectat automat in 10 secunde.,server message (chat/system line),done
+e:a6a33f9bf5dd,You can connect again after 5 minutes.,Możesz połączyć się ponownie za 5 minut.,Va puteti conecta din nou dupa 5 minute.,server message (chat/system line),done
+e:e89f0a655517,(%s) guild has been created. [Temporary],(%s) Gildia utworzona. [Tymczasowo],Breasla (%s) a fost creata. [Temporar],server message (chat/system line) | keep: %s,done
+e:68ca4d259ca1,This guild is at war.,Ta Gildia jest w stanie wojny.,Aceasta breasla este in razboi.,server message (chat/system line),done
+e:d045fa4f7252,%s: This guild does not exist.,%s: Ta Gildia nie istnieje.,%s: Aceasta breasla nu exista.,server message (chat/system line) | keep: %s,done
+e:38f66ab37ae0,A guild with this name or number does not exist.,Gildia o takiej nazwie lub liczbie nie istnieje.,Nu exista nicio breasla cu acest nume sau numar.,server message (chat/system line),done
+e:968c7dc7cc5e,The building does not exist.,Budynek nie istnieje.,Cladirea nu exista.,server message (chat/system line),done
+e:250ba8eef09f,This type of building can only be erected once.,Ten typ budynku może być zbudowany tylko raz.,Acest tip de cladire poate fi construit o singura data.,server message (chat/system line),done
+e:bfefb6287b74,Close the OX event card first. (Flag: %d),Najpierw zamknij Mapę OX. (Flag: %d),Inchideti mai intai cartea evenimentului OX. (Flag: %d),server message (chat/system line) | keep: %d,done
+e:07b6c9e1a4e2,The Main Building has to be erected first.,Musisz najpierw zbudować Główny Budynek.,Mai intai trebuie construita Cladirea principala.,server message (chat/system line),done
+e:1ffff365feee,Building failed because of incorrect pricing.,Budowa zakończona niepowodzeniem z powodu błędnej wyceny.,Constructia a esuat din cauza unui pret incorect.,server message (chat/system line),done
+e:997535ff159f,Your guild does not have enough Yang to erect this building.,"Twoja gildia nie posiada wystarczającej ilości Yang, aby zbudować ten budynek.",Breasla dvs. nu are destul Yang pentru a construi aceasta cladire.,server message (chat/system line),done
+e:47f5f6a86b25,You do not have enough resources to build a building.,Nie masz wystarczająco surowców na ten budynek.,Nu aveti destule resurse pentru a construi o cladire.,server message (chat/system line),done
+e:1e0d2931aed5,You cannot erect a building at this place.,Nie możesz zbudować tego budynku w tym miejscu.,Nu puteti construi o cladire in acest loc.,server message (chat/system line),done
+e:b46cfa46a23f,This character does not exist.,Ta postać nie istnieje.,Acest personaj nu exista.,server message (chat/system line),done
+e:c4886395630f,Duel has not been successfully cancelled.,Pojedynek nie został przerwany.,Duelul nu a fost anulat.,server message (chat/system line),done
+e:7d5446ba93c4,Duel cancelled successfully.,Pojedynek przerwany pomyślnie.,Duel anulat.,server message (chat/system line),done
+e:9a2828486b8c,The duel has been successfully started.,Pojedynek rozpoczęty pomyślnie.,Duelul a inceput.,server message (chat/system line),done
+e:5f9cc56fc9ae,There is a problem with initiating the duel.,Napotkano problem przy rozpoczęciu pojedynku.,Exista o problema la pornirea duelului.,server message (chat/system line),done
+e:23e67be1e9cb,No errors occurred.,Nie wystąpiły błędy.,Nu au aparut erori.,server message (chat/system line),done
+e:a99065b09607,There are no combatants.,Brak przeciwników.,Nu exista combatanti.,server message (chat/system line),done
+e:bcdd08cefb95,No status points left.,Nie zostały żadne Punkty Statusu.,Nu mai sunt puncte de statut.,server message (chat/system line),done
+e:8929c4c362d9,Remaining status points are too low.,Pozostało zbyt mało punktów statusu.,Punctele de statut ramase sunt prea putine.,server message (chat/system line),done
+e:345110f9bcb3,You entered an incorrect value.,Podałeś złą wartość.,Ati introdus o valoare incorecta.,server message (chat/system line),done
+e:46f7d92a9c05,Suborder or the Order is incorrect.,Polecenie jest nieprawidłowe.,Subordinul sau ordinul este incorect.,server message (chat/system line),done
+e:b2d015d249b3,Broken contract between player %d and player %d.,Zerwany kontrakt pomiędzy graczami %d i %d.,Contract rupt intre jucatorul %d si jucatorul %d.,server message (chat/system line) | keep: %d %d,done
+e:a1645fb7f9e1,Turn the Roulette for %d Yang.,Rozpocznij ruletkę o %d Yang.,Invarte ruleta pentru %d Yang.,server message (chat/system line) | keep: %d,done
+e:0ab5274811e1,The Item log placed into the syslog.,Log przedmiotów umieszczony w logu systemowym.,Jurnalul obiectelor a fost pus in syslog.,server message (chat/system line),done
+e:9b9935966fc5,Information for the Kingdoms,Informacje dla Królestw,Informatii pentru regate,server message (chat/system line),done
+e:69410cd4d4d3,Choose the Map Information of the Holy Land %d Entrance %d %d %d,Wybierz mapy Świętej Ziemi %d Wejście %d %d %d,Alegeti informatiile hartii Pamantului Sfant %d Intrarea %d %d %d,server message (chat/system line) | keep: %d %d %d %d,done
+e:4e9dbde61b5d,An error has occurred.,Wystąpił błąd.,A aparut o eroare.,server message (chat/system line),done
+e:b8e4bd725dd4,An error has occurred. code %s,Wystąpił błąd. (Kod błędu: %s),A aparut o eroare. cod %s,server message (chat/system line) | keep: %s,done
+e:c930307efc9c,%s killcount %d mobkillcount %d bosskillcount %d Number Holy Land %d,%s licznik zabójstw %d zabitych potworów %d zabitych bossów %d liczba świętej ziemi %d,%s killcount %d mobkillcount %d bosskillcount %d Numarul Pamantului Sfant %d,server message (chat/system line) | keep: %s %d %d %d %d,done
+e:ff0722621fb8,Information about the status of the kingdom battle,Informacje o Bitwie Królestw,Informatii despre starea bataliei regatelor,server message (chat/system line),done
+e:f9a5b6d24f01,Your request is loading. Please wait.,Twoja prośba jest wczytywana. Proszę czekać.,Cererea dvs. se incarca. Asteptati.,server message (chat/system line),done
+e:6c71d87c08fc,You cannot open a Storeroom while another window is open.,"Nie możesz otworzyć magazynu, dopóki otwarte jest inne okno.",Nu puteti deschide un depozit cat timp este deschisa alta fereastra.,server message (chat/system line),done
+e:6f875e0cb797,[Storeroom] Storeroom password has been changed.,[Magazyn] Hasło do magazynu zostało zmienione.,[Depozit] Parola depozitului a fost schimbata.,server message (chat/system line),done
+e:daebc88e3848,[Storeroom] You have entered the wrong password.,[Magazyn] Wprowadzono nieprawidłowe hasło.,[Depozit] Ati introdus o parola gresita.,server message (chat/system line),done
+e:7fb70b17ffe7,Your playing time is going to run out in %d minutes.,Twój czas gry dobiega końca za %d minut.,Timpul de joc se va termina in %d minute.,server message (chat/system line) | keep: %d,done
+e:9f0adb7654e7,Regularly voted.,Głosowanie.,Votat regulamentar.,server message (chat/system line),done
+e:81fcc1612c5e,Already voted.,Już zagłosowałeś.,Deja votat.,server message (chat/system line),done
+e:f12f8c5de277,%s player already in the vote.,%s graczy oddało już swój głos.,Jucatorul %s este deja in vot.,server message (chat/system line) | keep: %s,done
+e:f96daa7f2f11,OX Event is over. No errors occurred. (Flag: %d),Event OX został zakończony. Nie wystąpiły żadne błędy. (Flag: %d),Evenimentul OX s-a incheiat. Nu au aparut erori. (Flag: %d),server message (chat/system line) | keep: %d,done
+e:2d77c6ecc1cb,Cannot run for office.,Nie może być głosowany.,Nu poate candida.,server message (chat/system line),done
+e:183fc773e77f,%s still has %u Yang available.,%s nadal ma %u Yang.,%s mai are %u Yang disponibil.,server message (chat/system line) | keep: %s %u,done
+e:d349356f6b55,%s still has %d Yang available.,%s nadal ma %d Yang.,%s mai are %d Yang disponibil.,server message (chat/system line) | keep: %s %d,done
+e:272c5d40c2b7,You do not have enough Yang.,Nie masz wystarczającej ilości Yang.,Nu aveti destul Yang.,server message (chat/system line),done
+e:0f05430fb679,Item price has changed.,Cena przedmiotu zmieniła się.,Pretul obiectului s-a schimbat.,server message (chat/system line),done
+e:2fa5cd1e80e5,%s is deleted as an Emperor Candidate.,Kandydatura %s na Imperatora została skasowana.,%s este sters ca si candidat la imparat.,server message (chat/system line) | keep: %s,done
+e:7bff268ea015,%s is not a candidate for the emperor elections.,%s nie jest kandydatem na Imperatora.,%s nu este candidat la alegerile pentru imparat.,server message (chat/system line) | keep: %s,done
+e:e8d7a48bf1e8,%s has been nominated as emperor.,%s został nominowany na Imperatora.,%s a fost nominalizat ca imparat.,server message (chat/system line) | keep: %s,done
+e:27a4bb6249ee,%s cannot be nominated as emperor.,%s nie może być nominowany na Imperatora.,%s nu poate fi nominalizat ca imparat.,server message (chat/system line) | keep: %s,done
+e:ac297dad159d,The %s Emperor gets driven out.,Imperator %s został odwołany.,Imparatul %s este alungat.,server message (chat/system line) | keep: %s,done
+e:4f840bcffe07,The %s Emperor cannot be driven out.,Imperator %s nie może zostać odwołany.,Imparatul %s nu poate fi alungat.,server message (chat/system line) | keep: %s,done
+e:a8f6d01accc5,OX Event is not accepting any more participants.,Konkurs OX nie przyjmuje już nowych uczestników.,Evenimentul OX nu mai accepta participanti.,server message (chat/system line),done
+e:b1c37e56d207,Shinsoo Kingdom,Królestwo Shinsoo,Regatul Shinsoo,server message (chat/system line),done
+e:235681f46a2f,Chunjo Kingdom,Królestwo Chunjo,Regatul Chunjo,server message (chat/system line),done
+e:f9a4b4f92ce5,Jinno Kingdom,Królestwo Jinno,Regatul Jinno,server message (chat/system line),done
+e:c880cbf45e09,Your fishing points have increased! (%d/%d),Twoje punkty wędkarskie wzrosły! (%d/%d),Punctele de pescuit au crescut! (%d/%d),server message (chat/system line) | keep: %d %d,done
+e:ac689d0c34c7,You have reached the maximum number of fishing points.,Osiągnąłeś maksymalną ilość Punktów Wędkarskich.,Ati atins numarul maxim de puncte de pescuit.,server message (chat/system line),done
+e:0fee2ee95b87,Go to the Fisherman and get your Fishing Pole upgraded!,Ulepsz swoją wędkę u Rybaka!,Mergeti la Pescar si imbunatatiti-va undita!,server message (chat/system line),done
+e:855b21c2dc7a,You lost your bait to the fish.,Straciłeś swoją przynętę.,Pestele v-a luat momeala.,server message (chat/system line),done
+e:3be63d57fc55,You have caught a fish! (%s),Złapałeś rybę! (%s),Ati prins un peste! (%s),server message (chat/system line) | keep: %s,done
+e:2ff66e9ea145,The length of the captured fish is %.2fcm.,Długość złapanej ryby wynosi %.2fcm.,Lungimea pestelui prins este %.2fcm.,server message (chat/system line) | keep: %.2f,done
+e:3b382caf2af8,Fishing Event 'Great Zander',Konkurs Wędkarski 'Najlepszy Rybak',Evenimentul de pescuit 'Salaul cel mare',server message (chat/system line),done
+e:f430c9af971e,OX The other event participants are being noted down.,OX Inni uczestnicy Wydarzenia są na liście.,OX Ceilalti participanti la eveniment sunt notati.,server message (chat/system line),done
+e:1080ed8148ff,Fishing Event 'Carp',Konkurs Wędkarski 'Karp',Evenimentul de pescuit 'Crapul',server message (chat/system line),done
+e:20594ab0212f,%s: %d,%s: %d,%s: %d,server message (chat/system line) | keep: %s %d,done
+e:8e3b3b388e3e,You have caught %d of %d .,Złapałeś %d z %d .,Ati prins %d din %d .,server message (chat/system line) | keep: %d %d,done
+e:8fab1e2c503a,The fish vanished in the depths of the water.,Ryba zniknęła w głębinach wody.,Pestele a disparut in adancurile apei.,server message (chat/system line),done
+e:b47448312b2d,There is a Clam inside the Fish.,W rybie znajduje się muszla.,In peste este o scoica.,server message (chat/system line),done
+e:57220513cb3b,There is a Worm inside the Fish.,W rybie znajduje się robak.,In peste este un vierme.,server message (chat/system line),done
+e:b1d5bf14f500,You are roasting %s over the fire.,Pieczesz %s nad ogniem.,Prajiti %s la foc.,server message (chat/system line) | keep: %s,done
+e:fd39bbc58f72,You cannot trade because you are carrying more than 2 billion Yang.,"Nie możesz handlować, ponieważ masz przy sobie więcej niż 2 miliardy Yang.","Nu puteti face schimburi, deoarece aveti la dvs. mai mult de 2 miliarde Yang.",server message (chat/system line),done
+e:49f7a1b42d84,You cannot continue: your Yang would go over the limit of 2 billion.,"Nie możesz kontynuować, ponieważ Yang przekroczą dozwolony limit 2 miliardów.",Nu puteti continua: Yang-ul dvs. ar depasi limita de 2 miliarde.,server message (chat/system line),done
+e:f54556da470b,You can't give your shop an invalid name.,Nie możesz nadać niewłaściwej nazwy swojemu Magazynowi.,Nu puteti da magazinului un nume invalid.,server message (chat/system line),done
+e:1808230663e9,You can't sell Item-Shop items in a private shop.,Nie możesz sprzedawać Przedmiotów z ItemShop w prywatnym Sklepie.,Nu puteti vinde obiecte din Item-Shop intr-un magazin privat.,server message (chat/system line),done
+e:057f0ff5d960,OX The other event participants have not been noted down.,OX Inni uczestnicy Wydarzenia nie są na liście.,OX Ceilalti participanti la eveniment nu au fost notati.,server message (chat/system line),done
+e:2db19f08cf7a,Mining is finished.,Wydobycie przerwane.,Mineritul s-a terminat.,server message (chat/system line),done
+e:1fbf68f1318c,You need a Pickaxe in order to extract ore!,Do wydobywania surowców potrzebny jest Kilof!,Aveti nevoie de un tarnacop pentru a extrage minereu!,server message (chat/system line),done
+e:4946305c954e,Please choose a Fishing Pole.,Proszę wybrać Wędkę.,Alegeti o undita.,server message (chat/system line),done
+e:2080a32889c4,Place the Bait on the Hook first.,Najpierw umieść przynętę na haczyku.,Puneti mai intai momeala in carlig.,server message (chat/system line),done
+e:cff2c4746dad,You can't go fishing without a fishing pole!,Nie możesz łowić bez Wędki!,Nu puteti pescui fara undita!,server message (chat/system line),done
+e:15819cdeff07,You cannot fish here.,Nie możesz tu łowić.,Nu puteti pescui aici.,server message (chat/system line),done
+e:e75a306b0ae5,[Group] You cannot make a request because the group leader is not online.,"[Grupa] Nie możesz wysłać Prośby, ponieważ Lider grupy jest offline.","[Grup] Nu puteti face o cerere, deoarece liderul grupului nu este online.",server message (chat/system line),done
+e:9362393d35d0,[Group] You cannot form a group with players from another kingdom.,[Grupa] Nie możesz utworzyć Grupy z graczami z innych Królestw.,[Grup] Nu puteti forma un grup cu jucatori din alt regat.,server message (chat/system line),done
+e:ef78b8a885a2,[Group] You cannot invite players while you are in a dungeon.,"[Grupa] Nie możesz zaprosić innych graczy, gdy jesteś w lochu.",[Grup] Nu puteti invita jucatori cat timp sunteti intr-o temnita.,server message (chat/system line),done
+e:8c797c42a80a,[Group] You cannot invite a player while you are in observer mode.,"[Grupa] Nie możesz zaprosić innych graczy, gdy jesteś w Trybie Obserwatora.",[Grup] Nu puteti invita un jucator cat timp sunteti in modul observator.,server message (chat/system line),done
+e:7013bdc7b7a3,[Group] Only players with a level difference of -30 to +30 can be invited.,[Grupa] Tylko gracze z różnicą poziomu -30 do +30 mogą zostać zaproszeni.,[Grup] Pot fi invitati doar jucatori cu o diferenta de nivel de la -30 la +30.,server message (chat/system line),done
+e:eb22b8a5f6bd,Number of other participants : %d,Liczba innych uczestników: %d,Numarul celorlalti participanti : %d,server message (chat/system line) | keep: %d,done
+e:e3afb406ee68,"[Group] You cannot invite this player, as their level is too low.","[Grupa] Nie możesz zaprosić tego gracza, jego poziom jest za niski.","[Grup] Nu puteti invita acest jucator, deoarece nivelul lui este prea mic.",server message (chat/system line),done
+e:abba15da7c05,"[Group] You cannot invite this player, as their level is too high.","[Grupa] Nie możesz zaprosić tego gracza, jego poziom jest za wysoki.","[Grup] Nu puteti invita acest jucator, deoarece nivelul lui este prea mare.",server message (chat/system line),done
+e:2f18cacd373d,[Group] You cannot invite any more players into your group.,[Grupa] Nie możesz zaprosić więcej graczy do swojej Grupy.,[Grup] Nu mai puteti invita alti jucatori in grup.,server message (chat/system line),done
+e:9bdd7a13e7bf,You want to join %s's group.,Chcesz dołączyć się do Grupy %s.,Vreti sa intrati in grupul lui %s.,server message (chat/system line) | keep: %s,done
+e:db81a81244c2,This player is not in this group.,Ten gracz nie jest w tej Grupie.,Acest jucator nu este in acest grup.,server message (chat/system line),done
+e:b80a04a6bd9a,[Group] You cannot join this group because it is already full.,"[Grupa] Nie możesz dołączyć do tej Grupy, ponieważ ma ona już maksymalną ilość członków.","[Grup] Nu puteti intra in acest grup, deoarece este deja plin.",server message (chat/system line),done
+e:b77639be00a0,[Group] You do not have the right to invite someone.,"[Grupa] Nie masz prawa, aby zapraszać kogokolwiek.",[Grup] Nu aveti dreptul sa invitati pe cineva.,server message (chat/system line),done
+e:848e7cadba0e,[Group] %s has declined your group invitation.,[Grupa] %s odrzucił zaproszenie do twojej Grupy.,[Grup] %s a refuzat invitatia in grup.,server message (chat/system line) | keep: %s,done
+e:150e718e1168,[Group] %s is already in the group.,[Grupa] %s jest już w Grupie.,[Grup] %s este deja in grup.,server message (chat/system line) | keep: %s,done
+e:a519caf014db,[Group] You cannot accept an invitation into a dungeon.,[Grupa] Nie możesz przyjąć zaproszenia będąc w lochu.,[Grup] Nu puteti accepta o invitatie intr-o temnita.,server message (chat/system line),done
+e:a0f8491b74cc,OX Event is finishing.,Konkurs OX zakończony.,Evenimentul OX se termina.,server message (chat/system line),done
+e:f5bd9fb67dd9,[Group] You cannot accept the invitation.,[Grupa] Nie możesz przyjąć zaproszenia.,[Grup] Nu puteti accepta invitatia.,server message (chat/system line),done
+e:4fcd48008acf,[Group] %s has declined your invitation.,[Grupa] %s odrzucił twoje zaproszenie.,[Grup] %s a refuzat invitatia.,server message (chat/system line) | keep: %s,done
+e:70d28a123c79,[Group] %s has joined your group.,[Grupa] %s dołączył do Grupy.,[Grup] %s a intrat in grup.,server message (chat/system line) | keep: %s,done
+e:000fa869ede7,[Group] %s has joined your Group.,[Grupa] %s dołączył do twojej Grupy.,[Grup] %s a intrat in grup.,server message (chat/system line) | keep: %s,done
+e:093f6da7a455,You can't use a private shop now.,Nie możesz skorzystać teraz z prywatnego Magazynu.,Nu puteti folosi acum un magazin privat.,server message (chat/system line),done
+e:9cb26a1e8106,This player is already trading with another player.,W tej chwili ten gracz handluje z kimś innym.,Acest jucator face deja schimb cu alt jucator.,server message (chat/system line),done
+e:2d2410a86ed1,Metin2 Confirmation Number: %s,Numer potwierdzający Metin2: %s,Numarul de confirmare Metin2: %s,server message (chat/system line) | keep: %s,done
+e:af7aaa9bd1fc,Your Confirmation Number is not correct. Please try again.,Twój numer potwierdzający jest błędny. Proszę spróbować ponownie.,Numarul de confirmare nu este corect. Incercati din nou.,server message (chat/system line),done
+e:823448297a2a,The mobile phone number is registered.,Numer komórkowy jest zarejestrowany.,Numarul de telefon mobil este inregistrat.,server message (chat/system line),done
+e:5530a004536f,You cannot teleport to the player.,Nie możesz przenieść się do gracza.,Nu va puteti teleporta la jucator.,server message (chat/system line),done
+e:7f50a09de63c,OX The prize has been awarded. ID: %d Quantity: %d,Nagroda za OX została wydana. ID: %d Ilość: %d,OX Premiul a fost acordat. ID: %d Cantitate: %d,server message (chat/system line) | keep: %d %d,done
+e:e74229114ac0,This player is not online.,Ten gracz nie jest online.,Acest jucator nu este online.,server message (chat/system line),done
+e:1ec3bfcf3539,The player is playing on channel %d. (You are on channel %d.),Gracz ten jest na kanale %d. (Ty jesteś na kanale %d.),Jucatorul joaca pe canalul %d. (Sunteti pe canalul %d.),server message (chat/system line) | keep: %d %d,done
+e:5cd86d1febab,"After opening the Storeroom, you cannot go anywhere else for %d seconds.",Nie możesz udać się w inne miejsce przez %d sekund po otwarciu Magazynu.,Dupa deschiderea Depozitului nu puteti merge in alta parte timp de %d secunde.,server message (chat/system line) | keep: %d,done
+e:5cb0dfe6bb07,You cannot go elsewhere for a period of time after the trade.,Nie możesz udać się w inne miejsce przez chwilę po zakończeniu handlu.,Nu puteti merge in alta parte o vreme dupa schimb.,server message (chat/system line),done
+e:01aababf0e30,After trading you cannot go elsewhere for %d seconds.,Nie możesz udać się w inne miejsce przez %d sekund po zakończeniu handlu.,Dupa un schimb nu puteti merge in alta parte timp de %d secunde.,server message (chat/system line) | keep: %d,done
+e:a681993105fa,"The duel has finished, because your combatant vanished.","Pojedynek został zakończony, ponieważ zniknął twój przeciwnik.","Duelul s-a terminat, deoarece adversarul a disparut.",server message (chat/system line),done
+e:0d73a39cd6b4,There is no limit for Potions.,Nie ma limitu mikstur.,Nu exista limita pentru potiuni.,server message (chat/system line),done
+e:18008d671b19,You can use up to %d potions.,Możesz użyć tylko %d mikstur.,Puteti folosi pana la %d potiuni.,server message (chat/system line) | keep: %d,done
+e:6218b4a87a62,The fight will start in 10 seconds.,Walka rozpoczyna się za 10 sekund.,Lupta incepe in 10 secunde.,server message (chat/system line),done
+e:9a04ed26f572,The duel has begun.,Pojedynek rozpoczęty.,Duelul a inceput.,server message (chat/system line),done
+e:fddf1df7c30c,TRUE,TRUE,ADEVARAT,server message (chat/system line),done
+e:cff150645b50,The duel is being finished because there is a problem in the duel arena.,Pojedynek został zakończony z powodu problemów z areną.,"Duelul se termina, deoarece exista o problema in arena de duel.",server message (chat/system line),done
+e:8a281b861599,The duel has finished because of a timeout.,Pojedynek został zakończony z powodu upływu czasu.,Duelul s-a terminat din cauza expirarii timpului.,server message (chat/system line),done
+e:ab3fbb34a1b7,In 10 seconds you will be teleported into the city.,Za 10 sekund zostaniesz przeniesiony do miasta.,In 10 secunde veti fi teleportat in oras.,server message (chat/system line),done
+e:0045900b79db,The duel has been stopped because there is a problem in the arena.,Pojedynek jest zakończony z powodu problemów z areną.,"Duelul a fost oprit, deoarece exista o problema in arena.",server message (chat/system line),done
+e:078700204c4f,Your combatant has got some problems. The duel is being cancelled.,Twój przeciwnik ma jakieś problemy. Pojedynek zakończony.,Adversarul are probleme. Duelul este anulat.,server message (chat/system line),done
+e:4580ff0deef6,The duel is being cancelled as there is a problem with the combatant.,Pojedynek został zakończony ponieważ jest problemów z przeciwnikiem.,"Duelul este anulat, deoarece exista o problema cu adversarul.",server message (chat/system line),done
+e:62e580b7f524,%s has won the duel.,%s wygrał pojedynek.,%s a castigat duelul.,server message (chat/system line) | keep: %s,done
+e:315b937d315b,%s has won.,%s wygrał.,%s a castigat.,server message (chat/system line) | keep: %s,done
+e:afac302154ad,You will be teleported into the city in 10 seconds.,Zostaniesz przeniesiony do Miasta za 10 sekund.,Veti fi teleportat in oras in 10 secunde.,server message (chat/system line),done
+e:245d0ead5923,The next round will begin in 10 seconds.,Następna runda rozpoczyna się za 10 sekund.,Runda urmatoare incepe in 10 secunde.,server message (chat/system line),done
+e:0ed2d7b5cdb7,FALSE,FALSE,FALS,server message (chat/system line),done
+e:17c06ef31a1f,The combatants have been separated. The duel has been stopped.,Wojownicy się rozdzielili. Pojedynek zakończony.,Adversarii au fost separati. Duelul a fost oprit.,server message (chat/system line),done
+e:6c28b2c801bd,The quota of the Item Drop is at the moment plus %d%%,Aktualnie szansa na wypadnięcie przedmiotu to: +%d%%,Cota dropului de obiecte este momentan plus %d%%,server message (chat/system line) | keep: %d,done
+e:451dff90d205,The quota of the Yang Drop is at the moment plus %d%%,Ilość wypadających Yang jest zwiększona o: %d%%,Cota dropului de Yang este momentan plus %d%%,server message (chat/system line) | keep: %d,done
+e:f3265d18ea7a,The drop rate for Yang rain is currently %d%% higher.,Aktualna szansa na deszcz dropów Yang jest zwiększona o: %d%%,Rata ploii de Yang este momentan cu %d%% mai mare.,server message (chat/system line) | keep: %d,done
+e:bbc12c86ab18,The experience bonus is currently an additional %d%%.,Bonus dodatkowego doświadczenia wynosi obecnie %d%%.,Bonusul de experienta este momentan inca %d%%.,server message (chat/system line) | keep: %d,done
+e:5c7017a48b31,You do not have the correct client version. Please install the normal patch.,Twoja wersja klienta jest niewłaściwa. Proszę zainstalować normalny patch.,Nu aveti versiunea corecta a clientului. Instalati patch-ul normal.,server message (chat/system line),done
+e:e78404a723c0,You cannot trade in the shop while another window is open.,"Nie możesz handlować w sklepie, dopóki otwarte jest inne okno.",Nu puteti face comert in magazin cat timp este deschisa alta fereastra.,server message (chat/system line),done
+e:5f2cb8f3615a,You are too far away from the shop to buy something.,"Aby cokolwiek kupić, musisz podejść bliżej.",Sunteti prea departe de magazin pentru a cumpara ceva.,server message (chat/system line),done
+e:052fb4dabd4c,You are too far away from the shop to sell something.,Znajdujesz się za daleko od Magazynu aby sprzedawać.,Sunteti prea departe de magazin pentru a vinde ceva.,server message (chat/system line),done
+e:0dd739486a66,Total number of the Quiz: %d,Całkowita liczba Pytań: %d,Numarul total de intrebari ale quizului: %d,server message (chat/system line) | keep: %d,done
+e:cb327c5507ef,This sale will be taxed %d%% (%lld Yang).,Podatek od sprzedaży: %d%% (%lld Yang).,Aceasta vanzare va fi taxata cu %d%% (%lld Yang).,server message (chat/system line) | keep: %d %lld,done
+e:3b6cb72bfb45,You cannot ride a Horse while you are transformed.,"Gdy jesteś przemieniony, nie możesz jeździć konno.",Nu puteti calari un cal cat timp sunteti transformat.,server message (chat/system line),done
+e:7f2f4cada820,You cannot ride while you are wearing a Wedding Dress or a Tuxedo.,"Nie możesz jeździć konno, gdy masz na sobie Suknię Ślubną lub Smoking.",Nu puteti calari cat timp purtati o rochie de mireasa sau un smoching.,server message (chat/system line),done
+e:b09c20bcefe2,You do not have a Horse.,Nie masz konia.,Nu aveti cal.,server message (chat/system line),done
+e:911d69fbf47c,Your Horse is dead.,Twój koń zdechł.,Calul dvs. este mort.,server message (chat/system line),done
+e:cd1f648b7cf6,Your Horse's endurance is too low.,Wytrzymałość Twojego konia jest za niska.,Rezistenta calului este prea mica.,server message (chat/system line),done
+e:cd4e61c7e134,Calling the Horse has failed.,Nie udało się przywołać konia.,Chemarea calului a esuat.,server message (chat/system line),done
+e:4c11fd964190,'s Horse, - Koń, - Cal,server message (chat/system line),done
+e:d012a861399a,The wedding is finishing soon.,Ślub wkrótce dobiegnie końca.,Nunta se termina in curand.,server message (chat/system line),done
+e:50e94df9e947,Will be left automatically.,Zostanie automatycznie opuszczony.,Va fi parasit automat.,server message (chat/system line),done
+e:8d8d1678d8f4,The war is already over.,Wojna już się zakończyła.,Razboiul s-a terminat deja.,server message (chat/system line),done
+e:78a99aa4b897,The result will follow in 10 seconds.,Wyniki zostaną ukazane za 10 sekund.,Rezultatul urmeaza in 10 secunde.,server message (chat/system line),done
+e:a4d717a4d615,You cannot trade while observing.,Nie możesz handlować podczas obserwacji.,Nu puteti face schimburi in timp ce observati.,server message (chat/system line),done
+e:1504073cc193,"If the window is open, you cannot trade with others.","Jeśli okno jest otwarte, nie możesz handlować z innymi.","Daca fereastra este deschisa, nu puteti face schimb cu altii.",server message (chat/system line),done
+e:8c508ade0a68,The other person is currently busy so you cannot trade right now.,"Nie możesz handlować teraz z tą osobą, ponieważ jest ona obecnie zajęta.","Cealalta persoana este ocupata momentan, asa ca nu puteti face schimb acum.",server message (chat/system line),done
+e:622a8af4e374,The other person has cancelled the trade.,Druga osoba zablokowała handel.,Cealalta persoana a anulat schimbul.,server message (chat/system line),done
+e:1ec3bf9b5763,Not enough Yang or not enough space in the inventory.,Za mało Yang lub brak miejsca w ekwipunku.,Nu aveti destul Yang sau destul loc in inventar.,server message (chat/system line),done
+e:5065a5a13fb9,The other person does not have enough Yang or does not have any space left in their inventory.,Druga osoba nie ma wystarczającej ilości Yang lub nie ma miejsca w ekwipunku.,Cealalta persoana nu are destul Yang sau nu mai are loc in inventar.,server message (chat/system line),done
+e:94b70b9fc72f,The other person has no space left in their inventory.,Druga osoba nie ma miejsca w ekwipunku.,Cealalta persoana nu mai are loc in inventar.,server message (chat/system line),done
+e:027ee3a9c71e,The trade with %s has been successful.,Handel z %s zakończony pomyślnie.,Schimbul cu %s a reusit.,server message (chat/system line) | keep: %s,done
+e:3802de1715be,You did not lose any Experience because of the Blessing of the Dragon God.,Nie straciłeś doświadczenia dzięki Błogosławieństwu Boga Smoków.,Nu ati pierdut experienta datorita Binecuvantarii Zeului Dragon.,server message (chat/system line),done
+e:c35e5eeeb59e,"Current score: Shinsoo %d, Chunjo %d, Jinno %d","Aktualna punktacja: Shinsoo %d, Chunjo %d, Jinno %d","Scor actual: Shinsoo %d, Chunjo %d, Jinno %d",server message (chat/system line) | keep: %d %d %d,done
+e:6917931f259b,The correct answer is:,Prawidłowa odpowiedź to:,Raspunsul corect este:,server message (chat/system line),done
+e:3978521047c4,"%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d","%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d","%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d",server message (chat/system line) | keep: %s %d %d %d %d %d %d,check
+e:dfe721e98533,The devil of the hallowed place: [ENTER][ENTER],Diabeł Świętej Ziemi: [ENTER][ENTER],Diavolul locului sfintit: [ENTER][ENTER],server message (chat/system line) | keep: [ENTER] = new line,done
+e:1e3c993fcbf7,", you don't have any right to be here! The members of your kingdom will leave this hallowed ground in 10 seconds.",", nie masz prawa tu przebywać. Za 10 sekund wszyscy obywatele twojego królestwa opuszczą tę świętą ziemię.",", nu aveti niciun drept sa fiti aici! Membrii regatului dvs. vor parasi acest pamant sfintit in 10 secunde.",server message (chat/system line),done
+e:2e7091518203,%s has been defeated and drops out of the Kingdom Battle.,Królestwo %s zostało pokonane i odpada z Wojny Królestw.,%s a fost invins si iese din Batalia regatelor.,server message (chat/system line) | keep: %s,done
+e:498873fdf1df,Number of Monsters in the Kingdom Battle:,Liczba potworów w Wojnie Królestw:,Numarul de monstri in Batalia regatelor:,server message (chat/system line),done
+e:4a821e825a88,"If you defeat the Guard of the Holy Place, you will become the owner of it.","Jeśli pokonasz Strażnika Świętej Ziemi, staniesz się jego właścicielem.","Daca il invingeti pe Paznicul Locului Sfant, veti deveni proprietarul lui.",server message (chat/system line),done
+e:c94e9fece39b,You did not drop any Item(s) as you are protected by the Dragon God.,"Nie upuściłeś żadnego przedmiotu, ponieważ jesteś chroniony przez Boga Smoków.","Nu ati scapat niciun obiect, deoarece sunteti protejat de Zeul Dragon.",server message (chat/system line),done
+e:e59efa9dba04,Additional Stabbing Weapon Damage %d,Dodatkowe obrażenia od pchnięcia %d,Daune suplimentare cu arme de impuns %d,server message (chat/system line) | keep: %d,done
+e:29efac206fed,%s block! (%d%%),%s blokuje! (%d%%),%s blocheaza! (%d%%),server message (chat/system line) | keep: %s %d,done
+e:d13139137d83,%s avoid! (%d%%),%s robi unik! (%d%%),%s evita! (%d%%),server message (chat/system line) | keep: %s %d,done
+e:6296f695192b,Yes (O),Tak (O),Da (O),server message (chat/system line),done
+e:bf6ecd52485c,%s[%d]'s Attack Position: %d %d,%s[%d]s Pozycja ataku: %d %d,Pozitia de atac a lui %s[%d]: %d %d,server message (chat/system line) | keep: %s %d %d %d,done
+e:b95f290b33f0,Please enter the Order in full length.,Proszę wpisać pełne polecenie.,Introduceti ordinul complet.,server message (chat/system line),done
+e:a8ce4a2a8469,You cannot do this whilst sitting on a Horse.,"Nie możesz tego zrobić, gdy dosiadasz konia.",Nu puteti face asta cat timp stati pe cal.,server message (chat/system line),done
+e:868f1f6ea0a2,You cannot do that while you are lying on the ground.,Nie możesz wykonać tej akcji leżąc na ziemi.,Nu puteti face asta cat timp stati intins pe jos.,server message (chat/system line),done
+e:5914fbfce700,In my Dreams? What?,W moich snach? Że co?,In visele mele? Ce?,server message (chat/system line),done
+e:bc88d4833f70,Get up first.,Najpierw wstań.,Ridicati-va mai intai.,server message (chat/system line),done
+e:3d66bd6fa6f3,This command does not exist.,Ta komenda nie istnieje.,Aceasta comanda nu exista.,server message (chat/system line),done
+e:dc665c86588b,[Group] This group has been disbanded.,[Grupa] Grupa została skasowana.,[Grup] Acest grup a fost desfiintat.,server message (chat/system line),done
+e:95007c897f49,[Group] You cannot call the target.,[Grupa] Nie możesz przenieść celu.,[Grup] Nu puteti chema tinta.,server message (chat/system line),done
+e:b29ece6b1d7c,[Group] You cannot call group members over to your current position.,[Grupa] Nie możesz teleportować członków grupy na swoją aktualną pozycję.,[Grup] Nu puteti chema membrii grupului la pozitia actuala.,server message (chat/system line),done
+e:bd2ea734f434,No (X),Nie (X),Nu (X),server message (chat/system line),done
+e:7430cca37d43,"Your group works well together, and group members near the group leader will receive an experience bonus.","Twoja grupa jest bardzo zgrana i członkowie grupy, którzy znajdują się w pobliżu lidera, otrzymają bonus doświadczenia.","Grupul dvs. lucreaza bine impreuna, iar membrii grupului aflati langa lider vor primi un bonus de experienta.",server message (chat/system line),done
+e:e26c936bbeca,Leader,Lider,Lider,server message (chat/system line),done
+e:6853c98a6f43,Member,Członek,Membru,server message (chat/system line),done
+e:db04f6a58eb6,[Guild] Provided Experience is larger then left Experience.,[Gildia] Ilość przekazanego doświadczenie jest prawdopodobnie za duża.,[Breasla] Experienta oferita este mai mare decat experienta ramasa.,server message (chat/system line),done
+e:7dfc78b433b2,[Guild] This message cannot be deleted.,[Gildia] Wiadomość nie może zostać usunięta.,[Breasla] Acest mesaj nu poate fi sters.,server message (chat/system line),done
+e:89cb9065c764,"[Guild] Not enough Dragon Ghost. (%d, %d)","[Gildia] Za mało Ducha Smoka. (%d, %d)","[Breasla] Dragon Fantoma insuficient. (%d, %d)",server message (chat/system line) | keep: %d %d,done
+e:d18af11a694b,[Guild] You cannot use the guild skills yet.,[Gildia] Jeszcze nie możesz używać umiejętności gildii.,[Breasla] Nu puteti folosi inca abilitatile breslei.,server message (chat/system line),done
+e:8fa6cc8a26a0,"[Guild] %d skill has been applied (%d, %d) to %u.","[Gildia] %d umiejętność użyta (%d, %d) na %u.","[Breasla] Abilitatea %d a fost aplicata (%d, %d) la %u.",server message (chat/system line) | keep: %d %d %d %u,done
+e:d6f54e9b513b,[Guild] This player is on channel %d. (Current channel: %d),[Gildia] Gracz jest na kanale %d (aktualny kanał: %d).,[Breasla] Acest jucator este pe canalul %d. (Canalul actual: %d),server message (chat/system line) | keep: %d %d,done
+e:57c3bc6c52d2,[Guild] This player is not online.,[Gildia] Gracz nie jest online.,[Breasla] Acest jucator nu este online.,server message (chat/system line),done
+e:a0599ac47038,In 5 sec. everyone who gave an incorrect answer will be removed.,"Po 5 sekundach, uczestnicy, którzy udzielili złej odpowiedzi zostaną wykluczeni.",In 5 sec. toti cei care au raspuns gresit vor fi scosi.,server message (chat/system line),done
+e:9bc67a20e790,[Guild] This guild skill can only be used during war.,[Gildia] Ta umiejętność gildii może być użyta tylko podczas wojny.,[Breasla] Aceasta abilitate a breslei poate fi folosita doar in timpul razboiului.,server message (chat/system line),done
+e:23fc6126d16a,[Guild] %u Dragon ghost points have been restored.,[Gildia] Zregenerowano %u Ducha Smoka.,[Breasla] %u puncte de Dragon Fantoma au fost refacute.,server message (chat/system line) | keep: %u,done
+e:850e8b27d940,[Guild] Only the guild leader can withdraw Yang.,[Gildia] Tylko Lider Gildii może pobrać Yang.,[Breasla] Doar liderul breslei poate retrage Yang.,server message (chat/system line),done
+e:eb1c33452ec1,[Guild] The player has declined the guild invitation.,[Gildia] Gracz odrzucił zaproszenie do Gildii.,[Breasla] Jucatorul a refuzat invitatia in breasla.,server message (chat/system line),done
+e:9bac6ab8dfc3,[Guild] You do not have the authority to invite someone to join the guild.,[Gildia] Nie możesz zapraszać osób do Gildii.,[Breasla] Nu aveti autoritatea de a invita pe cineva in breasla.,server message (chat/system line),done
+e:3efd7939dbfe,[Guild] You cannot invite players from another kingdom into the guild.,[Gildia] Nie możesz zapraszać do Gildii graczy z innych Królestw.,[Breasla] Nu puteti invita in breasla jucatori din alt regat.,server message (chat/system line),done
+e:21e540155e9f,[Guild] This player can be invited again after %d day(s).,[Gildia] Gracz może zostać zaproszony ponownie za: %d dzień/dni.,[Breasla] Acest jucator poate fi invitat din nou dupa %d zi(le).,server message (chat/system line) | keep: %d,done
+e:253d6a9aaa2c,[Guild] After the rearrangement you can invite members again after %d days.,[Gildia] Możesz zapraszać członków dopiero po %d dniach od reorganizacji.,[Breasla] Dupa reorganizare puteti invita din nou membri dupa %d zile.,server message (chat/system line) | keep: %d,done
+e:4a7b0aa4d02e,[Guild] This person is already a member of another Guild.,[Gildia] Ten gracz należy już do innej Gildii.,[Breasla] Aceasta persoana este deja membru al altei bresle.,server message (chat/system line),done
+e:7983f4344c9f,[Guild] The maximum guild capacity has been reached.,[Gildia] Pojemność Gildii osiągnęła górny limit.,[Breasla] S-a atins capacitatea maxima a breslei.,server message (chat/system line),done
+e:8a46513471fa,Ready for the next question?,Gotowi na następne pytanie?,Gata pentru urmatoarea intrebare?,server message (chat/system line),done
+e:4682287ec683,You cannot train this skill.,Nie możesz szkolić się w tej umiejętności.,Nu puteti antrena aceasta abilitate.,server message (chat/system line),done
+e:12f6496c600f,You cannot train this skill up to Grand Master level.,Nie możesz szkolić się w tej umiejętności do Wielkiego Mistrza.,Nu puteti antrena aceasta abilitate pana la nivelul de Mare Maestru.,server message (chat/system line),done
+e:51fc7004117c,You already are a Master of this skill. You cannot train this skill any further.,Jesteś już mistrzem w tej umiejętności. Nie możesz jej już szkolić.,Sunteti deja Maestru al acestei abilitati. Nu o mai puteti antrena.,server message (chat/system line),done
+e:bba2d3c65920,Your Skill is not high enough to become a Grand Master.,"Twoja umiejętność nie jest na tyle wysoka, aby zostać Wielkim Mistrzem.",Abilitatea dvs. nu este destul de mare pentru a deveni Mare Maestru.,server message (chat/system line),done
+e:139bbb29420f,That did not work. Damn!,To nie zadziałało. Bleh!,Nu a mers. Fir-ar!,server message (chat/system line),done
+e:39723803eedb,Training has failed. Please try again later.,Szkolenie niepomyślne. Proszę spróbować później.,Antrenamentul a esuat. Incercati din nou mai tarziu.,server message (chat/system line),done
+e:147b6de54d02,My body is full of energy!,Moje ciało jest pełne energii!,Corpul meu e plin de energie!,server message (chat/system line),done
+e:60bc6e622e34,The training seems to be working already...,Widać już skutki treningu...,Antrenamentul pare sa functioneze deja...,server message (chat/system line),done
+e:9f30a7c0ec1f,You successfully finished your training with the book.,Pomyślnie zakończyłeś trening przy pomocy książki.,Ati terminat cu succes antrenamentul cu cartea.,server message (chat/system line),done
+e:efd09abac871,You cannot read this due to your lack of experience.,"Nie możesz tego przeczytać, ponieważ brakuje Ci doświadczenia.",Nu puteti citi asta din cauza lipsei de experienta.,server message (chat/system line),done
+e:f6918a162453,Question.,Pytanie.,Intrebare.,server message (chat/system line),done
+e:4898a7ac1794,You cannot train this skill with a Book.,Nie możesz szkolić tej umiejętności za pomocą Książki.,Nu puteti antrena aceasta abilitate cu o carte.,server message (chat/system line),done
+e:0eaa2b6612de,This skill's level is not high enough to be trained with a Book.,"Umiejętność nie jest odpowiednio rozwinięta, aby szkolić ją przy pomocy Książki.",Nivelul acestei abilitati nu este destul de mare pentru a fi antrenata cu o carte.,server message (chat/system line),done
+e:834abcd3a366,"I'm making progress, but I still haven't understood everything.",Robię postępy ale nie zrozumiałem jeszcze wszystkiego.,"Fac progrese, dar inca n-am inteles totul.",server message (chat/system line),done
+e:bce2e2e8d5c2,These instructions are difficult to understand. I have to carry on studying.,Tę technikę ciężko zrozumieć. Muszę kontynuować trening.,Instructiunile astea sunt greu de inteles. Trebuie sa studiez in continuare.,server message (chat/system line),done
+e:c6367412f61d,I understand this chapter. But I've got to carry on working hard.,"Ten rozdział już zrozumiałem, ale czeka mnie jeszcze mnóstwo ciężkiej pracy.",Am inteles capitolul asta. Dar trebuie sa muncesc in continuare din greu.,server message (chat/system line),done
+e:6d6df80cd02e,You have successfully finished your training with the Book.,Pomyślnie zakończyłeś trening przy pomocy książki.,Ati terminat cu succes antrenamentul cu cartea.,server message (chat/system line),done
+e:33423d3346ce,Teleportation has failed.,Teleportacja niepomyślna.,Teleportarea a esuat.,server message (chat/system line),done
+e:483b24bfcc04,No Horse here. Ask the Stable Boy.,Nie ma tu konia. Zapytaj Stajennego.,Niciun cal aici. Intrebati-l pe Grajdar.,server message (chat/system line),done
+e:8e4d1094a12e,Please use an item to call a Horse.,"Proszę użyć przedmiotu, aby przywołać konia.",Folositi un obiect pentru a chema un cal.,server message (chat/system line),done
+e:712ac562e1cb,%s FP-Consumption: %d,%s Użycie FP: %d,%s consum FP: %d,server message (chat/system line) | keep: %s %d,done
+e:ba4e39dea376,"If it's correct, then go to O. If it's wrong, go to X.","Jeśli TAK, przejdź na pole O, jeśli NIE, przejdź na pole X.","Daca este corect, mergeti la O. Daca este gresit, mergeti la X.",server message (chat/system line),done
+e:efb4ecb251d4,"I am burning inside, but it is calming down my body. My Chi has to stabilise.","Płonę wewnątrz, ale to uspokaja moje ciało.","Ard pe dinauntru, dar asta imi calmeaza corpul. Chi-ul meu trebuie sa se stabilizeze.",server message (chat/system line),done
+e:8422037e6aa0,"A little slow, but steady... Without stopping!","Powoli, ale spokojnie.... Bez zatrzymywania.","Putin incet, dar sigur... Fara oprire!",server message (chat/system line),done
+e:5035713f9203,"Yes, that feels great. My body is full of Chi.","Tak, to uczucie jest świetne. Moje ciało jest pełne Chi.","Da, se simte grozav. Corpul meu e plin de Chi.",server message (chat/system line),done
+e:a643d2bc527f,I have read it! Now the Chi will spread through my body.,Przeczytałem! Teraz Chi musi popłynąć przez moje ciało.,Am citit-o! Acum Chi-ul se va raspandi in corpul meu.,server message (chat/system line),done
+e:0330067e01d4,The training is completed.,Trening zakończony.,Antrenamentul s-a terminat.,server message (chat/system line),done
+e:12bd499f14ee,I am on the last page of the book. The training is nearly finished!,Jestem na ostatniej stronie! Trening jest prawie zakończony!,Sunt la ultima pagina a cartii. Antrenamentul e aproape gata!,server message (chat/system line),done
+e:720bc30956a1,Nearly finished! Just a little bit more to go!,Prawie koniec! Jeszcze tylko troszeczkę!,Aproape gata! Mai e doar putin!,server message (chat/system line),done
+e:758199d76dbb,Eureka! I have nearly finished reading it!,Zostałem oświecony! Przeczytałem prawie wszystko!,Evrika! Aproape am terminat de citit!,server message (chat/system line),done
+e:43e1fe056f50,Only a few more pages and then I'll have read everything.,Zostało mi już tylko kilka stron do przeczytania.,Inca doar cateva pagini si am citit tot.,server message (chat/system line),done
+e:2d882216820d,I feel refreshed.,Czuję się odświeżony.,Ma simt inviorat.,server message (chat/system line),done
+e:d7a707923995,Correct!,Prawidłowo!,Corect!,server message (chat/system line),done
+e:af34201dcc1e,Now I understand it!,Teraz rozumiem!,Acum inteleg!,server message (chat/system line),done
+e:3b7142c33df2,Okay I have to stay concentrated!,"Dobrze, teraz muszę pozostać skoncentrowanym!","Bine, trebuie sa raman concentrat!",server message (chat/system line),done
+e:0841afe02442,I keep reading the same line over and over again.,Czytam tą samą linię ponownie.,Citesc mereu acelasi rand din nou si din nou.,server message (chat/system line),done
+e:84429aa2f7de,I do not want to learn any more.,Nie chcę już się więcej uczyć.,Nu mai vreau sa invat.,server message (chat/system line),done
+e:a1062f678262,It is a lot more complicated and more difficult to understand than I thought.,To jest dużo trudniejsze niż się spodziewałem.,E mult mai complicat si mai greu de inteles decat credeam.,server message (chat/system line),done
+e:f3687c0dd27b,It's hard for me to concentrate. I should take a break.,Nie potrafię się skoncentrować. Powinienem zrobić sobie przerwę.,Imi e greu sa ma concentrez. Ar trebui sa iau o pauza.,server message (chat/system line),done
+e:8d6b05294332,Your chat has been blocked by a GM.,Możliwość pisania została zablokowana przez siły wyższe!,Chatul dvs. a fost blocat de un GM.,server message (chat/system line),done
+e:2e99165e7a17,Your chat block has been lifted.,Twój Chat został odblokowany.,Blocarea chatului a fost ridicata.,server message (chat/system line),done
+e:cd092a5039b4,The Build window is already open.,Okno budowania jest już otwarte.,Fereastra de constructie este deja deschisa.,server message (chat/system line),done
+e:996f59448032,You cannot build something while another trade/storeroom window is open.,"Nie możesz nic budować, gdy jest otwarte inne okno handlu/magazynu.",Nu puteti construi ceva cat timp este deschisa alta fereastra de schimb/depozit.,server message (chat/system line),done
+e:10b2022949fd,No further improvements possible.,Postęp nie jest możliwy,Nu mai sunt posibile alte imbunatatiri.,server message (chat/system line),done
+e:18fdfc0d0bbc,The build window is not open.,Okno budowania nie jest otwarte,Fereastra de constructie nu este deschisa.,server message (chat/system line),done
+e:49b6a3a692ca,You do not have the right material.,Nie masz właściwego materiału.,Nu aveti materialul potrivit.,server message (chat/system line),done
+e:051dbca5c521,[Guild] Please try again later.,[Gildia] Spróbuj ponownie później.,[Breasla] Incercati din nou mai tarziu.,server message (chat/system line),done
+e:89cd1d76aab9,You have to read %d more skill books to improve this skill.,Musisz przeczytać jeszcze %d Ksiąg Umiejętności aby ulepszyć tę Umiejętność.,Trebuie sa mai cititi %d carti de abilitate pentru a imbunatati aceasta abilitate.,server message (chat/system line) | keep: %d,done
+e:ce97d9460247,You are only able to use this function while you are at the castle.,Możesz używać tą czynność jedynie jak jesteś w zamku.,Puteti folosi aceasta functie doar cand sunteti la castel.,server message (chat/system line),done
+e:e14442e94ebb,TEST: The Gold Bar has been paid back to your kingdom's safe.,TEST: Złota sztabka została wpłacona do skarbca twojego królestwa.,TEST: Lingoul de aur a fost platit inapoi in tezaurul regatului.,server message (chat/system line),done
+e:96c07b827562,TEST: In your kingdom's safe there are: %d,TEST: W skarbcu twojego królestwa są: %d,TEST: In tezaurul regatului sunt: %d,server message (chat/system line) | keep: %d,done
+e:657d04eaff83,TEST: You cannot pay the Gold Bar back into your kingdom's safe.,TEST: Nie możesz wpłacić złotej sztabki do skarbca twojego królestwa.,TEST: Nu puteti plati Lingoul de aur inapoi in tezaurul regatului.,server message (chat/system line),done
+e:75403d044e81,[Guild] The guild has reached %d points.,[Gildia] Ranga osiągnęła %d Punktów.,[Breasla] Breasla a atins %d puncte.,server message (chat/system line) | keep: %d,done
+e:189d32734b00,This item cannot be improved.,Ten przedmiot nie może być ulepszony.,Acest obiect nu poate fi imbunatatit.,server message (chat/system line),done
+e:394d8444f9ad,The upgrade bonus can only be used on an item of up to level %d.,Bonus na ulepszenie może być użyty na przedmiot do max. %d poziomu.,Bonusul de imbunatatire poate fi folosit doar pe un obiect de pana la nivelul %d.,server message (chat/system line) | keep: %d,done
+e:6484e56e235b,The upgrade bonus can only be used on an item upgraded to +%d at most.,Bonus na ulepszenie może być użyty na przedmiot o max. stopniu ulepszenia +%d.,Bonusul de imbunatatire poate fi folosit doar pe un obiect imbunatatit cel mult la +%d.,server message (chat/system line) | keep: %d,done
+e:fc2e95dcba3b,"The upgrade bonus can only be used on armour, helmets and shields.","Bonus na ulepszenie może być użyty tylko na zbroje, hełmy i tarcze.","Bonusul de imbunatatire poate fi folosit doar pe armuri, coifuri si scuturi.",server message (chat/system line),done
+e:371801b8da79,The upgrade bonus can only be used on jewellery.,Bonus na ulepszenie może być użyty tylko na biżuterię.,Bonusul de imbunatatire poate fi folosit doar pe bijuterii.,server message (chat/system line),done
+e:af9495077842,The upgrade bonus can only be used on weapons.,Bonus na ulepszenie może być użyty tylko na bronie.,Bonusul de imbunatatire poate fi folosit doar pe arme.,server message (chat/system line),done
+e:46282d502299,The free weapon improvements can only be used on weapons up to level 20.,Darmowe ulepszenie broni może być użyte jedynie w broniach do 20 poziomu.,Imbunatatirile gratuite ale armelor pot fi folosite doar pe arme de pana la nivelul 20.,server message (chat/system line),done
+e:b1a5e9963369,You cannot use this item because you do not fulfil all the requirements.,"Nie możesz użyć tego przedmiotu, ponieważ nie masz wszystkich kwalifikacji.","Nu puteti folosi acest obiect, deoarece nu indepliniti toate cerintele.",server message (chat/system line),done
+e:ebd78c18759a,You are not able to use that item because you do not have the right gender.,"Nie możesz użyć tego przedmiotu, ponieważ nie jesteś odpowiedniej płci.","Nu puteti folosi acel obiect, deoarece nu aveti sexul potrivit.",server message (chat/system line),done
+e:8d46e7bbd969,Use: transfer <name>,Użyj: transfer <name>,Folosire: transfer <nume>,server message (chat/system line),done
+e:32d61c689e15,This function can only be used by the emperor.,Ta czynność może być użyta tylko przez Imperatora.,Aceasta functie poate fi folosita doar de imparat.,server message (chat/system line),done
+e:935a0355ec25,You cannot recruit players from another kingdom.,Nie możesz rekrutować graczy z innego królestwa.,Nu puteti recruta jucatori din alt regat.,server message (chat/system line),done
+e:2e0fbc44f760,The player %s is on channel %d at the moment. (Your channel: %d),Gracz %s obecnie przebywa na kanale %d. (Twój Kanał: %d),Jucatorul %s este momentan pe canalul %d. (Canalul dvs.: %d),server message (chat/system line) | keep: %s %d %d,done
+e:6e8ab33df55f,You have recruited %s players.,Zrekrutowałeś %s graczy.,Ati recrutat %s jucatori.,server message (chat/system line) | keep: %s,done
+e:a67237aefb23,There is no user with this name.,Nie ma gracza o tej nazwie.,Nu exista niciun utilizator cu acest nume.,server message (chat/system line),done
+e:37c568748b0f,You cannot recruit yourself.,Nie możesz przyjąć samego siebie.,Nu va puteti recruta pe dvs.,server message (chat/system line),done
+e:cd8962d5450e,Your level is too low to use this item.,Twój poziom jest niższy niż poziom przedmiotu po ulepszeniu.,Nivelul dvs. este prea mic pentru a folosi acest obiect.,server message (chat/system line),done
+e:f6bf1d83700c,You cannot upgrade anything while another window is open.,"Nie możesz nic ulepszyć, dopóki otwarte jest inne okno.",Nu puteti imbunatati nimic cat timp este deschisa alta fereastra.,server message (chat/system line),done
+e:efb8dc4c4a27,The emperor of %s has changed to %s.,Imperator z %s został zmieniony na %s.,Imparatul regatului %s s-a schimbat in %s.,server message (chat/system line) | keep: %s %s,done
+e:f697c31342ce,There are %s wars to inflame the bonfires.,"Są %s wojny, by zapalić ogniska.",Sunt %s razboaie pentru aprinderea focurilor.,server message (chat/system line) | keep: %s,done
+e:e2bdb12801f4,%s has successfully defended.,%s był w stanie obronić pomyślnie.,%s s-a aparat cu succes.,server message (chat/system line) | keep: %s,done
+e:6494fd9b9f4f,30 minutes from now on the player %s can get a reward because he destroyed the bonfire.,"Przez 30 minut od teraz gracz %s może dostać nagrodę, gdyż zniszczył ognisko.","Timp de 30 de minute jucatorul %s poate primi o recompensa, deoarece a distrus focul.",server message (chat/system line) | keep: %s,done
+e:6b144bf19d1c,30 minutes are over. The bonfires have disappeared.,30 minut minęło. Ogniska zgasły.,Cele 30 de minute s-au terminat. Focurile au disparut.,server message (chat/system line),done
+e:1bf0538a2456,A bonfire was inflamed at %s to warn because of a battle.,Ognisko zostało zapalone w %s by ostrzec o bitwie.,Un foc a fost aprins la %s pentru a avertiza de o lupta.,server message (chat/system line) | keep: %s,done
+e:12f34c9a4ef6,%s has destroyed the bonfire.,%s zniszczył ognisko.,%s a distrus focul.,server message (chat/system line) | keep: %s,done
+e:c1a2abf03f85,%s lost the war as they have not been able to defend the castle.,"%s przegrali wojnę, ponieważ nie byli w stanie obronić zamku.","%s a pierdut razboiul, deoarece nu a putut apara castelul.",server message (chat/system line) | keep: %s,done
+e:251530568797,%s has destroyed all the bonfires.,%s zniszczył ognisko.,%s a distrus toate focurile.,server message (chat/system line) | keep: %s,done
+e:1d450032d616,You can only open the shop if you take off your armour.,Możesz otworzyć Sklep tylko gdy zdejmiesz Zbroję.,Puteti deschide magazinul doar daca va dati jos armura.,server message (chat/system line),done
+e:578711656867,%d hours %d minutes %d seconds left on your chat block,Twoja blokada czatu trwa jeszcze %d godzin %d minut %d sekund,Au mai ramas %d ore %d minute %d secunde din blocarea chatului,server message (chat/system line) | keep: %d %d %d,done
+e:65add480c264,%d hours %d seconds left on your chat block,Twoja blokada czatu trwa jeszcze %d godzin %d sekund,Au mai ramas %d ore %d secunde din blocarea chatului,server message (chat/system line) | keep: %d %d,done
