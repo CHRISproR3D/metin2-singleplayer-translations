@@ -9,12 +9,12 @@ c:locale_game:CANNOT_EQUIP_IN_SHOP,You cannot change your equipment whilst tradi
 c:locale_game:CANNOT_OPEN_PRIVATE_SHOP_IN_SAFE_AREA,You cannot open a private shop in a public area.,Nie możesz otworzyć Prywatnego Magazynu w miejscu publicznym.,No puedes abrir una tienda privada en un área pública.,client: game texts (localeInfo),new
 c:locale_game:CANNOT_SHOOT_DEST_IN_SAFE,The enemy is too far away.,Wróg jest za daleko.,El enemigo está demasiado lejos.,client: game texts (localeInfo),new
 c:locale_game:CANNOT_SHOOT_EMPTY_ARROW,I need an arrow.,Potrzebuję Strzały.,Necesito una flecha.,client: game texts (localeInfo),new
-c:locale_game:CANNOT_SHOOT_SELF_IN_SAFE,I cannot attack my opponent from here.,Nie mogę tego zrobić.,No puedo atacar a mi oponente desde aquí.,client: game texts (localeInfo),new
+c:locale_game:CANNOT_SHOOT_SELF_IN_SAFE,I cannot attack my opponent from here. ,Nie mogę tego zrobić.,No puedo atacar a mi oponente desde aquí.,client: game texts (localeInfo),new
 c:locale_game:CANNOT_SKILL_APPROACH,I am sure that I cannot get any closer.,"Jestem pewny, że nie mogę podejść bliżej.",Estoy seguro de que no puedo acercarme más.,client: game texts (localeInfo),new
 c:locale_game:CANNOT_SKILL_ATTACK,I cannot attack that.,Nie mogę zaatakować..,No puedo atacar eso.,client: game texts (localeInfo),new
 c:locale_game:CANNOT_SKILL_DEST_IN_SAFE,The opponent is too far away.,Wróg jest za daleko.,El oponente está demasiado lejos.,client: game texts (localeInfo),new
 c:locale_game:CANNOT_SKILL_EQUIP_FISHING_ROD,I need a Fishing Pole.,Potrzebuję Wędki.,Necesito una caña de pescar.,client: game texts (localeInfo),new
-c:locale_game:CANNOT_SKILL_HAVE_TO_RIDE,I need a Horse to be able to use this.,"Najpierw potrzebuję Konia, zanim użyję tego.",Necesito un caballo para poder usar esto.,client: game texts (localeInfo),new
+c:locale_game:CANNOT_SKILL_HAVE_TO_RIDE,I need a Horse to be able to use this. ,"Najpierw potrzebuję Konia, zanim użyję tego.",Necesito un caballo para poder usar esto.,client: game texts (localeInfo),new
 c:locale_game:CANNOT_SKILL_NEED_EMPTY_BOTTLE,I do not have an empty bottle.,Nie mam Pustej Butelki.,No tengo una botella vacía.,client: game texts (localeInfo),new
 c:locale_game:CANNOT_SKILL_NEED_POISON_BOTTLE,I do not have a Poison Bottle.,Nie mam Butelki Z Trucizną.,No tengo una botella de veneno.,client: game texts (localeInfo),new
 c:locale_game:CANNOT_SKILL_NEED_TARGET,Who is the target?,Kto jest celem?,¿Quién es el objetivo?,client: game texts (localeInfo),new
@@ -32,7 +32,7 @@ c:locale_game:CANNOT_SKILL_WAIT_COOLTIME,I cannot use this skill yet.,Nie mogę 
 c:locale_game:CANNOT_USE,You cannot use this.,Nie możesz go użyć.,No puedes usar esto.,client: game texts (localeInfo),new
 c:locale_game:CANNOT_WHISPER_DEST_REFUSE,%s has blocked whispering.,%s zablokował szeptanie całkowicie.,%s ha bloqueado los susurros.,client: game texts (localeInfo) | keep: %s,new
 c:locale_game:CANNOT_WHISPER_NOT_LOGON,%s is not online.,%s nie jest zalogowany.,%s no está en línea.,client: game texts (localeInfo) | keep: %s,new
-c:locale_game:CANNOT_WHISPER_SELF_REFUSE,You cannot whisper something to someone when you have completely blocked whispering.,Nie możesz szeptać do nikogo gdy szeptanie jest całkowicie zablokowane.,No puedes susurrarle a alguien cuando has bloqueado completamente los susurros.,client: game texts (localeInfo),new
+c:locale_game:CANNOT_WHISPER_SELF_REFUSE,You cannot whisper something to someone when you have completely blocked whispering. ,Nie możesz szeptać do nikogo gdy szeptanie jest całkowicie zablokowane.,No puedes susurrarle a alguien cuando has bloqueado completamente los susurros.,client: game texts (localeInfo),new
 c:locale_game:CHANNEL,Channel,Kanał,Canal,client: game texts (localeInfo),new
 c:locale_game:CHANNELING_CANNOT_LOGOUT,You cannot go back to the login screen.,Nie możesz wrócić do okna logowania.,No puedes volver a la pantalla de inicio de sesión.,client: game texts (localeInfo),new
 c:locale_game:CHANNEL_EMPTY_SERVER,No server,Brak Serwera,Sin servidor,client: game texts (localeInfo),new
@@ -66,7 +66,7 @@ c:locale_game:CREATE_EXIST_SAME_NAME,Another character already has this name.,In
 c:locale_game:CREATE_FAILURE,You cannot create the character,Nie możesz stworzyć postaci,No puedes crear el personaje,client: game texts (localeInfo),new
 c:locale_game:CREATE_GM_NAME,GM,GM,GM,client: game texts (localeInfo),new
 c:locale_game:CREATE_INPUT_NAME,Enter the name.,Wybierz nazwę.,Introduce el nombre.,client: game texts (localeInfo),new
-c:locale_game:CREATE_PLUS_STAT,There are still status points available.,Nadal pozostały punkty statusu.,Todavía hay puntos de estado disponibles.,client: game texts (localeInfo),new
+c:locale_game:CREATE_PLUS_STAT,There are still status points available. ,Nadal pozostały punkty statusu.,Todavía hay puntos de estado disponibles.,client: game texts (localeInfo),new
 c:locale_game:DAY,Days,Dni,Días,client: game texts (localeInfo),new
 c:locale_game:DO_YOU_BUY_ITEM1,Do you want to buy %s for %s?,Czy chcesz kupić %s za %s?,¿Quieres comprar %s por %s?,client: game texts (localeInfo) | keep: %s %s,new
 c:locale_game:DO_YOU_BUY_ITEM2,Do you want to buy %s %s for %s?,Czy chcesz kupić %s %s za %s?,¿Quieres comprar %s %s por %s?,client: game texts (localeInfo) | keep: %s %s %s,new
@@ -169,7 +169,7 @@ c:locale_game:GUILD_DEFAULT_GRADE,Guild members,Członkowie Gildii,Miembros del 
 c:locale_game:GUILD_DELETE,Delete,Usuń,Eliminar,client: game texts (localeInfo),new
 c:locale_game:GUILD_DEPOSIT,Deposit,Depozyt,Depositar,client: game texts (localeInfo),new
 c:locale_game:GUILD_DO_YOU_HEAL_GSP,Do you want to spend %s Yang to restore %d units of Dragon Ghost?,Czy chcesz odnowić za %s Yang %d Ducha Smoka?,¿Quieres gastar %s Yang para restaurar %d unidades de Alma Dragón?,client: game texts (localeInfo) | keep: %s %d,new
-c:locale_game:GUILD_DO_YOU_JOIN,has invited you. Do you want to join the guild?,zaprasza Cię do swojej Gildii. Chcesz do niej dołączyć?,te ha invitado. ¿Quieres unirte al gremio?,client: game texts (localeInfo),new
+c:locale_game:GUILD_DO_YOU_JOIN, has invited you. Do you want to join the guild?,  zaprasza Cię do swojej Gildii. Chcesz do niej dołączyć?,te ha invitado. ¿Quieres unirte al gremio?,client: game texts (localeInfo),new
 c:locale_game:GUILD_EMPTY_AREA,Empty land,Wolna Ziemia,Terreno vacío,client: game texts (localeInfo),new
 c:locale_game:GUILD_ENEMY_GUILD_NAME,Guild name of the enemy,Nazwa Gildii wroga,Nombre del gremio enemigo,client: game texts (localeInfo),new
 c:locale_game:GUILD_FACILITY,Outbuilding,Przybudówka,Edificio secundario,client: game texts (localeInfo),new
@@ -328,8 +328,8 @@ c:locale_game:PARTY_BONUS_EXP,Bonus EXP: %d%%,Bonus DOŚ: %d%%,EXP extra: %d%%,c
 c:locale_game:PARTY_BONUS_SKILL_MASTER,Max. SP: +%d,Siła magii w potwory: +%d%%,Máx. SP: +%d,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:PARTY_BONUS_TANKER,Max. HP: +%d,Maks. PŻ: +%d,Máx. HP: +%d,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:PARTY_BREAK_UP,Delete Group,Usuń Grupę,Eliminar grupo,client: game texts (localeInfo),new
-c:locale_game:PARTY_DO_YOU_ACCEPT,would like to join the Group.,chce dołączyć do grupy.,le gustaría unirse al grupo.,client: game texts (localeInfo),new
-c:locale_game:PARTY_DO_YOU_JOIN,has invited you to join his group. Accept?,",  zaprasza Cię do swojej grupy. Czy chcesz przyjąć zaproszenie?",te ha invitado a unirte a su grupo. ¿Aceptar?,client: game texts (localeInfo),new
+c:locale_game:PARTY_DO_YOU_ACCEPT, would like to join the Group., chce dołączyć do grupy.,le gustaría unirse al grupo.,client: game texts (localeInfo),new
+c:locale_game:PARTY_DO_YOU_JOIN, has invited you to join his group. Accept?,",  zaprasza Cię do swojej grupy. Czy chcesz przyjąć zaproszenie?",te ha invitado a unirte a su grupo. ¿Aceptar?,client: game texts (localeInfo),new
 c:locale_game:PARTY_EXP_DISTRIBUTION_MODE,EXP Distribution,Podział DOŚ,Distribución de EXP,client: game texts (localeInfo),new
 c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_LEVEL,Level dependant,zależy od poziomu,Dependiente del nivel,client: game texts (localeInfo),new
 c:locale_game:PARTY_EXP_DISTRIBUTION_MODE_LEVEL_TOOLTIP,Higher level group members receive more EXP.,Członkowie grupy o wyższym poziomie otrzymują więcej PD.,Los miembros del grupo de mayor nivel reciben más EXP.,client: game texts (localeInfo),new
@@ -582,9 +582,9 @@ c:locale_game:TOOLTIP_APPLY_ATTBONUS_SHAMAN,Strong against Shamans +%d%%,Silny p
 c:locale_game:TOOLTIP_APPLY_ATTBONUS_SURA,Strong against Sura +%d%%,Silny przeciwko Sura +%d%%,Fuerza contra suras +%d%%,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_APPLY_ATTBONUS_UNDEAD,Strong against Undead +%d%%,Silny przeciwko Nieumarłym +%d%%,Fuerza contra no-muertos +%d%%,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_APPLY_ATTBONUS_WARRIOR,Strong against Warriorr +%d%%,Silny przeciwko Wojownikom +%d%%,Fuerza contra guerreros +%d%%,client: game texts (localeInfo) | keep: %d,new
-c:locale_game:TOOLTIP_APPLY_BLOCK,Chance to block a close-combat attack %d%%,Szansa na blok ciosów %d%%,Probabilidad de bloquear un ataque de cuerpo cuerpo %d%%,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_BLOCK,Chance to block a close-combat attack %d%% ,Szansa na blok ciosów %d%%,Probabilidad de bloquear un ataque de cuerpo cuerpo %d%%,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_APPLY_COMBAT_SP_RECOVER,Recover SP all 5 seconds in a Battle %d,Odzyskiwanie PE przez 5 sekund podczas Bitwy %d,Regenera %d de SP cada 5 segundos en batalla,client: game texts (localeInfo) | keep: %d,new
-c:locale_game:TOOLTIP_APPLY_CRITICAL_PCT,Chance of critical hit +%d%%,Szansa na cios krytyczny +%d%%,Probabilidad de golpe crítico +%d%%,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_CRITICAL_PCT,Chance of critical hit +%d%% ,Szansa na cios krytyczny +%d%%,Probabilidad de golpe crítico +%d%%,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_APPLY_DAMAGE_SP_RECOVER,%d%% Chance to get back SP when hit,Szansa na transfer %d%% otrzymanych obrażeń do PE,%d%% de probabilidad de recuperar SP al ser golpeado,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_APPLY_DODGE,Chance to avoid Arrows %d%%,Szansa na uniknięcie Strzały: %d%%,Probabilidad de evitar flechas %d%%,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_APPLY_EXP_DOUBLE_BONUS,%d%% Chance for EXP Bonus,Szansa na Bonus DOŚ: %d%%,%d%% de probabilidad de bonificación de EXP,client: game texts (localeInfo) | keep: %d,new
@@ -597,15 +597,15 @@ c:locale_game:TOOLTIP_APPLY_KILL_HP_RECOVER,"%d%% Chance, to restore HP",Szansa 
 c:locale_game:TOOLTIP_APPLY_KILL_SP_RECOVER,%d%% Chance to restore SP,Szansa na odzyskanie PE: %d%%,%d%% de probabilidad de restaurar SP,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_APPLY_MANA_BURN_PCT,%d%% chance to rob SP,%d%% Szansa na kradzież PE,%d%% de probabilidad de robar SP,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_APPLY_MAX_HP_PCT,Max. HP +%d%%,Maks. PŻ +%d%%,Máx. HP +%d%%,client: game texts (localeInfo) | keep: %d,new
-c:locale_game:TOOLTIP_APPLY_MAX_SP_PCT,Max. SP +%d%%,Maks. PE +%d%%,Máx. SP +%d%%,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_MAX_SP_PCT,Max. SP +%d%% ,Maks. PE +%d%% ,Máx. SP +%d%%,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_APPLY_NOAFFECT,No effect,Brak efektu,Sin efecto,client: game texts (localeInfo),new
-c:locale_game:TOOLTIP_APPLY_NO_DEATH_PENALTY,No experience points will be lost if your character is revived at the place of his death.,Nie tracisz Punktów Doświadczenia podczas wznawiania gry w miejscu śmierci.,No se perderán puntos de experiencia si tu personaje revive en el lugar de su muerte.,client: game texts (localeInfo),new
-c:locale_game:TOOLTIP_APPLY_PENETRATE_PCT,%d%% Chance for piercing Hits,Szansa na przeszywające Uderzenie: %d%%,%d%% de probabilidad de golpes de penetración,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_NO_DEATH_PENALTY,No experience points will be lost if your character is revived at the place of his death. ,Nie tracisz Punktów Doświadczenia podczas wznawiania gry w miejscu śmierci.,No se perderán puntos de experiencia si tu personaje revive en el lugar de su muerte.,client: game texts (localeInfo),new
+c:locale_game:TOOLTIP_APPLY_PENETRATE_PCT,%d%% Chance for piercing Hits,Szansa na przeszywające Uderzenie: %d%% ,%d%% de probabilidad de golpes de penetración,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_APPLY_POISON_PCT,Poisoning chance %d%%,Szansa na Otrucie %d%%,Probabilidad de envenenamiento %d%%,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_APPLY_POISON_REDUCE,Poison Resistance %d%%,Odporność na Trucizny: %d%%,Resistencia al veneno %d%%,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_APPLY_POTION_BONUS,Potion %d%% effect raise,Objętość mikstur PŻ/PE powiększona o %d%%,Efecto de pociones aumentado un %d%%,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_APPLY_REFLECT_CURSE,Chance to reflect Curse: %d%%,,Probabilidad de reflejar maldición: %d%%,client: game texts (localeInfo) | keep: %d,new
-c:locale_game:TOOLTIP_APPLY_REFLECT_MELEE,%d%% Chance to reflect close combat hits,%d%% Szansa na odbicie Ciosu,%d%% de probabilidad de reflejar golpes cuerpo a cuerpo,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_APPLY_REFLECT_MELEE,%d%% Chance to reflect close combat hits  ,%d%% Szansa na odbicie Ciosu,%d%% de probabilidad de reflejar golpes cuerpo a cuerpo,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_APPLY_RESIST_ASSASSIN,Defence chance against ninja attacks: %d%%,Odporność na Ninja: %d%%,Probabilidad de defensa contra ataques de ninja: %d%%,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_APPLY_RESIST_BELL,Bell Defence %d%%,Odporność na Dzwony: %d%%,Defensa con campana %d%%,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_APPLY_RESIST_DAGGER,Dagger Defence %d%%,Odporność na Sztylety: %d%%,Defensa con daga %d%%,client: game texts (localeInfo) | keep: %d,new
@@ -635,13 +635,13 @@ c:locale_game:TOOLTIP_BOW_DISTANCE,Arc Range +%dm,Zasięg Łuku +%dm,Rango de ar
 c:locale_game:TOOLTIP_BUYPRICE,Price: %s,Cena: %s,Precio: %s,client: game texts (localeInfo) | keep: %s,new
 c:locale_game:TOOLTIP_CAST_SPEED,Casting Speed +%d%%,Szybkość Zaklęcia +%d%%,Velocidad de hechizo +%d%%,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_CON,Vitality +%d,Witalność +%d,Vitality +%d,client: game texts (localeInfo) | keep: %d,new
-c:locale_game:TOOLTIP_COSTUME_ATTR_BONUS,Costume bonus %d%%,Bonus kostiumu %d%%,Bonificación de atuendo %d%%,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_COSTUME_ATTR_BONUS,Costume bonus %d%% ,Bonus kostiumu %d%% ,Bonificación de atuendo %d%%,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_DEF_GRADE,Defence +%d,Obrona +%d,Defensa +%d,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_DEX,Dexterity +%d,Zręczność +%d,Destreza +%d,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_DRAGON_SOUL_DECK1,Earth,Ziemia,Tierra,client: game texts (localeInfo),new
 c:locale_game:TOOLTIP_DRAGON_SOUL_DECK2,Sky,Niebo,Cielo,client: game texts (localeInfo),new
 c:locale_game:TOOLTIP_EAR,Earring,Kolczyki,Pendiente,client: game texts (localeInfo),new
-c:locale_game:TOOLTIP_ENERGY,Energy %d,Energia %d,Energía %d,client: game texts (localeInfo) | keep: %d,new
+c:locale_game:TOOLTIP_ENERGY,Energy %d ,Energia %d,Energía %d,client: game texts (localeInfo) | keep: %d,new
 c:locale_game:TOOLTIP_ETC,And so on,I tak dalej,Y así sucesivamente,client: game texts (localeInfo),new
 c:locale_game:TOOLTIP_FISHINGROD_EXP,Points %d / %d,Punkty %d / %d,Puntos %d / %d,client: game texts (localeInfo) | keep: %d %d,new
 c:locale_game:TOOLTIP_FISHINGROD_LEVEL,Level: %d,Poziom: %d,Nivel: %d,client: game texts (localeInfo) | keep: %d,new
